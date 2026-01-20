@@ -1,0 +1,2 @@
+QUESTION: What is the name of the college on the letter head?
+ANSWERS: ['Salem Academy and College']

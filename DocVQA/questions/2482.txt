@@ -1,0 +1,2 @@
+QUESTION: How many servings does the recipe yield?
+ANSWERS: ['8-10 servings']

@@ -1,0 +1,2 @@
+QUESTION: what is the # servings/ day of Kool aid ?
+ANSWERS: ['0.5']

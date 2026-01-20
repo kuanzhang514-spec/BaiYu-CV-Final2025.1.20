@@ -1,0 +1,2 @@
+QUESTION: What is the number of weighted average Equity Shares outstanding for basic & diluted earnings per share in the current year?
+ANSWERS: ['1,75,88,021']

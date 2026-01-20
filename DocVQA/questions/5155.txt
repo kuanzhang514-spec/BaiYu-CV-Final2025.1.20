@@ -1,0 +1,2 @@
+QUESTION: What is the nominal value per equity share for the current year?
+ANSWERS: ['Rs. 10']

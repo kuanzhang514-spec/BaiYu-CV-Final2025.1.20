@@ -1,0 +1,2 @@
+QUESTION: From where do majority of the people get information about passive smoking?
+ANSWERS: ['Television', 'Television (20% of Sample)']

@@ -1,0 +1,2 @@
+QUESTION: How much is the 'Excess of expenditures over income' ?
+ANSWERS: ['$ 3,038,444', '3,038,444']

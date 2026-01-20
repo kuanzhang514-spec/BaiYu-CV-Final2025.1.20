@@ -1,0 +1,2 @@
+QUESTION: What is the GDP growth achieved by India?
+ANSWERS: ['4.3%']

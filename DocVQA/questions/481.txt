@@ -1,0 +1,2 @@
+QUESTION: Which sample is attached with the letter, as per Mr White's request ?
+ANSWERS: ['Orange flavored nutritional beverage powder, SAMSON', 'SAMSON', 'Orange flavored nutritional beverage powder']

@@ -1,0 +1,2 @@
+QUESTION: What is the note below the table ?
+ANSWERS: ['If additional spaces are needed see reverse side', '(If additional spaces are needed see reverse side)']

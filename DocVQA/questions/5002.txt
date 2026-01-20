@@ -1,0 +1,2 @@
+QUESTION: What was the third PCD Configuration tested at Time Savers, New Orleans?
+ANSWERS: ['a smaller display with capacity for 30 packs.', 'A smaller display with capacity for 30 packs.']

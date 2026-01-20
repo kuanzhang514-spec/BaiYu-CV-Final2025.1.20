@@ -1,0 +1,2 @@
+QUESTION: what is the mortality of group 1 ?
+ANSWERS: ['41/60']

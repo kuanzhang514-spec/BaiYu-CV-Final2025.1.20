@@ -1,0 +1,2 @@
+QUESTION: What is the total shareholders' equity for 2007?
+ANSWERS: ['$43,319', '43,319']

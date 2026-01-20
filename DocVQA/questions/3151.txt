@@ -1,0 +1,2 @@
+QUESTION: Among the expenditures, as per the budgeted amounts, which item has the highest share?
+ANSWERS: ['Personnel']

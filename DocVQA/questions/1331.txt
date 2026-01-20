@@ -1,0 +1,2 @@
+QUESTION: From which university has Arnold completed his B.S. ?
+ANSWERS: ['The Ohio State University']

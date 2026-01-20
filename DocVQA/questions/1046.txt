@@ -1,0 +1,2 @@
+QUESTION: What is DEPB?
+ANSWERS: ['Duty Entitlement Pass Book']

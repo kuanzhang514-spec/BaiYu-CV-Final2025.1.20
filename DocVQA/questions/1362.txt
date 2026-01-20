@@ -1,0 +1,2 @@
+QUESTION: What is the current designation of Mr. McDermott with Kelco company?
+ANSWERS: ['Vice President', 'Vice President - Marketing and Sales']

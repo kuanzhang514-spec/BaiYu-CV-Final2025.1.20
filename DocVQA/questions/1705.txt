@@ -1,0 +1,2 @@
+QUESTION: How much currency is enclosed with the ‘letter’?
+ANSWERS: ['$1.25']

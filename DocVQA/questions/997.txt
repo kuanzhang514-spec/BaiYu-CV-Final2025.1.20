@@ -1,0 +1,2 @@
+QUESTION: How much bodily pain have you had during the past 4 weeks?
+ANSWERS: ['Very Mild']

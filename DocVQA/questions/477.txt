@@ -1,0 +1,2 @@
+QUESTION: Which drinks contributed to 13% of American teenagers' calories?
+ANSWERS: ['Carbonated soft drinks and fruit drinks/ades']

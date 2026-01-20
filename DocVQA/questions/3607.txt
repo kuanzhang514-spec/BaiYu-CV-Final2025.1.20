@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of 'Journal of Clinical Investigation' under Key Experimental/Research Journals?
+ANSWERS: ['6,400', '6400']

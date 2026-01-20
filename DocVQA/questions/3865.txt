@@ -1,0 +1,2 @@
+QUESTION: What is the abstract number for the person whose name is listed below the name of "Amerson, H."?
+ANSWERS: ['659']

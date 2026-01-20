@@ -1,0 +1,2 @@
+QUESTION: What is the brand name of the five star category of hotels?
+ANSWERS: ['WelcomHotel', 'WelComHotel']

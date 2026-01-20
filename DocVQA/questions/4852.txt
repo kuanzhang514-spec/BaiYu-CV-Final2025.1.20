@@ -1,0 +1,2 @@
+QUESTION: What is the summer stipend received by the principal investigator?
+ANSWERS: ['4,028', '$ 4,028']

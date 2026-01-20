@@ -1,0 +1,2 @@
+QUESTION: Who is he allocated by?
+ANSWERS: ["GEORGE D'AMORE", "George D'Amore"]

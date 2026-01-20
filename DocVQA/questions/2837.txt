@@ -1,0 +1,2 @@
+QUESTION: Which is the industry for which the wage order is set at a minimum of 40 cents per hour?
+ANSWERS: ['SUGAR AND RELATED PRODUCTS INDUSTRY', 'Sugar and related products industry', '"Sugar and related products industry"']

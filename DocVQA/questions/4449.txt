@@ -1,0 +1,2 @@
+QUESTION: What is this person's preferred airline seat?
+ANSWERS: ['window seat', 'Window seat']

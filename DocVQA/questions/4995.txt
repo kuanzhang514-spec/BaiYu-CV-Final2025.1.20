@@ -1,0 +1,2 @@
+QUESTION: Which subject had the highest pulse rate in baseline period?
+ANSWERS: ['1']

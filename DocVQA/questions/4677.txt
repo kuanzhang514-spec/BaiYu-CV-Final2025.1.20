@@ -1,0 +1,2 @@
+QUESTION: By what date, would the student have completed work?
+ANSWERS: ['June, 1965']

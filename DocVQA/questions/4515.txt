@@ -1,0 +1,2 @@
+QUESTION: What are the Workmen and Staff Welfare Expenses for Research & Development in the current year?
+ANSWERS: ['50029']

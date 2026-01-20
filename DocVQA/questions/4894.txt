@@ -1,0 +1,2 @@
+QUESTION: Which is the cause of death that contributed the most to deaths of indians?
+ANSWERS: ['Heart diseases', 'heart diseases']

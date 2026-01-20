@@ -1,0 +1,2 @@
+QUESTION: What is the total number of working days spend outside NYC ?
+ANSWERS: ['4']

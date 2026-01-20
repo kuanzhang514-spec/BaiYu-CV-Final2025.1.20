@@ -1,0 +1,2 @@
+QUESTION: What is the heel height of women's shoes given in the 'desirable weights' table?
+ANSWERS: ['2-inch']

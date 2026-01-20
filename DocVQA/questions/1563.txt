@@ -1,0 +1,2 @@
+QUESTION: What does CHK denote?
+ANSWERS: ['Untreated Check', 'Untreated check']

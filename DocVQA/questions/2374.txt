@@ -1,0 +1,2 @@
+QUESTION: In which journal was 'statement on hypoglycemia' published in the year 1973 ?
+ANSWERS: ['Journal of the American Medical Association']

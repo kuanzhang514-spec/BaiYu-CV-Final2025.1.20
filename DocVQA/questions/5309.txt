@@ -1,0 +1,2 @@
+QUESTION: What time the ‘meeting’ was adjourned?
+ANSWERS: ['4:00 p.m.']

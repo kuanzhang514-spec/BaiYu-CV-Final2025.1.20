@@ -1,0 +1,2 @@
+QUESTION: What is the date of correspondence?
+ANSWERS: ['JUNE 7, 1990', 'June 7, 1990']

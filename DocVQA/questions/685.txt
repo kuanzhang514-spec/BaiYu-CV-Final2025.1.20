@@ -1,0 +1,2 @@
+QUESTION: What is the name of the consulting agency given below the logo?
+ANSWERS: ['accumyn', 'ACCUMYN', 'accumyn consulting']

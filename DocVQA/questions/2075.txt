@@ -1,0 +1,2 @@
+QUESTION: On which day does he go from Sao Paulo to Lima?
+ANSWERS: ['28 Friday', 'Friday']

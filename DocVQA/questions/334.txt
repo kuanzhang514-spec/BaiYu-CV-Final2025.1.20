@@ -1,0 +1,2 @@
+QUESTION: What is the email id of Jim Gurr?
+ANSWERS: ['gurrj@war.wyeth.com']

@@ -1,0 +1,2 @@
+QUESTION: What is the 'total sales' for 1992?
+ANSWERS: ['$115 MM']

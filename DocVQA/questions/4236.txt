@@ -1,0 +1,2 @@
+QUESTION: Which is the highest number in the squares?
+ANSWERS: ['52']

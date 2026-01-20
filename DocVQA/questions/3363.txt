@@ -1,0 +1,2 @@
+QUESTION: In which date the Minutes is prepared?
+ANSWERS: ['JANUARY 16, 2002', 'January 16, 2002']

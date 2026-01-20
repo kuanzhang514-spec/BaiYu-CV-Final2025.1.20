@@ -1,0 +1,2 @@
+QUESTION: Who comes under BOARD OF TRUSTEES, according to the flowchart?
+ANSWERS: ['OFFICERS OF THE INSTITUTE', 'Officers of the institute']

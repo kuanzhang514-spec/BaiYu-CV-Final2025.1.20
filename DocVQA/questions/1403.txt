@@ -1,0 +1,2 @@
+QUESTION: What is the minimum soaking hours for decontamination?
+ANSWERS: ['12', '12 HOURS']

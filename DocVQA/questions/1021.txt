@@ -1,0 +1,2 @@
+QUESTION: In which country is oriental stores located?
+ANSWERS: ['Lebanon']

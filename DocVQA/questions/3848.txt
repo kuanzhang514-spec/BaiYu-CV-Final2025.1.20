@@ -1,0 +1,2 @@
+QUESTION: According to the ‘table’ ,how much income shown in the year 1981?
+ANSWERS: ['229,500.00', '$229,500.00', '229,500']

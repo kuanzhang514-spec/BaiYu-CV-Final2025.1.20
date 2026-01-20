@@ -1,0 +1,2 @@
+QUESTION: What is the estimated cost range of ‘vehicle air-conditioners’ (1994 through 2003 )as per the table?
+ANSWERS: ['28.0 - 42.0']

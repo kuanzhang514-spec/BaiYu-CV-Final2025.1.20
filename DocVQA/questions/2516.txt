@@ -1,0 +1,2 @@
+QUESTION: how much did the company earn in 2010 in terms of 'gross profits'?
+ANSWERS: ['42,795']

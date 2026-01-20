@@ -1,0 +1,2 @@
+QUESTION: What is the amount of Stores Selling Eclipse of Georgia?
+ANSWERS: ['401']

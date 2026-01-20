@@ -1,0 +1,2 @@
+QUESTION: What is the tag given under "WALLET SIZE COPIES" ?
+ANSWERS: ['5 x 7 enlargements', '5 x 7 ENLARGEMENTS']

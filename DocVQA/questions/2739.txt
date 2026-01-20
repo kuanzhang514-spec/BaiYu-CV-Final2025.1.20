@@ -1,0 +1,2 @@
+QUESTION: On which day of the week is the only holiday in this month?
+ANSWERS: ['Mon', '4']

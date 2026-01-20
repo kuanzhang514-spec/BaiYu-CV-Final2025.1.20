@@ -1,0 +1,2 @@
+QUESTION: What document is this?
+ANSWERS: ['notice and proof of claim for disability benefits', 'Notice and proof of claim for disability benefits']

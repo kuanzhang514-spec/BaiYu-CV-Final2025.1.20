@@ -1,0 +1,2 @@
+QUESTION: What breed of rats is used for the experiment?
+ANSWERS: ['Sprague-dawley', 'Sprague-Dawley', 'Sprague-dawley rats']

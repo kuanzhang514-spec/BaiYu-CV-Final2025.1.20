@@ -1,0 +1,2 @@
+QUESTION: What is on the X ( horizontal) axis?
+ANSWERS: ['% lysine added', 'lysine added']

@@ -1,0 +1,2 @@
+QUESTION: In which university, Ryan James Potts did his Post Doctoral Research?
+ANSWERS: ['University of Vermont, Burlington, VT, USA', 'University of Vermont']

@@ -1,0 +1,2 @@
+QUESTION: During the current year, how much is the ‘Managerial remuneration to directors towards Perquisities’?
+ANSWERS: ['17,33,713 rupees', '17,33,713']

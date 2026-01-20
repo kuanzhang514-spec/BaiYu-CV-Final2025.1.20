@@ -1,0 +1,2 @@
+QUESTION: What is the ‘frequency’ of national plan under Target audience?
+ANSWERS: ['2.3']

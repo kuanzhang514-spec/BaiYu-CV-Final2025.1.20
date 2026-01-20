@@ -1,0 +1,2 @@
+QUESTION: What is the rate of depreciation of ‘leasehold property ’ under tangible assets?
+ANSWERS: ['5', '5%']

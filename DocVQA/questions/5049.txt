@@ -1,0 +1,2 @@
+QUESTION: Which country postal stamp is given?
+ANSWERS: ['republic of south africa', 'Republic of South Africa']

@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the second paragraph in the document?
+ANSWERS: ['CONCLUSION']

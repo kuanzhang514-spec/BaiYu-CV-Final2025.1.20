@@ -1,0 +1,2 @@
+QUESTION: Who is the magazine published by?
+ANSWERS: ['the new york state department of social services', 'New York State Department of Social Services']

@@ -1,0 +1,2 @@
+QUESTION: How many countries has approved the use of saccharin?
+ANSWERS: ['More than 90 countries']

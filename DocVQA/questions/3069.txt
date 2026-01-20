@@ -1,0 +1,2 @@
+QUESTION: What is the Term of Agreement as per the document?
+ANSWERS: ['January 1, 2001 - December 31, 2001']

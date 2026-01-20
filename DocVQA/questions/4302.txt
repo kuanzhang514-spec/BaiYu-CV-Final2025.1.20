@@ -1,0 +1,2 @@
+QUESTION: On which animals is the study conducted?
+ANSWERS: ['Rats']

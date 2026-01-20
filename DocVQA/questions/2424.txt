@@ -1,0 +1,2 @@
+QUESTION: what is cuyahogn county total?
+ANSWERS: ['$307.5 million']

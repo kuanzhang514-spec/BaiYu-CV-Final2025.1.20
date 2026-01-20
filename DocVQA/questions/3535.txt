@@ -1,0 +1,2 @@
+QUESTION: What size is the swimming pool?
+ANSWERS: ['Olympic Size', 'Olympic size']

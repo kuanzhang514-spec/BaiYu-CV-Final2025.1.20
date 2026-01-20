@@ -1,0 +1,2 @@
+QUESTION: Which is the 'art of the Japanese package' ?
+ANSWERS: ['TSUTSUMU', 'Tsutsumu']

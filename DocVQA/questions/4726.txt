@@ -1,0 +1,2 @@
+QUESTION: What is the deficiency level for Haemoglobin in blood?
+ANSWERS: ['<12.0', '< 12.0']

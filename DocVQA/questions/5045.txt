@@ -1,0 +1,2 @@
+QUESTION: What is the 'finished goods average inventory' for 1991?
+ANSWERS: ['12.4']

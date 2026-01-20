@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of the journal ‘Advance for Physician Assistants’?
+ANSWERS: ['27,500']

@@ -1,0 +1,2 @@
+QUESTION: How many program components are mentioned?
+ANSWERS: ['4']

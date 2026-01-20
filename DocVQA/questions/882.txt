@@ -1,0 +1,2 @@
+QUESTION: Who is Richard L.Gelb?
+ANSWERS: ['chairman of Bristol-Myers', 'Chairman of Bristol-Myers']

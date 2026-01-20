@@ -1,0 +1,2 @@
+QUESTION: Whose copy of the order is this?
+ANSWERS: ["ORIGINATOR'S", "Originator's", "Originator's copy", 'Originator']

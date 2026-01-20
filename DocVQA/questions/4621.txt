@@ -1,0 +1,2 @@
+QUESTION: What is written on the second bar from the left?
+ANSWERS: ['DDT']

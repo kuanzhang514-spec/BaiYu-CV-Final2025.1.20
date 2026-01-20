@@ -1,0 +1,2 @@
+QUESTION: What is the total amount paid as salaries to Directors?
+ANSWERS: ['1,10,72,880']

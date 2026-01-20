@@ -1,0 +1,2 @@
+QUESTION: What is the title of the paper submitted by ‘Deecher’?
+ANSWERS: ['CHARACTERIZATION OF A MEMBRANE-ASSOCIATED ESTROGEN RECEPTOR IN A RAT HYPOTHALAMIC CELL LINE', 'Characterization of a membrane-associated estrogen receptor in a rat hypothalamic cell line']

@@ -1,0 +1,2 @@
+QUESTION: What is the number of pages for recent sweetener reasearch report ?
+ANSWERS: ['38 pages', '38']

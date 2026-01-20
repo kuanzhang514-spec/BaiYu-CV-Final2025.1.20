@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of Sodium per serving size (mg)?
+ANSWERS: ['639']

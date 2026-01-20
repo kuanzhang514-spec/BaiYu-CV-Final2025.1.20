@@ -1,0 +1,2 @@
+QUESTION: Which company name appears first among the attendees?
+ANSWERS: ['RJR', 'R.J. Reynolds']

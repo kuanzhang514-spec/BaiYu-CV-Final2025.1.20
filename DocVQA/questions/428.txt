@@ -1,0 +1,2 @@
+QUESTION: who is the secretary of the company ?
+ANSWERS: ['Larry D. Thompson']

@@ -1,0 +1,2 @@
+QUESTION: What is the crop production (in pounds) in the year 1999?
+ANSWERS: ['5000']

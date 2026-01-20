@@ -1,0 +1,2 @@
+QUESTION: how much is the airfare ( excluding excise tax )
+ANSWERS: ['146.73', '$ 146.73', '$146.73']

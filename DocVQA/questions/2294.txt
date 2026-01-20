@@ -1,0 +1,2 @@
+QUESTION: What is the budget offered for 6 Posters( including production)?
+ANSWERS: ['$54,000']

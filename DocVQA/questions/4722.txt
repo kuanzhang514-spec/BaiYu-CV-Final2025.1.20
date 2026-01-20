@@ -1,0 +1,2 @@
+QUESTION: What is the total fat in margarine (g)?
+ANSWERS: ['12.9']

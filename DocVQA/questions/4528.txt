@@ -1,0 +1,2 @@
+QUESTION: What is the title of the Table 1?
+ANSWERS: ['nutrient content of the supplements per cup', 'Nutrient Content of the Supplements per Cup']

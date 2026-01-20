@@ -1,0 +1,2 @@
+QUESTION: What is the sex of the animals?
+ANSWERS: ['Female']

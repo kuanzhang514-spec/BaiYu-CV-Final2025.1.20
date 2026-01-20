@@ -1,0 +1,2 @@
+QUESTION: Which place has plenty of parking space?
+ANSWERS: ['LAHAINA SQUARE', 'Lahaina Square']

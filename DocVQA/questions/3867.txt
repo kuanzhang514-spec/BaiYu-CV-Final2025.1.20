@@ -1,0 +1,2 @@
+QUESTION: How much for the ‘operating funds’?
+ANSWERS: ['94,600']

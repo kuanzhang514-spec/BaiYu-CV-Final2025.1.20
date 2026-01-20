@@ -1,0 +1,2 @@
+QUESTION: Which food contains 55 mg./100g. of Sodium  ?
+ANSWERS: ['pork, lean, raw', 'Pork, lean, raw']

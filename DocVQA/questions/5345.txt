@@ -1,0 +1,2 @@
+QUESTION: What is the ‘title’ of the plot?
+ANSWERS: ['Age adjusted motor vehicle accident mortality rate', 'age adjusted motor vehicle accident mortality rate canada']

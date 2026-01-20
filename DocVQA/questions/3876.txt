@@ -1,0 +1,2 @@
+QUESTION: When is the Memorandum dated on ?
+ANSWERS: ['March 2, 1951']

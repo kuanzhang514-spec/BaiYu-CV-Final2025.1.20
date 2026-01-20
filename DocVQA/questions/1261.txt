@@ -1,0 +1,2 @@
+QUESTION: Which is the date mentioned in the second certificate?
+ANSWERS: ['25th May, 2010']

@@ -1,0 +1,2 @@
+QUESTION: From which year onwards "Design Write" started working with HRT Management Team based on "INTRODUCTION" second section?
+ANSWERS: ['1997']

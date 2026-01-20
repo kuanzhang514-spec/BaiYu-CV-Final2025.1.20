@@ -1,0 +1,2 @@
+QUESTION: What is the tagline given at the top?
+ANSWERS: ['"we work for smokers"']

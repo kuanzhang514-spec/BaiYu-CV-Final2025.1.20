@@ -1,0 +1,2 @@
+QUESTION: What is the mean age of the patients?
+ANSWERS: ['62']

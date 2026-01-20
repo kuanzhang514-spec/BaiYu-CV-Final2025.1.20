@@ -1,0 +1,2 @@
+QUESTION: What is the ‘salary’ of M.Wigren?
+ANSWERS: ['$5,589']

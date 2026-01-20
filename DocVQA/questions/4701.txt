@@ -1,0 +1,2 @@
+QUESTION: What is the applicant's "duty" in mayo clinic?
+ANSWERS: ['research']

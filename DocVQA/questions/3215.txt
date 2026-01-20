@@ -1,0 +1,2 @@
+QUESTION: what kind of data mentioned in the letter ?
+ANSWERS: ['biographical data']

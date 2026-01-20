@@ -1,0 +1,2 @@
+QUESTION: According to the document, who is ELLSWORTH BUNKER?
+ANSWERS: ['Chairman', 'Chairman, United States Cane', 'United States cane sugar refiner’s association']

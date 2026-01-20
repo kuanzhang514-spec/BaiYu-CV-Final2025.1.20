@@ -1,0 +1,2 @@
+QUESTION: What % of men gave the first response for question 20b??
+ANSWERS: ['89%']

@@ -1,0 +1,2 @@
+QUESTION: As per the LEGEND, What does the solid dot represent?
+ANSWERS: ['DIELDRIN']

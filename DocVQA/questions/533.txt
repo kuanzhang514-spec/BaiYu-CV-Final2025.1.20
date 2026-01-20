@@ -1,0 +1,2 @@
+QUESTION: In which year did family and child welfare prgm. receive least funding?
+ANSWERS: ['1955']

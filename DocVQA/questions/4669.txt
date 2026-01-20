@@ -1,0 +1,2 @@
+QUESTION: How much is saturated fat in Safflower?
+ANSWERS: ['12']

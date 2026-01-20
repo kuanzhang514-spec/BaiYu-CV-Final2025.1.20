@@ -1,0 +1,2 @@
+QUESTION: What is the 'major objective'?
+ANSWERS: ['determine best collector design/systems for Canada to develop a new business opportunity in solar energy', 'Determine best collector design/systems for Canada to develop a new business opportunity in solar energy.', 'Determine best collector design/systems for Canada to develop a new business opportunity in solar energy']

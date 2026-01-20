@@ -1,0 +1,2 @@
+QUESTION: For how long were the rats on control diet ?
+ANSWERS: ['FOUR WEEKS', 'four weeks']

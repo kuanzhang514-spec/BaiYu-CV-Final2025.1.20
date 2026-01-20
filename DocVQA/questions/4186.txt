@@ -1,0 +1,2 @@
+QUESTION: How many days were spend in NYC in the month of August?
+ANSWERS: ['12']

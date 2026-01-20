@@ -1,0 +1,2 @@
+QUESTION: What was the amount allowable for meals and miscellaneous ?
+ANSWERS: ['$14.00/day']

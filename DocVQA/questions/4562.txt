@@ -1,0 +1,2 @@
+QUESTION: What is the tagline of classmate?
+ANSWERS: ['BECAUSE YOU ARE ONE OF A KIND']

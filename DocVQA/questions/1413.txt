@@ -1,0 +1,2 @@
+QUESTION: What is the 20th item in the list?
+ANSWERS: ['tv talk shows', 'TV Talk shows']

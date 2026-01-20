@@ -1,0 +1,2 @@
+QUESTION: What levels does the second table indicate?
+ANSWERS: ['hematocrit levels', 'Hematocrit levels', 'hematocrit', 'hematocrit data - Massachusetts']

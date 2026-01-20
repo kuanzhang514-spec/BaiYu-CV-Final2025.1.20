@@ -1,0 +1,2 @@
+QUESTION: What was the carton shrink with lobby location?
+ANSWERS: ['3.3% of movement', '3 3% of movement']

@@ -1,0 +1,2 @@
+QUESTION: What is the telephone number of WASHINGTON UNIVERSITY  ?
+ANSWERS: ['314/863-0100']

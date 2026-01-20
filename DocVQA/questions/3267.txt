@@ -1,0 +1,2 @@
+QUESTION: What was the tip for the caddie?
+ANSWERS: ['20.00']

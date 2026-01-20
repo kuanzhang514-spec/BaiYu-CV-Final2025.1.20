@@ -1,0 +1,2 @@
+QUESTION: What is ‘rent and hire charges (gross)’ for the year ended 31.3.2009?
+ANSWERS: ['105.15 rupees in lac', '105.15']

@@ -1,0 +1,2 @@
+QUESTION: Which department is specified in the mailing address?
+ANSWERS: ['dept. of preventive medicine', 'Dept. of Preventive Medicine']

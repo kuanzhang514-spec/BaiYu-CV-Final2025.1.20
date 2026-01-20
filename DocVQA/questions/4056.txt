@@ -1,0 +1,2 @@
+QUESTION: is the address of the candidate different?
+ANSWERS: ['No', 'no']

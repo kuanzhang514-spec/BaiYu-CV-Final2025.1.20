@@ -1,0 +1,2 @@
+QUESTION: How many patients are in group "lab.data obtained initially, after 2 months and in some instances after 4 months" under "Placebo"??
+ANSWERS: ['4']

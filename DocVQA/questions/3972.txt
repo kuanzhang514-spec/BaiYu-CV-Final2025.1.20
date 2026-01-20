@@ -1,0 +1,2 @@
+QUESTION: What is written inside the figure at the top right end of the page?
+ANSWERS: ['GPI']

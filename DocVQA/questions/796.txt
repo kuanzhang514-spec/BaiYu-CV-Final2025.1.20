@@ -1,0 +1,2 @@
+QUESTION: What % of the respondents are 'Extremely concerned'?
+ANSWERS: ['12.3']

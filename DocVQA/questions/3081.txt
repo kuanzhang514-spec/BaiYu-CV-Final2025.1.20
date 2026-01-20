@@ -1,0 +1,2 @@
+QUESTION: What % of the men said No ?
+ANSWERS: ['90']

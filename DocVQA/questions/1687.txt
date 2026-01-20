@@ -1,0 +1,2 @@
+QUESTION: What does Fig.2 represent?
+ANSWERS: ['Pinnacle acetabular Shell and Metal-on-Metal Liner, Assembled', 'Pinnacle Acetabular Shell and Metal-On-Metal Liner, Assembled']

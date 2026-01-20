@@ -1,0 +1,2 @@
+QUESTION: How much is the ‘credit’ shown in the invoice?
+ANSWERS: ['$52.00']

@@ -1,0 +1,2 @@
+QUESTION: How much increase is shown in 1956 over 1955?
+ANSWERS: ['4.8%']

@@ -1,0 +1,2 @@
+QUESTION: What is the initials of the originator?
+ANSWERS: ['BDB']

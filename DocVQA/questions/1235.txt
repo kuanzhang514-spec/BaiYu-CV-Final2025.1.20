@@ -1,0 +1,2 @@
+QUESTION: What is footnote 36?
+ANSWERS: ['Id.']

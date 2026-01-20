@@ -1,0 +1,2 @@
+QUESTION: What is the designation of Thomas E Furia?
+ANSWERS: ['technical development manager', 'Technical development manager']

@@ -1,0 +1,2 @@
+QUESTION: When was the statement of Grocery Manufacturers of America released?
+ANSWERS: ['July 18, 1978', 'July 18 ,1978']

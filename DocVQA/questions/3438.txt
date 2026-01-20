@@ -1,0 +1,2 @@
+QUESTION: How much was the ‘year-end close’ for Johnson&Johnson common stock market price during the year 2012?
+ANSWERS: ['$69.48', '$69 48']

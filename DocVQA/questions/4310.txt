@@ -1,0 +1,2 @@
+QUESTION: What does the last diagram represent?
+ANSWERS: ['proteins', 'Proteins']

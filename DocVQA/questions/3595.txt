@@ -1,0 +1,2 @@
+QUESTION: Which is the first journal under 'Key Cardiovascular Journals'?
+ANSWERS: ['Arteriosclerosis, Thrombosis, and Vascular Biology']

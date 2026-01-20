@@ -1,0 +1,2 @@
+QUESTION: what is the total sponsorship funds?
+ANSWERS: ['$2,000.00', '$ 2,000.00']

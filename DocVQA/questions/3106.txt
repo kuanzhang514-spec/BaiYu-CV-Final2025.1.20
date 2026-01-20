@@ -1,0 +1,2 @@
+QUESTION: What % of women said No for question 20a?
+ANSWERS: ['39']

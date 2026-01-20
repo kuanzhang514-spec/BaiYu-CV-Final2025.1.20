@@ -1,0 +1,2 @@
+QUESTION: What is the LBS at 12.5% for WB1B?
+ANSWERS: ['1,228.2']

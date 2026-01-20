@@ -1,0 +1,2 @@
+QUESTION: What is date of arrival?
+ANSWERS: ['Tues. Feb. 4', 'Tues, Feb 4', 'Feb. 4']

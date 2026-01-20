@@ -1,0 +1,2 @@
+QUESTION: Of authors whose name start with letter B, whose name is the first in this list?
+ANSWERS: ['Ba-Angood, S.A.']

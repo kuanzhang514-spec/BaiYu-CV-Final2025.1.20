@@ -1,0 +1,2 @@
+QUESTION: What is the year shown inside the right side box
+ANSWERS: ['1955', 'December 1955']

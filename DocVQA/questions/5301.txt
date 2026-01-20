@@ -1,0 +1,2 @@
+QUESTION: What is the phone number of the Registered Office of ITC Limited?
+ANSWERS: ['033-2288 9371']

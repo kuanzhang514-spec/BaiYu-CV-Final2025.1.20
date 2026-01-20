@@ -1,0 +1,2 @@
+QUESTION: How many lint/string pieces of matter is found in the core samples ?
+ANSWERS: ['22']

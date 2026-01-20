@@ -1,0 +1,2 @@
+QUESTION: Who is the owner of this card?
+ANSWERS: ['robert e shank m d', 'Robert E Shank M D']

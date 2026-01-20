@@ -1,0 +1,2 @@
+QUESTION: What is is the cost for X-ray?
+ANSWERS: ['$10,000', '10,000']

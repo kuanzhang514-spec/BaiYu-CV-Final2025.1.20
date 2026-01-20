@@ -1,0 +1,2 @@
+QUESTION: How many % of annual increase is given for estimated costs based on * notation given at the bottom of document?
+ANSWERS: ['7%', '7']

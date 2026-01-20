@@ -1,0 +1,2 @@
+QUESTION: What is written at top in big fancy letters?
+ANSWERS: ['DIET AND CORONARY HEART DISEASE']

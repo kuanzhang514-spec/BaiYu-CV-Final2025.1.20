@@ -1,0 +1,2 @@
+QUESTION: When was ‘advisory board meeting’ scheduled?
+ANSWERS: ['october 8-10, 1961', 'October 8-10, 1961']

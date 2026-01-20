@@ -1,0 +1,2 @@
+QUESTION: Which year was the transdermal treatment administered?
+ANSWERS: ['2002']

@@ -1,0 +1,2 @@
+QUESTION: Who is the new manager for  Edinburg Ice and Cold Storage ?
+ANSWERS: ['esequiel granado', 'Esequiel Granado']

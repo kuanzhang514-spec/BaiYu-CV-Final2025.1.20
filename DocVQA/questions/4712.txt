@@ -1,0 +1,2 @@
+QUESTION: What is the "Form of Payment"?
+ANSWERS: ['cash or check on pick up']

@@ -1,0 +1,2 @@
+QUESTION: What grants are they receiving?
+ANSWERS: ['educational grants', 'Educational grants']

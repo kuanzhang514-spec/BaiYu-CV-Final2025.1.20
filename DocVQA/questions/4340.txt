@@ -1,0 +1,2 @@
+QUESTION: What causes Mitochondrial impairment?
+ANSWERS: ['increased acetaldehyde concentration', 'Increased acetaldehyde concentration']

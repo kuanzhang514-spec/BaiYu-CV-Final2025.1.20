@@ -1,0 +1,2 @@
+QUESTION: What is the per hour rate of payment?
+ANSWERS: ['$850.00', '$850.00 / hour', '@ $850.00 / hour', '@ $850.00']

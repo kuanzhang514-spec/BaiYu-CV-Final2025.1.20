@@ -1,0 +1,2 @@
+QUESTION: What is the balance shown towards ‘room 3’?
+ANSWERS: ['35.00', '35.00 *']

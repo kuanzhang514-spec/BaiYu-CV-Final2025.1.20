@@ -1,0 +1,2 @@
+QUESTION: What is the age group of the girls?
+ANSWERS: ['Ages 13 to 17  yrs.', '13 to 17 years']

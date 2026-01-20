@@ -1,0 +1,2 @@
+QUESTION: What is the telephone number of  T. Sterling Evans ?
+ANSWERS: ['304; 346-0824', '304- 346-0824']

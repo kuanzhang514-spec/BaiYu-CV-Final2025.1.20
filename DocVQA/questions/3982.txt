@@ -1,0 +1,2 @@
+QUESTION: What is written at the top left end of the page?
+ANSWERS: ['CIGFIL LTD Standalone Balance Sheet for period 01/04/2012 to 31/03/2013', 'CIGFIL LTD standalone balance sheet for period 01/04/2012 to 31/03/2013']

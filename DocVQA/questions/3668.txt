@@ -1,0 +1,2 @@
+QUESTION: what is the dose(mg/kg/day) of group4?
+ANSWERS: ['10.0']

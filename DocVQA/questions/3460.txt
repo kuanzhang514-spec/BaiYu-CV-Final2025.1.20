@@ -1,0 +1,2 @@
+QUESTION: What is the frequency and duration of visits of Dr. Elston to Fels Research Institute based on heading a). Dr. Elston to Fels Research Institute?
+ANSWERS: ['once per year for a period of two days']

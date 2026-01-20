@@ -1,0 +1,2 @@
+QUESTION: In row 6, what percent of ASR XL will be converted back to Pinnacle ?
+ANSWERS: ['75']

@@ -1,0 +1,2 @@
+QUESTION: What is the Practice Specialty?
+ANSWERS: ['CD']

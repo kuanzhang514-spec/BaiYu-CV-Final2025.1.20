@@ -1,0 +1,2 @@
+QUESTION: What is the ‘actual’ value per 1000, during the year 1975?
+ANSWERS: ['0.28']

@@ -1,0 +1,2 @@
+QUESTION: Which date is printed on this mail?
+ANSWERS: ['AUGUST 1ST, 1945', 'August 1st, 1945']

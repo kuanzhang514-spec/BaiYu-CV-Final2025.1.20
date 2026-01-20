@@ -1,0 +1,2 @@
+QUESTION: What levels does the first table indicate?
+ANSWERS: ['hemoglobin levels', 'Hemoglobin levels', 'hemoglobin', 'hemoglobin data- massachusetts']

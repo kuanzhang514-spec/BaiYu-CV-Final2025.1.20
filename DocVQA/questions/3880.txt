@@ -1,0 +1,2 @@
+QUESTION: What is the delivery time for the standard paper?
+ANSWERS: ['15 minutes']

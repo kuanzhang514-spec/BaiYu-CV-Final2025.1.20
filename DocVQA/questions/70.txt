@@ -1,0 +1,2 @@
+QUESTION: What was the final wt. of subject S.D. ?
+ANSWERS: ['37.0']

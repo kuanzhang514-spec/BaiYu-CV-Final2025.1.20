@@ -1,0 +1,2 @@
+QUESTION: Who is the Director of ‘ITC Limited’?
+ANSWERS: ['K. VAIDYANATH', 'K VAIDYANATH']

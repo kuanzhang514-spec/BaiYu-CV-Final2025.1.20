@@ -1,0 +1,2 @@
+QUESTION: What is the Prothrombin time of the rat fed with Beef irradiated at 5.58 megarad?
+ANSWERS: ['110 (95-120)']

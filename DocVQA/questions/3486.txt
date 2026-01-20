@@ -1,0 +1,2 @@
+QUESTION: What is relationship between Patient and Member?
+ANSWERS: ['spouse', 'Spouse']

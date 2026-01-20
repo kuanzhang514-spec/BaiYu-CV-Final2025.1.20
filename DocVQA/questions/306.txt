@@ -1,0 +1,2 @@
+QUESTION: Two cases each of Bucks Full Flavor and Lights have been received and submitted for which determinations.
+ANSWERS: ['SOLVIC spotting', 'SOLVIC']

@@ -1,0 +1,2 @@
+QUESTION: During previous year, how much is the ‘Managerial remuneration to directors towards salaries’?
+ANSWERS: ['32,04,000', '32,04,000 rupees']

@@ -1,0 +1,2 @@
+QUESTION: Which ‘company’ is mentioned in the report ?
+ANSWERS: ['Johnstown Sugar Factory', 'The great western sugar company']

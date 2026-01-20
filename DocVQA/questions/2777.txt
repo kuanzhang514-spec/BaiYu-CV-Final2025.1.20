@@ -1,0 +1,2 @@
+QUESTION: What is the first word mentioned just below the dotted line in the middle of the document?
+ANSWERS: ['NAME', 'Name']

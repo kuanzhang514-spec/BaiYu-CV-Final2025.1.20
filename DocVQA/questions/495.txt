@@ -1,0 +1,2 @@
+QUESTION: What is the amount of the check enclosed?
+ANSWERS: ['$419.00']

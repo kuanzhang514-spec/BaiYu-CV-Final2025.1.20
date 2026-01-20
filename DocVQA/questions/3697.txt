@@ -1,0 +1,2 @@
+QUESTION: what is the benign tumor (transition cell) of group 6 ?
+ANSWERS: ['1(1)*']

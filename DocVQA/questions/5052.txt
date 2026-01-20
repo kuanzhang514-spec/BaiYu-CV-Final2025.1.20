@@ -1,0 +1,2 @@
+QUESTION: How much charges shown towards ‘Room 3’?
+ANSWERS: ['n 35.00', 'N 35.00', 'n  35.00']

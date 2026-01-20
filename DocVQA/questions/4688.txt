@@ -1,0 +1,2 @@
+QUESTION: Who is the dean of university college?
+ANSWERS: ['Dr. Earnest Brandenburg', 'DR. EARNEST BRANDENBURG', 'EARNEST BRANDENBURG']

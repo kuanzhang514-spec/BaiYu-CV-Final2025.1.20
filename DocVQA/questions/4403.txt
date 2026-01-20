@@ -1,0 +1,2 @@
+QUESTION: What is PPI?
+ANSWERS: ['PRESENT PAIN INTENSITY', 'Present pain intensity']

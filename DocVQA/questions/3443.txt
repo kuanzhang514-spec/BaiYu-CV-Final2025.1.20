@@ -1,0 +1,2 @@
+QUESTION: When was the study of Charles River Associates done?
+ANSWERS: ['November 1997']

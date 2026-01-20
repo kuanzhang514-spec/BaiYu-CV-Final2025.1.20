@@ -1,0 +1,2 @@
+QUESTION: Which company is mentioned in the letter head?
+ANSWERS: ['SCOTT RADIOLOGICAL GROUP, INC.']

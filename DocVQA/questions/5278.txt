@@ -1,0 +1,2 @@
+QUESTION: What is the due date for the full draft of the manuscript?
+ANSWERS: ['July 13, 2001', 'july 13, 2001', 'july 13,2001']

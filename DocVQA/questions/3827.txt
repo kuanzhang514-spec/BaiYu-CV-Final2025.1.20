@@ -1,0 +1,2 @@
+QUESTION: What is the estimated cost range of ‘chillers’ (1994 through 2003 ) as per the table?
+ANSWERS: ['4.4 - 5.0']

@@ -1,0 +1,2 @@
+QUESTION: What title is given at the top of the ‘document’ in big bold letters?
+ANSWERS: ['Use of chemical additives in foods']

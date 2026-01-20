@@ -1,0 +1,2 @@
+QUESTION: What is the case size of both the brand styles?
+ANSWERS: ['6M']

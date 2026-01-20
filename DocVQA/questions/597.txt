@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the page?
+ANSWERS: ['medical education and communications plan for the premarin product line', 'Medical Education and Communications Plan for the Premarin Product Line']

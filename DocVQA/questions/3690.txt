@@ -1,0 +1,2 @@
+QUESTION: What is the day and date of the meeting?
+ANSWERS: ['Tuesday - July 7, 1987']

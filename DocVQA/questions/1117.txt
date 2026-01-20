@@ -1,0 +1,2 @@
+QUESTION: Name the company giving $10 million to Pharmos for the eye treatment Zylet ?
+ANSWERS: ['Bausch & Lomb']

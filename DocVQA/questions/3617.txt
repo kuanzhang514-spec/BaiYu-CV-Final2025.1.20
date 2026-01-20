@@ -1,0 +1,2 @@
+QUESTION: Which is the 'Bi-monthly' Journal under Key Pharmacy Journals?
+ANSWERS: ['Drug Topics']

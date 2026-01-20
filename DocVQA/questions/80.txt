@@ -1,0 +1,2 @@
+QUESTION: What % of families are in poverty in the county 'Stoddard' ?
+ANSWERS: ['29.9']

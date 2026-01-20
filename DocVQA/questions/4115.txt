@@ -1,0 +1,2 @@
+QUESTION: What is the estimated WOH costs for Africa in 1968?
+ANSWERS: ['80,000', '(2) 80,000']

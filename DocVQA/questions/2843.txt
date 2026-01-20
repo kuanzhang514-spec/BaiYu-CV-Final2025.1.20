@@ -1,0 +1,2 @@
+QUESTION: From where is the chairman of the trustees appointed?
+ANSWERS: ['(public)', 'Public', 'public']

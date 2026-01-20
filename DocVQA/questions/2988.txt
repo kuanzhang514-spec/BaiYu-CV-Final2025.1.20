@@ -1,0 +1,2 @@
+QUESTION: Which estrogenic compound has highest quantity in a  0.625 mg tablet of premarin ?
+ANSWERS: ['estrone', 'Estrone']

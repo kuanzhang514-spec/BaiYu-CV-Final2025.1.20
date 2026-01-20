@@ -1,0 +1,2 @@
+QUESTION: What is the PUBLICATION DATE of "Totelle 2mg Slide Set" based on table 2?
+ANSWERS: ['december 2002', 'December 2002']

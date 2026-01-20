@@ -1,0 +1,2 @@
+QUESTION: Who is the letter addressed to ?
+ANSWERS: ['MISSOURI STATE MEDICAL ASSOCIATION', 'Missouri State Medical Association']

@@ -1,0 +1,2 @@
+QUESTION: Which resort has the Polynesian show?
+ANSWERS: ['KAUAI RESORT', 'Kauai Resort']

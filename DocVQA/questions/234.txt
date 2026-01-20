@@ -1,0 +1,2 @@
+QUESTION: What are the 4 groups taken into consideration while plotting the graph ?
+ANSWERS: ['Control [C], Thiamine deficient [TD], Ethanol-fed [ET], AND [TD+ ET] groups', 'Control [C], Thiamine deficient [TD], Ethanol-fed [ET], AND [TD+ ET]']

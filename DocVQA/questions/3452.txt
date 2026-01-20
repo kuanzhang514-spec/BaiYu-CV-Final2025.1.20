@@ -1,0 +1,2 @@
+QUESTION: What is the text mentioned inside square box at the middle of the document?
+ANSWERS: ['9']

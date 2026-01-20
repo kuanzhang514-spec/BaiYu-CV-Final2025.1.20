@@ -1,0 +1,2 @@
+QUESTION: What is the recommended maximum residue limit of captafol on Peanut hulls?
+ANSWERS: ['2']

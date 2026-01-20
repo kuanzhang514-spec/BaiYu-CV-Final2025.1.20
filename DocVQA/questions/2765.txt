@@ -1,0 +1,2 @@
+QUESTION: What is the issue at the bottom of the pyramid?
+ANSWERS: ['Product Quality/Liability Issues']

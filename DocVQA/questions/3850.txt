@@ -1,0 +1,2 @@
+QUESTION: How much is the managerial remuneration to Director, ‘Mr. Arun K. Hitkari’ as on 31/3/03?
+ANSWERS: ['22.80']

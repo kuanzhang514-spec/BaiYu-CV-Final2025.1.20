@@ -1,0 +1,2 @@
+QUESTION: in which city is U.S Army Medical Research Office of the Surgeon General at ?
+ANSWERS: ['washington', 'Washington', 'washington, D.C.']

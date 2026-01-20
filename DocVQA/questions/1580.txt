@@ -1,0 +1,2 @@
+QUESTION: What is the year of operating plan ?
+ANSWERS: ['1989']

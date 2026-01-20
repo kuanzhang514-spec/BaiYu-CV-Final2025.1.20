@@ -1,0 +1,2 @@
+QUESTION: What is the name of the originator ?
+ANSWERS: ['russell barnes', 'Russell Barnes']

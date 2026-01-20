@@ -1,0 +1,2 @@
+QUESTION: which division of the company does 'In flight magazine' department come under?
+ANSWERS: ['se publications', 'SE Publications']

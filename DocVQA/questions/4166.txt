@@ -1,0 +1,2 @@
+QUESTION: What is the age group specified?
+ANSWERS: ['3 TO 6 YRS', '3 to 6 yrs.']

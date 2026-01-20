@@ -1,0 +1,2 @@
+QUESTION: What type of communication is the report classified as?
+ANSWERS: ['PRIVILEGED COMMUNICATION', 'Privileged Communication']

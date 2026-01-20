@@ -1,0 +1,2 @@
+QUESTION: How much is the Writer's Fee?
+ANSWERS: ['$3,500.', '$3,500']

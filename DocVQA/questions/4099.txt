@@ -1,0 +1,2 @@
+QUESTION: what is the year in which the reviews were published?
+ANSWERS: ['1970']

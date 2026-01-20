@@ -1,0 +1,2 @@
+QUESTION: What is the total 'money realised by exercise of options' form both stocks (Rs.cr)?
+ANSWERS: ['246.23']

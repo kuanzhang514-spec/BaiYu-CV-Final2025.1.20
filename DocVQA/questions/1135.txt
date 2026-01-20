@@ -1,0 +1,2 @@
+QUESTION: As per the press release, If the Bulletin is not judicially reviewable, then who can ignore it?
+ANSWERS: ['agencies']

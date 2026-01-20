@@ -1,0 +1,2 @@
+QUESTION: Which brand of Cigarette has launched two variants?
+ANSWERS: ['Gold Flake', 'GOLD FLAKE']

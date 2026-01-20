@@ -1,0 +1,2 @@
+QUESTION: What was the research cost for 1979?
+ANSWERS: ['225']

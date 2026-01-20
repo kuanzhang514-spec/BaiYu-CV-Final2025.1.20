@@ -1,0 +1,2 @@
+QUESTION: What is the date of the study?
+ANSWERS: ['january 1963', 'January 1963']

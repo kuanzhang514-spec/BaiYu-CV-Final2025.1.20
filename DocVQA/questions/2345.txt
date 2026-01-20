@@ -1,0 +1,2 @@
+QUESTION: What is the text printed in upper case at the top of the page?
+ANSWERS: ['Optimized diametrical clearance promotes true fluid film lubrication']

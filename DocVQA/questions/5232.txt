@@ -1,0 +1,2 @@
+QUESTION: What is the Percentage of ownership interest as at 31st March,2007 of ‘Gold Flake Corporation Limited’?
+ANSWERS: ['100']

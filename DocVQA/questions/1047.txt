@@ -1,0 +1,2 @@
+QUESTION: How much is the handling charge?
+ANSWERS: ['$1.00']

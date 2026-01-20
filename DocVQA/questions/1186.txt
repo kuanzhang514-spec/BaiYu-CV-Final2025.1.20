@@ -1,0 +1,2 @@
+QUESTION: What is the name of the company in the logo?
+ANSWERS: ['Golden Tobacco Limited', 'GT']

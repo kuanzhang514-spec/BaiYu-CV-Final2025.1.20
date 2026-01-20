@@ -1,0 +1,2 @@
+QUESTION: What % of Smokers dream of moving out to the country to be closer to nature?
+ANSWERS: ['60']

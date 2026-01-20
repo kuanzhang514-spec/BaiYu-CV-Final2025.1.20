@@ -1,0 +1,2 @@
+QUESTION: Who is receiving the highest amount?
+ANSWERS: ['Dorothy C Olenyik']

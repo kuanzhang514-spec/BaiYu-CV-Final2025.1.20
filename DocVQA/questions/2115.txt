@@ -1,0 +1,2 @@
+QUESTION: What is the underlined text?
+ANSWERS: ['Accessibility of Health Services', 'Accessibility of health services']

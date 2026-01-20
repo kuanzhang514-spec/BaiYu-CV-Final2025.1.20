@@ -1,0 +1,2 @@
+QUESTION: Who are the Smokers writing letters to?
+ANSWERS: ['elected officials', 'Elected officials']

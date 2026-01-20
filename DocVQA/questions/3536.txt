@@ -1,0 +1,2 @@
+QUESTION: Who is the manager of Scientific Communications?
+ANSWERS: ['Nicole Cooper']

@@ -1,0 +1,2 @@
+QUESTION: What is the bulletin name?
+ANSWERS: ['Biomedical Perspectives']

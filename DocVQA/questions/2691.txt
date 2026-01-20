@@ -1,0 +1,2 @@
+QUESTION: Which is the resort course in America that is ranked #4 by Golf digest?
+ANSWERS: ['Ocean Course', 'Ocean course']

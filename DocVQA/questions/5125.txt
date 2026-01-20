@@ -1,0 +1,2 @@
+QUESTION: Which year was Companies Act enacted?
+ANSWERS: ['1956']

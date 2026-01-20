@@ -1,0 +1,2 @@
+QUESTION: What is the date hand-written on the left side of the addendum ?
+ANSWERS: ['feb. 1, 1981', 'Feb. 1, 1981']

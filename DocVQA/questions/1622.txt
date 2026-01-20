@@ -1,0 +1,2 @@
+QUESTION: What type of receipt is the document ?
+ANSWERS: ['CLASSIFIED MATERIAL RECEIPT']

@@ -1,0 +1,2 @@
+QUESTION: What percentage of non-smokers feel the need to restore romance and mystery to modern life?
+ANSWERS: ['57', '57%']

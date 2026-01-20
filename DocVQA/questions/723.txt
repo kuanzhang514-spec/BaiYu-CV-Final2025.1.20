@@ -1,0 +1,2 @@
+QUESTION: What is the title given on the top of the form?
+ANSWERS: ['Biomet, Inc. Royalty Payment Form', 'BIOMET, INC. ROYALTY PAYMENT FORM']

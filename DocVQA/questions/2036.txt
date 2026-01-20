@@ -1,0 +1,2 @@
+QUESTION: What is ‘Q:30’ in the document?
+ANSWERS: ['Where does the tobacco come from?']

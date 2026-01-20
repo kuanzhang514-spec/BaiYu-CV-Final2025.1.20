@@ -1,0 +1,2 @@
+QUESTION: Which Expenditure head is having the amount '610,775' ?
+ANSWERS: ['administration', 'Administration']

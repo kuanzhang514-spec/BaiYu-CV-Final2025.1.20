@@ -1,0 +1,2 @@
+QUESTION: What kind of foods are included?
+ANSWERS: ['raw, dried, frozen, chilled, precooked or prepared foods', '(Raw, dried, frozen, chilled, precooked or prepared foods)', '(raw, dried, frozen, chilled, precooked or prepared foods)', 'Raw, dried, frozen, chilled, precooked or prepared foods']

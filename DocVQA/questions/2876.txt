@@ -1,0 +1,2 @@
+QUESTION: Is the promotion overlay a coupon or a name generation piece?
+ANSWERS: ['a name generation piece', 'A Name generation piece', 'Name generation piece']

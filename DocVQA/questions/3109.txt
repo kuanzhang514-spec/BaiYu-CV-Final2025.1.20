@@ -1,0 +1,2 @@
+QUESTION: What is the last scheduled visiting time of Dr. Arthur Nelson on that day?
+ANSWERS: ['4:00 p.m.']

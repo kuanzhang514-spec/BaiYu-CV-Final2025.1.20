@@ -1,0 +1,2 @@
+QUESTION: How many days are there in this month?
+ANSWERS: ['30']

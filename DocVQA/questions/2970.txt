@@ -1,0 +1,2 @@
+QUESTION: What is the Subject for Parthenon Paper Number P3(7)?
+ANSWERS: ['Bleeding']

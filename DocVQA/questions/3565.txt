@@ -1,0 +1,2 @@
+QUESTION: What does MB denote?
+ANSWERS: ['send to mailbox', 'Send to Mailbox']

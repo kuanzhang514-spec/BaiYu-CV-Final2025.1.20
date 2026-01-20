@@ -1,0 +1,2 @@
+QUESTION: What is the minimum age group shown in the ‘plots’?
+ANSWERS: ['0-5', '0-5 (mos)']

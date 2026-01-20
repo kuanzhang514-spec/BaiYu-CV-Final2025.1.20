@@ -1,0 +1,2 @@
+QUESTION: What is the name of the organization?
+ANSWERS: ['Actos', 'actos pioglitazone HCI']

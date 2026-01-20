@@ -1,0 +1,2 @@
+QUESTION: What is the ‘heading’?
+ANSWERS: ['international activities index', 'INTERNATIONAL ACTIVITIES INDEX']

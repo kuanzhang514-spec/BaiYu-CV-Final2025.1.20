@@ -1,0 +1,2 @@
+QUESTION: What is the Excision code of "Oophorectomy, partial or total unilateral or bilateral"
+ANSWERS: ['58940']

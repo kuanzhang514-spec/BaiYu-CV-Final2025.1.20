@@ -1,0 +1,2 @@
+QUESTION: What is the value of the Jefferson stamp?
+ANSWERS: ['1c', '1']

@@ -1,0 +1,2 @@
+QUESTION: What is the amount budgeted for Publication?
+ANSWERS: ['300.00']

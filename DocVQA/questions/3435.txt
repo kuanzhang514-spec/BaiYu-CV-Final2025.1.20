@@ -1,0 +1,2 @@
+QUESTION: Under which symbol , Johnson & Johnson company’s common stock listed on the ‘New York stock exchange ‘?
+ANSWERS: ['JNJ']

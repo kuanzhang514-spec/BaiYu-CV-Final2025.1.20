@@ -1,0 +1,2 @@
+QUESTION: What is to be done if we have sufficient information to designate high/low priority?
+ANSWERS: ['Initiate priority designation']

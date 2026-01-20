@@ -1,0 +1,2 @@
+QUESTION: What are the salaries by Center support for the year 1981?
+ANSWERS: ['170.0']

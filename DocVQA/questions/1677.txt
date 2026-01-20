@@ -1,0 +1,2 @@
+QUESTION: Who is the first author?
+ANSWERS: ['mr. Joe w. yang', 'Mr. Joe W. Yang', 'Joe w. yang']

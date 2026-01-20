@@ -1,0 +1,2 @@
+QUESTION: What is the 'total respondents' in the Control cell?
+ANSWERS: ['(299)', '299']

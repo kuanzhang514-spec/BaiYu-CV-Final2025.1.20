@@ -1,0 +1,2 @@
+QUESTION: What was the date on the slip?
+ANSWERS: ['5-5-86']

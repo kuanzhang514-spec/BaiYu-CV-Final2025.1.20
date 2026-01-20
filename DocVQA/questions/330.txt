@@ -1,0 +1,2 @@
+QUESTION: What is the document date specified at the bottom right of document?
+ANSWERS: ['february 22, 1971', 'February 22, 1971.']

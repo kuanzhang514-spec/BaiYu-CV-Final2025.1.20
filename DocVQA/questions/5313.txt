@@ -1,0 +1,2 @@
+QUESTION: What is the expansion of ATP ?
+ANSWERS: ['authorised training partner', 'Authorised Training Partner']

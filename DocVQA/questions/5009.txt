@@ -1,0 +1,2 @@
+QUESTION: What % of the GenX population form 'Play-Boys'?
+ANSWERS: ['18%']

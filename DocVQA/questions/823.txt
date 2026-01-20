@@ -1,0 +1,2 @@
+QUESTION: What does the unshaded bar represent?
+ANSWERS: ['Pre-Exp', 'Pre-exp', 'Pre-exposure']

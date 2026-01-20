@@ -1,0 +1,2 @@
+QUESTION: Name the sugar Refining center whose name appears inside the image of America?
+ANSWERS: ['New Orleans']

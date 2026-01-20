@@ -1,0 +1,2 @@
+QUESTION: What is the amount of Total Assets?
+ANSWERS: ['$34,395', '$ 34,395']

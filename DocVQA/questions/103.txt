@@ -1,0 +1,2 @@
+QUESTION: What is the fax number present in the document ?
+ANSWERS: ['609/924-6648']

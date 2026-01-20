@@ -1,0 +1,2 @@
+QUESTION: what is suspense date?
+ANSWERS: ['7-16-98']

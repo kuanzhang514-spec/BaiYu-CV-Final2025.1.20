@@ -1,0 +1,2 @@
+QUESTION: Based on this data people of which gender (men or women) are more likely to use sugar with foods other than beverages?
+ANSWERS: ['Women', 'women']

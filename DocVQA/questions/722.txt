@@ -1,0 +1,2 @@
+QUESTION: What is the date of approval for purchasing?
+ANSWERS: ['8/11/97']

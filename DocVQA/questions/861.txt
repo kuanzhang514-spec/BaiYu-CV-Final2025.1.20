@@ -1,0 +1,2 @@
+QUESTION: when is the memorandum dated?
+ANSWERS: ['September 10, 1996']

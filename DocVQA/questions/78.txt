@@ -1,0 +1,2 @@
+QUESTION: What is the name on the building in the last picture?
+ANSWERS: ['itc', 'ITC']

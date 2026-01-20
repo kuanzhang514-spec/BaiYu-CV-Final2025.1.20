@@ -1,0 +1,2 @@
+QUESTION: What is TABLE 1?
+ANSWERS: ['cancer mortality, england and wales', 'Cancer mortality, England and Wales', 'cancer mortality, england and wales (males)', 'Males']

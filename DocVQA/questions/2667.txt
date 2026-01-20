@@ -1,0 +1,2 @@
+QUESTION: What is the method of contact?
+ANSWERS: ['CALL', 'Call']

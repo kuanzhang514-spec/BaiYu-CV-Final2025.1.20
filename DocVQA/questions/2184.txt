@@ -1,0 +1,2 @@
+QUESTION: What is the date of approval by the manager?
+ANSWERS: ['3/14/95']

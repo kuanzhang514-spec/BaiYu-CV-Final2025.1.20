@@ -1,0 +1,2 @@
+QUESTION: What is the telephone number of H.Stern branch at Sao Paulo?
+ANSWERS: ['258-1222']

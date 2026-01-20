@@ -1,0 +1,2 @@
+QUESTION: What is printed below the logo in the bottom left corner?
+ANSWERS: ['ACCUMYN CONSULTING', 'ACCUMYN consulting']

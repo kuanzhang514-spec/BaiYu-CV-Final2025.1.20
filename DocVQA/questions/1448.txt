@@ -1,0 +1,2 @@
+QUESTION: Which is the college?
+ANSWERS: ['SCHOOL OF PUBLIC HEALTH', 'School of Public Health']

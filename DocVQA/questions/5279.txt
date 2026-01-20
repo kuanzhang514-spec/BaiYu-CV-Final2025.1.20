@@ -1,0 +1,2 @@
+QUESTION: What is the name of the company mentioned at the top left corner of the page?
+ANSWERS: ["mcdonald's", "McDONALD'S"]

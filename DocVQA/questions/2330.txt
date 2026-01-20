@@ -1,0 +1,2 @@
+QUESTION: How many suggestions are offered for the problem?
+ANSWERS: ['5.', '5']

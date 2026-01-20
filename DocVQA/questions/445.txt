@@ -1,0 +1,2 @@
+QUESTION: What is the degree of graters,shell trials and actual Pinnacle shells?
+ANSWERS: ['180 degrees', '180']

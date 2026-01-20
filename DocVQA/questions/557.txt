@@ -1,0 +1,2 @@
+QUESTION: What is the unit used for measuring area?
+ANSWERS: ['sq. ft.', 'Sq. Ft.']

@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the page?
+ANSWERS: ['Returns from 1956 Sugar Quota Questionnaire as of November 23, 1956', 'RETURNS FROM 1956 SUGAR QUOTA QUESTIONNAIRE AS OF NOVEMBER 23, 1956']

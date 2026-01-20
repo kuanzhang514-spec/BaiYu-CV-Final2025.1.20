@@ -1,0 +1,2 @@
+QUESTION: Which was CLAUD T.CARNEY’s high school?
+ANSWERS: ['bethany academy', 'Bethany academy']

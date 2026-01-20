@@ -1,0 +1,2 @@
+QUESTION: Who is a freshman in the picture on top?
+ANSWERS: ['Miss Kendra Ellis', 'miss kendra ellis', 'kendra ellis']

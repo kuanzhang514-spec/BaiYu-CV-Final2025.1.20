@@ -1,0 +1,2 @@
+QUESTION: What is GPC?
+ANSWERS: ['group performance control', 'Group Performance Control']

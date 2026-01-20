@@ -1,0 +1,2 @@
+QUESTION: Who is the non executive director who holds 4 chairmanships in  other companies?
+ANSWERS: ['s. h. khan', 'S. H. Khan']

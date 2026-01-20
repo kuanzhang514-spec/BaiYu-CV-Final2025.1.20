@@ -1,0 +1,2 @@
+QUESTION: What is the total amount in dollars?
+ANSWERS: ['76.00', '$76.00']

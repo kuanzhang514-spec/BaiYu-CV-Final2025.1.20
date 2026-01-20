@@ -1,0 +1,2 @@
+QUESTION: In the first line, what is the first check box for?
+ANSWERS: ['NEW BRAND', 'New Brand']

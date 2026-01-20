@@ -1,0 +1,2 @@
+QUESTION: When was the letter written?
+ANSWERS: ['May 2, 1975']

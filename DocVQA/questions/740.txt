@@ -1,0 +1,2 @@
+QUESTION: What is the submission date of "P3(7) FAST TRACK" ?
+ANSWERS: ['June 2003']

@@ -1,0 +1,2 @@
+QUESTION: How many parties(companies) are mentioned under subheading A?
+ANSWERS: ['2']

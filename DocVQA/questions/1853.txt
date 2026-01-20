@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned on the top of the magazine?
+ANSWERS: ['December 2011']

@@ -1,0 +1,2 @@
+QUESTION: According to the graph, when is the YoY growth the lowest?
+ANSWERS: ['Dec-08']

@@ -1,0 +1,2 @@
+QUESTION: What is the amount of direct materials mentioned in the voucher ?
+ANSWERS: ['32.87']

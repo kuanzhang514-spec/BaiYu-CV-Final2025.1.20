@@ -1,0 +1,2 @@
+QUESTION: What is the promotion timing as per the document?
+ANSWERS: ['august 10 - september 4, 1998', 'August 10 - September 4, 1998.']

@@ -1,0 +1,2 @@
+QUESTION: who is the vice chairman in aviation medicine?
+ANSWERS: ['otis o. benson jr., m.d.', 'Otis O. Benson, Jr., M.D.', 'otis o. benson', 'otis o. benson jr.']

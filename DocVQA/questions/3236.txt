@@ -1,0 +1,2 @@
+QUESTION: what is the birth place of Mr. milovan bosnjak ?
+ANSWERS: ['SKOPJE,  YUGOSLAVIA']

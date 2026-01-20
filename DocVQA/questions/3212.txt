@@ -1,0 +1,2 @@
+QUESTION: What is the ‘salary’ of R. Tannenbaum, Ph.D?
+ANSWERS: ['20,000', '$20,000']

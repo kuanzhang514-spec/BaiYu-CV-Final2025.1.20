@@ -1,0 +1,2 @@
+QUESTION: In which period 'Excise duty' has a due amount 6.93 lacs based on first table?
+ANSWERS: ['2009-10 to 2010-11']

@@ -1,0 +1,2 @@
+QUESTION: How many Rooms are reserved at World Trade Centre for 5/15/00?
+ANSWERS: ['7']

@@ -1,0 +1,2 @@
+QUESTION: Was the treatment effective in treating hot flushes vs placebo?
+ANSWERS: ['yes', 'Yes']

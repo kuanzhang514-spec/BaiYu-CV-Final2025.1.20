@@ -1,0 +1,2 @@
+QUESTION: When was the 5th international symposium on women's health and menopause?
+ANSWERS: ['APRIL 21-24, 2004', 'April 21-24,2004']

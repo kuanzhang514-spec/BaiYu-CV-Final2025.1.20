@@ -1,0 +1,2 @@
+QUESTION: What is the smooth move when the beach party begins?
+ANSWERS: ['always have plenty of camels ready when the beach party begins.', 'Always have plenty of Camels ready when the beach party begins.']

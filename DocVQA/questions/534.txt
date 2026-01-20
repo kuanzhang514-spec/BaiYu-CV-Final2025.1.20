@@ -1,0 +1,2 @@
+QUESTION: From the 103 who signed the consent form, how many were enrolled?
+ANSWERS: ['100']

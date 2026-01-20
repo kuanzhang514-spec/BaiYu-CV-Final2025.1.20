@@ -1,0 +1,2 @@
+QUESTION: What is the phone number written in the ‘slip’?
+ANSWERS: ['312 - 431 - 3680', '312-431-3680']

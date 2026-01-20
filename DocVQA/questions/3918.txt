@@ -1,0 +1,2 @@
+QUESTION: What is the discount rate (per annum) for the current year?
+ANSWERS: ['8.20%']

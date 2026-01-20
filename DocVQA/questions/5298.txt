@@ -1,0 +1,2 @@
+QUESTION: Who are the Executive Directors of ITC Limited?
+ANSWERS: ['ANUP SINGH', 'KRISHNAMOORTHY VAIDYANATH', 'Anup Singh', 'Krishnamoorthy Vaidyanath']

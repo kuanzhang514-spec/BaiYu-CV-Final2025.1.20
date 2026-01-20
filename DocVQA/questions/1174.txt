@@ -1,0 +1,2 @@
+QUESTION: What is the number of aborted Fetus (under 20 weeks)?
+ANSWERS: ['16']

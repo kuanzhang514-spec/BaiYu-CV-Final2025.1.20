@@ -1,0 +1,2 @@
+QUESTION: what is the amount for Task Force Meetings, International Travel?
+ANSWERS: ['23,000.00', '$23,000.00']

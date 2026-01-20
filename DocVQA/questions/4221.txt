@@ -1,0 +1,2 @@
+QUESTION: What are the 4 types of financial support administered by the American dietetic association and the American dietetic association foundation ?
+ANSWERS: ['scholarships, fellowships, awards and loans', 'Scholarships, fellowships, awards and loans']

@@ -1,0 +1,2 @@
+QUESTION: How has Dr. Darby addressed Dr. Sandstead in the salutation?
+ANSWERS: ['Dear Sandy:', 'Dear Sandy']

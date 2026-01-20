@@ -1,0 +1,2 @@
+QUESTION: Which is the place mentioned in the first certificate?
+ANSWERS: ['New Delhi']

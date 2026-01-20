@@ -1,0 +1,2 @@
+QUESTION: What is written inside  the bottom right end box of the ‘flowchart’?
+ANSWERS: ['hazardous materials branch', 'Hazardous materials branch']

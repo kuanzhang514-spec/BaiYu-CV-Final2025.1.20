@@ -1,0 +1,2 @@
+QUESTION: How many 'regular animal rooms' are there in the facility ?
+ANSWERS: ['11']

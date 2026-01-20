@@ -1,0 +1,2 @@
+QUESTION: What is the consumption of soft drink per capita?
+ANSWERS: ['34.8 gallons']

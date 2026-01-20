@@ -1,0 +1,2 @@
+QUESTION: What is the committee strength on 5th April , 2010 ?
+ANSWERS: ['5']

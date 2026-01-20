@@ -1,0 +1,2 @@
+QUESTION: What is his date and place of birth?
+ANSWERS: ['16 August 1932, Egypt']

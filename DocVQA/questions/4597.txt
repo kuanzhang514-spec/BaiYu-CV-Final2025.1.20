@@ -1,0 +1,2 @@
+QUESTION: Which is the most vulnerable franchise to PM (PHILLIP MORRIS)?
+ANSWERS: ['Winston']

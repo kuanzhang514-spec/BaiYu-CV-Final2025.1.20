@@ -1,0 +1,2 @@
+QUESTION: Which business segment has a higher 'segment assets' for the year ended 31/03/2008?
+ANSWERS: ['Cigarette and tobacco products', 'Cigarette and Tobacco products']

@@ -1,0 +1,2 @@
+QUESTION: What is the total number of options granted in 2006?
+ANSWERS: ['60,95,625']

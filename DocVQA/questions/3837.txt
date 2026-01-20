@@ -1,0 +1,2 @@
+QUESTION: During previous year, how much is the ‘research and development expenses for stores & spare parts consumed’?
+ANSWERS: ['7,282 rupees', '7,282']

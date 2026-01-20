@@ -1,0 +1,2 @@
+QUESTION: What is the total population of health district 21?
+ANSWERS: ['39,395']

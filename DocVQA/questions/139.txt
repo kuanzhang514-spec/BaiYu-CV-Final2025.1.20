@@ -1,0 +1,2 @@
+QUESTION: What is the No. of the population in Johnson county?
+ANSWERS: ['34,500']

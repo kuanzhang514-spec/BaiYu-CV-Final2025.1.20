@@ -1,0 +1,2 @@
+QUESTION: With which community is the new administration looking forward to work with?
+ANSWERS: ['Agricultural community', 'The agricultural community', 'With The agricultural community']

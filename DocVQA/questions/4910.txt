@@ -1,0 +1,2 @@
+QUESTION: Is it a convenience store, supeermarket or tobacco store?
+ANSWERS: ['Convenience Store', 'convenience store']

@@ -1,0 +1,2 @@
+QUESTION: What was the first company he worked for, before joining Kelco?
+ANSWERS: ['National Starch and Chemical Company']

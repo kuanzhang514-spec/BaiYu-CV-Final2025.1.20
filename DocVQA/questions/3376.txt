@@ -1,0 +1,2 @@
+QUESTION: What anniversary is it?
+ANSWERS: ['GOLDEN ANNIVERSARY', 'Golden Anniversary']

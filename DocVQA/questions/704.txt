@@ -1,0 +1,2 @@
+QUESTION: When is the reception?
+ANSWERS: ['6:00 p.m.']

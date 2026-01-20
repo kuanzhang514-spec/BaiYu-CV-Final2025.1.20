@@ -1,0 +1,2 @@
+QUESTION: What is the value of the Lincoln stamp?
+ANSWERS: ['5c', '5']

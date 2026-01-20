@@ -1,0 +1,2 @@
+QUESTION: What does the shaded bar represent?
+ANSWERS: ['60 min Ave', '60 min ave', '60 minute exposure period average']

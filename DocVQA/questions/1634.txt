@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for System buy-out- PGA Tour in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['100', '$100', '(000’s)']

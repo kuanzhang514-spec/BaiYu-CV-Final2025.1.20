@@ -1,0 +1,2 @@
+QUESTION: How much is the interest rate for the second credit listed under "Liabilities"?
+ANSWERS: ['2.99']

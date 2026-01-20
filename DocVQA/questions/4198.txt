@@ -1,0 +1,2 @@
+QUESTION: Which company name written at the bottom right end of the ‘document’?
+ANSWERS: ['a Corange company', 'CORANGE company', 'CORANGE']

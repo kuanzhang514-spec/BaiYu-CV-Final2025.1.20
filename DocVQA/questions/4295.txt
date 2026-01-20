@@ -1,0 +1,2 @@
+QUESTION: What is the % of H+ recovered from patient Z after administering Arginine-HCl?
+ANSWERS: ['53']

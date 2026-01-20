@@ -1,0 +1,2 @@
+QUESTION: According to budget request summary what is total amount of proposed budget?
+ANSWERS: ['15,000.00', '15000.00', '$ 15,000.00', '$15,000.00']

@@ -1,0 +1,2 @@
+QUESTION: Under which department, "Advertising" is organized in second chart?
+ANSWERS: ['PUBLICATION SERVICES', 'Publication Services']

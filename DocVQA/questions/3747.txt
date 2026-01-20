@@ -1,0 +1,2 @@
+QUESTION: What is the “time” given?
+ANSWERS: ['7 p.m.']

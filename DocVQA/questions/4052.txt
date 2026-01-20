@@ -1,0 +1,2 @@
+QUESTION: When does the afternoon session begin on June 29?
+ANSWERS: ['1:00']

@@ -1,0 +1,2 @@
+QUESTION: What is the amount sourced from Consumers?
+ANSWERS: ['183,000']

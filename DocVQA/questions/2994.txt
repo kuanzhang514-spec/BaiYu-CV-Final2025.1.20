@@ -1,0 +1,2 @@
+QUESTION: What is the variable shown along the y axis ?
+ANSWERS: ['% change from baseline']

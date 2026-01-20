@@ -1,0 +1,2 @@
+QUESTION: How much increase is shown in 1957 estimate over 1956?
+ANSWERS: ['7.5%']

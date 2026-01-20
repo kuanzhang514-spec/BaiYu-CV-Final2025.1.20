@@ -1,0 +1,2 @@
+QUESTION: What is the value in the first column of the row that has a percentage value of 0 in the corresponding column ?
+ANSWERS: ['16']

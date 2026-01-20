@@ -1,0 +1,2 @@
+QUESTION: What is the last column heading?
+ANSWERS: ['Starting with Placebo']

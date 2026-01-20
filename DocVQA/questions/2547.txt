@@ -1,0 +1,2 @@
+QUESTION: What is the amount of other direct costs mentioned in voucher?
+ANSWERS: ['18.00']

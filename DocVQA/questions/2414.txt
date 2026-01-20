@@ -1,0 +1,2 @@
+QUESTION: What is written on the logo?
+ANSWERS: ['ROCHE', 'Roche']

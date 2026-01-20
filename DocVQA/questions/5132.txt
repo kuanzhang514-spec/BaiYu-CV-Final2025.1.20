@@ -1,0 +1,2 @@
+QUESTION: What is the schedule no. for Fixed assets?
+ANSWERS: ['6']

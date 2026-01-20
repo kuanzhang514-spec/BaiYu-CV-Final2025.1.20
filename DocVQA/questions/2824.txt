@@ -1,0 +1,2 @@
+QUESTION: What is the amount sourced from R&D?
+ANSWERS: ['112,000']

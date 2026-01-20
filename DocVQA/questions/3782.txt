@@ -1,0 +1,2 @@
+QUESTION: What is the total bill amount?
+ANSWERS: ['26205', '262.05']

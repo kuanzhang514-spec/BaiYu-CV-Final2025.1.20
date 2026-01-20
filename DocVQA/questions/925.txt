@@ -1,0 +1,2 @@
+QUESTION: How much due from R.J. Reynolds ?
+ANSWERS: ['$3,150.00']

@@ -1,0 +1,2 @@
+QUESTION: How many’ no reported revisions’?
+ANSWERS: ['1087 (98.8%)', '1087']

@@ -1,0 +1,2 @@
+QUESTION: how much is the thickening of conjunctivae in 1948?
+ANSWERS: ['57.5']

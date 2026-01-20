@@ -1,0 +1,2 @@
+QUESTION: What is the annual membership  cost of joining the club ?
+ANSWERS: ['25', '$25']

@@ -1,0 +1,2 @@
+QUESTION: What is the ‘equity owner type’ mentioned ?
+ANSWERS: ['Non-Promoters-2008', 'Non-promoters-2008']

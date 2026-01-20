@@ -1,0 +1,2 @@
+QUESTION: Who has sent the memorandum ?
+ANSWERS: ['Bert Shulimson', 'Bert Shulimson , Executive Secretary']

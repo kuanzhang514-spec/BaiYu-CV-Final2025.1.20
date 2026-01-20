@@ -1,0 +1,2 @@
+QUESTION: What is the title of the first table?
+ANSWERS: ['Prosthesis cer-pol']

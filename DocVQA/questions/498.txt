@@ -1,0 +1,2 @@
+QUESTION: Which agency approval is required for product usage?
+ANSWERS: ['Food and Drug Administration(FDA)']

@@ -1,0 +1,2 @@
+QUESTION: What is the title of the document?
+ANSWERS: ['diet and coronary heart disease', 'DIET AND CORONARY HEART DISEASE']

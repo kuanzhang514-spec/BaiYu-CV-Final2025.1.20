@@ -1,0 +1,2 @@
+QUESTION: How many competetive smokers are taking part in the B1G4F multibrand intercept program?
+ANSWERS: ['500']

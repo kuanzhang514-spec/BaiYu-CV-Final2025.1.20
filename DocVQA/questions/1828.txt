@@ -1,0 +1,2 @@
+QUESTION: What is the Duration (cycles) for Study Number Phase III "300500"?
+ANSWERS: ['6/7']

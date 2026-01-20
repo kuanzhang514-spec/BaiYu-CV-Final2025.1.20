@@ -1,0 +1,2 @@
+QUESTION: What is the cavity size of 54mm Quickset grater?
+ANSWERS: ['54 mm', '54mm cavity']

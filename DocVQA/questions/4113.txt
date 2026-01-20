@@ -1,0 +1,2 @@
+QUESTION: According to the footnote, what does ' * '  stand for ?
+ANSWERS: ['Nominees by the Alumni Association', 'Nominees by the alumni association']

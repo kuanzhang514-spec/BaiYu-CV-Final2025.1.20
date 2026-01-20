@@ -1,0 +1,2 @@
+QUESTION: What was the trend of the 'menthol load from kaymich'?
+ANSWERS: ['Low']

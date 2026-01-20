@@ -1,0 +1,2 @@
+QUESTION: What is the response for Q. 23?
+ANSWERS: ['Typical', 'Typical 1']

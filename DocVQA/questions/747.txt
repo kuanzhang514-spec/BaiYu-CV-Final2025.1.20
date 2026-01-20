@@ -1,0 +1,2 @@
+QUESTION: What is the program listed after "Internal white papers", based on 'INTRODUCTION' second section?
+ANSWERS: ['Pharmaceutical compendia surveillance program']

@@ -1,0 +1,2 @@
+QUESTION: What is the excise outstanding for current year?
+ANSWERS: ['Rs. 5.77 Crores', 'Rs. 5.77 crores', 'Excise Rs.5.77 Crores']

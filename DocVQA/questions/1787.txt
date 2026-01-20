@@ -1,0 +1,2 @@
+QUESTION: What does the numbers in the Y-axis indicate?
+ANSWERS: ['Number of Patients']

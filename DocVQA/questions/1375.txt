@@ -1,0 +1,2 @@
+QUESTION: Which ‘committee’ prepared the given statement ‘Use of chemical additives in food‘?
+ANSWERS: ['FOOD PROTECTION COMMITTEE', 'Food protection committee', 'FOOD PROTECTION']

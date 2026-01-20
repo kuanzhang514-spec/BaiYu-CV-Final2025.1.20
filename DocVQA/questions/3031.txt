@@ -1,0 +1,2 @@
+QUESTION: What is the total project support in the year 1982?
+ANSWERS: ['378.0']

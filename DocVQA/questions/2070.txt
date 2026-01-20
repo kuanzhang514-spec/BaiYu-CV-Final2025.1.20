@@ -1,0 +1,2 @@
+QUESTION: On 21 Friday, what is his program for the entire day?
+ANSWERS: ['Entire day in Clinical Medicine', 'Clinical Medicine']

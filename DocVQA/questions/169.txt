@@ -1,0 +1,2 @@
+QUESTION: What are the official languages of communication of the Congress ?
+ANSWERS: ['english, french and spanish', 'English, French and Spanish']

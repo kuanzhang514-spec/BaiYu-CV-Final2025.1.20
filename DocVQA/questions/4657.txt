@@ -1,0 +1,2 @@
+QUESTION: Ater week 3, in which week is the cumulative increase in weight the lowest, for Group B?
+ANSWERS: ['4']

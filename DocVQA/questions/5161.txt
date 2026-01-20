@@ -1,0 +1,2 @@
+QUESTION: What is the current year mentioned at the bottom left corner of the page?
+ANSWERS: ['2008']

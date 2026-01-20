@@ -1,0 +1,2 @@
+QUESTION: In the scale, what does square represent?
+ANSWERS: ['HEATING IN SEALED TUBE', 'Heating in sealed tube']

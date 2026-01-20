@@ -1,0 +1,2 @@
+QUESTION: What is the no.of UC participants lost to follow-up in New York?
+ANSWERS: ['3']

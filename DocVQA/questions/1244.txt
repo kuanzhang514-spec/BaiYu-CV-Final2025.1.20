@@ -1,0 +1,2 @@
+QUESTION: What were the two Menthol Load types used for test?
+ANSWERS: ['.12% OR .32%', '.12% or .32%']

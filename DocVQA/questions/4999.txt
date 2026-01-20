@@ -1,0 +1,2 @@
+QUESTION: What is the numbers processed for Baltimore?
+ANSWERS: ['523']

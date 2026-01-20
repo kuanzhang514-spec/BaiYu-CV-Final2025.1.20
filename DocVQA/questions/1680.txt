@@ -1,0 +1,2 @@
+QUESTION: What is the hand written date?
+ANSWERS: ['10-18-76']

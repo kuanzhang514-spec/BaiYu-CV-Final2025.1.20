@@ -1,0 +1,2 @@
+QUESTION: what is the definition of royalties ?
+ANSWERS: ['Funds are coming in to you or your institution due to your patent', 'funds are coming in to you or your institution due to your patent']

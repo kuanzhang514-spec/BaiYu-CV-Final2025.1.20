@@ -1,0 +1,2 @@
+QUESTION: Is Esterified estrogen effective in treating Hot flushes vs Placebo?
+ANSWERS: ['yes', 'Yes']

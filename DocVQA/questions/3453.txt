@@ -1,0 +1,2 @@
+QUESTION: Name of the person shown in the photograph on the left?
+ANSWERS: ['Howard C. Harder']

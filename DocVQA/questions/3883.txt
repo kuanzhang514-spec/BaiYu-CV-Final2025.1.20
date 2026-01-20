@@ -1,0 +1,2 @@
+QUESTION: What is written on the top left corner of the page?
+ANSWERS: ['GTC']

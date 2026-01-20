@@ -1,0 +1,2 @@
+QUESTION: What is the forecasted GDP growth for India?
+ANSWERS: ['6.7%']

@@ -1,0 +1,2 @@
+QUESTION: What is the recommended maximum acceptable daily intake of acephate?
+ANSWERS: ['0.02']

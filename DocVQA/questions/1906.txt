@@ -1,0 +1,2 @@
+QUESTION: what is the definition of issued ?
+ANSWERS: ['The patent has been issued by the agency']

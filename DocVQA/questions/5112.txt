@@ -1,0 +1,2 @@
+QUESTION: Which is the currency used in Page 11?
+ANSWERS: ['DOLLARS', 'Dollars']

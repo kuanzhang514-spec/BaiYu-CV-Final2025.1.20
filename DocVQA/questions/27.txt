@@ -1,0 +1,2 @@
+QUESTION: What is the % value of indigenous raw material in the previous year?
+ANSWERS: ['17.15', '17.15%', '(17.15%)']

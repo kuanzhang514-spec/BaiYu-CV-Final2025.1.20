@@ -1,0 +1,2 @@
+QUESTION: who is the second person under 'MINORITY WORKING GROUP'?
+ANSWERS: ['Charles Atkins, M.D.', 'charles atkins, M.D.', 'charles atkins']

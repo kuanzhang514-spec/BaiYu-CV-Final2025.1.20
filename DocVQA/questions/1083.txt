@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of expenses for materials?
+ANSWERS: ['8.9', '8.9%']

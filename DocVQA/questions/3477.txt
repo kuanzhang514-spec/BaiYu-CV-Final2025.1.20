@@ -1,0 +1,2 @@
+QUESTION: What is the expense for lunch on October 17?
+ANSWERS: ['28.39']

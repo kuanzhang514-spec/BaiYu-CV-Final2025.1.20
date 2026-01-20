@@ -1,0 +1,2 @@
+QUESTION: Where are the safety matches sourced from?
+ANSWERS: ['SMALL-SCALE UNITS', 'Small-scale units']

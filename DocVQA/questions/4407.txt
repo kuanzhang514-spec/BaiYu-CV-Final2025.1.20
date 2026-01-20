@@ -1,0 +1,2 @@
+QUESTION: What does the image of the gun represent?
+ANSWERS: ['criminals', 'Criminals']

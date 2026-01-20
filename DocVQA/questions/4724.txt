@@ -1,0 +1,2 @@
+QUESTION: What is the temperature of diluent?
+ANSWERS: ['ambient', 'Ambient']

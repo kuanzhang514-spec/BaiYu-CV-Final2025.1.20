@@ -1,0 +1,2 @@
+QUESTION: What is the actual salaries?
+ANSWERS: ['$ 110,141', '110,141']

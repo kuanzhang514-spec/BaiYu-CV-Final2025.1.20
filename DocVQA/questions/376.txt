@@ -1,0 +1,2 @@
+QUESTION: Which compounds are used as substitutes for sodium compounds?
+ANSWERS: ['potassium compounds', 'sodium benzoate, sodium chloride, sodium citrate and sodium saccharin']

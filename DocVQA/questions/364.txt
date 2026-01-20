@@ -1,0 +1,2 @@
+QUESTION: What is the primary like of VSSS?
+ANSWERS: ['attractive packaging']

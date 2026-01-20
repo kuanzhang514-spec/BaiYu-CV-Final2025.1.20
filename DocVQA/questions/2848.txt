@@ -1,0 +1,2 @@
+QUESTION: What is the title provided in the left of the document
+ANSWERS: ['Judges for the 1971 Golden Carnation Award', 'JUDGES FOR THE 1971 GOLDEN CARNATION AWARD']

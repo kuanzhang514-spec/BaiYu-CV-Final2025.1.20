@@ -1,0 +1,2 @@
+QUESTION: During the current year, how much is the ‘research and development expenses for machinery repairs and maintenance ‘?
+ANSWERS: ['3,850 rupees', '3,850']

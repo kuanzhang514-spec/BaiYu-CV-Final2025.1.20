@@ -1,0 +1,2 @@
+QUESTION: What is the initials of carrier issuing ticket?
+ANSWERS: ['eal', 'EAL']

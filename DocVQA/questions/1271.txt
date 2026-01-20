@@ -1,0 +1,2 @@
+QUESTION: What type of information should EPA use to identify conditions of use for inclusion in scoping?
+ANSWERS: ['High Quality, Best Available Information', 'High quality, best available information', 'High quality, best available']

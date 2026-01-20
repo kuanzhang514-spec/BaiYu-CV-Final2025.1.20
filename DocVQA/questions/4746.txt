@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the first column?
+ANSWERS: ['DATE OF SERVICE', 'Date of service']

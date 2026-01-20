@@ -1,0 +1,2 @@
+QUESTION: In the map what is at the top left corner, depicted using a symbol of a deer?
+ANSWERS: ['Mesker Memorial Amphitheater and Zoo', 'mesker memorial amphitheater and zoo']

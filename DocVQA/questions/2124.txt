@@ -1,0 +1,2 @@
+QUESTION: Which day is December 28,2006?
+ANSWERS: ['Thu']

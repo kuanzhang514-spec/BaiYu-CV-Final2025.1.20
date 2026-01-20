@@ -1,0 +1,2 @@
+QUESTION: What is the name in the title of the document?
+ANSWERS: ['Arnold T. Mosberg', 'ARNOLD T. MOSBERG']

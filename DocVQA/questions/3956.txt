@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned in the top of the document ?
+ANSWERS: ['october 22, 1975', 'October 22, 1975']

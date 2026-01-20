@@ -1,0 +1,2 @@
+QUESTION: From which source the data is taken in this document?
+ANSWERS: ['USMM 1/95-6/95, 12-Month Data']

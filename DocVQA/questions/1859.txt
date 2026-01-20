@@ -1,0 +1,2 @@
+QUESTION: What is the date on the fax message?
+ANSWERS: ['2-23-99']

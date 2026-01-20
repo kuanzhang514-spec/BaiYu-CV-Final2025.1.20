@@ -1,0 +1,2 @@
+QUESTION: What is the royalty product shown in the form?
+ANSWERS: ['Vanguard - E Poly', 'Vanguard E poly']

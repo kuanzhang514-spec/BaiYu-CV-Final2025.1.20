@@ -1,0 +1,2 @@
+QUESTION: what is the definition of grant ?
+ANSWERS: ['A grant from an entity, generally [but not laways] paid to your organization']

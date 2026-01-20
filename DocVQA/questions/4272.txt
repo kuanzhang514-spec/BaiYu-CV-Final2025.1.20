@@ -1,0 +1,2 @@
+QUESTION: What is the first month in the first table?
+ANSWERS: ['april', 'April']

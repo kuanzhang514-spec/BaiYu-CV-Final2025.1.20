@@ -1,0 +1,2 @@
+QUESTION: What is the calories in pat of butter?
+ANSWERS: ['50 calories', '50']

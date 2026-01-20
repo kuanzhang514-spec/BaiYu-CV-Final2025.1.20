@@ -1,0 +1,2 @@
+QUESTION: What is the title of Table 1 ?
+ANSWERS: ['Baseline and Post Intervention Lipid and Lipoprotein Levels in Postmenopausal Women*']

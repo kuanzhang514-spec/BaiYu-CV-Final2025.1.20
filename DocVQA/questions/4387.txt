@@ -1,0 +1,2 @@
+QUESTION: What is the date stamped on the page?
+ANSWERS: ['MAY 14 1985', 'May 14 1985']

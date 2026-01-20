@@ -1,0 +1,2 @@
+QUESTION: What are the ‘dates implanted’?
+ANSWERS: ['2001~2008', '2001 2008']

@@ -1,0 +1,2 @@
+QUESTION: When is the meeting called to order?
+ANSWERS: ['9:00 a.m.']

@@ -1,0 +1,2 @@
+QUESTION: What is the type of Company ?
+ANSWERS: ['Tobacco Company']

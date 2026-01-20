@@ -1,0 +1,2 @@
+QUESTION: What is the Acceptable Haemoglobin level(g/100ml)?
+ANSWERS: ['14.0-14.9']

@@ -1,0 +1,2 @@
+QUESTION: What is the specimen ?
+ANSWERS: ['10 rat sera']

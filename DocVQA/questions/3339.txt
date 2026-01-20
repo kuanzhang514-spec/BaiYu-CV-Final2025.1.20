@@ -1,0 +1,2 @@
+QUESTION: What is the name of the Pharmaceutical company?
+ANSWERS: ['BURROUGHS WELLCOME CO.', 'Burroughs Wellcome Co.']

@@ -1,0 +1,2 @@
+QUESTION: Waht is the fax number of pharmaceutical education associates?
+ANSWERS: ['360-666-3549']

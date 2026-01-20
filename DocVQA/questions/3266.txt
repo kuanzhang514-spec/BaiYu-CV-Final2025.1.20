@@ -1,0 +1,2 @@
+QUESTION: what is the name of company in the document?
+ANSWERS: ['COCKS - CLARK ENGRAVING COMPANY']

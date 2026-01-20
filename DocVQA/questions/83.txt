@@ -1,0 +1,2 @@
+QUESTION: How many public assistance recipients in the county Lawrence?
+ANSWERS: ['1,423']

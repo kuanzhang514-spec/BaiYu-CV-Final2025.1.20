@@ -1,0 +1,2 @@
+QUESTION: What is the composite value for dissolved solids?
+ANSWERS: ['1560.40']

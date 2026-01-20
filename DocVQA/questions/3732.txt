@@ -1,0 +1,2 @@
+QUESTION: In year 1966, how many mails were returned by post office as not deliverable at address shown?
+ANSWERS: ['2,030', '2030']

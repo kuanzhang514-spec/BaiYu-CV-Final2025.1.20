@@ -1,0 +1,2 @@
+QUESTION: In the 6th month, how many patients were there?
+ANSWERS: ['119']

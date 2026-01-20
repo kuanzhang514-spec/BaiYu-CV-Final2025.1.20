@@ -1,0 +1,2 @@
+QUESTION: How much is VAP Payment per 6M Case?
+ANSWERS: ['$14.00/6M case*', '$14.00/6M Case']

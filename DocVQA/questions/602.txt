@@ -1,0 +1,2 @@
+QUESTION: What is the total  annual compensation in dollars?
+ANSWERS: ['$203,280']

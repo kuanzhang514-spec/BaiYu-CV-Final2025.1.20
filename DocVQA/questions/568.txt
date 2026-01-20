@@ -1,0 +1,2 @@
+QUESTION: What time is the ‘supper for subjects’?
+ANSWERS: ['5:15', '5.15', 'P.m']

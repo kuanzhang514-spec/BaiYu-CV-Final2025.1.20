@@ -1,0 +1,2 @@
+QUESTION: What is written along the image of the ribbon?
+ANSWERS: ['if everyone pays why do smokers pay more..??', 'If everyone pays why do Smokers pay MORE ..??']

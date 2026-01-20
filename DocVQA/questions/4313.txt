@@ -1,0 +1,2 @@
+QUESTION: What is the name of the sender ?
+ANSWERS: ['G.N.Kuruc, Jr.', 'G.N.Kuruc,Jr.']

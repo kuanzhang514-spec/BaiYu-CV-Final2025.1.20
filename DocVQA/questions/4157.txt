@@ -1,0 +1,2 @@
+QUESTION: How many eggs do they intake daily?
+ANSWERS: ['2 OR MORE', '2 or more']

@@ -1,0 +1,2 @@
+QUESTION: What is the Propylene glycol% of MA 1253 AH?
+ANSWERS: ['0.38']

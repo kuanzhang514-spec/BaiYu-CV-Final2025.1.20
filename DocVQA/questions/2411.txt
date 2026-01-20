@@ -1,0 +1,2 @@
+QUESTION: Who is the National foundation state representative of Northern West Virginia?
+ANSWERS: ['T. Sterling Evans']

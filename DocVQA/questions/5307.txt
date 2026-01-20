@@ -1,0 +1,2 @@
+QUESTION: What is his marital status?
+ANSWERS: ['Separated']

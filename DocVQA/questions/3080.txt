@@ -1,0 +1,2 @@
+QUESTION: How many hours of 'telecom with Fujimoto' was made on October 21?
+ANSWERS: ['0.5', '0.5 hours', '0.5 hours telecom with Fujimoto']

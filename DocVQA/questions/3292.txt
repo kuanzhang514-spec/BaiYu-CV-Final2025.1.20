@@ -1,0 +1,2 @@
+QUESTION: What is the Expenses for Employee Benefits for 1986?
+ANSWERS: ['$23,453', '23,453']

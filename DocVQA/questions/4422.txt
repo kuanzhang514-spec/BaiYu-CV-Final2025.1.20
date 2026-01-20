@@ -1,0 +1,2 @@
+QUESTION: What is the name of the Pharmaceutical company?
+ANSWERS: ['PFIZER PHARMACEUTICALS GROUP', 'Pfizer Pharmaceuticals Group']

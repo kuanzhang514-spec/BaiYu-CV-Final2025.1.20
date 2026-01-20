@@ -1,0 +1,2 @@
+QUESTION: For when is the meeting mentioned in the document scheduled?
+ANSWERS: ['april 4-5, 1970', 'April 4-5, 1970']

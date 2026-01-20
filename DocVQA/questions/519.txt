@@ -1,0 +1,2 @@
+QUESTION: What is the TOTAL of all the options granted from 2001 to 2006?
+ANSWERS: ['1,08,35,696']

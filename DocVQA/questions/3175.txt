@@ -1,0 +1,2 @@
+QUESTION: What does the symbol * indicate?
+ANSWERS: ['adjunct members', 'Adjunct members']

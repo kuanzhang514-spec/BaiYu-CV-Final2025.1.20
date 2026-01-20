@@ -1,0 +1,2 @@
+QUESTION: How much is the total income ?
+ANSWERS: ['8,899,947']

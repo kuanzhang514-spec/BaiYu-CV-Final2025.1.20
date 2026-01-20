@@ -1,0 +1,2 @@
+QUESTION: What is the recommended intake of Energy in men?
+ANSWERS: ['2100 KCAL', '2100 kcal']

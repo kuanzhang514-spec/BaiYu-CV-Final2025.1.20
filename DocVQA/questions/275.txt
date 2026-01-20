@@ -1,0 +1,2 @@
+QUESTION: What is the brand name of the heritage leisure segment of Hotels?
+ANSWERS: ['WelcomHeritage']

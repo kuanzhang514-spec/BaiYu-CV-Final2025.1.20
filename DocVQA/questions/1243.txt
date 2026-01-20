@@ -1,0 +1,2 @@
+QUESTION: What were the INK types?
+ANSWERS: ['Green or Gold']

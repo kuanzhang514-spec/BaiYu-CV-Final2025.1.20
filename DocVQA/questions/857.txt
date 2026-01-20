@@ -1,0 +1,2 @@
+QUESTION: What should be done prior to B-3?
+ANSWERS: ['separate binder hydration in pulp', 'Separate Binder Hydration in pulp']

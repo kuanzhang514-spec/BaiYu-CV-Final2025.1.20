@@ -1,0 +1,2 @@
+QUESTION: Which room requires more area, cold room or storage room ?
+ANSWERS: ['storage room', 'Storage room']

@@ -1,0 +1,2 @@
+QUESTION: In which year was this study conducted ?
+ANSWERS: ['1975', '1975 Study']

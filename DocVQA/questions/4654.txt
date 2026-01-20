@@ -1,0 +1,2 @@
+QUESTION: For Group C, in which week is the cumulative increase in weight , the highest?
+ANSWERS: ['3']

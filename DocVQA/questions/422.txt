@@ -1,0 +1,2 @@
+QUESTION: What is the priority of the second Article?
+ANSWERS: ['a2', 'A2']

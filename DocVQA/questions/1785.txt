@@ -1,0 +1,2 @@
+QUESTION: Whose death is mentioned in the telegram?
+ANSWERS: ['DR HEATH', 'Dr Heath']

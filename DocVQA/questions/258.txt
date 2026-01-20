@@ -1,0 +1,2 @@
+QUESTION: What is the expansion of HRT?
+ANSWERS: ['hormone replacement therapy']

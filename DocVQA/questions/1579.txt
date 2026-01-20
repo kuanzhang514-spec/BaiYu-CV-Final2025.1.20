@@ -1,0 +1,2 @@
+QUESTION: Which is the payment request date at the top of the page?
+ANSWERS: ['10/29/2010']

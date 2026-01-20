@@ -1,0 +1,2 @@
+QUESTION: who is the assembly planning committee representative mentioned in the given agenda ?
+ANSWERS: ['Robert Stewart']

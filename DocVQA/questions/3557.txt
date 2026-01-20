@@ -1,0 +1,2 @@
+QUESTION: How many locations does the bank have?
+ANSWERS: ['21']

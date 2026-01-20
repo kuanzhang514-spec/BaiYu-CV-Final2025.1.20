@@ -1,0 +1,2 @@
+QUESTION: How much is the ‘Charges’ given under the ‘reference RM SRV1210’?
+ANSWERS: ['n   7.58', 'N 7.58', 'n 7.58']

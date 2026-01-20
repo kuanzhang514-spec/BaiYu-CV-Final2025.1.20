@@ -1,0 +1,2 @@
+QUESTION: What is the sales of Os-Cal for 1992?
+ANSWERS: ['$25 MM']

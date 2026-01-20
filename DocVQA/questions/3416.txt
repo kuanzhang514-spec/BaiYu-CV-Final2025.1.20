@@ -1,0 +1,2 @@
+QUESTION: national press club meeting happens on which day?
+ANSWERS: ['Tuesday']

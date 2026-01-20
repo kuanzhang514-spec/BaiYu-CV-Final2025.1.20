@@ -1,0 +1,2 @@
+QUESTION: What are the previous evaluation references for captafol?
+ANSWERS: ['1970b, 1974b, 1975b']

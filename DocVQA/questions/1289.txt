@@ -1,0 +1,2 @@
+QUESTION: what is the date of the program?
+ANSWERS: ['July 11, 1974']

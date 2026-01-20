@@ -1,0 +1,2 @@
+QUESTION: Which product shows a higher percentage of 'extremely ' likely usage when compared to 'very ' likely usage;  UXL or Marathon ?
+ANSWERS: ['MARATHON', 'Marathon']

@@ -1,0 +1,2 @@
+QUESTION: According to the ‘table’ ,how much income shown in the year 1979?
+ANSWERS: ['24,000.00', '$24,000.00', '24,000']

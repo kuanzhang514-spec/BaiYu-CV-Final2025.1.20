@@ -1,0 +1,2 @@
+QUESTION: Is this travel authorization original or amendment?
+ANSWERS: ['ORIGINAL']

@@ -1,0 +1,2 @@
+QUESTION: What is the date of the magazine?
+ANSWERS: ['october 1969', 'October 1969']

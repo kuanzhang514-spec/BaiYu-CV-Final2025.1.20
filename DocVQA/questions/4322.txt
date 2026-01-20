@@ -1,0 +1,2 @@
+QUESTION: What is the weight of heart of dog named "12M" in grams?
+ANSWERS: ['90']

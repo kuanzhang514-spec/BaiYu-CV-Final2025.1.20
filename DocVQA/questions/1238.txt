@@ -1,0 +1,2 @@
+QUESTION: What is subheading B?
+ANSWERS: ['Inactive chemicals and new chemicals', 'Inactive chemicals and New chemicals']

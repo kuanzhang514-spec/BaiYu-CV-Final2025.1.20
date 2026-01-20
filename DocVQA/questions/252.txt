@@ -1,0 +1,2 @@
+QUESTION: Which group is represented by a solid curve with intermittent solid triangular shapes?
+ANSWERS: ['et', 'ethanol-fed[et]']

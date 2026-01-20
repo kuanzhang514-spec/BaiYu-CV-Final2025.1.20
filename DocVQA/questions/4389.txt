@@ -1,0 +1,2 @@
+QUESTION: What is the title of the article?
+ANSWERS: ['The second-hand smokescreen', 'The second-hand smokescreen.']

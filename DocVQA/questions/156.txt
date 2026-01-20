@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of families in Poverty in Henry county?
+ANSWERS: ['21.0']

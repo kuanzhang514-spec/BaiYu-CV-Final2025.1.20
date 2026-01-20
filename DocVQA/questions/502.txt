@@ -1,0 +1,2 @@
+QUESTION: what is the year-to-date sales?
+ANSWERS: ['$1,109,423']

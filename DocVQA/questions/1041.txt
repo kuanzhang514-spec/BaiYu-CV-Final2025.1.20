@@ -1,0 +1,2 @@
+QUESTION: What is the 'basic earning per share' for previous year?
+ANSWERS: ['16.75']

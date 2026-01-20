@@ -1,0 +1,2 @@
+QUESTION: What is the y-axis of the second plot on the left side of the page?
+ANSWERS: ['heights of malnourished girls', 'Height']

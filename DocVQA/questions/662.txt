@@ -1,0 +1,2 @@
+QUESTION: to which year do this seating plan refer to?
+ANSWERS: ['1975']

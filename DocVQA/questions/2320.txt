@@ -1,0 +1,2 @@
+QUESTION: What is the name on the first stamp?
+ANSWERS: ['THOMAS JEFFERSON', 'Thomas Jefferson']

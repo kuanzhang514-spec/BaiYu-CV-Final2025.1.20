@@ -1,0 +1,2 @@
+QUESTION: How much is the estimated amount for ‘computer time’ in supplies and services?
+ANSWERS: ['5,000', '$5,000']

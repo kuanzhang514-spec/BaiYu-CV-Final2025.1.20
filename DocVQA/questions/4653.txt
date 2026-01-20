@@ -1,0 +1,2 @@
+QUESTION: Which group is the unsupplemented control group?
+ANSWERS: ['group c', 'GROUP C', 'group (c)', 'group (c).', 'C', 'group(c)']

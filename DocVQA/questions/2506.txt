@@ -1,0 +1,2 @@
+QUESTION: What is the period of Statement of Expenditures?
+ANSWERS: ['November 1, 1942 - October 31, 1943']

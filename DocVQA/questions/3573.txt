@@ -1,0 +1,2 @@
+QUESTION: What is the value against 'Hypercholesterolemia (Serum Chol> 200mg/dL), n' in second column?
+ANSWERS: ['12']

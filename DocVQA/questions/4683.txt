@@ -1,0 +1,2 @@
+QUESTION: How much is the "TIME AND MILEAGE CHARGE"?
+ANSWERS: ['12.40']

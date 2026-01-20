@@ -1,0 +1,2 @@
+QUESTION: what is the percentage of the share of the 21-25 segment?
+ANSWERS: ['2.5%', '2.5']

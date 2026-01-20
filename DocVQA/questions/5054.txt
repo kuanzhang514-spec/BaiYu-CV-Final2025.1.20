@@ -1,0 +1,2 @@
+QUESTION: What is the title of table 4?
+ANSWERS: ['Preplant herbicide effect on yields, Longmont,Colo., 1974']

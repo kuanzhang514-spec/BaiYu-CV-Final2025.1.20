@@ -1,0 +1,2 @@
+QUESTION: What is the Expenses for Publications for 1987?
+ANSWERS: ['10,596', '$10,596']

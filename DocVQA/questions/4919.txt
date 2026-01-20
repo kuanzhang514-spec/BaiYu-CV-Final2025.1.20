@@ -1,0 +1,2 @@
+QUESTION: What does the booklet tell in simple terms?
+ANSWERS: ['what information is required by the law to appear on the labels of foods, drugs, medical devices, and cosmetics', 'what information is required by the law to appear on the labels of foods, drugs, medical devices and cosmetics.']

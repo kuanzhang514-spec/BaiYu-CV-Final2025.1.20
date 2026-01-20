@@ -1,0 +1,2 @@
+QUESTION: How much is  "Pay Percent%"?
+ANSWERS: ['100%']

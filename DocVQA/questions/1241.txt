@@ -1,0 +1,2 @@
+QUESTION: With how many parts were the'tests accomplished'?
+ANSWERS: ['24']

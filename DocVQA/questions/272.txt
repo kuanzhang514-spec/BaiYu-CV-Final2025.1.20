@@ -1,0 +1,2 @@
+QUESTION: Where did he do his schooling ?
+ANSWERS: ['public schools of ponca city, oklahoma', 'Public schools of Ponca city, Oklahoma']

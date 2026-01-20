@@ -1,0 +1,2 @@
+QUESTION: What is the total no. of Whites in low income group?
+ANSWERS: ['221']

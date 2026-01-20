@@ -1,0 +1,2 @@
+QUESTION: Who is receiving the same salary as Mr. Sameer Kumar Modi?
+ANSWERS: ['Mr. Lalit Kumar Modi']

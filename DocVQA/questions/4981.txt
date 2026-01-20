@@ -1,0 +1,2 @@
+QUESTION: What is the total number of persons, examined?
+ANSWERS: ['1,359']

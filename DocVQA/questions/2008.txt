@@ -1,0 +1,2 @@
+QUESTION: What is the date stamped?
+ANSWERS: ['Dec 14 1976']

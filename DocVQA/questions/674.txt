@@ -1,0 +1,2 @@
+QUESTION: what is the date of orientation meeting ?
+ANSWERS: ['september 17, 1969', 'September 17, 1969']

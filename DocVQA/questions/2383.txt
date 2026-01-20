@@ -1,0 +1,2 @@
+QUESTION: What is the title of the bar graph?
+ANSWERS: ['Likelihood to use Ultamet XL', 'Likelihood to use ultamet XL']

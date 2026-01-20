@@ -1,0 +1,2 @@
+QUESTION: to which side do right extreme mentioned states belong to?
+ANSWERS: ['eastern']

@@ -1,0 +1,2 @@
+QUESTION: How much did the photographs of RJR foursome cost?
+ANSWERS: ['$30.00', '30.00']

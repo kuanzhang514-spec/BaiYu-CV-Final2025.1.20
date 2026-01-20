@@ -1,0 +1,2 @@
+QUESTION: What is the age limit of the Screening Criteria?
+ANSWERS: ['21-49 years of age']

@@ -1,0 +1,2 @@
+QUESTION: Where are study drugs stored based on sub-title "Site specifics" ?
+ANSWERS: ['locked cabinet', 'Locked cabinet']

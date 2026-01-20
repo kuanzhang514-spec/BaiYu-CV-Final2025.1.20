@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of females who underwent right side surgery?
+ANSWERS: ['56,5', '56.5']

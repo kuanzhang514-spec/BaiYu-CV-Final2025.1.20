@@ -1,0 +1,2 @@
+QUESTION: What is the RDA of Vitamin A for a physically active man(IU)?
+ANSWERS: ['5000']

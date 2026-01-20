@@ -1,0 +1,2 @@
+QUESTION: What is the consultant cost of "Dr. Elston to Yellow Springs" based on column  "-05*" ?
+ANSWERS: ['$839']

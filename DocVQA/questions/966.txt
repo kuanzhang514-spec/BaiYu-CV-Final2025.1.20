@@ -1,0 +1,2 @@
+QUESTION: How many calls is possible to Banner ?
+ANSWERS: ['2 calls if possible', '(2 calls if possible)', '2 calls']

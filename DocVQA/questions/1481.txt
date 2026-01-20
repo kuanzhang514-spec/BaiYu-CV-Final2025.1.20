@@ -1,0 +1,2 @@
+QUESTION: Where did William J Darby prefer to stay ,according to the letter he wrote?
+ANSWERS: ['Radisson', 'RADISSON']

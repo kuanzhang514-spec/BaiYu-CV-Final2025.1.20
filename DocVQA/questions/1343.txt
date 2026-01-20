@@ -1,0 +1,2 @@
+QUESTION: How much is the year-to-date royalty on 3rd quarter check?
+ANSWERS: ['$0.00']

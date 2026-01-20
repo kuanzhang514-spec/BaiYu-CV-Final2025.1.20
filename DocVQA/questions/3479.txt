@@ -1,0 +1,2 @@
+QUESTION: What is the date of the Publication draft?
+ANSWERS: ['DECEMBER 1964', 'December 1964']

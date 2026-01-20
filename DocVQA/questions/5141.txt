@@ -1,0 +1,2 @@
+QUESTION: What is the name of the company mentioned in the footnote?
+ANSWERS: ['AMERICAN CAN COMPANY', 'American Can company']

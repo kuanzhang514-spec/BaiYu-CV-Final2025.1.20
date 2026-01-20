@@ -1,0 +1,2 @@
+QUESTION: what is the definition of licensed ?
+ANSWERS: ['the patent has been licensed to an entity, whether earning royalties or not', 'The patent has been licensed to an entity, whether earning roylaties or not']

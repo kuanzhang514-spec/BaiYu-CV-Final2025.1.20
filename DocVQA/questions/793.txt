@@ -1,0 +1,2 @@
+QUESTION: When is the date to be paid?
+ANSWERS: ['2/12/2010']

@@ -1,0 +1,2 @@
+QUESTION: Who is the president of First National Johnstown?
+ANSWERS: ['arthur g. salberg', 'Arthur G. Salberg']

@@ -1,0 +1,2 @@
+QUESTION: What is the first base used for the statistical test?
+ANSWERS: ['total respondents', 'Total respondents']

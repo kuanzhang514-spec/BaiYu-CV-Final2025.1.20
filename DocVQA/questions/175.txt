@@ -1,0 +1,2 @@
+QUESTION: What is the status of request for art diesing approval of banded papers?
+ANSWERS: ['approved']

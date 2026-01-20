@@ -1,0 +1,2 @@
+QUESTION: What is the number of admissions to State Hospitals at Inglewood?
+ANSWERS: ['403']

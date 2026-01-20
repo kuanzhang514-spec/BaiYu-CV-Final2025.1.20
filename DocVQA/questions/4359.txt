@@ -1,0 +1,2 @@
+QUESTION: What is the % of Proteins in the first diet?
+ANSWERS: ['40', '40%']

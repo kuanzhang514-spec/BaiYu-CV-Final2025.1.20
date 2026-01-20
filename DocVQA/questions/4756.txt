@@ -1,0 +1,2 @@
+QUESTION: What does the symbol * indicate?
+ANSWERS: ['not asked in 1988 and 1989', 'Not asked in 1988 and 1989.']

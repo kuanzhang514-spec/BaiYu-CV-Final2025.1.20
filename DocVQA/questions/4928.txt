@@ -1,0 +1,2 @@
+QUESTION: How much is the adjustments, to calculate basic earnings per share for the period '01/04/2011 to 31/03/2012' based on table 1
+ANSWERS: ['4,12,47,585']

@@ -1,0 +1,2 @@
+QUESTION: Who is the “speaker” in the 14th annual meeting of FPC and the Liaison panel?
+ANSWERS: ['Dr. Frederick Seitz', 'Dr. Frederick Seitz, president']

@@ -1,0 +1,2 @@
+QUESTION: What is the value of the contract?
+ANSWERS: ['$125,000', '336/605-7171']

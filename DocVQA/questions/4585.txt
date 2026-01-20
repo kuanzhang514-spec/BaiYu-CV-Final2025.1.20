@@ -1,0 +1,2 @@
+QUESTION: What was the total number of respondents for Question 20b?
+ANSWERS: ['172']

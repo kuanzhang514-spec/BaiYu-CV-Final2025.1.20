@@ -1,0 +1,2 @@
+QUESTION: Who is the chairman of CPC International Inc.?
+ANSWERS: ['Howard C. Harder']

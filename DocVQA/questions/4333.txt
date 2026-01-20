@@ -1,0 +1,2 @@
+QUESTION: What type of document is this?
+ANSWERS: ['Accounts Payable Voucher']

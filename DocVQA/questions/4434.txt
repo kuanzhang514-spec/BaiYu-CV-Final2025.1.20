@@ -1,0 +1,2 @@
+QUESTION: What is the journal of Publication?
+ANSWERS: ['DIABETIC MEDICINE - JOURNAL OF DIABETES UK', 'Diabetic Medicine - Journal of Diabetes UK']

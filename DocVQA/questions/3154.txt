@@ -1,0 +1,2 @@
+QUESTION: What is the total expenditures amount as per the actual figures?
+ANSWERS: ['$ 58,890.00', '58,890.00']

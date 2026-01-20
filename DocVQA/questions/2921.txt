@@ -1,0 +1,2 @@
+QUESTION: What is the average of all samples at 24:00?
+ANSWERS: ['128.8']

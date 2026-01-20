@@ -1,0 +1,2 @@
+QUESTION: Is the farm irrigated?
+ANSWERS: ['No', 'no']

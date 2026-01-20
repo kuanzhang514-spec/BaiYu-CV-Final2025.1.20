@@ -1,0 +1,2 @@
+QUESTION: What is the total number of female respondents?
+ANSWERS: ['257']

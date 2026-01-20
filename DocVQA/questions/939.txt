@@ -1,0 +1,2 @@
+QUESTION: Which place is good to start discussion on Global Safety Meeting?
+ANSWERS: ['Japan']

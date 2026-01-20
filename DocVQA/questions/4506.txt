@@ -1,0 +1,2 @@
+QUESTION: Is the drug storage locked(Y/N) based on sub-title "Site specifics" ?
+ANSWERS: ['Y']

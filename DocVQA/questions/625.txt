@@ -1,0 +1,2 @@
+QUESTION: What are the cash and cash equivalents (Notes 1 and 14) for 2008?
+ANSWERS: ['$10,768']

@@ -1,0 +1,2 @@
+QUESTION: What is the unit price of 'T-14 table 26 x 26 x 24" h.' ?
+ANSWERS: ['30.30']

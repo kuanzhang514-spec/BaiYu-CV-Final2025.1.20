@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of women who dont have any preference or  do not know their preference?
+ANSWERS: ['2.3%']

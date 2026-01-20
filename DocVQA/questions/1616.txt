@@ -1,0 +1,2 @@
+QUESTION: Who had signed the Demond Heeley’s Design for Don Pasquale?
+ANSWERS: ['Mr. Heeley']

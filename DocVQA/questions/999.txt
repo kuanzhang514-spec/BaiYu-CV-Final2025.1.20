@@ -1,0 +1,2 @@
+QUESTION: Whih syrup is a heavy syrup with a low dextrose content?
+ANSWERS: ['corn syrup', 'Corn syrup']

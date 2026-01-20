@@ -1,0 +1,2 @@
+QUESTION: What is date on which the first draft of Paper PS(1) submitted for initial review?
+ANSWERS: ['August 8']

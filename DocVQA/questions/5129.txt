@@ -1,0 +1,2 @@
+QUESTION: What type of accounting statement is it?
+ANSWERS: ['BALANCE SHEET', 'Balance sheet']

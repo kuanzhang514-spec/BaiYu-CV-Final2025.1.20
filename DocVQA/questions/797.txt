@@ -1,0 +1,2 @@
+QUESTION: What % of the respondents are 'Somewhat concerned'?
+ANSWERS: ['34.3']

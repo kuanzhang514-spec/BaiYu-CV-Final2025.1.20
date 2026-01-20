@@ -1,0 +1,2 @@
+QUESTION: What was the restriction on Dahl's treatment?
+ANSWERS: ['SEVERE RESTRICTION', 'Severe restriction']

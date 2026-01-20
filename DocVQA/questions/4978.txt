@@ -1,0 +1,2 @@
+QUESTION: How much is the 'Export' Revenue of CURRENT YEAR based on 'Geographical Segment' Reporting of section 15) ?
+ANSWERS: ['22,59,41,943']

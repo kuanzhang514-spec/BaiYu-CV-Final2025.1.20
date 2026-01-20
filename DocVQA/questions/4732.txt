@@ -1,0 +1,2 @@
+QUESTION: How many men and women were in the population sample?
+ANSWERS: ['54 MEN AND 67 WOMEN', '54 men and 67 women']

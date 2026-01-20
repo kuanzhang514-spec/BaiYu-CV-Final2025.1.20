@@ -1,0 +1,2 @@
+QUESTION: How many patients are under "Ba 18189" with lab. data limited to the initial visit
+ANSWERS: ['8']

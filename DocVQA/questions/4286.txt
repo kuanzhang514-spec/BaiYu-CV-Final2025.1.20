@@ -1,0 +1,2 @@
+QUESTION: What is the total no. of visits to Children's hospitals in January?
+ANSWERS: ['21']

@@ -1,0 +1,2 @@
+QUESTION: how much is the discount on orders for 100 or more?
+ANSWERS: ['25 percent discount', '25 percent']

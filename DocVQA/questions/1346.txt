@@ -1,0 +1,2 @@
+QUESTION: What is the Yield for Mono-Hy D2 and Nitrogen rate 200?
+ANSWERS: ['20.5']

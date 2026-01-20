@@ -1,0 +1,2 @@
+QUESTION: How much is the ‘total personnel’ amount estimated in the budget?
+ANSWERS: ['47,047', '$47,047']

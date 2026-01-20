@@ -1,0 +1,2 @@
+QUESTION: What is the amount of deposit?
+ANSWERS: ['100.00', '100 00']

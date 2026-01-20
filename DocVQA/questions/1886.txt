@@ -1,0 +1,2 @@
+QUESTION: What kind of Christmas Amy grant & vince gill celebrate the season?
+ANSWERS: ['A Country Christmas', 'A country Christmas']

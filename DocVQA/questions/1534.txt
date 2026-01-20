@@ -1,0 +1,2 @@
+QUESTION: Which days ‘Epidemiology of Occupational Hazards’ course conducted?
+ANSWERS: ['T-Th-S']

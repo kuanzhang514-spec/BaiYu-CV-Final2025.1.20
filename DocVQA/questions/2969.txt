@@ -1,0 +1,2 @@
+QUESTION: What time is the ‘registration’ according to the program?
+ANSWERS: ['10:00 - 10:30 a.m.']

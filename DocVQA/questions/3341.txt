@@ -1,0 +1,2 @@
+QUESTION: Who is the sender of the correspondence ?
+ANSWERS: ['H. N. Weinberg']

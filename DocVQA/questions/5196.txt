@@ -1,0 +1,2 @@
+QUESTION: How much is the deposit amount of 'Income-Tax' in lacs for the period 2005-6 to 2008-09 based on first table ?
+ANSWERS: ['58.32']

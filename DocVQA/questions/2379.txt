@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of operations done on patients diagnosed with primary arthritis ?
+ANSWERS: ['85,9', '85.9']

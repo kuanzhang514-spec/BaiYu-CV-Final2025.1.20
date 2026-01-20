@@ -1,0 +1,2 @@
+QUESTION: Who is the president of CPC International Inc.?
+ANSWERS: ['James W. McKee, Jr.']

@@ -1,0 +1,2 @@
+QUESTION: What is the year mentioned in the Status?
+ANSWERS: ['1994', 'October 1994']

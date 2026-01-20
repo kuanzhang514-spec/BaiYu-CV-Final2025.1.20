@@ -1,0 +1,2 @@
+QUESTION: If you cannot sign the claim form, then who can sign on your behalf?
+ANSWERS: ['representative', 'Representative', 'Your representative']

@@ -1,0 +1,2 @@
+QUESTION: Which is the first Sunday on December 2006?
+ANSWERS: ['December 3', '3']

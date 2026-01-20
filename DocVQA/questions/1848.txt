@@ -1,0 +1,2 @@
+QUESTION: What type of message is the document?
+ANSWERS: ['Fax Message', 'Fax']

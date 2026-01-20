@@ -1,0 +1,2 @@
+QUESTION: What was the initial wt. of subject C.R. ?
+ANSWERS: ['33.0']

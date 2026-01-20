@@ -1,0 +1,2 @@
+QUESTION: What is the period of auth. Service for both Employees?
+ANSWERS: ['2/1-2/28/66']

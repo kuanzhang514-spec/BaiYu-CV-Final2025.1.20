@@ -1,0 +1,2 @@
+QUESTION: what eating habit does '3/ ' indicate in the footnote at the bottom of the page?
+ANSWERS: ['wheat-eaters', 'Wheat-eaters']

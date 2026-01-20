@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the map?
+ANSWERS: ['Comparison of basic hourly wage rates for male workers and cost of living in various sugar refining centers', 'Comparison of basic hourly wage rates for male workers and cost of living in various sugar Refining centers']

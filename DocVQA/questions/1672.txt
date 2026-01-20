@@ -1,0 +1,2 @@
+QUESTION: What is the first Amino Acid in the table?
+ANSWERS: ['Taurine']

@@ -1,0 +1,2 @@
+QUESTION: What is the timing?
+ANSWERS: ['immediate through september', 'Immediate through September']

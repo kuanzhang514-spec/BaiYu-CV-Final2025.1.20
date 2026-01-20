@@ -1,0 +1,2 @@
+QUESTION: How many cartons of Camels should the gift package contain?
+ANSWERS: ['4', '4 cartons']

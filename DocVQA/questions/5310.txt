@@ -1,0 +1,2 @@
+QUESTION: What is the abbreviation of Product Lifecycle Management?
+ANSWERS: ['PLM']

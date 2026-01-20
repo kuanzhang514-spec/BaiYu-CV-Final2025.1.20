@@ -1,0 +1,2 @@
+QUESTION: What is the'duration in months' for 'water on tobacco' ?
+ANSWERS: ['4']

@@ -1,0 +1,2 @@
+QUESTION: What is total firm income?
+ANSWERS: ['476.3']

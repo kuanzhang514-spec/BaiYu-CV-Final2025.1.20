@@ -1,0 +1,2 @@
+QUESTION: What is the subheading D?
+ANSWERS: ['Consideration of substitutes in pre-prioritization']

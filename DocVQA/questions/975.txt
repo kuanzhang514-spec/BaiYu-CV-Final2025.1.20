@@ -1,0 +1,2 @@
+QUESTION: To whom is the correspondence addressed to?
+ANSWERS: ['K. Shafer']

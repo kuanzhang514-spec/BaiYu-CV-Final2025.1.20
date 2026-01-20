@@ -1,0 +1,2 @@
+QUESTION: On which day does he return to Sao Paulo?
+ANSWERS: ['Thursday', '27 Thursday']

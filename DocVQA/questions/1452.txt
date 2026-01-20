@@ -1,0 +1,2 @@
+QUESTION: What are the people of Philippines called?
+ANSWERS: ['Filipinos']

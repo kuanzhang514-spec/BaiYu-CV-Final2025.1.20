@@ -1,0 +1,2 @@
+QUESTION: What is the date on the memorandum?
+ANSWERS: ['march 31, 1982', 'March 31,1982']

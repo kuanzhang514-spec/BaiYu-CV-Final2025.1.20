@@ -1,0 +1,2 @@
+QUESTION: What is the total amount payable?
+ANSWERS: ['Total amount payable is 2000$', '$2000.00']

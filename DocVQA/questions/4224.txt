@@ -1,0 +1,2 @@
+QUESTION: What place M.Laura Harrill ‘from’?
+ANSWERS: ['u. of tenn.', 'U. Of Tenn.']

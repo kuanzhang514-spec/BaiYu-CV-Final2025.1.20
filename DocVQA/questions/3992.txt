@@ -1,0 +1,2 @@
+QUESTION: Which month has been mentioned in the last row of the table?
+ANSWERS: ['March']

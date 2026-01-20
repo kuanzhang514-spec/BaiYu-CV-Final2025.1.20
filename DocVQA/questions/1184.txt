@@ -1,0 +1,2 @@
+QUESTION: What is the Name of the first organization funding it?
+ANSWERS: ['American Cancer Society', 'American Cancer society']

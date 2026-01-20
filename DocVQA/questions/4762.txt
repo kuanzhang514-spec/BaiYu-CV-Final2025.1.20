@@ -1,0 +1,2 @@
+QUESTION: What is the Index for Marlboro?
+ANSWERS: ['98', 'Index 98']

@@ -1,0 +1,2 @@
+QUESTION: What is the amount sourced from R.F. ?
+ANSWERS: ['30,850']

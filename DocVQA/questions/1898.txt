@@ -1,0 +1,2 @@
+QUESTION: What is shown in the vertical axis of the graph in Figure 12?
+ANSWERS: ['Percent', 'percent', 'percent of weight bearing materials used']

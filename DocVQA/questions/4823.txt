@@ -1,0 +1,2 @@
+QUESTION: Who is the author of the publication?
+ANSWERS: ['alice henderson smith', 'Alice Henderson Smith']

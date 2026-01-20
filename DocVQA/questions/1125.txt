@@ -1,0 +1,2 @@
+QUESTION: What is the heading of Table 2?
+ANSWERS: ['Rat, Female', 'TABLE 2-Rat, female']

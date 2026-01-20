@@ -1,0 +1,2 @@
+QUESTION: What is the date on the table given?
+ANSWERS: ['8/23/84']

@@ -1,0 +1,2 @@
+QUESTION: What is the ‘supplies’ for ‘1st period (same as detailed budget)’?
+ANSWERS: ['4,030', '$4,030']

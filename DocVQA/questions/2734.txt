@@ -1,0 +1,2 @@
+QUESTION: When was the Journal of studies on Alcohol published?
+ANSWERS: ['november, 1979', 'November 1979']

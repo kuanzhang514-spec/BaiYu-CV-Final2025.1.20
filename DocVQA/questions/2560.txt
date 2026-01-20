@@ -1,0 +1,2 @@
+QUESTION: How much usage is for 'AREA 10.' in 1955?
+ANSWERS: ['7,521,100']

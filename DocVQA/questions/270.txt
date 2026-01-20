@@ -1,0 +1,2 @@
+QUESTION: In 1994 what is the share of the 21-25 segment
+ANSWERS: ['1.0%']

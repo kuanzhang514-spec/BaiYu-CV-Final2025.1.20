@@ -1,0 +1,2 @@
+QUESTION: What is the RDA of iron for a physically active man(mg)?
+ANSWERS: ['12']

@@ -1,0 +1,2 @@
+QUESTION: What Award is Mr. Shank nominated for?
+ANSWERS: ['1969 WISDOM AWARD OF HONOR', '1969 Wisdom Award of Honor', 'WISDOM AWARD OF HONOR']

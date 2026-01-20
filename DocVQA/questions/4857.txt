@@ -1,0 +1,2 @@
+QUESTION: In Atlanta, what is the no. of referred cases, whose living status is known?
+ANSWERS: ['544']

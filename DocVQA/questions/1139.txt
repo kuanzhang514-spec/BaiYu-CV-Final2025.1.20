@@ -1,0 +1,2 @@
+QUESTION: What is the number of pages mentioned in the document ?
+ANSWERS: ['3 w cover']

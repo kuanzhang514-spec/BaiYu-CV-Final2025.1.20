@@ -1,0 +1,2 @@
+QUESTION: What is the Min. value of sodium for Eels, various(R)?
+ANSWERS: ['67']

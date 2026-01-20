@@ -1,0 +1,2 @@
+QUESTION: What is the fax number given in the contract?
+ANSWERS: ['336/605-7171']

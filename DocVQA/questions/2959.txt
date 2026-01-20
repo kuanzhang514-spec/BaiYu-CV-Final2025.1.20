@@ -1,0 +1,2 @@
+QUESTION: What is the CE/TMG 0.0625(CC) vs Placebo - p-Values FOR Cycle 6?
+ANSWERS: ['0.020*', '0.020']

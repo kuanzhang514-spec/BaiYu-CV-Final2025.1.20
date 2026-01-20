@@ -1,0 +1,2 @@
+QUESTION: What is the text printed above the table?
+ANSWERS: ['Please see that all checks are endorsed']

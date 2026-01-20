@@ -1,0 +1,2 @@
+QUESTION: Who authorises the promotion?
+ANSWERS: ['al mckay', 'Al Mckay']

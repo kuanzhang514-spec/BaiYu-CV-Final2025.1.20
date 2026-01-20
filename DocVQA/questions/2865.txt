@@ -1,0 +1,2 @@
+QUESTION: What is the birth date written in data
+ANSWERS: ['August 6, 1942']

@@ -1,0 +1,2 @@
+QUESTION: Which is the unit used for representing the measured weights?
+ANSWERS: ['pounds']

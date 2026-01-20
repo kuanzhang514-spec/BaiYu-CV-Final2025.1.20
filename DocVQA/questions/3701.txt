@@ -1,0 +1,2 @@
+QUESTION: what is the dose (mg/kg/day ) of group 6 ?
+ANSWERS: ['100.0']

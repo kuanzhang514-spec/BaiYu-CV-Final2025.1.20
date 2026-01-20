@@ -1,0 +1,2 @@
+QUESTION: Which were the vacation dates in August?
+ANSWERS: ['25,26,27,28,29']

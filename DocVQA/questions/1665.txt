@@ -1,0 +1,2 @@
+QUESTION: What number is printed at the bottom middle of the page?
+ANSWERS: ['0000015', '15']

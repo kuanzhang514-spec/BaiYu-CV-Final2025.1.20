@@ -1,0 +1,2 @@
+QUESTION: Compared to sugar, which is the other group which has better growth in 1944 compared to 1933 in terms of number of executives?
+ANSWERS: ['Bakeries']

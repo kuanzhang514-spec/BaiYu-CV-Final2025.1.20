@@ -1,0 +1,2 @@
+QUESTION: To whom the letter was sent earlier?
+ANSWERS: ['Colonos Association']

@@ -1,0 +1,2 @@
+QUESTION: What is hotel bill?
+ANSWERS: ['$ 57.24']

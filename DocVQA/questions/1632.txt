@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for Rig painting in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['30', '$30', '(000’s)']

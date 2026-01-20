@@ -1,0 +1,2 @@
+QUESTION: Is Satellite Symposia permitted in AAMP?
+ANSWERS: ['No']

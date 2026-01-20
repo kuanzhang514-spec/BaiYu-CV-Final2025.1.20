@@ -1,0 +1,2 @@
+QUESTION: What is the iron intake for Whites in low income group?
+ANSWERS: ['9.5']

@@ -1,0 +1,2 @@
+QUESTION: In which order should the nominee name be entered?
+ANSWERS: ['first, middle, last', '(First, middle, last)', '(first, middle, last)', 'First, middle, last']

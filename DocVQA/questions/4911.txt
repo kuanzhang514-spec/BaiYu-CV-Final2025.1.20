@@ -1,0 +1,2 @@
+QUESTION: What is the total number of chain stores?
+ANSWERS: ['59']

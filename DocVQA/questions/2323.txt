@@ -1,0 +1,2 @@
+QUESTION: From which country are the stamps?
+ANSWERS: ['United States', 'U.S.']

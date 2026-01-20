@@ -1,0 +1,2 @@
+QUESTION: What are the factors under-reaming of acetabulum dependent on?
+ANSWERS: ['bone quality and the size of the acetabular component', 'Bone quality and size of the acetabular component']

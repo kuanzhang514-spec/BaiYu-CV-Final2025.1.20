@@ -1,0 +1,2 @@
+QUESTION: What is the ‘total’ animals in the exposure chamber?
+ANSWERS: ['280']

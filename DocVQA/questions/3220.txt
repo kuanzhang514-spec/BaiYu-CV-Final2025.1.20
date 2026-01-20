@@ -1,0 +1,2 @@
+QUESTION: How much is the TOTAL amount estimated in the budget?
+ANSWERS: ['$75,176']

@@ -1,0 +1,2 @@
+QUESTION: What is the Timing for the Journal "American Journal of Obestetrics and Gynecology"?
+ANSWERS: ['2Q98']

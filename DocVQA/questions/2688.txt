@@ -1,0 +1,2 @@
+QUESTION: When is the letter dated ?
+ANSWERS: ['10/28/97']

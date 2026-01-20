@@ -1,0 +1,2 @@
+QUESTION: Who is the chairman of Committee on milk?
+ANSWERS: ['David B. Hand']

@@ -1,0 +1,2 @@
+QUESTION: What time is the ‘General discussion ’ according to the program?
+ANSWERS: ['3:00']

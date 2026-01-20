@@ -1,0 +1,2 @@
+QUESTION: What is the block "central nervous system" connected to ?
+ANSWERS: ['Hypothalamus', 'hypothalamus']

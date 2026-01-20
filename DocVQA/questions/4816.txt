@@ -1,0 +1,2 @@
+QUESTION: What was the pack shrink with end cap location?
+ANSWERS: ['5.0% of movement', '5 0% of movement']

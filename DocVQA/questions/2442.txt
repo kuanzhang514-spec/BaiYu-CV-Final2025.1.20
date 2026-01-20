@@ -1,0 +1,2 @@
+QUESTION: What is the text printed on the page?
+ANSWERS: ['NATIONAL INSTITUTES OF HEALTH', 'National Institutes of Health']

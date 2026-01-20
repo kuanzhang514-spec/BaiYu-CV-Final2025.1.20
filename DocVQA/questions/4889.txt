@@ -1,0 +1,2 @@
+QUESTION: what is the amount for  Consultation services ?
+ANSWERS: ['6,000.00', '$6,000.00']

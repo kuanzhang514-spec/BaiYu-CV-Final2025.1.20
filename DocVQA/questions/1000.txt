@@ -1,0 +1,2 @@
+QUESTION: Aren't fructose sweetener and corn syrup the same thing?
+ANSWERS: ['No', 'No.']

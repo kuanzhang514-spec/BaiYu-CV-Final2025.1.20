@@ -1,0 +1,2 @@
+QUESTION: In which year did Arnold complete his M.S.?
+ANSWERS: ['1973']

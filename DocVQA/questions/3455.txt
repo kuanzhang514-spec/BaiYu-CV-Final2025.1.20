@@ -1,0 +1,2 @@
+QUESTION: Who is the Chairman ( see the bottom  part of the letter) ?
+ANSWERS: ['Howard C. Harder']

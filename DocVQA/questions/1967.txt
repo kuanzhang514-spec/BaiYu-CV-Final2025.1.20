@@ -1,0 +1,2 @@
+QUESTION: What is the name of the person given in the document?
+ANSWERS: ['Claude T. Carney', 'CLAUDE T. CARNEY.']

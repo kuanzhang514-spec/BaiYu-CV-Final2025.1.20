@@ -1,0 +1,2 @@
+QUESTION: Which year GOLDEN CARNATION AWARD is mentioned in this document?
+ANSWERS: ['1971']

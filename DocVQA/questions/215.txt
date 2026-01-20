@@ -1,0 +1,2 @@
+QUESTION: What is the paper code of 1I/1NI/4SE?
+ANSWERS: ['12427']

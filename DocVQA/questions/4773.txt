@@ -1,0 +1,2 @@
+QUESTION: What does the symbol * indicate?
+ANSWERS: ['control vs. test significantly different at the 80% confidence level.', 'Control vs. Test significantly different at the 80% confidence level.']

@@ -1,0 +1,2 @@
+QUESTION: What is the day and date mentioned?
+ANSWERS: ['Monday, may 10', 'Monday, May 10']

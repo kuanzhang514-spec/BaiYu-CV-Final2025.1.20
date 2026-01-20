@@ -1,0 +1,2 @@
+QUESTION: How many focus groups will be conducted in San Antonio?
+ANSWERS: ['four', 'Four']

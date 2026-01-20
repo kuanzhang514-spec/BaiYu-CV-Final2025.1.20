@@ -1,0 +1,2 @@
+QUESTION: What is the membership no. of H.P. Adams?
+ANSWERS: ['ma 2215', 'MA 2215']

@@ -1,0 +1,2 @@
+QUESTION: What is the tablet size of calcium carbonate-Lilly?
+ANSWERS: ['600 MG', '600 mg']

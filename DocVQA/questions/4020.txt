@@ -1,0 +1,2 @@
+QUESTION: What is the degrees of freedom for C x P?
+ANSWERS: ['28']

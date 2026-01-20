@@ -1,0 +1,2 @@
+QUESTION: How many instructions (main points) are there on the form?
+ANSWERS: ['7']

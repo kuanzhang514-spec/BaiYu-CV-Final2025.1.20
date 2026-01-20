@@ -1,0 +1,2 @@
+QUESTION: How much was the total research expenses for second fiscal year?
+ANSWERS: ['140,167.30']

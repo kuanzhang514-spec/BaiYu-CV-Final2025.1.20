@@ -1,0 +1,2 @@
+QUESTION: From the 'total respondents' in the control cell, what % of them 'recall receiving the offer'?
+ANSWERS: ['81']

@@ -1,0 +1,2 @@
+QUESTION: What is the 'net earnings' for the year 2009?
+ANSWERS: ['12,266']

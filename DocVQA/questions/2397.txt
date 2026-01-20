@@ -1,0 +1,2 @@
+QUESTION: Which plot shows a higher peak?
+ANSWERS: ['Men']

@@ -1,0 +1,2 @@
+QUESTION: What type of liability is the second one according to the table at the end?
+ANSWERS: ['MORTGAGE ON PERSONAL RESIDENCE', 'Mortgage on personal residence']

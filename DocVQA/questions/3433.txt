@@ -1,0 +1,2 @@
+QUESTION: Which company’s annual report is shown?
+ANSWERS: ['JOHNSON & JOHNSON', 'Johnson & Johnson', 'Johnson & Johnson 2012 annual report']

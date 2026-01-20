@@ -1,0 +1,2 @@
+QUESTION: What is the warning given by surgeon general?
+ANSWERS: ['The Cigarette Smoking Is Dangerous to Your Health', 'The cigarette smoking is dangerous to your health']

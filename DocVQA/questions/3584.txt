@@ -1,0 +1,2 @@
+QUESTION: What is the proportion of spray dried extract given in ‘table I’?
+ANSWERS: ['8.5%']

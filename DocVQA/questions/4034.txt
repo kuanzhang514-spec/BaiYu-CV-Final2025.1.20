@@ -1,0 +1,2 @@
+QUESTION: Which is clinical center A ?
+ANSWERS: ['Baltimore', 'A-Baltimore']

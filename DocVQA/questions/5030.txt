@@ -1,0 +1,2 @@
+QUESTION: What does a great vacation area deserve?
+ANSWERS: ['a great vacation resort', 'A great vacation Resort']

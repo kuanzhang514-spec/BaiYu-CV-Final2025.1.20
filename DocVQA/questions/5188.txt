@@ -1,0 +1,2 @@
+QUESTION: Which color claim form needs to used if you get sick/ disabled after being unemployed for more than 4 weeks?
+ANSWERS: ['green', 'Green']

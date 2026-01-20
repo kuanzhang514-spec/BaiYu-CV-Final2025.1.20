@@ -1,0 +1,2 @@
+QUESTION: What is date of the letter ?
+ANSWERS: ['february 13, 1979', 'February 13, 1979']

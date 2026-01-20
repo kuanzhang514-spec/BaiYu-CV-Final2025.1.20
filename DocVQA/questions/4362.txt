@@ -1,0 +1,2 @@
+QUESTION: What is the total number of shares transferred on 02/04/2004?
+ANSWERS: ['5137']

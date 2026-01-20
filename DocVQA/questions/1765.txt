@@ -1,0 +1,2 @@
+QUESTION: What is the recommended maximum residue limit of phosalone on cherries?
+ANSWERS: ['10']

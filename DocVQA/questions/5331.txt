@@ -1,0 +1,2 @@
+QUESTION: How much is the amount for the item ‘Cartage & services’?
+ANSWERS: ['22.50', '$22.50']

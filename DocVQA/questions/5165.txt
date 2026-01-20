@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of 'menthol' consumed for year ending 31/03/2011 (kg)?
+ANSWERS: ['825']

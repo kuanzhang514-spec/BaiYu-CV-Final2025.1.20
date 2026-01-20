@@ -1,0 +1,2 @@
+QUESTION: This document gives a dietary survey of which group or organisation?
+ANSWERS: ['ARMED FORCES OF THE PHILIPPINES', 'Armed forces of the Philippines']

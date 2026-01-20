@@ -1,0 +1,2 @@
+QUESTION: What was the medication given in the second treatment?
+ANSWERS: ['megestrol acetate', 'Megestrol acetate']

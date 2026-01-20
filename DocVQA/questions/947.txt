@@ -1,0 +1,2 @@
+QUESTION: At what time is the arrival ?
+ANSWERS: ['7:45 A.M.']

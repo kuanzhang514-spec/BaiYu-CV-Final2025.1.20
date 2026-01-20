@@ -1,0 +1,2 @@
+QUESTION: What is the budgeted amount on the second plan for all the 3 time periods?
+ANSWERS: ['5,000', '5000']

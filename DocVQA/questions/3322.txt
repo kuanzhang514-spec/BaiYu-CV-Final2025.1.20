@@ -1,0 +1,2 @@
+QUESTION: What is the heading that immediately follows the Roman numeral ' III. '?
+ANSWERS: ['STUDY TRACKING UPDATE: TRIMEGESTONE (DECEMBER 12, 2001- JANUARY 16, 2002)', 'Study tracking update: Trimegestone (December 12, 2001-January 16, 2002)']

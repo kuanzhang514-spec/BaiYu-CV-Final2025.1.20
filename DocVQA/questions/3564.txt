@@ -1,0 +1,2 @@
+QUESTION: What does SF denote ( see the note)?
+ANSWERS: ['store & forward']

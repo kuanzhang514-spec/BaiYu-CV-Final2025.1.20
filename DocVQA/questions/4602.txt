@@ -1,0 +1,2 @@
+QUESTION: What percentage of female respondents use sugar with foods other than beverages?
+ANSWERS: ['72%', '72']

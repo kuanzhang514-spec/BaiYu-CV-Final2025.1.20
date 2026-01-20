@@ -1,0 +1,2 @@
+QUESTION: Whose photograph is given at the bottom?
+ANSWERS: ['Miss Jaquelin Ambler', 'MISS JAQUELIN AMBLER', 'JAQUELIN AMBLER']

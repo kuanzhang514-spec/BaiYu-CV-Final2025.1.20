@@ -1,0 +1,2 @@
+QUESTION: What is the duration for the project,  "Replace Flex Tester" ?
+ANSWERS: ['6', '6 months']

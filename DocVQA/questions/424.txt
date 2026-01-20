@@ -1,0 +1,2 @@
+QUESTION: What is the title of the second Article?
+ANSWERS: ['300-us endometrial, bleeding and safety', '300-US Endometrial, bleeding and safety']

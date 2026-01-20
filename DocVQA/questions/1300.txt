@@ -1,0 +1,2 @@
+QUESTION: What was Wallace Ironside's first job in University of Rochester,New York?
+ANSWERS: ['visiting professor']

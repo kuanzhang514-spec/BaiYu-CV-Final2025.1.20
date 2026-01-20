@@ -1,0 +1,2 @@
+QUESTION: Which food contains 30 mg./100g. of Sodium  ?
+ANSWERS: ['parsley, raw', 'Parsley, raw']

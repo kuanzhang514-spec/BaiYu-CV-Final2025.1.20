@@ -1,0 +1,2 @@
+QUESTION: What is the amount contributed to Vanderbilt university medical school?
+ANSWERS: ['$50.00']

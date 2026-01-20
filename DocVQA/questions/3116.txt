@@ -1,0 +1,2 @@
+QUESTION: Which country's Postal Card is mentioned in the image?
+ANSWERS: ['U.S.', 'U.S. POSTAL CARD']

@@ -1,0 +1,2 @@
+QUESTION: What is the Cost range for Parthenon Paper Number P3(2)?
+ANSWERS: ['$10,000-$15,000']

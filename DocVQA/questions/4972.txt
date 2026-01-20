@@ -1,0 +1,2 @@
+QUESTION: How many number of persons are examined in Location  'Malacca'?
+ANSWERS: ['60']

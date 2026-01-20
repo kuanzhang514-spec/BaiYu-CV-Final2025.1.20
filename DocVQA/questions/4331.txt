@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the table?
+ANSWERS: ['continued manuscripts - premarin/tmg', 'continued Manuscripts - Premarin/TMG']

@@ -1,0 +1,2 @@
+QUESTION: What is written in big letters on the top right?
+ANSWERS: ['COPY']

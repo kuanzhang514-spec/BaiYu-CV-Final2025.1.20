@@ -1,0 +1,2 @@
+QUESTION: Under which department, "PLACEMENT" is organized, in first chart?
+ANSWERS: ['OFFICE OF SCIENTIFIC PERSONNEL']

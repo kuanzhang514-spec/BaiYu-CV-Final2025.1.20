@@ -1,0 +1,2 @@
+QUESTION: What is written within the logo?
+ANSWERS: ['let yourself Grow!', 'Let yourself grow!']

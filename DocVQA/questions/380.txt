@@ -1,0 +1,2 @@
+QUESTION: Who is the Director, Scientific Publications, US Medical Research at Aventis?
+ANSWERS: ['Richard F. Lamb']

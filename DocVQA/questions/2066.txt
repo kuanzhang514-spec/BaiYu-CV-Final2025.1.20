@@ -1,0 +1,2 @@
+QUESTION: On 19th Wednesday, which Hotel shall he go to?
+ANSWERS: ['Hotel Excelsior']

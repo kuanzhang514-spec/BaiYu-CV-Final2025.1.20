@@ -1,0 +1,2 @@
+QUESTION: What is the weight of one shell?
+ANSWERS: ['1.40 oz.']

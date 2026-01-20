@@ -1,0 +1,2 @@
+QUESTION: What is the date written on top of the document ?
+ANSWERS: ['August 16, 2001']

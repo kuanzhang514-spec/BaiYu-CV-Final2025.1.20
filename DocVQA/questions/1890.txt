@@ -1,0 +1,2 @@
+QUESTION: What is the % of Stainless steel/PE used in revisions as shown in Figure 11?
+ANSWERS: ['41.09', '41.09%']

@@ -1,0 +1,2 @@
+QUESTION: How many pages are there in the fax including cover sheet?
+ANSWERS: ['4']

@@ -1,0 +1,2 @@
+QUESTION: What is the name of the company mentioned at the top?
+ANSWERS: ['WARNER-LAMBERT COMPANY', 'Warner-Lambert company']

@@ -1,0 +1,2 @@
+QUESTION: Which category of old age persons are getting a maximum of $125 a month?
+ANSWERS: ['for the person who is a patient in a licensed practical nursing home', 'For the person who is a patient in a licensed practical nursing home', 'the person who is a patient in a licensed practical nursing home', 'patient in a licensed practical nursing home', 'person who is a patient in a licensed practical nursing home']

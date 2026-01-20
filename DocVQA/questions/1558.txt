@@ -1,0 +1,2 @@
+QUESTION: What does TK-D denote?
+ANSWERS: ['Temik Side dressed', 'Temik side dressed']

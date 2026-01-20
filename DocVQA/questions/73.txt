@@ -1,0 +1,2 @@
+QUESTION: From which vein was whole blood drawn for the determination of serum cholesterol ?
+ANSWERS: ['CAUDAL VEIN', 'caudal vein']

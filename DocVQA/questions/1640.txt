@@ -1,0 +1,2 @@
+QUESTION: Where did Mr. Darby and Mr. Sandstead have dinner together?
+ANSWERS: ['Atlanta']

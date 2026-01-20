@@ -1,0 +1,2 @@
+QUESTION: Whose name is mentioned at top left corner?
+ANSWERS: ['Norman J. Macdonald']

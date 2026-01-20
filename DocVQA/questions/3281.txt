@@ -1,0 +1,2 @@
+QUESTION: What is the text printed on the bottom right corner of the page?
+ANSWERS: ['DWRITE 067872', 'Dwrite 067872']

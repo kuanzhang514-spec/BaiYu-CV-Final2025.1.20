@@ -1,0 +1,2 @@
+QUESTION: What is the course in which the applicant wishes to enroll for the A.M. schedule?
+ANSWERS: ['Epidemiology of Occupational Hazards T-Th-S']

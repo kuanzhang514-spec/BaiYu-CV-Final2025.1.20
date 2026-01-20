@@ -1,0 +1,2 @@
+QUESTION: What is the report date?
+ANSWERS: ['june 1964', 'JUNE 1964']

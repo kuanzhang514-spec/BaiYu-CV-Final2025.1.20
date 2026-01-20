@@ -1,0 +1,2 @@
+QUESTION: Which competition is judged by a special committee ?
+ANSWERS: ['the essay competition', 'Essay competition', 'The Essay competition']

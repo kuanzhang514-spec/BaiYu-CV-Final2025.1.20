@@ -1,0 +1,2 @@
+QUESTION: What ‘kind of water’ is given for analysis ?
+ANSWERS: ['Boiler feed']

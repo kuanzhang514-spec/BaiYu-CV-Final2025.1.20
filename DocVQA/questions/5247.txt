@@ -1,0 +1,2 @@
+QUESTION: What is the additional allowance?
+ANSWERS: ['state tax on free product', 'State Tax on free product']

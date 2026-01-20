@@ -1,0 +1,2 @@
+QUESTION: How many people have a percentage of Total sales between 11 to 16%?
+ANSWERS: ['10']

@@ -1,0 +1,2 @@
+QUESTION: What is the ‘date’ on the letter?
+ANSWERS: ['august 18, 1976', 'August 18, 1976']

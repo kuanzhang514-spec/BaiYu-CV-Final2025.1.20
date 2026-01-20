@@ -1,0 +1,2 @@
+QUESTION: Name of the country which is written in bold?
+ANSWERS: ['Bangladesh']

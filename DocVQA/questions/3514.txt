@@ -1,0 +1,2 @@
+QUESTION: What is the amount claimed ?
+ANSWERS: ['$166.75', '$ 166.75']

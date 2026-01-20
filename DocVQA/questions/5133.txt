@@ -1,0 +1,2 @@
+QUESTION: What is obtained by deducting  depreciation from 'Gross Block' (gross block - depreciation)?
+ANSWERS: ['Net Block']

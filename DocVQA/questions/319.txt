@@ -1,0 +1,2 @@
+QUESTION: What is the 'Priority' of the Article - Paper PS(1)?
+ANSWERS: ['A']

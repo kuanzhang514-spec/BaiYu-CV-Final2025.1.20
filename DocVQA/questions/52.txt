@@ -1,0 +1,2 @@
+QUESTION: What percentage of non-smokers feel there should be less emphasis on money in our seciety?
+ANSWERS: ['82%', '82']

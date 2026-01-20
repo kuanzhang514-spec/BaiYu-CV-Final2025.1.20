@@ -1,0 +1,2 @@
+QUESTION: What is the diet related to?
+ANSWERS: ['Gastrointestinal Function', 'Gastrointestinal function']

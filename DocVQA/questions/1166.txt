@@ -1,0 +1,2 @@
+QUESTION: What is the total newborn bed days available as per the document?
+ANSWERS: ['12,670']

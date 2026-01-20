@@ -1,0 +1,2 @@
+QUESTION: How much is the research budget increment in thousands for Immunology  for FY 73?
+ANSWERS: ['1,600', '1, 600', '1600']

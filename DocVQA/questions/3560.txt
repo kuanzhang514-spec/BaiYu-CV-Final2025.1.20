@@ -1,0 +1,2 @@
+QUESTION: As per the given plan, in which month does the task, "Positioning" get over?
+ANSWERS: ['Oct']

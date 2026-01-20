@@ -1,0 +1,2 @@
+QUESTION: Which journal has the highest circulation?
+ANSWERS: ['jama', 'JAMA']

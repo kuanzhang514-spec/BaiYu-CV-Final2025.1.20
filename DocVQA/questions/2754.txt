@@ -1,0 +1,2 @@
+QUESTION: What is the phone number of ‘Brookstown Inn’?
+ANSWERS: ['336-725-1120']

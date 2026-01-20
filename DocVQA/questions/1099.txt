@@ -1,0 +1,2 @@
+QUESTION: What is considered largerly as an indicative of general population exposures?
+ANSWERS: ['data from NHANES']

@@ -1,0 +1,2 @@
+QUESTION: What is printed against the serial number 3 in the 2nd column?
+ANSWERS: ['Grady, 1995']

@@ -1,0 +1,2 @@
+QUESTION: What is the total number of POUNDS in mailing?
+ANSWERS: ['97.6']

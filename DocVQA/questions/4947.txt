@@ -1,0 +1,2 @@
+QUESTION: What is the "check no."?
+ANSWERS: ['74,987', '74.987']

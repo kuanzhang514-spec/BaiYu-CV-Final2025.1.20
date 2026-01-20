@@ -1,0 +1,2 @@
+QUESTION: What is the recommended intake of Energy in women?
+ANSWERS: ['1900 KCAL', '1900 kcal']

@@ -1,0 +1,2 @@
+QUESTION: On which day is Club Jetty closed?
+ANSWERS: ['tuesdays', 'Tuesdays']

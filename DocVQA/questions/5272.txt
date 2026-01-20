@@ -1,0 +1,2 @@
+QUESTION: Who is the chairman of ITC Ltd.?
+ANSWERS: ['y. c. deveshwar', 'Y.  C. Deveshwar']

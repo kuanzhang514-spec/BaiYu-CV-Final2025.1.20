@@ -1,0 +1,2 @@
+QUESTION: What is the starting period?
+ANSWERS: ['01/01/2008']

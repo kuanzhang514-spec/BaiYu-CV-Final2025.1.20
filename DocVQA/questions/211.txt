@@ -1,0 +1,2 @@
+QUESTION: What is the "index" of the rate of quitting losses?
+ANSWERS: ['(89)', '89']

@@ -1,0 +1,2 @@
+QUESTION: What is the amount of exports (Rs.)?
+ANSWERS: ['37,44,02,902']

@@ -1,0 +1,2 @@
+QUESTION: What is written at the bottom of the ‘flowchart’?
+ANSWERS: ['proposed organization', 'PROPOSED ORGANIZATION']

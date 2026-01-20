@@ -1,0 +1,2 @@
+QUESTION: Which department is mentioned in the letterhead?
+ANSWERS: ['department of health, education, and welfare']

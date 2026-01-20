@@ -1,0 +1,2 @@
+QUESTION: Who has signed this letter?
+ANSWERS: ['Wendell G. Scott, M. D.', 'Wendell G. Scott']

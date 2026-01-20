@@ -1,0 +1,2 @@
+QUESTION: How much for the ‘casement‘ in ‘renovation expenses’?
+ANSWERS: ['87,000', '$87,000']

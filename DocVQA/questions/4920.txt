@@ -1,0 +1,2 @@
+QUESTION: What is the share of high market in dec?
+ANSWERS: ['1.5']

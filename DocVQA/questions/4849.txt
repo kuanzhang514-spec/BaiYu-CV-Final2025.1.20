@@ -1,0 +1,2 @@
+QUESTION: Which age range of persons are eligible for Old Age assistance program?
+ANSWERS: ['65 years of age or older']

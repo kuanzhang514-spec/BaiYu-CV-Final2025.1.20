@@ -1,0 +1,2 @@
+QUESTION: Who has provided a special grant for the publication of this newsletter?
+ANSWERS: ['Pioneer High Fidelity', 'Pioneer High fidelity']

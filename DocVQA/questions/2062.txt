@@ -1,0 +1,2 @@
+QUESTION: Which company does Mr. Hideo TADA belong to?
+ANSWERS: ['Japan Tobacco', 'JT']

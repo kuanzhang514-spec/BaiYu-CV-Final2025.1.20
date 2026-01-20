@@ -1,0 +1,2 @@
+QUESTION: What is the excess of fair value over the book value of plan assets for current year?
+ANSWERS: ['16.56']

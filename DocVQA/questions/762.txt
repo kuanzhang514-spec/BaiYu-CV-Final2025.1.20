@@ -1,0 +1,2 @@
+QUESTION: What is the topic of the second session?
+ANSWERS: ['"Foetal damage and alcohol consumption"']

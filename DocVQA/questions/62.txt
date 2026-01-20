@@ -1,0 +1,2 @@
+QUESTION: What is written in the picture of title 'John Players Jeans'?
+ANSWERS: ['johnplayers jeans']

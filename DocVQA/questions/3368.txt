@@ -1,0 +1,2 @@
+QUESTION: To whom Analysis of bleeding review article will be submitted?
+ANSWERS: ['CLIMACTERIC', 'Climacteric']

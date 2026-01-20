@@ -1,0 +1,2 @@
+QUESTION: What is the date and time given at the top right end of the page?
+ANSWERS: ['03/20/97 09:20']

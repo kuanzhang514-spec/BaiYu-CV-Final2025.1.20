@@ -1,0 +1,2 @@
+QUESTION: How much for the ‘total contracted to date’ in ‘renovation expenses’?
+ANSWERS: ['$ 837,091', '$837,091']

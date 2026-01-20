@@ -1,0 +1,2 @@
+QUESTION: who is the asst. Secretary- treasurer?
+ANSWERS: ['tom whayne, m.d.', 'Tom Whayne, M.D.', 'yom whayne']

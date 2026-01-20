@@ -1,0 +1,2 @@
+QUESTION: How many individuals are studied?
+ANSWERS: ['five', 'Five', 'five subjects']

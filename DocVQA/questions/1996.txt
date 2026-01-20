@@ -1,0 +1,2 @@
+QUESTION: What is the ‘heading’?
+ANSWERS: ['renovation of swanson center', 'Renovation of Swanson center', 'renovation of swanson center  summary 10/30/82', 'Summary 10/30/82']

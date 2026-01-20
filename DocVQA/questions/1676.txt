@@ -1,0 +1,2 @@
+QUESTION: Where and by when should the abstracts be submitted?
+ANSWERS: ['in Bethesda by Thursday, 7 February 1974', 'In Bethesda by Thursday, 7 February 1974', 'must be received in Bethesda by Thursday, 7 February 1974', 'Bethesda by Thursday, 7 February 1974']

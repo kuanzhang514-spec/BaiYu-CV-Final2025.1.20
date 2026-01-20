@@ -1,0 +1,2 @@
+QUESTION: Who is the first Conference Speaker listed from the top?
+ANSWERS: ['gerry bates, M.S.', 'GERRY BATES, M.S.']

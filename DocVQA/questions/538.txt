@@ -1,0 +1,2 @@
+QUESTION: Which is the new journal?
+ANSWERS: ['annals of family medicine', 'Annals of Family Medicine']

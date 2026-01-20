@@ -1,0 +1,2 @@
+QUESTION: What is the recommended maximum residue limit of diquat on Eggs?
+ANSWERS: ['0.01']

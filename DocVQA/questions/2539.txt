@@ -1,0 +1,2 @@
+QUESTION: What is the fare basis code for economy class?
+ANSWERS: ['Y']

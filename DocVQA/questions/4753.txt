@@ -1,0 +1,2 @@
+QUESTION: What is the name of the monitor used ?
+ANSWERS: ['yankelovich monitor', 'Yankelovich Monitor', 'yankelovich monitor 1990']

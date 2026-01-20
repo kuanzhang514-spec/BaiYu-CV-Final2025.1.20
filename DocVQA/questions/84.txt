@@ -1,0 +1,2 @@
+QUESTION: What is the population in the 'Newton' county ?
+ANSWERS: ['33,600']

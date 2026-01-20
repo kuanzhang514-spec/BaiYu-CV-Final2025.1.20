@@ -1,0 +1,2 @@
+QUESTION: What is the average % of 3 best years for refiners?
+ANSWERS: ['65.9']

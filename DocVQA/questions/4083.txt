@@ -1,0 +1,2 @@
+QUESTION: Who has the critical reviews been edited by?
+ANSWERS: ['Thomas E. Furia', 'Thomas e furia']

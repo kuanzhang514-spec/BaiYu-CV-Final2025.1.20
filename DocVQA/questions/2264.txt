@@ -1,0 +1,2 @@
+QUESTION: What is the value of the stamp?
+ANSWERS: ['15c']

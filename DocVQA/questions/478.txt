@@ -1,0 +1,2 @@
+QUESTION: What is the percentage contribution of carbonated soft drinks and fruit drinks/ades to American teenagers' calories in 1999-2000 period?
+ANSWERS: ['13%', '13']

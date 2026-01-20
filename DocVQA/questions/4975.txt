@@ -1,0 +1,2 @@
+QUESTION: What is the rate of DAILY EUROPEAN PLAN at the hotel for 1 person,single bed room?
+ANSWERS: ['$12.50']

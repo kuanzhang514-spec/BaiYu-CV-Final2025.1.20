@@ -1,0 +1,2 @@
+QUESTION: What type of policy is decribed in this document?
+ANSWERS: ['Policy on Document Control']

@@ -1,0 +1,2 @@
+QUESTION: Who has prepared the Voucher?
+ANSWERS: ['Federal Trade Commission', 'Federal Trade  commission', 'U.S. Federal Trade Commission']

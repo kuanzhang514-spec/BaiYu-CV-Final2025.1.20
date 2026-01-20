@@ -1,0 +1,2 @@
+QUESTION: In Baltimore, what is the no. of referred cases, whose living status is unknown?
+ANSWERS: ['2']

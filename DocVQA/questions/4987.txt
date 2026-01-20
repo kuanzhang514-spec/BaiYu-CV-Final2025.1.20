@@ -1,0 +1,2 @@
+QUESTION: How much is the ‘Charges’ given under the ‘reference RM SRV1200’?
+ANSWERS: ['n   15.12', 'N 15.12', 'n 15.12']

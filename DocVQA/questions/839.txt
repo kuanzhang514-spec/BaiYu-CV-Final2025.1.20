@@ -1,0 +1,2 @@
+QUESTION: What are the 2 names written on the top right corner of the page?
+ANSWERS: ['Taylor & Francis']

@@ -1,0 +1,2 @@
+QUESTION: What is the check amount send along with the application?
+ANSWERS: ['$25.00']

@@ -1,0 +1,2 @@
+QUESTION: What is the date on this check?
+ANSWERS: ['August 1, 1974']

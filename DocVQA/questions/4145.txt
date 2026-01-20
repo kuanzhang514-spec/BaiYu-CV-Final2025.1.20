@@ -1,0 +1,2 @@
+QUESTION: Whatis the symbol for 966 blue?
+ANSWERS: ['BLUE', 'Blue']

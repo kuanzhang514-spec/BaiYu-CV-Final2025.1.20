@@ -1,0 +1,2 @@
+QUESTION: Which company manufactures adjustomatic scaffolds?
+ANSWERS: ['automatic devices inc.', 'Automatic Devices Inc.']

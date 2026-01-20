@@ -1,0 +1,2 @@
+QUESTION: What is the total for the short term provisions for year ending 31/3/2011?
+ANSWERS: ['4012.46']

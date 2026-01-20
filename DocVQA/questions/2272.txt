@@ -1,0 +1,2 @@
+QUESTION: What type of Mail is it?
+ANSWERS: ['BUSINESS REPLY MAIL', 'Business Reply Mail', 'BUSINESS REPLY']

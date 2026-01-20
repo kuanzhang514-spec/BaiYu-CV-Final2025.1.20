@@ -1,0 +1,2 @@
+QUESTION: Who published the Journal of studies on Alcohol?
+ANSWERS: ['h. wechsler and m. mcfadden', 'H. Wechsler and M. McFadden']

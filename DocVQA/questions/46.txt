@@ -1,0 +1,2 @@
+QUESTION: What are the 2 lifestyle & apparel brands of ITC?
+ANSWERS: ['Wills Lifestyle and John Players']

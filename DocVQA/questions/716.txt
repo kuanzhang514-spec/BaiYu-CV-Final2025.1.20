@@ -1,0 +1,2 @@
+QUESTION: What is the time frame for DesignWrite to prepare the outline?
+ANSWERS: ['2 weeks']

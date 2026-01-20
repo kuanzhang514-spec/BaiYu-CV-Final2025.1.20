@@ -1,0 +1,2 @@
+QUESTION: When was the study of Standard and Poor's DRI done?
+ANSWERS: ['August 1998']

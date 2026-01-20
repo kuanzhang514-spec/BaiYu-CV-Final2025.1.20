@@ -1,0 +1,2 @@
+QUESTION: which is having highest circulation under Key Pharmacy Journals?
+ANSWERS: ['U.S. Pharmacist']

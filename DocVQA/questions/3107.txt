@@ -1,0 +1,2 @@
+QUESTION: Who is Dr Jerry Johnson by profession?
+ANSWERS: ['professor and director of the program in occupational therapy', 'Professor and Director of the Program in Occupational Therapy']

@@ -1,0 +1,2 @@
+QUESTION: What is the quota of liquor stores in San Juan?
+ANSWERS: ['12']

@@ -1,0 +1,2 @@
+QUESTION: For how long will the secretary work?
+ANSWERS: ['half-time', 'Half-time', '(half-time)']

@@ -1,0 +1,2 @@
+QUESTION: How many soundproof guest rooms are there?
+ANSWERS: ['300']

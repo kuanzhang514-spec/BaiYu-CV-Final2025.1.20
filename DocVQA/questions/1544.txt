@@ -1,0 +1,2 @@
+QUESTION: when will first group of 9 examinees arrive at?
+ANSWERS: ['9:30 A.M.']

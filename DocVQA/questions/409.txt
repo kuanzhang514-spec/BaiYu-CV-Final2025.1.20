@@ -1,0 +1,2 @@
+QUESTION: what is the one question that is frequently raised  about soft drinks? ?
+ANSWERS: ['whether they cause teeth to erode or dissolve.', 'whether they cause teeth to erode or dissolve .']

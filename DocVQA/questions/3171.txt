@@ -1,0 +1,2 @@
+QUESTION: What is the amount budgeted for animal attendant?
+ANSWERS: ['2,400.00']

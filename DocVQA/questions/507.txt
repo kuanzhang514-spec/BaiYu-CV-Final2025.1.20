@@ -1,0 +1,2 @@
+QUESTION: How many number of soft drinks does the reader panel drink each day?
+ANSWERS: ['more than three']

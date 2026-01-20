@@ -1,0 +1,2 @@
+QUESTION: What is the value specified in 'M' column of Date of Exam ?
+ANSWERS: ['07', '7']

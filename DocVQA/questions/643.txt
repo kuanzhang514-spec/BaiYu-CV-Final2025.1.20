@@ -1,0 +1,2 @@
+QUESTION: What is the total shareholders' equity for 2008?
+ANSWERS: ['$42,511', '42,511']

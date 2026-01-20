@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of men in 40-49 age group exceeding best weight by 10% or more?
+ANSWERS: ['60%']

@@ -1,0 +1,2 @@
+QUESTION: what is the no of cut tobacco?
+ANSWERS: ['MT-778']

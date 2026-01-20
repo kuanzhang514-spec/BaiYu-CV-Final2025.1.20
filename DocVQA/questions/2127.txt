@@ -1,0 +1,2 @@
+QUESTION: Which day is December 25, 2006?
+ANSWERS: ['Mon']

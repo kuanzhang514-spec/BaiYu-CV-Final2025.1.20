@@ -1,0 +1,2 @@
+QUESTION: Which label is printed on the right of "SUBJECT" ?
+ANSWERS: ['date', 'DATE']

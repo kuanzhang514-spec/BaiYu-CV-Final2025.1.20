@@ -1,0 +1,2 @@
+QUESTION: What is the Percentage of ownership interest as at 31st March,2008 of ‘King Maker Marketing Inc.’?
+ANSWERS: ['100']

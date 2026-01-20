@@ -1,0 +1,2 @@
+QUESTION: What is the applicant's home phone number?
+ANSWERS: ['282-1861']

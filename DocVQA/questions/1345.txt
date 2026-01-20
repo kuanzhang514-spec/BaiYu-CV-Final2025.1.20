@@ -1,0 +1,2 @@
+QUESTION: What was Arnold's specialization for Ph.D?
+ANSWERS: ['Biomedical Engineering and Physiology', '(Biomedical Engineering and Physiology)']

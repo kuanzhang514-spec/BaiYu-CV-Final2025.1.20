@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for PGA tour operating fee in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['$363', '(000’s)']

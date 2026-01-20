@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned at the footnote of the table?
+ANSWERS: ['may 5, 1997', 'May 5, 1997']

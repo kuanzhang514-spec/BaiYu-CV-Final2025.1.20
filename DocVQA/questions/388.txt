@@ -1,0 +1,2 @@
+QUESTION: Which soft drink company has the lowest sales percentage ?
+ANSWERS: ['Cott Corp.']

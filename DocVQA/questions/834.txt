@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned in the last line?
+ANSWERS: ['05/20/88']

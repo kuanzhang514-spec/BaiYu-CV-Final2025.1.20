@@ -1,0 +1,2 @@
+QUESTION: What is the underlined text?
+ANSWERS: ['OUT-OF-POCKET EXPENSES', 'Out-of-pocket expenses']

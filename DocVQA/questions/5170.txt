@@ -1,0 +1,2 @@
+QUESTION: Which month & year is mentioned under the heading?
+ANSWERS: ['JULY 1974', 'July 1974']

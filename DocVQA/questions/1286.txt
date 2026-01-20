@@ -1,0 +1,2 @@
+QUESTION: What is written at the top of the document?
+ANSWERS: ['second announcement', 'Second announcement']

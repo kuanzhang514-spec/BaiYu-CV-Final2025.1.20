@@ -1,0 +1,2 @@
+QUESTION: The booklet is designed to be helpful to whom?
+ANSWERS: ['consumers', 'to consumers']

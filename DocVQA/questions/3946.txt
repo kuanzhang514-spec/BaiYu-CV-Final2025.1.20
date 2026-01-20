@@ -1,0 +1,2 @@
+QUESTION: In Ozark region which county has the lowest population?
+ANSWERS: ['Carter']

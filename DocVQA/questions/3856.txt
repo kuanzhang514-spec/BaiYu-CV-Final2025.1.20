@@ -1,0 +1,2 @@
+QUESTION: How much is the managerial remuneration to Director ,‘Mr. Arjun .A. Hitkari’ as on 31/3/04?
+ANSWERS: ['3.00']

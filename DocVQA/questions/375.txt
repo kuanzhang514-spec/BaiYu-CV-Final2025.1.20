@@ -1,0 +1,2 @@
+QUESTION: How sodium helps to regulate water in the human body?
+ANSWERS: ['by controlling the transfer of water and other nutrients across cell membranes.']

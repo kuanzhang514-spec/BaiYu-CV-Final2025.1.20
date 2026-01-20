@@ -1,0 +1,2 @@
+QUESTION: What is the number to be used for 'decreased'?
+ANSWERS: ['1']

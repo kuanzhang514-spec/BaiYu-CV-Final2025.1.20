@@ -1,0 +1,2 @@
+QUESTION: What is the 'net sq.ft. '?
+ANSWERS: ['6,400', '6,400 net sq.ft.', '6,400 net sq. ft.']

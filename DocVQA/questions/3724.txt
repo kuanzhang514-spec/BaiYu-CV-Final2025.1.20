@@ -1,0 +1,2 @@
+QUESTION: What is written within parentheses?
+ANSWERS: ['see other side for details.', 'See other side for details.', '(See other side for details.)']

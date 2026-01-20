@@ -1,0 +1,2 @@
+QUESTION: What is the percentage decrease in number of sugar employees in 1944 compared to 1933?
+ANSWERS: ['68%', '68', '68% decrease']

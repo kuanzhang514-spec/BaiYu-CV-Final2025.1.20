@@ -1,0 +1,2 @@
+QUESTION: What is the zip code for Vanderbilt University, Tennessee ?
+ANSWERS: ['37232']

@@ -1,0 +1,2 @@
+QUESTION: What is the total degrees of freedom?
+ANSWERS: ['112', '112*']

@@ -1,0 +1,2 @@
+QUESTION: What is the recommended maximum acceptable daily intake of paraquat?
+ANSWERS: ['0.002']

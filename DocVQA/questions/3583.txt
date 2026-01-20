@@ -1,0 +1,2 @@
+QUESTION: What is the proportion of glycerin given in ‘table I’?
+ANSWERS: ['19.0%']

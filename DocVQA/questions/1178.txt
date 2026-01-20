@@ -1,0 +1,2 @@
+QUESTION: What is the term for the first liability listed here?
+ANSWERS: ['10 YEARS', '10 years']

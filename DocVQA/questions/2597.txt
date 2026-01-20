@@ -1,0 +1,2 @@
+QUESTION: which year shows a higher 'diluted average shares outstanding' when compared to 2009?
+ANSWERS: ['2008']

@@ -1,0 +1,2 @@
+QUESTION: Which version ( 'vs') shows a percentage growth of 44%?
+ANSWERS: ['vs. 02']

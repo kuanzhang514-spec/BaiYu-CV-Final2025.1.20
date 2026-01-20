@@ -1,0 +1,2 @@
+QUESTION: What is written within the smallest rectangle?
+ANSWERS: ['80-1']

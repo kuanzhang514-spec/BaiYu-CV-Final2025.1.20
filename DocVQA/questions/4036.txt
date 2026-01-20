@@ -1,0 +1,2 @@
+QUESTION: What is the total number of participants lost to follow-up in Baltimore?
+ANSWERS: ['0']

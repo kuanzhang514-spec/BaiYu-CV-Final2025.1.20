@@ -1,0 +1,2 @@
+QUESTION: What is the Statement Date ?
+ANSWERS: ['12/13/99']

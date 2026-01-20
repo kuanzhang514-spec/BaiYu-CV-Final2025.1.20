@@ -1,0 +1,2 @@
+QUESTION: What is the Ship Date  ?
+ANSWERS: ['3-27-95']

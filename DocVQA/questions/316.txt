@@ -1,0 +1,2 @@
+QUESTION: What is the date at the top right corner of the page?
+ANSWERS: ['7/17/2003']

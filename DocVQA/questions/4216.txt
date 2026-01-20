@@ -1,0 +1,2 @@
+QUESTION: When is the fax dated?
+ANSWERS: ['5-20-98', '5.20.98']

@@ -1,0 +1,2 @@
+QUESTION: How much is the "other" estimated cost  under "ESTIMATED COST"?
+ANSWERS: ['15.00']

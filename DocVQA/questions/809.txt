@@ -1,0 +1,2 @@
+QUESTION: What is the table number?
+ANSWERS: ['table 17.', '17', 'Table 17']

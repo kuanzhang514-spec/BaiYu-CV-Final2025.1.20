@@ -1,0 +1,2 @@
+QUESTION: Which "Act" is dealt with in the document?
+ANSWERS: ['federal food, drug, and cosmetic act', 'Federal Food, Drug and Cosmetic Act', 'Federal Food, Drug and Cosmetic']

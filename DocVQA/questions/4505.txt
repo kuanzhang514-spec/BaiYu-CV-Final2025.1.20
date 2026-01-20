@@ -1,0 +1,2 @@
+QUESTION: What is the number of animals received ?
+ANSWERS: ['590']

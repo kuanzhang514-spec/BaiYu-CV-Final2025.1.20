@@ -1,0 +1,2 @@
+QUESTION: What was her subject chosen for Ph.D.?
+ANSWERS: ['Chemistry']

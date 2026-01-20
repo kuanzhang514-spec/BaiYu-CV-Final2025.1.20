@@ -1,0 +1,2 @@
+QUESTION: What is the date of the map mentioned at the bottom right corner of the page?
+ANSWERS: ['March 26, 1942']

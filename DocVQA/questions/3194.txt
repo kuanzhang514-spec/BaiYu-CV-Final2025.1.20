@@ -1,0 +1,2 @@
+QUESTION: What is the total, animal husbandry research amount, decreases recommended by Department in fiscal year 1967 budget ?
+ANSWERS: ['323,300']

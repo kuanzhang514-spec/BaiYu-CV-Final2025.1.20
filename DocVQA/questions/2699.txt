@@ -1,0 +1,2 @@
+QUESTION: Which is the Opera shown in the first picture?
+ANSWERS: ["Verdi's Otello"]

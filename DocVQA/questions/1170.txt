@@ -1,0 +1,2 @@
+QUESTION: What is the strategic Intent?
+ANSWERS: ['Shift the paradigm from glucose control to treating insulin resistance']

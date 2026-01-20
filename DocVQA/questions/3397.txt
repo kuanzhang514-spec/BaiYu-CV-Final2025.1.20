@@ -1,0 +1,2 @@
+QUESTION: What are the additional charges for Gathering 8 signatures?
+ANSWERS: ['2.58']

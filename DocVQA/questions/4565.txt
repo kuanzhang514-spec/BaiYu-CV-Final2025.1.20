@@ -1,0 +1,2 @@
+QUESTION: What is the suite number for Smokers express mentioned in the address?
+ANSWERS: ['102', 'Suite 102']

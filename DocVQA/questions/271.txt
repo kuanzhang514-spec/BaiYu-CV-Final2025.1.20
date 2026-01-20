@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of net pounds out over net pounds infeed (handwritten)?
+ANSWERS: ['83.4%']

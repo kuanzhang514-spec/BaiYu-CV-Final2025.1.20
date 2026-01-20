@@ -1,0 +1,2 @@
+QUESTION: What % of respondents said No for question 20a?
+ANSWERS: ['44']

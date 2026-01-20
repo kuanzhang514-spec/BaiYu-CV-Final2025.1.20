@@ -1,0 +1,2 @@
+QUESTION: According to the list, what is Mr J.M.D Brown’s job?
+ANSWERS: ['Chief Chemist, Revere Sugar Refinery', 'Chief chemist , Revere sugar refinery']

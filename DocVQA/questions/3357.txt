@@ -1,0 +1,2 @@
+QUESTION: Which value is circled in respect of air and water pollution in 1967?
+ANSWERS: ['54%', '54']

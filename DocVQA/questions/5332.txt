@@ -1,0 +1,2 @@
+QUESTION: How much is the amount for the item ‘Messenger services’?
+ANSWERS: ['5.75', '$5.75']

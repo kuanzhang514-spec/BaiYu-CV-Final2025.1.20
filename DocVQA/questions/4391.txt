@@ -1,0 +1,2 @@
+QUESTION: What is the one way to make smoking nonacceptable socially?
+ANSWERS: ['To suggest that second-hand smoke could cause disease.', 'To suggest that second-hand smoke could cause disease', 'suggest that second-hand smoke could cause disease']

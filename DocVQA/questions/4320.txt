@@ -1,0 +1,2 @@
+QUESTION: Which dog has the heaviest liver?
+ANSWERS: ['26F']

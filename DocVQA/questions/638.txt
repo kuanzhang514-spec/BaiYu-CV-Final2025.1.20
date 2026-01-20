@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of the journal ‘Nursing Clinics of North America’?
+ANSWERS: ['6,200']

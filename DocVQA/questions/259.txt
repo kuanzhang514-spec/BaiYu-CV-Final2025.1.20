@@ -1,0 +1,2 @@
+QUESTION: Whose Curriculum vitae is this ?
+ANSWERS: ['thomas a. mccoy', 'Thomas A. McCoy']

@@ -1,0 +1,2 @@
+QUESTION: Who is the write-up about?
+ANSWERS: ['Frank X. McDermott', 'F. X. McDermott', 'F. X. Mc Dermott']

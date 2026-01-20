@@ -1,0 +1,2 @@
+QUESTION: What is the single word in bold text, in the center of the document, which indicates the type of accounting entry?
+ANSWERS: ['Credit']

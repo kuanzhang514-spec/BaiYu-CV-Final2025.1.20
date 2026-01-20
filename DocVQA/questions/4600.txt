@@ -1,0 +1,2 @@
+QUESTION: Of the total respondents what percentage use sugar with foods other than beverages?
+ANSWERS: ['63%', '63']

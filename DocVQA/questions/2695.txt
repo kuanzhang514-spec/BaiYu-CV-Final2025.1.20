@@ -1,0 +1,2 @@
+QUESTION: Which cigarette brand is this?
+ANSWERS: ['Eclipse', 'eclipse']

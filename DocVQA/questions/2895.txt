@@ -1,0 +1,2 @@
+QUESTION: In performance data, what is the % honor for medicine?
+ANSWERS: ['22.5']

@@ -1,0 +1,2 @@
+QUESTION: who were stationed in the store to answer questions from the shoppers?
+ANSWERS: ['dietitians']

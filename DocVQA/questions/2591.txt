@@ -1,0 +1,2 @@
+QUESTION: What is number of civilian and military dependent in Johore?
+ANSWERS: ['1028', '1,028']

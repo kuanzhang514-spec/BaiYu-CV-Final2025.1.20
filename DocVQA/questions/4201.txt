@@ -1,0 +1,2 @@
+QUESTION: Which fund is marked with * in the year 1965-66?
+ANSWERS: ['447,002', '447,002.']

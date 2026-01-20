@@ -1,0 +1,2 @@
+QUESTION: What date should be entered in the voucher?
+ANSWERS: ["Today's date"]

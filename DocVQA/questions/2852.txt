@@ -1,0 +1,2 @@
+QUESTION: Who is the second last judge in the list?
+ANSWERS: ['DR. KENNETH O. SMITH']

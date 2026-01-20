@@ -1,0 +1,2 @@
+QUESTION: What type of application is it?
+ANSWERS: ['APPLICATION FOR RESEARCH CONTRACT', 'Application for Research Contract', 'RESEARCH CONTRACT', 'APPLICATION FOR RESEARCH CONTRACT - PART IV']

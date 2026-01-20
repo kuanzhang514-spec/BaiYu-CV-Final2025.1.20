@@ -1,0 +1,2 @@
+QUESTION: What does ASTIA stand for?
+ANSWERS: ['armed services technical information agency', 'Armed Services Technical Information Agency']

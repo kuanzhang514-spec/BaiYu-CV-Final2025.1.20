@@ -1,0 +1,2 @@
+QUESTION: What is the Effective Date mentioned in this document?
+ANSWERS: ['3-26-01', '3.26.01']

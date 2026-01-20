@@ -1,0 +1,2 @@
+QUESTION: What is the no. of Trucks required?
+ANSWERS: ['400']

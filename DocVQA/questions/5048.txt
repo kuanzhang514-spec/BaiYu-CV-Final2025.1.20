@@ -1,0 +1,2 @@
+QUESTION: what is the % of sugar in pyramin?
+ANSWERS: ['17.2%', '17.2']

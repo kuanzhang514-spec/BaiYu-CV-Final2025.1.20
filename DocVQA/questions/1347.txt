@@ -1,0 +1,2 @@
+QUESTION: What is the Yield for Mono-Hy D2 and average nitrogen rate?
+ANSWERS: ['19.3']

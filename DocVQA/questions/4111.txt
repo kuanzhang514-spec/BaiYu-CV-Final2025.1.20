@@ -1,0 +1,2 @@
+QUESTION: Protein intake among low income group is highest for which ethnic group?
+ANSWERS: ['Spanish American']

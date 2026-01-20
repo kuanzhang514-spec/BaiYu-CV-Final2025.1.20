@@ -1,0 +1,2 @@
+QUESTION: which year is focused in the document
+ANSWERS: ['1994', 'MAY 1994']

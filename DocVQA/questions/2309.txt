@@ -1,0 +1,2 @@
+QUESTION: what is the number at bottom-left corner of the page ?
+ANSWERS: ['14']

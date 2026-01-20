@@ -1,0 +1,2 @@
+QUESTION: What is the arrival date?
+ANSWERS: ['6/20']

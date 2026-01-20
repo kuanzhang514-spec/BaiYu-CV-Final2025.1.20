@@ -1,0 +1,2 @@
+QUESTION: What is the title of Figure 12?
+ANSWERS: ['Weight bearing materials used in revisions: change over 5 years', 'Weight bearing materials used in revisions:change over 5 years']

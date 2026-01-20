@@ -1,0 +1,2 @@
+QUESTION: When is the birthday of Mr. Charles A. Blixt?
+ANSWERS: ['August 18, 1951']

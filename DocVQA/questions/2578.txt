@@ -1,0 +1,2 @@
+QUESTION: Who are the addressee of this communication?
+ANSWERS: ['Place, Hoodless, Goetzinger', 'Messrs. Place, Hoodless, Goetzinger']

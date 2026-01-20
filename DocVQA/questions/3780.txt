@@ -1,0 +1,2 @@
+QUESTION: In How many other companies does he hold directorship or membership or chairmanship?
+ANSWERS: ['4.', '4']

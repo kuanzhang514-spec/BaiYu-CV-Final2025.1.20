@@ -1,0 +1,2 @@
+QUESTION: Where is the birth defects clinical study center  in Pennsylvania?
+ANSWERS: ['Philadelphia']

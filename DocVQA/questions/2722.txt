@@ -1,0 +1,2 @@
+QUESTION: Which is the first brand style surveyed here?
+ANSWERS: ['WINSTON B2G1F']

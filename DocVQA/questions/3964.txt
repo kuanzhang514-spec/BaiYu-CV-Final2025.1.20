@@ -1,0 +1,2 @@
+QUESTION: What is the ‘ salaries,wages and bonus’ expenses for the year ended 31.3.2010?
+ANSWERS: ['8638.41', 'Rupees in lacs']

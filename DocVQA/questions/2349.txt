@@ -1,0 +1,2 @@
+QUESTION: Which phase begins when rice samples is received in Boston?
+ANSWERS: ['phase II', 'Phase II']

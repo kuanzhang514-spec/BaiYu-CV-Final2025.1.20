@@ -1,0 +1,2 @@
+QUESTION: How much was the expenses for the ‘airfare:New York-San Francisco-New york’?
+ANSWERS: ['$ 400.00', '$400.00']

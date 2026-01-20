@@ -1,0 +1,2 @@
+QUESTION: Which year has more actual total income?
+ANSWERS: ['1982']

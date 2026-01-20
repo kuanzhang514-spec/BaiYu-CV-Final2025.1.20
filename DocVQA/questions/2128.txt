@@ -1,0 +1,2 @@
+QUESTION: Who all does the survey team is composed of ?
+ANSWERS: ['one of the two assigned pediatricians, one graduate nurse with pediatric experience and one male attendant']

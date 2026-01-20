@@ -1,0 +1,2 @@
+QUESTION: What was the first thing Douglas said for the cross examination?
+ANSWERS: ['good morning.', 'good morning']

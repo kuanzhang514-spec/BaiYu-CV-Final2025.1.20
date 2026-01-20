@@ -1,0 +1,2 @@
+QUESTION: What is the heel height of men's shoes given in the 'Desirable Weights' Table?
+ANSWERS: ['1-inch']

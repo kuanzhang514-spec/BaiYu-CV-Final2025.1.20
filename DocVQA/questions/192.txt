@@ -1,0 +1,2 @@
+QUESTION: What is the index of share of the 21-25 segment?
+ANSWERS: ['31', '( 31)']

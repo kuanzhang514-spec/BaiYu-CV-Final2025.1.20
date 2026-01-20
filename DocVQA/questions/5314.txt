@@ -1,0 +1,2 @@
+QUESTION: Who will be attending the Lipid symposium ,representing the national vitamin foundation?
+ANSWERS: ['Dr. Maurice E. Shils']

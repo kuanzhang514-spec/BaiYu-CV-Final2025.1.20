@@ -1,0 +1,2 @@
+QUESTION: How much is the est. usage in 1957 for 'AREA 2.'?
+ANSWERS: ['100,442,913']

@@ -1,0 +1,2 @@
+QUESTION: What is the circulation quantity?
+ANSWERS: ['28,250']

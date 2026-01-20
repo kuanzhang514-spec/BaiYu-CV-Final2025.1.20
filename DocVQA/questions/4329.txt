@@ -1,0 +1,2 @@
+QUESTION: What is the body weight of dog named "7M" in grams?
+ANSWERS: ['7774']

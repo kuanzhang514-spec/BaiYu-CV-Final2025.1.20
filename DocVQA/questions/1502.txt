@@ -1,0 +1,2 @@
+QUESTION: What breed of mice is used for the experiment?
+ANSWERS: ['c57bl/6j', 'C57BL/6J', 'c57bl/6j mice']

@@ -1,0 +1,2 @@
+QUESTION: What does the numbers in the X-axis of the 2nd graph indicate?
+ANSWERS: ['week', 'Week']

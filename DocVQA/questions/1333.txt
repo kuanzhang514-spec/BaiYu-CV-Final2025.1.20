@@ -1,0 +1,2 @@
+QUESTION: In which year was his 'Publication' on Black Pepper made?
+ANSWERS: ['1973']

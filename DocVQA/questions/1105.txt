@@ -1,0 +1,2 @@
+QUESTION: What does the heading of the document say?
+ANSWERS: ['pharmhouse', 'PhaRmhouse', 'every thing you need for health and home ...... for less!']

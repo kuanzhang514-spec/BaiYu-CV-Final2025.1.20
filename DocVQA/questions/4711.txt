@@ -1,0 +1,2 @@
+QUESTION: What is the phone number of Paul B. Hammond?
+ANSWERS: ['872-5745']

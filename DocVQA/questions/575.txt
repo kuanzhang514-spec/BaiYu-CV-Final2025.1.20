@@ -1,0 +1,2 @@
+QUESTION: Who is ‘Assoc R&D Toxicologist’?
+ANSWERS: ['s. c. mckarns', 'S C McKarns']

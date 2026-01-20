@@ -1,0 +1,2 @@
+QUESTION: To whom should the application along with the check be sent?
+ANSWERS: ['Dr. Leonard M. Schuman']

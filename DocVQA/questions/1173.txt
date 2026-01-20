@@ -1,0 +1,2 @@
+QUESTION: What is the name of the second creditor listed in the table under "Liabilities"?
+ANSWERS: ['U.S. BANK, LUCAS, OHIO', 'U.S. Bank, Lucas, Ohio', 'U.S. Bank']

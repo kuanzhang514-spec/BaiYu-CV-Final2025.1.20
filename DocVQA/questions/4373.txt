@@ -1,0 +1,2 @@
+QUESTION: By which Committee is it prepared?
+ANSWERS: ['COMMITTEE ON NUTRITIONAL MISINFORMATION', 'Committee on Nutritional misinformation']

@@ -1,0 +1,2 @@
+QUESTION: What is the product arrival date?
+ANSWERS: ['7/15/98']

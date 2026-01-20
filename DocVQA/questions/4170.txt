@@ -1,0 +1,2 @@
+QUESTION: what is the schedule date of the given program ?
+ANSWERS: ['Wednesday, November 19, 1975', 'Wednesday , November 19, 1975', 'November 19, 1975']

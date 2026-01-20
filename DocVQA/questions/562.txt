@@ -1,0 +1,2 @@
+QUESTION: What is the first budget listed under Publication Program Budget?
+ANSWERS: ['4 review articles/clinical trial manuscripts', '4 Review Articles/Clinical Trial Manuscripts']

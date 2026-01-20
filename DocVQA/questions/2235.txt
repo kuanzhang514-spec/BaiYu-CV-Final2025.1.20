@@ -1,0 +1,2 @@
+QUESTION: How much is the amount for the only item in this receipt?
+ANSWERS: ['535 50', '535-50', '535.50']

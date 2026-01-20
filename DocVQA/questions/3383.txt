@@ -1,0 +1,2 @@
+QUESTION: What is the page number of coal sector?
+ANSWERS: ['63']

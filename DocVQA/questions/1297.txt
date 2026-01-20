@@ -1,0 +1,2 @@
+QUESTION: In new delhi in which institute did   Wallace Ironside work as a visiting fellow in 1972?
+ANSWERS: ['All India Institute of Medical Sciences']

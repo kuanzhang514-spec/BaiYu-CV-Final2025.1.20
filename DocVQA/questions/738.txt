@@ -1,0 +1,2 @@
+QUESTION: What is "P3(7) FAST TRACK" states about?
+ANSWERS: ['meta-analysis of phase iii studies on bleeding pattern data', 'Meta-analysis of phase III studies on bleeding pattern data']

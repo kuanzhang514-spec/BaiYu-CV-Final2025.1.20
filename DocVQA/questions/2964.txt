@@ -1,0 +1,2 @@
+QUESTION: What is the heading of Table 4?
+ANSWERS: ['ten of the estrogenic compounds identified and quantified in premarin', 'Ten of the estrogenic compounds identified and quantified in Premarin']

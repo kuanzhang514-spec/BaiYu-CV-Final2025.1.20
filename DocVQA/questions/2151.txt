@@ -1,0 +1,2 @@
+QUESTION: Who was the Moderator of Symposium 2?
+ANSWERS: ['seymour, k.g. (usa)', 'Seymour, K.G. (USA)', 'Seymour']

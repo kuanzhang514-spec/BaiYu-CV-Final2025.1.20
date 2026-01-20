@@ -1,0 +1,2 @@
+QUESTION: 'Do benefits vs. costs of study warrant its continuation'?
+ANSWERS: ['Yes', 'yes']

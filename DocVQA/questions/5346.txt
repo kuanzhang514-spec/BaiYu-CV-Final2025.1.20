@@ -1,0 +1,2 @@
+QUESTION: What is ‘figure C.2.’?
+ANSWERS: ['age adjusted motor vehicle accident mortality rate canada', 'Age adjusted motor vehicle accident mortality rate,   Canada']

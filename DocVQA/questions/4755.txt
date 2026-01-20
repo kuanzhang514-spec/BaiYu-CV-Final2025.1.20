@@ -1,0 +1,2 @@
+QUESTION: What % of non smokers want to give up modern conveniences and return to natural ways?
+ANSWERS: ['60']

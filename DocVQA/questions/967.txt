@@ -1,0 +1,2 @@
+QUESTION: What does 'NMD3' stand for?
+ANSWERS: ['VLG REPLACEMENT', 'VLG Replacement', 'NMD3 = VLG Replacement']

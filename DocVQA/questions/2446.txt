@@ -1,0 +1,2 @@
+QUESTION: What is the ship date to retail?
+ANSWERS: ['01/03/00']

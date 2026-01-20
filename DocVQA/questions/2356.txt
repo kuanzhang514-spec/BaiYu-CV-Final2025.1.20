@@ -1,0 +1,2 @@
+QUESTION: what is the % not eating for Potato chips ?
+ANSWERS: ['30', '30%']

@@ -1,0 +1,2 @@
+QUESTION: What is subheading A?
+ANSWERS: ['Related Party with whom transaction have taken place during the year']

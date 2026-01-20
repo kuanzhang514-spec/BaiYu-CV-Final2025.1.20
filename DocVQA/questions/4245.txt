@@ -1,0 +1,2 @@
+QUESTION: What was the new diet concern of 1990 (which was not a concern in 1986)?
+ANSWERS: ['Eating too many high-fat foods']

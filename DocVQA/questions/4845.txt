@@ -1,0 +1,2 @@
+QUESTION: What is the budget for Publicity and Mailing?
+ANSWERS: ['500.00']

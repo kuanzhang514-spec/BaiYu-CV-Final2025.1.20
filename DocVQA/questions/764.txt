@@ -1,0 +1,2 @@
+QUESTION: How much is the year-to-date royalty?
+ANSWERS: ['$89,434.39']

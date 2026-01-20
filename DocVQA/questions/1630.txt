@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for Depreciation in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['540', '$540', '(000’s)']

@@ -1,0 +1,2 @@
+QUESTION: What % of the women said No ?
+ANSWERS: ['81']

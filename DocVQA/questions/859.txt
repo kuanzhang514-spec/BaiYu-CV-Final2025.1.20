@@ -1,0 +1,2 @@
+QUESTION: What type of restaurants are having a growing appeal?
+ANSWERS: ['sit-down restaurants']

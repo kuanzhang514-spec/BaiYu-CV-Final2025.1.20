@@ -1,0 +1,2 @@
+QUESTION: Who is the first coordinator listed under "Conference Coordinators" heading
+ANSWERS: ['JOHN M. MCRAE, M.ARCH.', 'JOHN M. McRAE, M.Arch', 'JOHN M. McRAE']

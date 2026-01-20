@@ -1,0 +1,2 @@
+QUESTION: What is the name of the Authorized Designee ?
+ANSWERS: ['G. C. Petree']

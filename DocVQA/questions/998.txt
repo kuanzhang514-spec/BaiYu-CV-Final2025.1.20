@@ -1,0 +1,2 @@
+QUESTION: Has the registrant submitted electronically and posted on its website every Interactive data File required?
+ANSWERS: ['YES', 'Yes']

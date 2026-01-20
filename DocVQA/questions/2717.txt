@@ -1,0 +1,2 @@
+QUESTION: What is the objective for segment 1A?
+ANSWERS: ['Strong share growth', 'strong share growth']

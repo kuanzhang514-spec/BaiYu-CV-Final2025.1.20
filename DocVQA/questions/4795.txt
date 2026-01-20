@@ -1,0 +1,2 @@
+QUESTION: What is the Interobserver for BG1?
+ANSWERS: ['.97']

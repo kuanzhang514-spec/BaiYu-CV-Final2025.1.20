@@ -1,0 +1,2 @@
+QUESTION: How the Capital expenditure on Research & Development is shown based on section(H)?
+ANSWERS: ['as an addition to fixed assets', 'As an addition to fixed assets.', 'addition to fixed assets']

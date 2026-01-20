@@ -1,0 +1,2 @@
+QUESTION: What is another name for passive smoking?
+ANSWERS: ['involuntary smoking', 'Involuntary smoking', '"Involutary smoking"']

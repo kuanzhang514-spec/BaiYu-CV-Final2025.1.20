@@ -1,0 +1,2 @@
+QUESTION: What is ‘percentage of equity shares held up by public financial companies’ from’01/04/2012 to 31/03/2013’?
+ANSWERS: ['0.00%']

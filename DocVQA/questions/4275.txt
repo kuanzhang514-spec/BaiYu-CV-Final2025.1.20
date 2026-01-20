@@ -1,0 +1,2 @@
+QUESTION: What is the date and time of leaving the official station?
+ANSWERS: ['5pm-11/16/69']

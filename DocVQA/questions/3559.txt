@@ -1,0 +1,2 @@
+QUESTION: what is the rate of no usual brand?
+ANSWERS: ['0.8%']

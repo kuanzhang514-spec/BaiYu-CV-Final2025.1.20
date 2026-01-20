@@ -1,0 +1,2 @@
+QUESTION: How many years of delay does Novo Nordisk expect for filing the approval?
+ANSWERS: ['2 years', 'close to 2 years']

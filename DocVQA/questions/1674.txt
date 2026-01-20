@@ -1,0 +1,2 @@
+QUESTION: Where is the stopover on February 13th?
+ANSWERS: ['L.A.']

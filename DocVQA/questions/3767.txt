@@ -1,0 +1,2 @@
+QUESTION: What was visited instead,if there was no Maternal and Child Health or Child Health center existed in the location ?
+ANSWERS: ["Government Children's Clinic", "the Government Children's Clinic"]

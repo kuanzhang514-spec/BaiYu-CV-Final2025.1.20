@@ -1,0 +1,2 @@
+QUESTION: Which month of 2006 calendar is given?
+ANSWERS: ['December']

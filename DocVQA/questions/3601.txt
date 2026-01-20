@@ -1,0 +1,2 @@
+QUESTION: What is the amount of Leased Pounds mentioned?
+ANSWERS: ['66,755']

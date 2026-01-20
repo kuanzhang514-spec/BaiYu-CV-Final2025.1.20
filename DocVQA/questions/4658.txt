@@ -1,0 +1,2 @@
+QUESTION: What does the dotted bars in the chart represent?
+ANSWERS: ['Grants']

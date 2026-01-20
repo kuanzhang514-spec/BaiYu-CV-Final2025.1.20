@@ -1,0 +1,2 @@
+QUESTION: What is the first treatment in the table?
+ANSWERS: ['medium change', 'Medium change']

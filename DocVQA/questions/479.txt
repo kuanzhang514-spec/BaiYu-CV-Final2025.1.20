@@ -1,0 +1,2 @@
+QUESTION: Who wrote the letter?
+ANSWERS: ['Michael F. Jacobson, Ph.D.', 'Michael F. Jacobson']

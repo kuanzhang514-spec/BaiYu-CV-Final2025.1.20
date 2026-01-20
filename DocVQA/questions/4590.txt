@@ -1,0 +1,2 @@
+QUESTION: What is the value of  Fresco for "Flourine" during the time period October 1, 1971 to February 28,1977?
+ANSWERS: ['.2']

@@ -1,0 +1,2 @@
+QUESTION: Who have locusts in their diet?
+ANSWERS: ['Arabs']

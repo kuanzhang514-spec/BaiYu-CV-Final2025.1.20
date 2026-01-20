@@ -1,0 +1,2 @@
+QUESTION: What is plotted along the y axis ?
+ANSWERS: ['GRAMS/PERSON/DAY', 'grams/person/day']

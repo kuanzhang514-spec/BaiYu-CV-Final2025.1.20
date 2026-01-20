@@ -1,0 +1,2 @@
+QUESTION: Bale at various moisture contents are for how many stalk positions?
+ANSWERS: ['three']

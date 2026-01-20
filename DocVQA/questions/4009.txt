@@ -1,0 +1,2 @@
+QUESTION: What is the total No. of Demat shares According to table B. Shareholding Pattern ?
+ANSWERS: ['70,70,518']

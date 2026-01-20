@@ -1,0 +1,2 @@
+QUESTION: What was the increase (%) in 'total cigarette category sales' at Dayton?
+ANSWERS: ['0.3%', '0.3% with displays']

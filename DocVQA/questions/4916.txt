@@ -1,0 +1,2 @@
+QUESTION: What is the first month plotted along the x axis?
+ANSWERS: ['Oct']

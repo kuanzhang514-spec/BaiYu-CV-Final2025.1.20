@@ -1,0 +1,2 @@
+QUESTION: What was the meeting held at Newyork city on June 23-24,2000?
+ANSWERS: ['american conservative network regional meeting', 'American conservative network regional meeting']

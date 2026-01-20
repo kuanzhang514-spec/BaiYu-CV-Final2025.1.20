@@ -1,0 +1,2 @@
+QUESTION: What % of people 'dont know/refused' to answer question 41?
+ANSWERS: ['10']

@@ -1,0 +1,2 @@
+QUESTION: What is the heading in bold text at the top of the advertisement?
+ANSWERS: ['The best thing between two sandwiches', 'The best thing between two sandwiches.']

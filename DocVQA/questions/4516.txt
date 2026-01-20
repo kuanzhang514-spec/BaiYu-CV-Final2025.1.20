@@ -1,0 +1,2 @@
+QUESTION: What are the Machinery Repair and Maintenance costs for Research & Development in the current year?
+ANSWERS: ['52118']

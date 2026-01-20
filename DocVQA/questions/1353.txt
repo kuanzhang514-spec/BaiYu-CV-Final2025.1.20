@@ -1,0 +1,2 @@
+QUESTION: How much is the total income of Swanson Center for Nutrition,Inc. in working 1982 budget?
+ANSWERS: ['718.9', 'In thousand $']

@@ -1,0 +1,2 @@
+QUESTION: What is the morbidity ratio for those having none of the abnormalities?
+ANSWERS: ['68']

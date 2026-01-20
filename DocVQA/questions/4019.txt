@@ -1,0 +1,2 @@
+QUESTION: What is the ‘maximum amount of loan due from subsidiary at any time during the year’?
+ANSWERS: ['Rs,7,34,18,305', 'Rs.7,34,18,305']

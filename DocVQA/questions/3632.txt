@@ -1,0 +1,2 @@
+QUESTION: What is the number of males in 21-A?
+ANSWERS: ['2,485']

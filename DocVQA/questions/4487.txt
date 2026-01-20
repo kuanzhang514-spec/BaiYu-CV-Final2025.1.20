@@ -1,0 +1,2 @@
+QUESTION: What date mentioned in the top left of the document ?
+ANSWERS: ['04/04/2000']

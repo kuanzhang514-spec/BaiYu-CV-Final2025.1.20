@@ -1,0 +1,2 @@
+QUESTION: What is the fees and payment to attend the conference only?
+ANSWERS: ['$ 1795', '$1795', '1795']

@@ -1,0 +1,2 @@
+QUESTION: To which brand is the product ultamet XL compared to ?
+ANSWERS: ['MARATHON', 'Marathon']

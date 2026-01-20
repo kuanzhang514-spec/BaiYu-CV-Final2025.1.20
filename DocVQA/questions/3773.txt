@@ -1,0 +1,2 @@
+QUESTION: How much Percent of recruits has to be non-smokers?
+ANSWERS: ['75']

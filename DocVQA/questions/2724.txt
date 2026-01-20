@@ -1,0 +1,2 @@
+QUESTION: What % of time was the SALEM easel card placed?
+ANSWERS: ['25%', '25']

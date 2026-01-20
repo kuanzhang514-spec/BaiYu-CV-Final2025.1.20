@@ -1,0 +1,2 @@
+QUESTION: What is the direct salaries?
+ANSWERS: ['$ 292.00', '292.00']

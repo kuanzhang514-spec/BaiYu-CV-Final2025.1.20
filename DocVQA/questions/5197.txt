@@ -1,0 +1,2 @@
+QUESTION: What the * symbol denotes?
+ANSWERS: ['amount as per demand orders, including interest and penalty, where quantified in the order', 'amount as per demand orders, including interest and penalty, where quantified in the Order.', 'amount as per demand orders']

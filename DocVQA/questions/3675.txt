@@ -1,0 +1,2 @@
+QUESTION: What does P stand for?
+ANSWERS: ['Planning']

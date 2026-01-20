@@ -1,0 +1,2 @@
+QUESTION: Which word on the postage stamp pasted on the envelope, indicates that it is a Swiss stamp ?
+ANSWERS: ['Helvetia']

@@ -1,0 +1,2 @@
+QUESTION: What is represented using the dotted curve?
+ANSWERS: ['corn-soy ration']

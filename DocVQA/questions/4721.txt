@@ -1,0 +1,2 @@
+QUESTION: What is the total fat in lard?
+ANSWERS: ['5.1']

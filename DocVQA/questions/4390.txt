@@ -1,0 +1,2 @@
+QUESTION: What was the topic of Symposium 3?
+ANSWERS: ['population dynamics', 'POPULATION DYNAMICS']

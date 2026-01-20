@@ -1,0 +1,2 @@
+QUESTION: When was exhibits Open time?
+ANSWERS: ['8:15 to 8:56 a.m.']

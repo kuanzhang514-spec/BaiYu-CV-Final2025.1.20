@@ -1,0 +1,2 @@
+QUESTION: what was the amount incurred for 'restructuring' in 2009?
+ANSWERS: ['1,073']

@@ -1,0 +1,2 @@
+QUESTION: What is the name of the person to whom the letter is addressed?
+ANSWERS: ['MANOLO', 'Manolo']

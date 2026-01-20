@@ -1,0 +1,2 @@
+QUESTION: What is the agenda item at 10:05  on july 17?
+ANSWERS: ['Report on Europe and US launch (Mr. Bass)', 'Report on Europe and US launch']

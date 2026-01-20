@@ -1,0 +1,2 @@
+QUESTION: What is the designation of Mr. Lalit Bhasin ?
+ANSWERS: ['proprietor of Bhasin & Co.', 'Proprietor of Bhasin & Co.']

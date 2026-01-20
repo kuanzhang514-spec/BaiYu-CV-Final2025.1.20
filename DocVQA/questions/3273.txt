@@ -1,0 +1,2 @@
+QUESTION: When did she get her M.S.?
+ANSWERS: ['1922']

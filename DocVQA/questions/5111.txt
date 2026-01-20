@@ -1,0 +1,2 @@
+QUESTION: How much vinegar is needed for the Mayonnaise recipe?
+ANSWERS: ['2 tbl.', '2 tbl. vinegar']

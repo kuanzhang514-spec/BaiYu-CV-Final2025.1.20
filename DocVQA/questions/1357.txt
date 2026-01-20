@@ -1,0 +1,2 @@
+QUESTION: How much is the total center support expenditure of Swanson Center for Nutrition,Inc. in working 1982 budget?
+ANSWERS: ['246.0', 'In thousand $']

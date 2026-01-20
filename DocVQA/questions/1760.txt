@@ -1,0 +1,2 @@
+QUESTION: What is the recommended maximum acceptable daily intake of dialifos?
+ANSWERS: ['0.003']

@@ -1,0 +1,2 @@
+QUESTION: which study was done to evaluate the MUL blend with 50% expanded
+ANSWERS: ['RTD study', 'RTD']

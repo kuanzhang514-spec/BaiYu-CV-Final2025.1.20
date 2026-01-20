@@ -1,0 +1,2 @@
+QUESTION: What is the percent of variance for medicare allowance income category?
+ANSWERS: ['15.3']

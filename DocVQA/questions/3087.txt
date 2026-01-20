@@ -1,0 +1,2 @@
+QUESTION: What is the cover story?
+ANSWERS: ['we can afford a better america', 'We can afford a better America']

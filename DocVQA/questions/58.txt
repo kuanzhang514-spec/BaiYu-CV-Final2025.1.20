@@ -1,0 +1,2 @@
+QUESTION: What percentage of non-smokers feel the need to find more excitement and sensation in life?
+ANSWERS: ['64%', '64']

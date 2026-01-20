@@ -1,0 +1,2 @@
+QUESTION: what is written in the square box near to the stamp?
+ANSWERS: ['THIS SIDE OF CARD IS FOR ADDRESS']

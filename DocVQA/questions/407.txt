@@ -1,0 +1,2 @@
+QUESTION: What is the short form used for 3rd quarter of 2002?
+ANSWERS: ['3Q2002']

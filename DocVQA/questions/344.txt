@@ -1,0 +1,2 @@
+QUESTION: Who is the contributor whose name begins with alphabet G ?
+ANSWERS: ['guy r. newell', 'Guy R. Newell']

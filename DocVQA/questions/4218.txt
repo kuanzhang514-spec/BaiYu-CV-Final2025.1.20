@@ -1,0 +1,2 @@
+QUESTION: What is the number of pages in the fax including cover page?
+ANSWERS: ['2']

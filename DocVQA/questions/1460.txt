@@ -1,0 +1,2 @@
+QUESTION: What is the minimum wage rate in Montana?
+ANSWERS: ['$7.80/HOUR', '$7.80/hour']

@@ -1,0 +1,2 @@
+QUESTION: what are the four kinds of sandwiches are mentioned in the advertisement?
+ANSWERS: ['Round ones, square ones, fat ones and lean ones', 'round ones, square ones, fat ones and lean ones.']

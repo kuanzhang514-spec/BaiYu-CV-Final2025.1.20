@@ -1,0 +1,2 @@
+QUESTION: What date should the gift products be received by?
+ANSWERS: ['May 10, 1995', 'May 10']

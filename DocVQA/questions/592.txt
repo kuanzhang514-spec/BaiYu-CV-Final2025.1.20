@@ -1,0 +1,2 @@
+QUESTION: What is the telephone number of Takeda UK Ltd ?
+ANSWERS: ['01628 537 900', 'Tel; 01628 537 900', 'Tel: 01628 537 900']

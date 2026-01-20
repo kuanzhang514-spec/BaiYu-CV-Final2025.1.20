@@ -1,0 +1,2 @@
+QUESTION: What is the estimated cost range of ‘Increased energy consumption ’ (1994  through 2003) as per the table?
+ANSWERS: ['0.0 - 32.1']

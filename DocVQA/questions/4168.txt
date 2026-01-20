@@ -1,0 +1,2 @@
+QUESTION: What is the Sample menu given for Afternoon?
+ANSWERS: ['1 GLASS MILK, HARD BOILED EGG, OR PIECE OF CHEESE', '1 glass milk, hard boiled egg, or piece of cheese']

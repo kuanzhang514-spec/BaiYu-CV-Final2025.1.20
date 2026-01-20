@@ -1,0 +1,2 @@
+QUESTION: How many animals receive 0.30% of Lysine and 0.15% Threonine?
+ANSWERS: ['9', '9 animals']

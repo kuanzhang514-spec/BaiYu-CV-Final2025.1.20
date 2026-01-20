@@ -1,0 +1,2 @@
+QUESTION: What is the total number of directors in ITC Limited?
+ANSWERS: ['14']

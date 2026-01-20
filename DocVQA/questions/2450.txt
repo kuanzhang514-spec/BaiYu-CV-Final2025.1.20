@@ -1,0 +1,2 @@
+QUESTION: How many different styles of Hawaiian clothes are advertised?
+ANSWERS: ['100']

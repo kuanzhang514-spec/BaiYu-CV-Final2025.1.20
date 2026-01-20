@@ -1,0 +1,2 @@
+QUESTION: What is TID?
+ANSWERS: ['THREE TIMES DAILY', 'Three times daily']

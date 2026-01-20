@@ -1,0 +1,2 @@
+QUESTION: What is the Duration (cycles) for Study Number Phase II "2003"?
+ANSWERS: ['6/7']

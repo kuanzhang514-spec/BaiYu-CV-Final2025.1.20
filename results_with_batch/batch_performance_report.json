@@ -1,0 +1,31 @@
+{
+  "batch_config": {
+    "batch_size": 2,
+    "max_workers": 2,
+    "enabled": true
+  },
+  "processing_stats": {
+    "total_samples": 110,
+    "total_batches": 55,
+    "qwen_batch_calls": 55,
+    "clip_batch_calls": 0,
+    "batch_size_distribution": {
+      "2": 55
+    },
+    "estimated_sequential_time": 0.0,
+    "actual_batch_time": 1189.4830808639526,
+    "overall_speedup": 1.0
+  },
+  "timing_stats": {
+    "avg_qwen_batch_time": 9.440178892829202,
+    "avg_clip_batch_time": 0,
+    "qwen_batch_times_sample": [
+      10.324378252029419,
+      7.2743916511535645,
+      7.448186635971069,
+      11.561530828475952,
+      10.230018377304077
+    ],
+    "clip_batch_times_sample": []
+  }
+}

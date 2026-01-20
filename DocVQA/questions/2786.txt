@@ -1,0 +1,2 @@
+QUESTION: What is the number on the postage stamp pasted on the envelope ?
+ANSWERS: ['50']

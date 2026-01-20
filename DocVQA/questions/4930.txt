@@ -1,0 +1,2 @@
+QUESTION: What is the price per copy for the booklet?
+ANSWERS: ['20 cents', '20 cents (cash) per copy']

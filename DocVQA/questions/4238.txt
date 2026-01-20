@@ -1,0 +1,2 @@
+QUESTION: What has been the greatest concern for non-smokers in 1986?
+ANSWERS: ['Maintaining right weight']

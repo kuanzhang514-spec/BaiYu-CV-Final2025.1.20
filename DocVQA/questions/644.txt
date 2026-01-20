@@ -1,0 +1,2 @@
+QUESTION: What is written at the bottom right end of the ‘page’?
+ANSWERS: ['Dwrite 066084', 'DWRITE 066084']

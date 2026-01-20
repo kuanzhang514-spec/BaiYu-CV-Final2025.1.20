@@ -1,0 +1,2 @@
+QUESTION: What is the y axis of second  bar graph?
+ANSWERS: ['percent prevalence of respiratory infections', '% prevalence', 'Prevalence']

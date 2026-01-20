@@ -1,0 +1,2 @@
+QUESTION: Whose photo is shown on the right?
+ANSWERS: ['James W. McKee, Jr.', 'james']

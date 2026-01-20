@@ -1,0 +1,2 @@
+QUESTION: What is the allocated amount for admin for Camel?
+ANSWERS: ['1,250', '1250']

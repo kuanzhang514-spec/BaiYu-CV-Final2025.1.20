@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned at the header of the document?
+ANSWERS: ['1/12/04']

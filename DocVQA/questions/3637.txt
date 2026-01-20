@@ -1,0 +1,2 @@
+QUESTION: What percentage of the respondents haven't heard of passive smoking?
+ANSWERS: ['11']

@@ -1,0 +1,2 @@
+QUESTION: How many Trustees are there?
+ANSWERS: ['(14 public, 66 industry)', '14 Public, 66 Industry', '14 public, 66 industry']

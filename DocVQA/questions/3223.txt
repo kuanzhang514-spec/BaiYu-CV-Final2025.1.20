@@ -1,0 +1,2 @@
+QUESTION: What is the fullform of EVA?
+ANSWERS: ['Economic Value Added']

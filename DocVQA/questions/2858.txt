@@ -1,0 +1,2 @@
+QUESTION: Which step ‘figure 2 ‘refers to?
+ANSWERS: ['STEP 2', 'Step 2']

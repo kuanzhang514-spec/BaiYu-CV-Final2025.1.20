@@ -1,0 +1,2 @@
+QUESTION: What is table 2?
+ANSWERS: ['Demographic data on the adult subjects']

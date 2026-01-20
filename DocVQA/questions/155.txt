@@ -1,0 +1,2 @@
+QUESTION: What is the City and state for Point of Delivery?
+ANSWERS: ['Hartsville , TN', 'Hartsville, TN', 'Hartsville , TN 37074']

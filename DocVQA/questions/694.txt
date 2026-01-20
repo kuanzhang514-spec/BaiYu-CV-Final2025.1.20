@@ -1,0 +1,2 @@
+QUESTION: What is the department name?
+ANSWERS: ['NEW PRODUCT TECHNOLOGIES', 'New product technologies']

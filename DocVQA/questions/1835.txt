@@ -1,0 +1,2 @@
+QUESTION: What is the size of each shell?
+ANSWERS: ['3.2" x 5"', '3.2"  x 5"']

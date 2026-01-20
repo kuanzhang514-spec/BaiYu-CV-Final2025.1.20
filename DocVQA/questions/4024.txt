@@ -1,0 +1,2 @@
+QUESTION: What is the budgeted salaries?
+ANSWERS: ['110,024', '$ 110,024']

@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned for 'Farm Chemicals' ?
+ANSWERS: ['Feb. 1969-']

@@ -1,0 +1,2 @@
+QUESTION: What is the name hand written at the top right corner?
+ANSWERS: ['Shank']

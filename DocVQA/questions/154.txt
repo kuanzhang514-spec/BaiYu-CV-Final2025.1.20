@@ -1,0 +1,2 @@
+QUESTION: What kind of a communication/letter  is this?
+ANSWERS: ['INTER-OFFICE CORRESPONDENCE', 'Inter-office correspondence']

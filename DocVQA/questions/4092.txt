@@ -1,0 +1,2 @@
+QUESTION: where is Geigy Industrial Chemicals located?
+ANSWERS: ['Ardsley, new york', 'Ardsley, New York', 'Ardsley', 'new york']

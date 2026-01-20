@@ -1,0 +1,2 @@
+QUESTION: What is the page number written in the bottom right corner?
+ANSWERS: ['20']

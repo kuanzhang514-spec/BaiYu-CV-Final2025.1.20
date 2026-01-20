@@ -1,0 +1,2 @@
+QUESTION: How much was the ‘total’ expense?
+ANSWERS: ['$ 894.97', '$894.97']

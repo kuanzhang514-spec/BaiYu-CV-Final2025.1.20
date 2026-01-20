@@ -1,0 +1,2 @@
+QUESTION: How many men have responded?
+ANSWERS: ['249']

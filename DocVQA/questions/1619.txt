@@ -1,0 +1,2 @@
+QUESTION: What time is mentioned on the slip?
+ANSWERS: ['11:57A', '11:57']

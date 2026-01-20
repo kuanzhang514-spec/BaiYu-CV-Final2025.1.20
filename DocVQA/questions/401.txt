@@ -1,0 +1,2 @@
+QUESTION: What is the Due date of draft to DesignWrite by the writer?
+ANSWERS: ['Wednesday, November 8, 2000', 'Wednesday, November 8, 2000.']

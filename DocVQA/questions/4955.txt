@@ -1,0 +1,2 @@
+QUESTION: How much is the tax on fare?
+ANSWERS: ['13.43']

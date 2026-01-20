@@ -1,0 +1,2 @@
+QUESTION: What is the title of Table 12?
+ANSWERS: ['Cemented revisions with and without antibiotics']

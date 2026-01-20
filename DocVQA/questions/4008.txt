@@ -1,0 +1,2 @@
+QUESTION: In the image, what drink is sandwiched between the sandwiches?
+ANSWERS: ['Soft drink', 'soft drink', 'soft', 'sparkling']

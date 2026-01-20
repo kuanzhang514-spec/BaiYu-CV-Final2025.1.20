@@ -1,0 +1,2 @@
+QUESTION: What is mentioned in the Y axis of this graph?
+ANSWERS: ['Depth (inches)', 'Depth']

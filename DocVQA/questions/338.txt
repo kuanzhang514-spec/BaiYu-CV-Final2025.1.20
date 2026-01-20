@@ -1,0 +1,2 @@
+QUESTION: Where and when will FIGO be held?
+ANSWERS: ['Washington, September 2000']

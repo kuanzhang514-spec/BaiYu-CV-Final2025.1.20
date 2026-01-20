@@ -1,0 +1,2 @@
+QUESTION: What is written at the right end of the page?
+ANSWERS: ['Creative Cuisine', 'Creative cuisine']

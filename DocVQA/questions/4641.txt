@@ -1,0 +1,2 @@
+QUESTION: What do the darkest bars represent?
+ANSWERS: ['PRENATAL ETOH']

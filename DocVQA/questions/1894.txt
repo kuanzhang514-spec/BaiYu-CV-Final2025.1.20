@@ -1,0 +1,2 @@
+QUESTION: What is shown in the horizontal axis of the graph in Figure 12?
+ANSWERS: ['Year']

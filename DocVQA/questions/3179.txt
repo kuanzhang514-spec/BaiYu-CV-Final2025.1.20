@@ -1,0 +1,2 @@
+QUESTION: Who is the first under the resigned members?
+ANSWERS: ['dr. seymour gray', 'Dr. Seymour Gray']

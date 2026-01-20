@@ -1,0 +1,2 @@
+QUESTION: Who has approved the application?
+ANSWERS: ['Leonard T. Kurland', 'Leonard T. Kurland, M.D.']

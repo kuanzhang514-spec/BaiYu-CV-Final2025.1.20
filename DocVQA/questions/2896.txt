@@ -1,0 +1,2 @@
+QUESTION: Which figure is shown at the top right  the document?
+ANSWERS: ['Figure2', 'figure 2']

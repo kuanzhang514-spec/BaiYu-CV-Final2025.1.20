@@ -1,0 +1,2 @@
+QUESTION: What is the date of the report?
+ANSWERS: ['August 15, 1976']

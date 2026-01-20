@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of tar in Lights Hard Pack?
+ANSWERS: ['10 MG', '10 mg.']

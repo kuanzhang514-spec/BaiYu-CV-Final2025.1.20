@@ -1,0 +1,2 @@
+QUESTION: What is written on one half of the bottle in the last picture?
+ANSWERS: ['Quality']

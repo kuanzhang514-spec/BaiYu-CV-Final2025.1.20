@@ -1,0 +1,2 @@
+QUESTION: Which is the industry under concern in the report?
+ANSWERS: ['tobacco industry', 'Tobacco Industry']

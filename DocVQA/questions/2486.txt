@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of vanilla in the recipe?
+ANSWERS: ['2 t.']

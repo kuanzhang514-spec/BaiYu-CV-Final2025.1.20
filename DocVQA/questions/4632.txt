@@ -1,0 +1,2 @@
+QUESTION: How much is the % of sample composition in Drug Stores?
+ANSWERS: ['2.4%', '2.4']

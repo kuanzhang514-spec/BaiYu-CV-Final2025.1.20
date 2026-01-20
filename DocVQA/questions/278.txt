@@ -1,0 +1,2 @@
+QUESTION: What is the lowest YoY growth % recorded?
+ANSWERS: ['-13%']

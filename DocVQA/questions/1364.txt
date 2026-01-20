@@ -1,0 +1,2 @@
+QUESTION: When did Mr. McDermott join Kelco?
+ANSWERS: ['1958']

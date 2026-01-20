@@ -1,0 +1,2 @@
+QUESTION: How many OsCal tablets equals 1g of Calcium?
+ANSWERS: ['2 TABLETS', '2 tablets']

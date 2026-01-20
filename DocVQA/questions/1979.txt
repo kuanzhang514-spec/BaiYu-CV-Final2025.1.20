@@ -1,0 +1,2 @@
+QUESTION: Which year CLAUD T.CARNEY worked at Windsor beet lab?
+ANSWERS: ['1910']

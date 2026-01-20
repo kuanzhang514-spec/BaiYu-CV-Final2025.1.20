@@ -1,0 +1,2 @@
+QUESTION: what is the sales in 2010?
+ANSWERS: ['106,016']

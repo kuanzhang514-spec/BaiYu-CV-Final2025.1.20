@@ -1,0 +1,2 @@
+QUESTION: What is WSS?
+ANSWERS: ['WORLDWIDE SAFETY STANDARDS', "Worldwide Safety Standard's"]

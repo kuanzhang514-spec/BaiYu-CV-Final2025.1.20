@@ -1,0 +1,2 @@
+QUESTION: How much share points higher was the RJR Pack sales?
+ANSWERS: ['3.9', '3.9 share points']

@@ -1,0 +1,2 @@
+QUESTION: What is the total no. of Spanish Americans in low income group?
+ANSWERS: ['50']

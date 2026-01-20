@@ -1,0 +1,2 @@
+QUESTION: What is the value of Atole for "Energy" during the time period January 1, 1969 to September 30,1971?
+ANSWERS: ['163']

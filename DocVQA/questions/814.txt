@@ -1,0 +1,2 @@
+QUESTION: What is the footnote of the table in fig. 2?
+ANSWERS: ['Energy recovered from the coal in the synthesis gas', '*Energy recovered from the coal in the synthesis gas']

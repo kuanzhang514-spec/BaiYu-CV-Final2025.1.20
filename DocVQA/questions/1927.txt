@@ -1,0 +1,2 @@
+QUESTION: Which “magazine’s copies” are enclosed within the letter?
+ANSWERS: ['Upbeet magazine', 'Upbeet']

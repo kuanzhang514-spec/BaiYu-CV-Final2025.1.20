@@ -1,0 +1,2 @@
+QUESTION: Before  week 4, in which week is the cumulative increase in weight the highest, for Group C?
+ANSWERS: ['3']

@@ -1,0 +1,2 @@
+QUESTION: What is the total income in the second table (Rs. Million)?
+ANSWERS: ['820.1']

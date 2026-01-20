@@ -1,0 +1,2 @@
+QUESTION: What is the exposure of ‘hamsters (male)’?
+ANSWERS: ['65']

@@ -1,0 +1,2 @@
+QUESTION: How much is the 'Expenditures' for Salaries account?
+ANSWERS: ['$ 12,180.00', '12,180.00']

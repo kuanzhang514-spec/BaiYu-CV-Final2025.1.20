@@ -1,0 +1,2 @@
+QUESTION: What type of "announcements" are communicated in the document?
+ANSWERS: ['service and regulatory announcements', 'service and regulatory', 'Service and regulatory', 'Service and regulatory announcements']

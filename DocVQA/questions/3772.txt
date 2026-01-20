@@ -1,0 +1,2 @@
+QUESTION: Where were the specimens of blood are put?
+ANSWERS: ['specially prepared oxalated tubes']

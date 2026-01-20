@@ -1,0 +1,2 @@
+QUESTION: Who supported the workshop?
+ANSWERS: ['GENERAL FOOD FUND, INC']

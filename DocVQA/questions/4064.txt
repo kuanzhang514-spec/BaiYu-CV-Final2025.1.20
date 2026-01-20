@@ -1,0 +1,2 @@
+QUESTION: What is the SKU weight?
+ANSWERS: ['4.4200']

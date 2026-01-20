@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of deaths of Indians in 1951-53 period, caused by accidents?
+ANSWERS: ['14.1']

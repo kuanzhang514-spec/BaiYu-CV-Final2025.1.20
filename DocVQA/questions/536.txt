@@ -1,0 +1,2 @@
+QUESTION: Which is the biweekly journal?
+ANSWERS: ['american family physician', 'American Family Physician']

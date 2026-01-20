@@ -1,0 +1,2 @@
+QUESTION: What is written under ‘new!’ In the magazine?
+ANSWERS: ['A short story from Ellen Gilchrist', 'A short story from Ellen gilchrist']

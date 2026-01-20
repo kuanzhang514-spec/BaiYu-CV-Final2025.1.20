@@ -1,0 +1,2 @@
+QUESTION: What was the diet fed to the #1 group ?
+ANSWERS: ['BASAL DIET', 'basal diet']

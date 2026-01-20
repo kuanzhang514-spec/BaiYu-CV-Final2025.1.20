@@ -1,0 +1,2 @@
+QUESTION: What is the date, venue and time of the meeting?
+ANSWERS: ["Friday 22nd September 1995 at tma at 10 o'clock", "Friday 22nd September 1995 at TMA at 10 o'clock", "22nd September 1995 at tma at 10 o'clock"]

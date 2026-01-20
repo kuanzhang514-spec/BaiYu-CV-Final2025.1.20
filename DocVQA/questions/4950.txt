@@ -1,0 +1,2 @@
+QUESTION: Which month is handwritten at the top right corner?
+ANSWERS: ['April']

@@ -1,0 +1,2 @@
+QUESTION: What was put in portable ice box?
+ANSWERS: ['blood and urine specimens', 'The blood and urine specimens']

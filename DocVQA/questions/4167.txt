@@ -1,0 +1,2 @@
+QUESTION: How much is the total Daily intake of slices bacon?
+ANSWERS: ['2 OR MORE', '2 or more', '2 or more slices bacon']

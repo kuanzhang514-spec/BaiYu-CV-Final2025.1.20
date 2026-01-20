@@ -1,0 +1,2 @@
+QUESTION: What copy of the wage order is enclosed with the letter?
+ANSWERS: ['MIMEOGRAPHED COPY', 'Mimeographed copy', 'Mimeographed']

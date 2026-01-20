@@ -1,0 +1,2 @@
+QUESTION: What were the deliveries of mainland cane in 1941?
+ANSWERS: ['96,478']

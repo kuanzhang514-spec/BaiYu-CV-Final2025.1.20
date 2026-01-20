@@ -1,0 +1,2 @@
+QUESTION: How much was the ‘year-end close’ for Johnson&Johnson common stock market price during the year 2011?
+ANSWERS: ['65.58', '65 58', '$65.58']

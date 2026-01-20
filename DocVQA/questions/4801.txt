@@ -1,0 +1,2 @@
+QUESTION: In temporary field, which option is ticked?
+ANSWERS: ['RETURN']

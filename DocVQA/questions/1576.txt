@@ -1,0 +1,2 @@
+QUESTION: What is the area of focus ?
+ANSWERS: ['external influences', 'External Influences']

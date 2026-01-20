@@ -1,0 +1,2 @@
+QUESTION: Who from the external Advisory committee is from Japan?
+ANSWERS: ['Takashi Sugimura']

@@ -1,0 +1,2 @@
+QUESTION: What is the maximum value at x axis?
+ANSWERS: ['28']

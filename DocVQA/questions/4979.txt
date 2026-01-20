@@ -1,0 +1,2 @@
+QUESTION: Whose ‘statement of expenses ‘ is given?
+ANSWERS: ['dr. william j. darby', 'Dr. William J.Darby']

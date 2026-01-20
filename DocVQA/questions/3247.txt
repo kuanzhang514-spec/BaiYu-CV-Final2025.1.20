@@ -1,0 +1,2 @@
+QUESTION: Who is the author of the article 'Leisure World Cohort: Update and Review'?
+ANSWERS: ['a. paganini-hill', 'A. Paganini-Hill']

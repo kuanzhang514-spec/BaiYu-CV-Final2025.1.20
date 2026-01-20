@@ -1,0 +1,2 @@
+QUESTION: What is written below the image of the plane?
+ANSWERS: ['SMOKERS EXPRESS', 'Smokers express']

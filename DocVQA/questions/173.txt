@@ -1,0 +1,2 @@
+QUESTION: What is the issue date?
+ANSWERS: ['february 7, 1994', 'February 7, 1994']

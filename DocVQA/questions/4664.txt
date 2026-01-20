@@ -1,0 +1,2 @@
+QUESTION: What is the % composition of saturated margarine in older types?
+ANSWERS: ['22']

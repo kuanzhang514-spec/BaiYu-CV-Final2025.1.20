@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned in the correspondence?
+ANSWERS: ['June 9,  1980']

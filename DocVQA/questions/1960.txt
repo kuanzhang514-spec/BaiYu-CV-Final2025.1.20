@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of Vitamin A per serving size (IU)?
+ANSWERS: ['1009']

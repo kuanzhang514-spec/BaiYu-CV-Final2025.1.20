@@ -1,0 +1,2 @@
+QUESTION: What is the given table about?
+ANSWERS: ['TEST ITEM ASSIGNMENTS 1957', 'Test item assignments 1957']

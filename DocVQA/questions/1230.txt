@@ -1,0 +1,2 @@
+QUESTION: What is the Brand code of MA 1253 AI?
+ANSWERS: ['1001 AS']

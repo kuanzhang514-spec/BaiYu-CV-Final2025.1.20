@@ -1,0 +1,2 @@
+QUESTION: How much was the 'research and development expense' for the year 2009?
+ANSWERS: ['6,986']

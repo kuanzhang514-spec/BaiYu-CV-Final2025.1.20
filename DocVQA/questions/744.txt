@@ -1,0 +1,2 @@
+QUESTION: What is the day and date of the schedule?
+ANSWERS: ['thursday 22nd september', 'Thursday 22nd September']

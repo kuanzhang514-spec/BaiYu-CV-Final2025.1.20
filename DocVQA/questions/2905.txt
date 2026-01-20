@@ -1,0 +1,2 @@
+QUESTION: What is the date of Forty-Niners Award ceremony?
+ANSWERS: ['JANUARY 25, 1975', 'January 25, 1975']

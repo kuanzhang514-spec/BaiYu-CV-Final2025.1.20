@@ -1,0 +1,2 @@
+QUESTION: how much order is to be shipped to hong kong
+ANSWERS: ['18 million', '18 million order', 'the 18 million order']

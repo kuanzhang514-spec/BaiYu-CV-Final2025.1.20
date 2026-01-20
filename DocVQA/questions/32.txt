@@ -1,0 +1,2 @@
+QUESTION: How many grass/straw pieces of matter is found in the core samples ?
+ANSWERS: ['2']

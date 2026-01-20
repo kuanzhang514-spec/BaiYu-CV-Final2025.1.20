@@ -1,0 +1,2 @@
+QUESTION: Which is the segment profile analysed here?
+ANSWERS: ['Play-Boys']

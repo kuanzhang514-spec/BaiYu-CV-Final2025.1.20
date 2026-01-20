@@ -1,0 +1,2 @@
+QUESTION: According to budget request summary what is total amount of other expenses??
+ANSWERS: ['$975.00', '975.00']

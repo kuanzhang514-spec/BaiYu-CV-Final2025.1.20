@@ -1,0 +1,2 @@
+QUESTION: How much was the expenses for ‘Hotel: St.Francis’?
+ANSWERS: ['386.47', '$386.47']

@@ -1,0 +1,2 @@
+QUESTION: How  is the quality of the POLY FILTER?
+ANSWERS: ['quality continues to be good', 'Quality continues to be good', 'continues to be good']

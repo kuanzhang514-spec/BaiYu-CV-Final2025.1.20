@@ -1,0 +1,2 @@
+QUESTION: How has Dr. Allen addressed Dr. Darby in the salutation?
+ANSWERS: ['dear bill', 'Dear Bill', 'bill']

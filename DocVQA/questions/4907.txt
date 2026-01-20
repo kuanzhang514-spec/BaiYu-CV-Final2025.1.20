@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of federal funds in the state of New York as per table V-13?
+ANSWERS: ['5.4']

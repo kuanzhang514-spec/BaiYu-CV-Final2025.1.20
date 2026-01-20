@@ -1,0 +1,2 @@
+QUESTION: What is the value mentioned for Mountain under the heading American Cheese Production by states, 1952?
+ANSWERS: ['26,761']

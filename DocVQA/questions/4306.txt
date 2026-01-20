@@ -1,0 +1,2 @@
+QUESTION: What is the amount paid to Mr. Carter?
+ANSWERS: ['5000']

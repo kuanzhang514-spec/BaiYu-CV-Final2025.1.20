@@ -1,0 +1,2 @@
+QUESTION: What is the title of the document?
+ANSWERS: ['method of or absence of advertising', 'METHOD OF OR ABSENCE OF ADVERTISING']

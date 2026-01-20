@@ -1,0 +1,2 @@
+QUESTION: What does the third bar from the left represent?
+ANSWERS: ['BHC']

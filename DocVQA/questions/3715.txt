@@ -1,0 +1,2 @@
+QUESTION: When is the document dated?
+ANSWERS: ['August 20, 1974']

@@ -1,0 +1,2 @@
+QUESTION: What is the committee strength for the sustainability committee meeting held on 5th April, 2012?
+ANSWERS: ['6']

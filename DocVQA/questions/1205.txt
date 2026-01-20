@@ -1,0 +1,2 @@
+QUESTION: What does OGL denote?
+ANSWERS: ['Open General License']

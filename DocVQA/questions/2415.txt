@@ -1,0 +1,2 @@
+QUESTION: What is written in column I, row 4  of the Excel sheet?
+ANSWERS: ['AVE. RATING 4.3', 'Ave. rating 4.3']

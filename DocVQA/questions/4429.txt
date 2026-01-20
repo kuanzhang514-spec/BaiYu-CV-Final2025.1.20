@@ -1,0 +1,2 @@
+QUESTION: What is the date sealed in the ‘letter’?
+ANSWERS: ['may 15 1980', 'May 15 1980']

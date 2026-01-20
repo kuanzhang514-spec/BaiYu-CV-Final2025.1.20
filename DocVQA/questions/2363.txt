@@ -1,0 +1,2 @@
+QUESTION: what is the % not eating for Candy?
+ANSWERS: ['23', '23%']

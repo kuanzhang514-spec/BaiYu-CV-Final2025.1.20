@@ -1,0 +1,2 @@
+QUESTION: What is the ‘contribution to provident and other funds’ expenses for the year ended 31.3.2010?
+ANSWERS: ['615.00', 'Rupees in lacs']

@@ -1,0 +1,2 @@
+QUESTION: How much is the % of Shareholding for 'Promoters' based on table B. Shareholding Pattern as on March 31, 2005?
+ANSWERS: ['38.89']

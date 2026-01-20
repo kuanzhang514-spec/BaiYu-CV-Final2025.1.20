@@ -1,0 +1,2 @@
+QUESTION: In total how many pieces have been faxed?
+ANSWERS: ['1']

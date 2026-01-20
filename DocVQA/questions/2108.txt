@@ -1,0 +1,2 @@
+QUESTION: What is the first point under 'other topics'?
+ANSWERS: ['Independent Radiologist- Do We Need One?', 'Independent Radiologist - Do we need one?']

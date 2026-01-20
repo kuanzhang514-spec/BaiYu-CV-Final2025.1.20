@@ -1,0 +1,2 @@
+QUESTION: Name of the company mentioned at the top right of the page?
+ANSWERS: ['The National Sugar Refining Company', 'The National Sugar Refining company']

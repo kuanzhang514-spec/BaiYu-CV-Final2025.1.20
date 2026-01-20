@@ -1,0 +1,2 @@
+QUESTION: What is the ‘X axis’ of all the plots shown?
+ANSWERS: ['AGE (mos)', 'Age (mos)']

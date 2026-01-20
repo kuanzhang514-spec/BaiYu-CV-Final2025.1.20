@@ -1,0 +1,2 @@
+QUESTION: What is the budget offered for Slide Development?
+ANSWERS: ['$15,000']

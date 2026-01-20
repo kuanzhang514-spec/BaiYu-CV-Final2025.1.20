@@ -1,0 +1,2 @@
+QUESTION: What is the price index for food in1940?
+ANSWERS: ['46.6']

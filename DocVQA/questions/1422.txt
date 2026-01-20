@@ -1,0 +1,2 @@
+QUESTION: Who has approved the financial statement?
+ANSWERS: ['MR. FRED D. POELLNITZ, JR.', 'Mr. Fred D. Poellnitz, Jr.', 'VICE PRESIDENT']

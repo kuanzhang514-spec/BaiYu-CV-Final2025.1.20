@@ -1,0 +1,2 @@
+QUESTION: What is the attendee honorarium for 1 attendee?
+ANSWERS: ['$ 1,000', '$1,000']

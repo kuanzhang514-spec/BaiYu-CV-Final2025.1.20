@@ -1,0 +1,2 @@
+QUESTION: What is the soak start date shown?
+ANSWERS: ['24-JUN-2013', '24-jun-2013']

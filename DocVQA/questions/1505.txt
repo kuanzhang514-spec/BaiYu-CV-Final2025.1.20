@@ -1,0 +1,2 @@
+QUESTION: For which University is the application?
+ANSWERS: ['the university of Minnesota', 'University of Minnesota', 'university of Minnesota']

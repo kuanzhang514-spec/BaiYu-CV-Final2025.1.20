@@ -1,0 +1,2 @@
+QUESTION: What is the title of the table?
+ANSWERS: ['preparation of the food homogenate', 'Preparation of the food homogenate']

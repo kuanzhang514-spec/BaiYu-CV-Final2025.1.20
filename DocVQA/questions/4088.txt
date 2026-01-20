@@ -1,0 +1,2 @@
+QUESTION: What is Goal no. 3?
+ANSWERS: ['a) EDUCATE MOTHERS AND CHILDREN IN BASICS OF NUTRITION', 'Educate mothers and children in Basics of Nutrition']

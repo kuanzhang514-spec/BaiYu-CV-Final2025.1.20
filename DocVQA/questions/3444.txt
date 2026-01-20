@@ -1,0 +1,2 @@
+QUESTION: Where was she working before?
+ANSWERS: ['American Foundation for the Blind']

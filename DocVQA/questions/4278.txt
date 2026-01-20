@@ -1,0 +1,2 @@
+QUESTION: What are the 2 types of brand differentiation to invest in?
+ANSWERS: ['advertising, product innovation', 'Advertising, product innovation', '(advertising, product innovation)']

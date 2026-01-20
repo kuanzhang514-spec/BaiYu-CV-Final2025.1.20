@@ -1,0 +1,2 @@
+QUESTION: What is the C.Yr. Remuneration of Director 'S.R.Patel'?
+ANSWERS: ['10,80,000/-']

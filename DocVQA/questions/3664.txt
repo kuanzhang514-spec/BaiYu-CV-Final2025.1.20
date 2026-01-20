@@ -1,0 +1,2 @@
+QUESTION: what is the circulation of 'Pharmacy Times' under Key Pharmacy Journals?
+ANSWERS: ['100,000']

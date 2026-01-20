@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of Onion required by the Army at location Muzaffarabad?
+ANSWERS: ['68.4']

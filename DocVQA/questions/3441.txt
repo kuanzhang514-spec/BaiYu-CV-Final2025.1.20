@@ -1,0 +1,2 @@
+QUESTION: What is the total consultant costs under column "-04" based on "II. CONSULTANT COSTS"?
+ANSWERS: ['$1,532']

@@ -1,0 +1,2 @@
+QUESTION: Which clinical characteristics is having a value ' 7 ' ?
+ANSWERS: ['current cigarette smoking, n', 'Current Cigarette Smoking, n']

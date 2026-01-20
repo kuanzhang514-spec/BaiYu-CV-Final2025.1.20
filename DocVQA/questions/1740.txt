@@ -1,0 +1,2 @@
+QUESTION: Among dieters and weight watchers, how many persons used ‘31 or more times’ ?
+ANSWERS: ['59']

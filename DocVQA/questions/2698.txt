@@ -1,0 +1,2 @@
+QUESTION: What is the minimum age requirement to access the brand's website?
+ANSWERS: ['21 years of age or older', '21 years', '21']

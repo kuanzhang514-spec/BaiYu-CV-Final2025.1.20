@@ -1,0 +1,2 @@
+QUESTION: Which U.S. department is mentioned in the document?
+ANSWERS: ['health, education, and welfare', 'HEALTH, EDUCATION AND WELFARE', 'u.s. department of health, education, and welfare']

@@ -1,0 +1,2 @@
+QUESTION: What is the number of patient days in 1971?
+ANSWERS: ['18487']

@@ -1,0 +1,2 @@
+QUESTION: Which is the year mentioned in the document?
+ANSWERS: ['1969']

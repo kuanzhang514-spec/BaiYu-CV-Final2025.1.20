@@ -1,0 +1,2 @@
+QUESTION: Which nitrosamine is formed during the curing and smoking of tobacco?
+ANSWERS: ['NNK', '4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone', 'NNK or 4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone']

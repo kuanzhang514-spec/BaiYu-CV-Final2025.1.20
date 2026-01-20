@@ -1,0 +1,2 @@
+QUESTION: What Ellen gilchrist wrote for the magazine?
+ANSWERS: ['A short story', 'short story']

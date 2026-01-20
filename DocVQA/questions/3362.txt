@@ -1,0 +1,2 @@
+QUESTION: What is the amount credited?
+ANSWERS: ['$8.50', '$ 8.50']

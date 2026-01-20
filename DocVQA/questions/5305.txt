@@ -1,0 +1,2 @@
+QUESTION: Who is the ‘acting chairman’?
+ANSWERS: ['Mr. Arden E. Swisher']

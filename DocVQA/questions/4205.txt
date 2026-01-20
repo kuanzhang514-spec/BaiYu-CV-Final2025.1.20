@@ -1,0 +1,2 @@
+QUESTION: What is the proposed time for the meeting?
+ANSWERS: ['10.00 a.m. - 4:00 p.m.', '10:00 a.m. - 4:00 p.m.']

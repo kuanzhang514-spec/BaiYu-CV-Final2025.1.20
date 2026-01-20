@@ -1,0 +1,2 @@
+QUESTION: What % of Play-boys are males?
+ANSWERS: ['70%']

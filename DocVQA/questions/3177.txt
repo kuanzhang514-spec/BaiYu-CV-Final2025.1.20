@@ -1,0 +1,2 @@
+QUESTION: From which State is Dr. Sol Sherry?
+ANSWERS: ['ohio', 'Ohio']

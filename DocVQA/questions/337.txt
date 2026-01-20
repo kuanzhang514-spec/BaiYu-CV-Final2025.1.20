@@ -1,0 +1,2 @@
+QUESTION: In which year will the 'Plenary session on Menopause' be held?
+ANSWERS: ['1999']

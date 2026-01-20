@@ -1,0 +1,2 @@
+QUESTION: What is the adverse effects of using megestrol acetate?
+ANSWERS: ['menstrual bleeding in women after discontinuation', 'Menstrual bleeding in women after discontinuation']

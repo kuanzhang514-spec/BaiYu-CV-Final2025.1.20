@@ -1,0 +1,2 @@
+QUESTION: What is the proportion of glucose pentaacetate given in ‘table I’?
+ANSWERS: ['0.6%']

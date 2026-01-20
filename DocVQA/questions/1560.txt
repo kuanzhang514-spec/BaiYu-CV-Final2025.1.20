@@ -1,0 +1,2 @@
+QUESTION: What does TK-I denote?
+ANSWERS: ['Temik power incorporated']

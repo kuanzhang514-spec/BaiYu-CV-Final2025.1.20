@@ -1,0 +1,2 @@
+QUESTION: What is cost for goal no.1  for 1967?
+ANSWERS: ['$250,000']

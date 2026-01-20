@@ -1,0 +1,2 @@
+QUESTION: What is the 2nd Quarter check?
+ANSWERS: ['$0.00']

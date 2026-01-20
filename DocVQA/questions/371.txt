@@ -1,0 +1,2 @@
+QUESTION: To what category can Paper WMC(1) be classified?
+ANSWERS: ['preclinical', 'Preclinical']

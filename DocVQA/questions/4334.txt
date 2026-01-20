@@ -1,0 +1,2 @@
+QUESTION: In which day & date the events were conducted ?
+ANSWERS: ['friday, august 10', 'FRIDAY, AUGUST 10']

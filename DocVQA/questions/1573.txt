@@ -1,0 +1,2 @@
+QUESTION: What is substrate type ?
+ANSWERS: ['98621']

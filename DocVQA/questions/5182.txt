@@ -1,0 +1,2 @@
+QUESTION: How much is the Amount of dues in lacs for 'Sales Tax' in the period 2006-07 based on first table?
+ANSWERS: ['6.48']

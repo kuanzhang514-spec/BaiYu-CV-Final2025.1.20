@@ -1,0 +1,2 @@
+QUESTION: Who is the Speaker ?
+ANSWERS: ['Miss Mildred Kaufman', 'Mildred Kaufman']

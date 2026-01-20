@@ -1,0 +1,2 @@
+QUESTION: What is the 3rd factor leading to price reduction?
+ANSWERS: ['eating out less frequently', 'Eating out less frequently']

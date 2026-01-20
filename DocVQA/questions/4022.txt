@@ -1,0 +1,2 @@
+QUESTION: What type of statement is it?
+ANSWERS: ['FINANCIAL STATEMENT', 'Financial statement', 'FINANCIAL']

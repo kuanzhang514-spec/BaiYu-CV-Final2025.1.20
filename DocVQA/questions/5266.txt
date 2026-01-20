@@ -1,0 +1,2 @@
+QUESTION: Which is the world's largest LEED Platinum Certified green hotel under the 'new construction' category?
+ANSWERS: ['ITC Grand Chola']

@@ -1,0 +1,2 @@
+QUESTION: how  much is the total amount ?
+ANSWERS: ['165.73', '$ 165.73', '$165.73']

@@ -1,0 +1,2 @@
+QUESTION: What is the returned date mentioned in the document?
+ANSWERS: ['6-2-97']

@@ -1,0 +1,2 @@
+QUESTION: How much  grants paid in the year 1981,according to the ‘table’?
+ANSWERS: ['$81,520.00', '$81,520', '81,520', '81,520.00']

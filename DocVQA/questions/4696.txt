@@ -1,0 +1,2 @@
+QUESTION: For  how many years has he been working in Mayo clinic?
+ANSWERS: ['3+', '3']

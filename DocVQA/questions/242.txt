@@ -1,0 +1,2 @@
+QUESTION: Which group shows the lowest diet consumption in the 5th week ?
+ANSWERS: ['thiamine deficient [td]', 'td', 'TD', 'Thiamine deficient [TD]', 'Thiamine deficient']

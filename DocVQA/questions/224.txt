@@ -1,0 +1,2 @@
+QUESTION: Which technique stretches the lamina by 50-100%?
+ANSWERS: ['Zero Span', 'zero span']

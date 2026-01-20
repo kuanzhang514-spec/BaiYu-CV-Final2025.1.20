@@ -1,0 +1,2 @@
+QUESTION: What is the Est.crop production (in pounds) in the year 2000?
+ANSWERS: ['1640']

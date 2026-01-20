@@ -1,0 +1,2 @@
+QUESTION: How much is the total project support expenditure  of Swanson Center for Nutrition,Inc. in working 1982 budget?
+ANSWERS: ['514.3', 'In thousand $']

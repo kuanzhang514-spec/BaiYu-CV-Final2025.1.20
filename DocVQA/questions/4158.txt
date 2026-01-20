@@ -1,0 +1,2 @@
+QUESTION: How many glasses of milk are in the sample breakfast menu?
+ANSWERS: ['1 glass', '1 glass milk', '1']

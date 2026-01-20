@@ -1,0 +1,2 @@
+QUESTION: What is the Regimen C "n" value for Days 5.1-6?
+ANSWERS: ['3']

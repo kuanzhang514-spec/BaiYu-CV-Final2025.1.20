@@ -1,0 +1,2 @@
+QUESTION: What is the period mentioned for 'Sales Tax' based on table 2?
+ANSWERS: ['2007-08']

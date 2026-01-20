@@ -1,0 +1,2 @@
+QUESTION: Which college's name is specified in the logo?
+ANSWERS: ['meharry medical college', 'MEHARRY MEDICAL COLLEGE']

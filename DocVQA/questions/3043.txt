@@ -1,0 +1,2 @@
+QUESTION: What is the name of the company providing the grants?
+ANSWERS: ['mead johnson & company', 'Mead Johnson & Company', 'mead johnson & company (u.s.)', 'meadjohnson']

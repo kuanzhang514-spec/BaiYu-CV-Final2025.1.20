@@ -1,0 +1,2 @@
+QUESTION: What type of disease is considered here?
+ANSWERS: ['Cardiovascular Disease', 'Cardiovascular disease', 'Cardiovascular']

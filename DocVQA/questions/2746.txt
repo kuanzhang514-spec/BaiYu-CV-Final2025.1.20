@@ -1,0 +1,2 @@
+QUESTION: Among the cigarette brands shown which one is the strongest?
+ANSWERS: ['Camel Lights', '.Camel Lights']

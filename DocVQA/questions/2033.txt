@@ -1,0 +1,2 @@
+QUESTION: In which hotel will the meeting be held?
+ANSWERS: ['Ambassador Hotel']

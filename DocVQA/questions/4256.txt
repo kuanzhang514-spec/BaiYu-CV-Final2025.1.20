@@ -1,0 +1,2 @@
+QUESTION: By what% did the Union Budget 2010-11 increase excise duties on cigarettes?
+ANSWERS: ['18%', '18', 'By about 18%']

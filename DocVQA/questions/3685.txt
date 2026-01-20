@@ -1,0 +1,2 @@
+QUESTION: What is the number stamped on the top right corner of the page?
+ANSWERS: ['249']

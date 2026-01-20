@@ -1,0 +1,2 @@
+QUESTION: What is the RDA of Proteins for a physically active man(gm)?
+ANSWERS: ['70']

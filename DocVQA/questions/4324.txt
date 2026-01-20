@@ -1,0 +1,2 @@
+QUESTION: What is the weight of heart of dog named "F*" in grams?
+ANSWERS: ['112']

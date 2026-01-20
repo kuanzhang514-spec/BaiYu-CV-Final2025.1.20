@@ -1,0 +1,2 @@
+QUESTION: What is the project title?
+ANSWERS: ['The American Heart Association In-store Information Intervention Project', 'THE AMERICAN HEART ASSOCIATION IN-STORE INFORMATION INTERVENTION PROJECT', 'In-store Information Intervention Project']

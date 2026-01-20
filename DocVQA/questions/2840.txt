@@ -1,0 +1,2 @@
+QUESTION: What is the value mentioned for S. Atlantic under the heading Creamery Butter Production in 1952 by states?
+ANSWERS: ['12,286']

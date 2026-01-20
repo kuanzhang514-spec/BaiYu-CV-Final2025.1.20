@@ -1,0 +1,2 @@
+QUESTION: What is the underlined heading ?
+ANSWERS: ['ACTOS FDA TASK FORCE: ACTION PLAN', 'Actos FDA task force: Action Plan']

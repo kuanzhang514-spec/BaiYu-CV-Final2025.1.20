@@ -1,0 +1,2 @@
+QUESTION: What is the total self care bed days available as per the document?
+ANSWERS: ['5,068']

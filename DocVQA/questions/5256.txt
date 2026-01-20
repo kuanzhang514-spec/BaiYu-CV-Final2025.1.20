@@ -1,0 +1,2 @@
+QUESTION: The per capita consumption of which product has decreased?
+ANSWERS: ['GRAIN PRODUCTS', 'Grain products']

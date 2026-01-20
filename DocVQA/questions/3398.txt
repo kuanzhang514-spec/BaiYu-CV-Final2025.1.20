@@ -1,0 +1,2 @@
+QUESTION: What is the code written at the bottom right end?
+ANSWERS: ['BMT-MM-DFS-00001942', 'DEMO-04159-00201']

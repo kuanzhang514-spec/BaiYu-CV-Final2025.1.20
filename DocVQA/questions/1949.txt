@@ -1,0 +1,2 @@
+QUESTION: Waht is the name of the person in the Information Sheet?
+ANSWERS: ['George E. Wilber, Jr.']

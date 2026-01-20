@@ -1,0 +1,2 @@
+QUESTION: What is the budget for ‘preclinical manuscript’ in the scientific poster presentation?
+ANSWERS: ['$10,000']

@@ -1,0 +1,2 @@
+QUESTION: What is the type of Mural?
+ANSWERS: ['Mounted on Wall']

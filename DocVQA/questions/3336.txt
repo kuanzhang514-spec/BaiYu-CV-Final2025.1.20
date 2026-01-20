@@ -1,0 +1,2 @@
+QUESTION: What is the title given for Table 2?
+ANSWERS: ['Effect of HRT or Raloxifene on Endothelial Function']

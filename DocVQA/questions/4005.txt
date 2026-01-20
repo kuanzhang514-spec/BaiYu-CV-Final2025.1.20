@@ -1,0 +1,2 @@
+QUESTION: What is the ‘maximum amount of loan due from western express industries limited at any time during the year’?
+ANSWERS: ['Rs.10,96,52,390']

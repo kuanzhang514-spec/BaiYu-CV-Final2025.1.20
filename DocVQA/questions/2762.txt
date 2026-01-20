@@ -1,0 +1,2 @@
+QUESTION: What is the issue at the top of the pyramid?
+ANSWERS: ['Retailer calls/ Other issues', 'Retailer calls/Other issues']

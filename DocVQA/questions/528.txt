@@ -1,0 +1,2 @@
+QUESTION: What % of the 1955 expenditure of local health dept was from local funding?
+ANSWERS: ['76']

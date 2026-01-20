@@ -1,0 +1,2 @@
+QUESTION: What is the date on the "RECEIVED" stamp/seal?
+ANSWERS: ['MAY 22 1974']

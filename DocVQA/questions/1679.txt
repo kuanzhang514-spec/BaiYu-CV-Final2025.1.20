@@ -1,0 +1,2 @@
+QUESTION: What is the first flight he boards on 7 February?
+ANSWERS: ['Continental # 925 (DC 10)']

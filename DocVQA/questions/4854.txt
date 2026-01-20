@@ -1,0 +1,2 @@
+QUESTION: What is plotted along the y axis ?
+ANSWERS: ['Blood Pressure (mm Hg)', 'Blood pressure (mm Hg)', 'Blood pressure']

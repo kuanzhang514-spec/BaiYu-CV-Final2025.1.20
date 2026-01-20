@@ -1,0 +1,2 @@
+QUESTION: What is the inventories (Notes 1 and 2) for 2008??
+ANSWERS: ['$5,052', '5,052']

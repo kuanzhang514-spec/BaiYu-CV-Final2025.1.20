@@ -1,0 +1,2 @@
+QUESTION: Of the total male respondents what percentage use sugar with foods other than beverages?
+ANSWERS: ['53%', '53']

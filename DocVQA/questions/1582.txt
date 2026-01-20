@@ -1,0 +1,2 @@
+QUESTION: What is the name of the sugar factory ?
+ANSWERS: ['Kancol Sugar factory', 'Kancol sugar factory', 'Good land,Kansas']

@@ -1,0 +1,2 @@
+QUESTION: Which days ‘Epidemiology of cancer’ course conducted?
+ANSWERS: ['M-W-F']

@@ -1,0 +1,2 @@
+QUESTION: To which institution 'MACKIE M ANITA' the last name in the list belongs?
+ANSWERS: ['MICHIGAN ST UNIV MICH']

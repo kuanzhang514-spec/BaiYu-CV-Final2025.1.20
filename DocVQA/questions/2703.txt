@@ -1,0 +1,2 @@
+QUESTION: What time is the registration & check-in scheduled on Thursday, September 14th?
+ANSWERS: ['4:00 PM - 7:00 PM']

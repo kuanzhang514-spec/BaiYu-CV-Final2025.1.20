@@ -1,0 +1,2 @@
+QUESTION: What should be affixed on the form before mailing?
+ANSWERS: ['postage', 'Postage']

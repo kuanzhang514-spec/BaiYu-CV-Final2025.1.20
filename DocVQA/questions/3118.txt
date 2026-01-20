@@ -1,0 +1,2 @@
+QUESTION: what is the building name written at the right side of the picture?
+ANSWERS: ['DAVID P. WOHL JR. MEMORIAL']

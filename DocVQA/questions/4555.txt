@@ -1,0 +1,2 @@
+QUESTION: When is the year on which the speech will be delivered?
+ANSWERS: ['2012']

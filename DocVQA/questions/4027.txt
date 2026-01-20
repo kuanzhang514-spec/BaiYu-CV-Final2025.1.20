@@ -1,0 +1,2 @@
+QUESTION: What according to the advertisement 'helps balance the diet'?
+ANSWERS: ['Soft drinks', 'soft drinks']

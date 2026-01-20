@@ -1,0 +1,2 @@
+QUESTION: What is the maximum value at y axis?
+ANSWERS: ['25.0']

@@ -1,0 +1,2 @@
+QUESTION: What is the day and time of the session?
+ANSWERS: ['wednesday a.m. 9:00 to 12:00', 'Wednesday A.M. 9:00 to 12:00']

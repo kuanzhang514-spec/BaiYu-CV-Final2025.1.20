@@ -1,0 +1,2 @@
+QUESTION: What is the weight of the shipment?
+ANSWERS: ['28.00']

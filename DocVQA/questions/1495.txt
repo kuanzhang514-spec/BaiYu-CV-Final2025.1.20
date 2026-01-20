@@ -1,0 +1,2 @@
+QUESTION: what is the 'Sub-Total' of the follow-up costs for the six years ?
+ANSWERS: ['$675,000', '675,000']

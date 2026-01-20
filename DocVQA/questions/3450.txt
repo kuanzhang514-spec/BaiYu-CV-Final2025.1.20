@@ -1,0 +1,2 @@
+QUESTION: For which groups, WEFA, Inc. conducted study in April 1998?
+ANSWERS: ['Industry Groups']

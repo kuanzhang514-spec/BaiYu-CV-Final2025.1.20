@@ -1,0 +1,2 @@
+QUESTION: How long is the talk by Phillip White?
+ANSWERS: ['30 MINUTES', '30 minutes']

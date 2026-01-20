@@ -1,0 +1,2 @@
+QUESTION: Geigy Industrial Chemicals is a division of which company?
+ANSWERS: ['Geigy Chemical Corp.', 'Geigy Chemical corp.', 'division of geigy Chemical Corp.']

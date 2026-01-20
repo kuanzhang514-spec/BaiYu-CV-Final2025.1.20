@@ -1,0 +1,2 @@
+QUESTION: What is the title of the pie chart?
+ANSWERS: ['chemical compounds found in cigarettes (first response)', 'Chemical compounds found in cigarettes (First response)']

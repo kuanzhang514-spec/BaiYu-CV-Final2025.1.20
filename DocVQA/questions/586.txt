@@ -1,0 +1,2 @@
+QUESTION: What is the budget for ‘clinical manuscript’ in the scientific poster presentation?
+ANSWERS: ['$16,000']

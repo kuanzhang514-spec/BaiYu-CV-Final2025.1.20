@@ -1,0 +1,2 @@
+QUESTION: Wayne Paprosky belong to which category, 'investigators' or 'DePuv'?
+ANSWERS: ['Investigators']

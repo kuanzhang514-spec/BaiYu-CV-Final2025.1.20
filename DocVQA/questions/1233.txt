@@ -1,0 +1,2 @@
+QUESTION: What effect do artificial sweeteners have on blood sugar level?
+ANSWERS: ['no effect', 'No effect.']

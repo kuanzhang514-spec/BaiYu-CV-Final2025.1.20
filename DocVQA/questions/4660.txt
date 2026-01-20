@@ -1,0 +1,2 @@
+QUESTION: What is the lowest value on the Y axis?
+ANSWERS: ['0.00']

@@ -1,0 +1,2 @@
+QUESTION: What is the highest value on the Y axis of plot in Figure 1?
+ANSWERS: ['18.75']

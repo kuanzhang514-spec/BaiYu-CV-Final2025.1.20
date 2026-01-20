@@ -1,0 +1,2 @@
+QUESTION: Among dieters and weight watchers, how many  persons used ‘11-20 times’ ?
+ANSWERS: ['225']

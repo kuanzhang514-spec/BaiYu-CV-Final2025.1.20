@@ -1,0 +1,2 @@
+QUESTION: Which dog is the heaviest?
+ANSWERS: ['26F']

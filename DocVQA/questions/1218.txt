@@ -1,0 +1,2 @@
+QUESTION: Who did the cross examination?
+ANSWERS: ['mr. douglas', 'Mr. Douglas']

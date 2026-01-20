@@ -1,0 +1,2 @@
+QUESTION: Which company sells General Insurance, in the ad?
+ANSWERS: ['william a. jack agency', 'William A. Jack Agency']

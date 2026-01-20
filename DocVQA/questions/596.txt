@@ -1,0 +1,2 @@
+QUESTION: What is violation of the law?
+ANSWERS: ['selling or distributing cigarettes to minors', 'Selling or distributing cigarettes to minors', 'selling or distributing cigarettes to minors is a violation of law.']

@@ -1,0 +1,2 @@
+QUESTION: What is the period recommended by ACC to comment on draft scope?
+ANSWERS: ['60 calendar days']

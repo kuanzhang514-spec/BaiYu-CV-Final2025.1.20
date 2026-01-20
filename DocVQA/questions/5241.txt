@@ -1,0 +1,2 @@
+QUESTION: What is the caption of ITC's Brands?
+ANSWERS: ['delighting millions of households', 'Delighting Millions of Households']

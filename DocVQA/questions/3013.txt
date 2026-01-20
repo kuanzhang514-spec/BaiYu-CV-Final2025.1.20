@@ -1,0 +1,2 @@
+QUESTION: What is the Regimen D "n" value for Days 7.6-11?
+ANSWERS: ['2']

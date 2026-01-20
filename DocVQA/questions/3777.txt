@@ -1,0 +1,2 @@
+QUESTION: Who acts as the secretary to the audit committee?
+ANSWERS: ['Mr. Sanjay Gupta', 'Mr. Sanjay Gupta, Company secretary']

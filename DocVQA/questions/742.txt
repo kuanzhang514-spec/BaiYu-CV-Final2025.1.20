@@ -1,0 +1,2 @@
+QUESTION: What is the PUBLICATION  DATE of "CD-ROM" for the project?
+ANSWERS: ['January 2003']

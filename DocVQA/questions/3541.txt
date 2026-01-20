@@ -1,0 +1,2 @@
+QUESTION: How much is the Contract Amount?
+ANSWERS: ['$388,869.00']

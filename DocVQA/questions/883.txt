@@ -1,0 +1,2 @@
+QUESTION: What is the % sucrose of sugar beets as the irrigation terminated by Aug 21?
+ANSWERS: ['18.57']

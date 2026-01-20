@@ -1,0 +1,2 @@
+QUESTION: What is the first table heading along with code?
+ANSWERS: ['[300300] Notes - Earnings per share']

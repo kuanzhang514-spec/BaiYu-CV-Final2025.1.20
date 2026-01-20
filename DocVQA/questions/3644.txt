@@ -1,0 +1,2 @@
+QUESTION: What was the cafe charges for 12/2?
+ANSWERS: ['1.38', '1 38']

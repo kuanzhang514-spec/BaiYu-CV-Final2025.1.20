@@ -1,0 +1,2 @@
+QUESTION: What is the net amount  on the ‘statement of remittance’?
+ANSWERS: ['3000.00', '3|000|00', '3 000 00', '3 000.00']

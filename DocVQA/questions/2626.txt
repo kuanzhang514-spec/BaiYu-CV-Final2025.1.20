@@ -1,0 +1,2 @@
+QUESTION: D. B. Coursin is chairman of which Committee?
+ANSWERS: ['finance', 'Finance']

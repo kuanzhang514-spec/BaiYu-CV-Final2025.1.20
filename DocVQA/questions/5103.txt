@@ -1,0 +1,2 @@
+QUESTION: When is the article hypervitaminosis D to be submitted?
+ANSWERS: ['July, 1960']

@@ -1,0 +1,2 @@
+QUESTION: What is “table 3” ?
+ANSWERS: ['Number of animals at beginning of test']

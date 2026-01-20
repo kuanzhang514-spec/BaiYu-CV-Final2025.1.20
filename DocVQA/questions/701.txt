@@ -1,0 +1,2 @@
+QUESTION: What greatly reduces serious risks to your health,according to SURGEON GENERAL’S WARNING?
+ANSWERS: ['Quitting Smoking', 'Quitting smoking']

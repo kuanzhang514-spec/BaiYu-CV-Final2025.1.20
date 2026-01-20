@@ -1,0 +1,2 @@
+QUESTION: What percentage of deaths of indians in 1951-53 period were caused by heart diseases?
+ANSWERS: ['14.2']

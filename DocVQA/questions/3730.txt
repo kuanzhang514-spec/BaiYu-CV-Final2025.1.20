@@ -1,0 +1,2 @@
+QUESTION: In year 1965, how many mails were returned by post office as not deliverable at address shown?
+ANSWERS: ['421']

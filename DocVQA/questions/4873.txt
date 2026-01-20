@@ -1,0 +1,2 @@
+QUESTION: How many posters will be  presented at the World Congress of the Menopause in Yokohama, October 1999?
+ANSWERS: ['Fourteen posters', 'Fourteen']

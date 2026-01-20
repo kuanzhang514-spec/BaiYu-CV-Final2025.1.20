@@ -1,0 +1,2 @@
+QUESTION: The dog, named "6M" is a male or female?
+ANSWERS: ['Male', 'male']

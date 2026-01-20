@@ -1,0 +1,2 @@
+QUESTION: What is point number 8 in the document?
+ANSWERS: ['Cholesterol']

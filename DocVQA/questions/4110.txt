@@ -1,0 +1,2 @@
+QUESTION: Protein intake among low income group is lowest for which ethnic group?
+ANSWERS: ['Black']

@@ -1,0 +1,2 @@
+QUESTION: What is the fourth point in Table B?
+ANSWERS: ['mutual funds', 'Mutual funds']

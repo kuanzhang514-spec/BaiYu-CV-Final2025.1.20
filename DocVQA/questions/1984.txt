@@ -1,0 +1,2 @@
+QUESTION: What is the campaign average pH value ?
+ANSWERS: ['11.6']

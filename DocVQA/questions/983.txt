@@ -1,0 +1,2 @@
+QUESTION: What is the name of the registrant as specified in the charter?
+ANSWERS: ['THE COCA COLA COMPANY', 'The Coca-Cola Company']

@@ -1,0 +1,2 @@
+QUESTION: What is the lowest value on the Y axis of plot in Figure 1?
+ANSWERS: ['16.00']

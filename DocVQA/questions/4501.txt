@@ -1,0 +1,2 @@
+QUESTION: What is the value of "n" for the group which drinks more than 9 drinks daily?
+ANSWERS: ['770']

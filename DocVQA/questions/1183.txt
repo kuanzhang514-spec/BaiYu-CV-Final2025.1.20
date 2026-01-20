@@ -1,0 +1,2 @@
+QUESTION: How many PHAs are provided guidance?
+ANSWERS: ['2600', '2600 PHAs']

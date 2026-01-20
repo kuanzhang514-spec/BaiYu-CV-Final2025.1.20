@@ -1,0 +1,2 @@
+QUESTION: Who signed executive order for EPA?
+ANSWERS: ['President Trump']

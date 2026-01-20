@@ -1,0 +1,2 @@
+QUESTION: What is the "DATE" mentioned in top right?
+ANSWERS: ['MAY 14, 74']

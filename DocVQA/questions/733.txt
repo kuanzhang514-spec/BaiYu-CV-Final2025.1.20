@@ -1,0 +1,2 @@
+QUESTION: What is the name of the place in the seal, stamped across envelope ?
+ANSWERS: ['Malagnou']

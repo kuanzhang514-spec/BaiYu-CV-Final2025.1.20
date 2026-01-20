@@ -1,0 +1,2 @@
+QUESTION: What is the given table about?
+ANSWERS: ['Change in Spine Bone Mineral Density']

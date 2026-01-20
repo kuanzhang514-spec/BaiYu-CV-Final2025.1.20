@@ -1,0 +1,2 @@
+QUESTION: What is the 4th concern?
+ANSWERS: ['quantification of the suggestive cancer endpoint', 'Quantification of suggestive cancer endpoint']

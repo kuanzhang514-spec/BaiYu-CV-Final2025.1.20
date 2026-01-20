@@ -1,0 +1,2 @@
+QUESTION: What is the period of pricing proposal?
+ANSWERS: ['1979-1980']

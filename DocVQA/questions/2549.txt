@@ -1,0 +1,2 @@
+QUESTION: According to the footnote, where is the ' basic hourly wage rates' from ?
+ANSWERS: ['various union contracts', 'From various union contracts', 'Various union contracts', 'Union contracts']

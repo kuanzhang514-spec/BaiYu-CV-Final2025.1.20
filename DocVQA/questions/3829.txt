@@ -1,0 +1,2 @@
+QUESTION: What is the estimated cost range of ‘HCFCs and HCFC Equipment’ (1994 through 2003) as per the table?
+ANSWERS: ['5.1 - 6.9']

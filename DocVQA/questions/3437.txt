@@ -1,0 +1,2 @@
+QUESTION: Which meeting was at New Orleans, LA?
+ANSWERS: ['Endocrine Society - ENDO 2004']

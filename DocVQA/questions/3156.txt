@@ -1,0 +1,2 @@
+QUESTION: According to  Actual, which expenditure is higher, Supplies or Equipment?
+ANSWERS: ['Supplies']

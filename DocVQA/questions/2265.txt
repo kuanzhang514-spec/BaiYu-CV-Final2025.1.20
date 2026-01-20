@@ -1,0 +1,2 @@
+QUESTION: Which country's flag is it?
+ANSWERS: ['USA']

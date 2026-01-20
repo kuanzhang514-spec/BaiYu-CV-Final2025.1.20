@@ -1,0 +1,2 @@
+QUESTION: As per the footnotes what does letter "C" stand for?
+ANSWERS: ['current']

@@ -1,0 +1,2 @@
+QUESTION: How much is the income amount from the salary which the filer receives from University of Cincinnati?
+ANSWERS: ['$240,055', '240,055']

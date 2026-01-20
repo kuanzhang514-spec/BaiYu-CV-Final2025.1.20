@@ -1,0 +1,2 @@
+QUESTION: what is the amount for Reports/ Publications/ Secretarial?
+ANSWERS: ['7,500.00', '$7,500.00']

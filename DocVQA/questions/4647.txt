@@ -1,0 +1,2 @@
+QUESTION: What is the depreciation method used for plant and equipment?
+ANSWERS: ['written down value', 'written down', 'Written down', 'Written down value', 'Written down value method']

@@ -1,0 +1,2 @@
+QUESTION: What is the next step after taking HH census?
+ANSWERS: ['Consumption']

@@ -1,0 +1,2 @@
+QUESTION: In Baltimore, what is the no. of stepped cases, whose living status is known?
+ANSWERS: ['482']

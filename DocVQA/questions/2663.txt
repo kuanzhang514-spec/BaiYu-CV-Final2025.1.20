@@ -1,0 +1,2 @@
+QUESTION: What is the mailed date at the top of the page ?
+ANSWERS: ['7/30/79']

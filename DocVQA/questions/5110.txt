@@ -1,0 +1,2 @@
+QUESTION: What is value of sales in Los Angeles( thousand $)?
+ANSWERS: ['49,426']

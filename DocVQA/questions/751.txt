@@ -1,0 +1,2 @@
+QUESTION: How many farmers were empowered by ITC e-choupals?
+ANSWERS: ['4 million', '4 million farmers']

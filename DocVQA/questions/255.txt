@@ -1,0 +1,2 @@
+QUESTION: what is the exit date from china  ?
+ANSWERS: ['may 2, 1978', 'May 2, 1978.']

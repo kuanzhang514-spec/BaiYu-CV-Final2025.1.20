@@ -1,0 +1,2 @@
+QUESTION: What was the date on the table?
+ANSWERS: ['4/22/76']

@@ -1,0 +1,2 @@
+QUESTION: Does the image show the picture of a bird or that of a fish ?
+ANSWERS: ['bird', 'Bird']

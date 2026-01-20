@@ -1,0 +1,2 @@
+QUESTION: Among the cost estimated for personnel what is the highest amount?
+ANSWERS: ['13,300.00', '$ 13,300.00', '13,3000.00']

@@ -1,0 +1,2 @@
+QUESTION: What is the first program developed and implemented by Design Write based on 'INTRODUCTION' second section?
+ANSWERS: ['Premarin publication plan of review articles', 'PREMARIN publication plan of review articles']

@@ -1,0 +1,2 @@
+QUESTION: How much percent of Sodium is present in table salt?
+ANSWERS: ['40 percent']

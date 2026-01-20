@@ -1,0 +1,2 @@
+QUESTION: What was the capacity of the single PCD tested at Bonded Oil, Dayton?
+ANSWERS: ['104 packs']

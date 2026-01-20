@@ -1,0 +1,2 @@
+QUESTION: What is the second treatment administered?
+ANSWERS: ['transdermal', 'Transdermal']

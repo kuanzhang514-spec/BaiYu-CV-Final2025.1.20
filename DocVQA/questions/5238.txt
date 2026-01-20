@@ -1,0 +1,2 @@
+QUESTION: What is plotted along the y axis ?
+ANSWERS: ['age at menarche', 'Age at menarche']

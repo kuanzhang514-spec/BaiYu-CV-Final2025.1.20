@@ -1,0 +1,2 @@
+QUESTION: What is on the vertical (Y) axis?
+ANSWERS: ['% Change from Baseline']

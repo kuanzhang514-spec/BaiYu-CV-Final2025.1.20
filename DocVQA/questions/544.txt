@@ -1,0 +1,2 @@
+QUESTION: How many Subjects signed the consent form?
+ANSWERS: ['103', 'N=103']

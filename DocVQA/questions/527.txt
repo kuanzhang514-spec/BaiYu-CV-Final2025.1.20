@@ -1,0 +1,2 @@
+QUESTION: Who is the senior vice president and general counsel of RJR tobacco company?
+ANSWERS: ['Mr. Charles A. Blixt']

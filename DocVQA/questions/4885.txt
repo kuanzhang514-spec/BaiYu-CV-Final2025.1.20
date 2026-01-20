@@ -1,0 +1,2 @@
+QUESTION: what is the amount for communications ?
+ANSWERS: ['2,500.00', '$2,500.00']

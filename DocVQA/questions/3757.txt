@@ -1,0 +1,2 @@
+QUESTION: What is the ‘personnel costs’ for ‘1st period (same as detailed budget)’?
+ANSWERS: ['24,201', '$24,201']

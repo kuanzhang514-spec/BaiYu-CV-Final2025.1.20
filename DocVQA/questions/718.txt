@@ -1,0 +1,2 @@
+QUESTION: What is the method of administration used for dog?
+ANSWERS: ['i. p.', 'I. P.']

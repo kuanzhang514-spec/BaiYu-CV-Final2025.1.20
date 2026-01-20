@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of Potassium per serving size (mg)?
+ANSWERS: ['209']

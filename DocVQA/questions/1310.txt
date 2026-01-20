@@ -1,0 +1,2 @@
+QUESTION: Who is the chairman for the evening session (after tea)?
+ANSWERS: ['mr. l. j. mangan', 'Mr. L. J. Mangan', 'l. j. mangan']

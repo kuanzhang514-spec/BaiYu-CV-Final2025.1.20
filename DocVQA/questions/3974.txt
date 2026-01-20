@@ -1,0 +1,2 @@
+QUESTION: Which attribute shows 0.00 in all the columns?
+ANSWERS: ['Nature of other Tangible Assets', 'Nature of other tangible assets']

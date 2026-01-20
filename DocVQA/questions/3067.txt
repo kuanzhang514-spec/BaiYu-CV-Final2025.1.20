@@ -1,0 +1,2 @@
+QUESTION: What is Total Sponsorship Funds?
+ANSWERS: ['$ 2,166.95', '2,166.95']

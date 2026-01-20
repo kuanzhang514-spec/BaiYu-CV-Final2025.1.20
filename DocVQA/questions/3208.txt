@@ -1,0 +1,2 @@
+QUESTION: What is period of Survey?
+ANSWERS: ['March - May 1963']

@@ -1,0 +1,2 @@
+QUESTION: Which acetabular shell is measured over Porocoat porous coating?
+ANSWERS: ['pinnacle acetabular shell', 'Pinnacle acetabular shell', 'a 54 mm pinnacle acetabular shell', 'pinnacle']

@@ -1,0 +1,2 @@
+QUESTION: What is the exposure of ‘rats (male)’?
+ANSWERS: ['65']

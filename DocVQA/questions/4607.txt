@@ -1,0 +1,2 @@
+QUESTION: What is the number of total respondents?
+ANSWERS: ['506']

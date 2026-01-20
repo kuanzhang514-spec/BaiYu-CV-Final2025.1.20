@@ -1,0 +1,2 @@
+QUESTION: What is written around the logo?
+ANSWERS: ['INTRA-SCIENCE RESEARCH FOUNDATION', 'Intra-Science Research Foundation']

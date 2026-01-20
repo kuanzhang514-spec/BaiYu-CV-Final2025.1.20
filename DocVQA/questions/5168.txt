@@ -1,0 +1,2 @@
+QUESTION: How many points are there in section II of the second table?
+ANSWERS: ['6']

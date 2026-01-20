@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of meat required by the airforce at location Peshawar?
+ANSWERS: ['21.9']

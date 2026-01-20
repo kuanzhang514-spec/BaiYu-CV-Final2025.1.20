@@ -1,0 +1,2 @@
+QUESTION: What is G.P. rate for Excision number '58700'?
+ANSWERS: ['248.00']

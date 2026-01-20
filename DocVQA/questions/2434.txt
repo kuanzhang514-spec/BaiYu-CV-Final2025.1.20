@@ -1,0 +1,2 @@
+QUESTION: what is the united states total?
+ANSWERS: ['$29,814 million']

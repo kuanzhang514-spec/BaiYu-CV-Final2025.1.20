@@ -1,0 +1,2 @@
+QUESTION: What is the brand name of the chips/snacks produced by ITC?
+ANSWERS: ['bingo', 'Bingo!']

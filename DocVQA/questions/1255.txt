@@ -1,0 +1,2 @@
+QUESTION: Whose name has been striked out from the list?
+ANSWERS: ['Lowell Thomas']

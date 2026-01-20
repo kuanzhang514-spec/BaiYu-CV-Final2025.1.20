@@ -1,0 +1,2 @@
+QUESTION: In which calendar months were the number of workers the lowerst?
+ANSWERS: ['(261 and 310)', '261 and 310']

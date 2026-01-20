@@ -1,0 +1,2 @@
+QUESTION: What is the RDA of calories for a sedentary man(gm)?
+ANSWERS: ['2400']

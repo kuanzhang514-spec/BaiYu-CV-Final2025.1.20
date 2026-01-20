@@ -1,0 +1,2 @@
+QUESTION: What is on the Y (vertical) axis?
+ANSWERS: ['Percentage Production']

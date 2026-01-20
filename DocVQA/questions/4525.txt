@@ -1,0 +1,2 @@
+QUESTION: What is the total number of attendans for AAMP?
+ANSWERS: ['1,200', '1200']

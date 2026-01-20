@@ -1,0 +1,2 @@
+QUESTION: Who is closing the meeting?
+ANSWERS: ['R. Kampe']

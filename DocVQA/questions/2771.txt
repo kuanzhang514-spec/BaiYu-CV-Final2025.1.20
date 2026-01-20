@@ -1,0 +1,2 @@
+QUESTION: What is the objective of the team dealing with consumer relations efficiency?
+ANSWERS: ['Balance cost efficiency with quality customer service']

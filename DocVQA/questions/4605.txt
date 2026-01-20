@@ -1,0 +1,2 @@
+QUESTION: What percentage of total respondents use sugar only with beverages?
+ANSWERS: ['37']

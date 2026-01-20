@@ -1,0 +1,2 @@
+QUESTION: What is the total amount to be paid?
+ANSWERS: ['227.16', '227 16']

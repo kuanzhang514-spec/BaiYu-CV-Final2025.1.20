@@ -1,0 +1,2 @@
+QUESTION: Which city is  mr. manuel E. Rionda from?
+ANSWERS: ['N.Y.', 'New York', 'New York, N. Y.']

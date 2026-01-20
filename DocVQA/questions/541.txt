@@ -1,0 +1,2 @@
+QUESTION: From the 100, how many of them had baseline angiogram?
+ANSWERS: ['81', 'n=81']

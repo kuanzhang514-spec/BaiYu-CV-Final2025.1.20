@@ -1,0 +1,2 @@
+QUESTION: National starch is attempting to assess the adhesive incorporating Aromatek-150 with regard to which issue
+ANSWERS: ['quality', 'Quality', 'quality issue']

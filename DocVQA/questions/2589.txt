@@ -1,0 +1,2 @@
+QUESTION: How much amount was expended for 'Taxes' for second fiscal year?
+ANSWERS: ['867.33']

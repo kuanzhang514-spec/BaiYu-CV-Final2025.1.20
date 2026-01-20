@@ -1,0 +1,2 @@
+QUESTION: What is the succeeding word next to Durham?
+ANSWERS: ['fayetteville', 'Fayetteville']

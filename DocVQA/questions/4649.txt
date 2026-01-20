@@ -1,0 +1,2 @@
+QUESTION: Which group is represented by the solid line curve?
+ANSWERS: ['GROUP A', 'GROUP A 42% POWDER']

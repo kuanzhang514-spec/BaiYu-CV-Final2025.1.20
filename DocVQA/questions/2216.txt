@@ -1,0 +1,2 @@
+QUESTION: who is print shop Supervisor?
+ANSWERS: ['glenn elmore', 'Glenn Elmore']

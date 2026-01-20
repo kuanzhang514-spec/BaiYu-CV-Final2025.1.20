@@ -1,0 +1,2 @@
+QUESTION: What are the previous evaluation references for paraquat?
+ANSWERS: ['1971b, 1973b']

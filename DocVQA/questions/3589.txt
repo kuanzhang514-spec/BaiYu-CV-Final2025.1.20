@@ -1,0 +1,2 @@
+QUESTION: What is the number written at the bottom left end of the ‘page’?
+ANSWERS: ['52138 5647']

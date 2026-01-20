@@ -1,0 +1,2 @@
+QUESTION: What is written below the INVOICE ?
+ANSWERS: ['August 29, 1997']

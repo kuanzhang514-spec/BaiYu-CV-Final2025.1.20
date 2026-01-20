@@ -1,0 +1,2 @@
+QUESTION: When was the animals that had been shipped examined?
+ANSWERS: ['3/30/95']

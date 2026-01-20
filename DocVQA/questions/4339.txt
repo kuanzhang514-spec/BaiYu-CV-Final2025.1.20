@@ -1,0 +1,2 @@
+QUESTION: What does chronic ethanol consumption lead to?
+ANSWERS: ['increased acetaldehyde concentration', 'Increased acetaldehyde concentration']

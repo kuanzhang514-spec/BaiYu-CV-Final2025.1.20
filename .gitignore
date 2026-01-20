@@ -1,0 +1,18 @@
+# 忽略目录
+dify部署与使用/
+DocVQA/images/
+sam_segments/
+TextVQA/images/
+.idea/
+Uploadimg/
+
+# 忽略具体文件（不要加 /）
+3号机部署SAM2.md
+3号机搭建Qwen2_7b.md
+3号机目录挂载不上问题20260119.docx
+3号机器上部署CLIP.md
+启动3号机ollama.txt
+实验运行时服务器显存情况.txt
+账号密码.png
+evidence_crop.png
+ollama重新部署Qwen模型.md

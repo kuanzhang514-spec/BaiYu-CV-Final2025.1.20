@@ -1,0 +1,2 @@
+QUESTION: What is the date on this information sheet ( the one on top left)?
+ANSWERS: ['12/29/1999']

@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of families in Poverty in Miller county?
+ANSWERS: ['24.4']

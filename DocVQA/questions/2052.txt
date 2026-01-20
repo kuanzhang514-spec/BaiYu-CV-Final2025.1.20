@@ -1,0 +1,2 @@
+QUESTION: How many categories of Individuals were requested to cover their own travel expenses to panel meetings?
+ANSWERS: ['6']

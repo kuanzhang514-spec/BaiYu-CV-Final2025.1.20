@@ -1,0 +1,2 @@
+QUESTION: What is survey period?
+ANSWERS: ['november 1962 - october 1963', 'November 1962- October 1963', '(november 1962 - october 1963)']

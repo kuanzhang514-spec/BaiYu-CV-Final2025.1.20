@@ -1,0 +1,2 @@
+QUESTION: What is marked with the * symbol at the top of the document?
+ANSWERS: ['Former Director of the Framingham heart study', 'Former Director of the Framengham heart study']

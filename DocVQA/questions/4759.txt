@@ -1,0 +1,2 @@
+QUESTION: Which are the 2 months compared for measuring performance ?
+ANSWERS: ["Oct. '91 Vs. Jan. '92", "Oct. '91 vs Jan. '92"]

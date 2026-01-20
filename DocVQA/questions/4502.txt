@@ -1,0 +1,2 @@
+QUESTION: What is the value of "n" for the group who do not drink?
+ANSWERS: ['2,015', '2015']

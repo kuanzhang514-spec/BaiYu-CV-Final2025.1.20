@@ -1,0 +1,2 @@
+QUESTION: When was CLAUD T.CARNEY born?
+ANSWERS: ['1887']

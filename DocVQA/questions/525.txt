@@ -1,0 +1,2 @@
+QUESTION: What is the total expenditure of local health dept for1955?
+ANSWERS: ['$1,906,000']

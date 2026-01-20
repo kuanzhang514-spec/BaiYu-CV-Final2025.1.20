@@ -1,0 +1,2 @@
+QUESTION: What is the expiration date?
+ANSWERS: ['10/31/96']

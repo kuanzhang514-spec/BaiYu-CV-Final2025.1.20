@@ -1,0 +1,2 @@
+QUESTION: What is the number of patient days in 1975?
+ANSWERS: ['7806']

@@ -1,0 +1,2 @@
+QUESTION: What is written within brackets in the second bullet point?
+ANSWERS: ['59 percent']

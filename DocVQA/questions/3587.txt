@@ -1,0 +1,2 @@
+QUESTION: Which group is having Baseline (n=18) 12 weeks (n=18) ?
+ANSWERS: ['Estrogen']

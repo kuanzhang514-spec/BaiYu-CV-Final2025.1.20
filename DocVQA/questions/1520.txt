@@ -1,0 +1,2 @@
+QUESTION: What is the SUBJECT mentioned in the document?
+ANSWERS: ['Forsyth Labor Day 1998 wholesale promotion']

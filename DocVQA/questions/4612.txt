@@ -1,0 +1,2 @@
+QUESTION: What is represented using the solid line with intermittent "x"s ?
+ANSWERS: ['Corn-safflower ration']

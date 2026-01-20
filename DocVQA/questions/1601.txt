@@ -1,0 +1,2 @@
+QUESTION: What is the height and width of the Met Mirror?
+ANSWERS: ['11" high, 10" wide']

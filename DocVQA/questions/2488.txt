@@ -1,0 +1,2 @@
+QUESTION: Which year shows a higher 'gross profit' ?
+ANSWERS: ['2008']

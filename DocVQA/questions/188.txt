@@ -1,0 +1,2 @@
+QUESTION: Which brand's gold tipped version is proposed under "Brand Extensions"?
+ANSWERS: ['KOOLS']

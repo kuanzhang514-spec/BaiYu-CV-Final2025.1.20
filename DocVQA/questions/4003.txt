@@ -1,0 +1,2 @@
+QUESTION: What is the 'High Sensex' for 'April 2004' in "BSE Sensex" table ?
+ANSWERS: ['5,979.25']

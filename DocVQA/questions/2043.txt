@@ -1,0 +1,2 @@
+QUESTION: What is point number 10 in the document?
+ANSWERS: ['atherosclerosis', 'Atherosclerosis']

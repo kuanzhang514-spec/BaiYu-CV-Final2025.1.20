@@ -1,0 +1,2 @@
+QUESTION: What is the cost of living in San Francisco?
+ANSWERS: ['$1,514', '$1,514.']

@@ -1,0 +1,2 @@
+QUESTION: What is ‘Q:37’ in the document?
+ANSWERS: ['Is snus considered a "gateway" product in Sweden?']

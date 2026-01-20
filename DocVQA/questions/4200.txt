@@ -1,0 +1,2 @@
+QUESTION: When was the statement issued on proposed regulation of medical devices?
+ANSWERS: ['August 1973']

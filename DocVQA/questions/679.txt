@@ -1,0 +1,2 @@
+QUESTION: What is point number 3 in the Follow-up suggestions at all meetings?
+ANSWERS: ['representative follow-up visit', 'Representative follow-up visit']

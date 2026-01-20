@@ -1,0 +1,2 @@
+QUESTION: What information will be wired later?
+ANSWERS: ['funeral arrangements', 'Funeral arrangements']

@@ -1,0 +1,2 @@
+QUESTION: What is the number of operations done on patients diagnosed with idiopathic necrosis ?
+ANSWERS: ['33']

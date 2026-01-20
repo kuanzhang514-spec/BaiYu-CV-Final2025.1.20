@@ -1,0 +1,2 @@
+QUESTION: What is the year mentioned?
+ANSWERS: ['1961']

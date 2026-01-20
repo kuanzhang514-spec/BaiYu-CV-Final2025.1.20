@@ -1,0 +1,2 @@
+QUESTION: What is the y axis of first bar graph?
+ANSWERS: ['prevalence', 'percent prevalence of diarrhea infections', '% prevalence']

@@ -1,0 +1,2 @@
+QUESTION: In the scale of the graph, what does the triangle represent?
+ANSWERS: ['HEATING IN OPEN AIR', 'Heating in open air']

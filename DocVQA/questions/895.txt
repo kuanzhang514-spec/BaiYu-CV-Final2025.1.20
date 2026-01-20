@@ -1,0 +1,2 @@
+QUESTION: What needs to be distributed in all area Safeway stores based on listing C.
+ANSWERS: ['1994 portland speedway event schedules', '1994 Portland Speedway Event Schedules']

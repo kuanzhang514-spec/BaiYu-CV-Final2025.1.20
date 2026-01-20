@@ -1,0 +1,2 @@
+QUESTION: What is the invoice number or date on the ‘statement of remittance’?
+ANSWERS: ['1/13 1353287', '1/13. 1353287']

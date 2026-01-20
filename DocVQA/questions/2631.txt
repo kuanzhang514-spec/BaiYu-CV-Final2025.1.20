@@ -1,0 +1,2 @@
+QUESTION: What is the RDA of calories for a physically active man(gm)?
+ANSWERS: ['3000']

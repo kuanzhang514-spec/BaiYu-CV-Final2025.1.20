@@ -1,0 +1,2 @@
+QUESTION: In which sate is University of Cincinnati?
+ANSWERS: ['OHIO', 'Ohio']

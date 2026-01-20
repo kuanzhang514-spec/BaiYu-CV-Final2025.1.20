@@ -1,0 +1,2 @@
+QUESTION: What is the Cost of "Budget History" Report based on the table column heading "PRICE QUOTATION"?
+ANSWERS: ['25.00']

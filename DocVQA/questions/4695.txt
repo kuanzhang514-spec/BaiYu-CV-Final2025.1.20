@@ -1,0 +1,2 @@
+QUESTION: Did the applicant have any graduate level course in epidemiology?
+ANSWERS: ['yes']

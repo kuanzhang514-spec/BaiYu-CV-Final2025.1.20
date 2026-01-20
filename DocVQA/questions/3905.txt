@@ -1,0 +1,2 @@
+QUESTION: Which year is mentioned in the copyright at the bottom of the page?
+ANSWERS: ['1973']

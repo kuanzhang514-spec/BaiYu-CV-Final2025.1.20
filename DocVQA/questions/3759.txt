@@ -1,0 +1,2 @@
+QUESTION: What is the ‘consultant costs’ for ‘1st period (same as detailed budget)’?
+ANSWERS: ['500', '$500']

@@ -1,0 +1,2 @@
+QUESTION: Who has signed the letter?
+ANSWERS: ['Michael f. Jacobson, Ph.d.', 'Michael F. Jacobson, Ph.D.', 'Michael f. Jacobson']

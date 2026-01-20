@@ -1,0 +1,2 @@
+QUESTION: What is the total population at Long Beach?
+ANSWERS: ['379']

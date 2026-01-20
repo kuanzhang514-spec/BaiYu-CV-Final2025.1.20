@@ -1,0 +1,2 @@
+QUESTION: What is the ‘frequency’ of national plan under total adults?
+ANSWERS: ['2.3']

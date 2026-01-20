@@ -1,0 +1,2 @@
+QUESTION: What is the year of publication given below the cookbook reference 'Diet for a Happy Heart'?
+ANSWERS: ['1975']

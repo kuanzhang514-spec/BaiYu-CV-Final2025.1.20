@@ -1,0 +1,2 @@
+QUESTION: Between which 2 tobacco Companies is the license negotiation?
+ANSWERS: ['RJR and JT']

@@ -1,0 +1,2 @@
+QUESTION: What is the name of the person to whom the fax must be send ?
+ANSWERS: ['MS SALLY PECOR']

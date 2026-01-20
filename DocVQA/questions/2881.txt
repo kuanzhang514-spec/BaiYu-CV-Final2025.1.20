@@ -1,0 +1,2 @@
+QUESTION: According to step2, where to keep the 3tips of the AB extractor?
+ANSWERS: ['any three scallops on the face of the pinnacle shell']

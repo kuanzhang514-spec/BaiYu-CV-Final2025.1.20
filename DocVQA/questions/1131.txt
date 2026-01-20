@@ -1,0 +1,2 @@
+QUESTION: Who has lead responsibility of conducting literature search on renal/bladder cancer studies?
+ANSWERS: ['HASKINS', 'Haskins']

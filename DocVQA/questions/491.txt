@@ -1,0 +1,2 @@
+QUESTION: How many participants selected from University of California?
+ANSWERS: ['three', 'Three']

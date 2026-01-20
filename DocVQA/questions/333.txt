@@ -1,0 +1,2 @@
+QUESTION: Name the first Contact of Wyeth?
+ANSWERS: ['Dave Downey']

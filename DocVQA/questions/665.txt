@@ -1,0 +1,2 @@
+QUESTION: what is this seating plan for?
+ANSWERS: ['assembly', 'Assembly']

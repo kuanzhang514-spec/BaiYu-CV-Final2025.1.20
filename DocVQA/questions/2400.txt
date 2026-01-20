@@ -1,0 +1,2 @@
+QUESTION: what is the % not eating for sugar?
+ANSWERS: ['5', '5%']

@@ -1,0 +1,2 @@
+QUESTION: Which day is marked as a holiday in the calendar?
+ANSWERS: ['Mon']

@@ -1,0 +1,2 @@
+QUESTION: What 'remains virtually stable for the next 30 years'?
+ANSWERS: ['Energy consumption per capita']

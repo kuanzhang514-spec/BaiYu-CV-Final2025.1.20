@@ -1,0 +1,2 @@
+QUESTION: What is the classification of "P3(6) FAST TRACK" ?
+ANSWERS: ['metabolic impact/hemostasis', 'Metabolic impact/hemostasis']

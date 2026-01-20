@@ -1,0 +1,2 @@
+QUESTION: What is the title of the chart?
+ANSWERS: ['SARGASSO SEA TEMPERATURE', 'Sargasso sea temperature']

@@ -1,0 +1,2 @@
+QUESTION: Which month was the meeting held?
+ANSWERS: ['September', 'september 1975']

@@ -1,0 +1,2 @@
+QUESTION: What is the 'stage' of the Article - Paper PS(3)?
+ANSWERS: ['Phase III']

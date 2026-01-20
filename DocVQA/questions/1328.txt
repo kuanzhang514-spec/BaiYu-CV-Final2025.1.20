@@ -1,0 +1,2 @@
+QUESTION: What is the ending period ?
+ANSWERS: ['09/30/2006']

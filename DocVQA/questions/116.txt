@@ -1,0 +1,2 @@
+QUESTION: What is the brand name of the 'Atta with multigrains'  shown in the picture?
+ANSWERS: ['Aashirvaad']

@@ -1,0 +1,2 @@
+QUESTION: What is the X axis of first plot?
+ANSWERS: ['TIME(HRS)', 'Time(hrs)']

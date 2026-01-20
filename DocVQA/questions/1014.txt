@@ -1,0 +1,2 @@
+QUESTION: What is the form name?
+ANSWERS: ['ICMJE form for disclosure of potential conflicts of interest']

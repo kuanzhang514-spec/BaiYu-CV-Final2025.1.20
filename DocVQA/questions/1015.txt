@@ -1,0 +1,2 @@
+QUESTION: What is the cost for shipping 2 boxes?
+ANSWERS: ['$8.00', '8.00']

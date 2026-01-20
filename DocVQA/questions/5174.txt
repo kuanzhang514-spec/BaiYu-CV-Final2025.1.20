@@ -1,0 +1,2 @@
+QUESTION: what is the academic rank of 'Holloszy John O", who is second in the list ?
+ANSWERS: ['PROFESSOR OF PREVENTIVE MEDICINE']

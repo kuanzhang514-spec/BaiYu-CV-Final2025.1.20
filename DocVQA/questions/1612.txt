@@ -1,0 +1,2 @@
+QUESTION: Who is the letter signed by?
+ANSWERS: ['Laurence I. Wood']

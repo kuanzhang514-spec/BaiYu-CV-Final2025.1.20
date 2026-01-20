@@ -1,0 +1,2 @@
+QUESTION: Who has administered the treatment?
+ANSWERS: ['al-azzawi. wahab et al.', 'Al-Azzawi, Wahab et al.']

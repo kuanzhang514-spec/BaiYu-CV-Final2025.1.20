@@ -1,0 +1,2 @@
+QUESTION: What is the body weight of dog named "F*" in grams?
+ANSWERS: ['12028']

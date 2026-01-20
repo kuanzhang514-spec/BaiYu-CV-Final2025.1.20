@@ -1,0 +1,2 @@
+QUESTION: What is the title of the plot on the right of the page?
+ANSWERS: ['CO2 Emission - Fossil Fuels', 'CO2 emission - fossil fuels']

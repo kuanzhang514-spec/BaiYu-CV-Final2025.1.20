@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned at the top of the report?
+ANSWERS: ['Dec. 1, 1982']

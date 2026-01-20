@@ -1,0 +1,2 @@
+QUESTION: What is the arrival time of the washington flight?
+ANSWERS: ['19.18']

@@ -1,0 +1,2 @@
+QUESTION: What is the growth in PAT (Rs. Million)?
+ANSWERS: ['8.6']

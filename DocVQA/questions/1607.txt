@@ -1,0 +1,2 @@
+QUESTION: What does USAID stand for?
+ANSWERS: ['U. S. Agency for International Development', 'U. S. Agency for International development']

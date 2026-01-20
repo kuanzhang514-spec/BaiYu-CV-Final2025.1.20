@@ -1,0 +1,2 @@
+QUESTION: What is footnote 2?
+ANSWERS: ['PERIODONTAL INDEX', 'Periodontal index']

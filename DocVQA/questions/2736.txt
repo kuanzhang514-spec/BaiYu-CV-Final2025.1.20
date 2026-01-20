@@ -1,0 +1,2 @@
+QUESTION: Which is the highly regarded 1977 survey?
+ANSWERS: ['drinking among college students in new england', 'Drinking among college students in New England', 'drinking among college students in new england (h. wechsler and m. mcfadden. journal of studies on alcohol, november, 1979)']

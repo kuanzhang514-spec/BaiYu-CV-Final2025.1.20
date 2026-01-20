@@ -1,0 +1,2 @@
+QUESTION: What does UXL stand for ?
+ANSWERS: ['ULTAMET XL', 'Ultamet XL']

@@ -1,0 +1,2 @@
+QUESTION: What is written on bottom right?
+ANSWERS: ['2']

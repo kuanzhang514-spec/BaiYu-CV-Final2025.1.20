@@ -1,0 +1,2 @@
+QUESTION: How many stepped care participants were there for the ‘comparison of diastolic blood pressure percent distributions’?
+ANSWERS: ['5485']

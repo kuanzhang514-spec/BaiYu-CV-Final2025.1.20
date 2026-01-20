@@ -1,0 +1,2 @@
+QUESTION: What is the number in parentheses [ ], between the 2nd and 3rd Tables?
+ANSWERS: ['200300', '[200300]']

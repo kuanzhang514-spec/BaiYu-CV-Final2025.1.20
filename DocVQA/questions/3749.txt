@@ -1,0 +1,2 @@
+QUESTION: What is the title of the ‘table’?
+ANSWERS: ['EQUITY HOLDING PROMOTERS & MAJOR INVESTORS', 'Equity holding promoters & major investors', 'Equity owner type: non-promoters-2010']

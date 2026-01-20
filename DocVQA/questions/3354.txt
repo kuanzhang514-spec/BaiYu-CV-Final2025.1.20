@@ -1,0 +1,2 @@
+QUESTION: What is the number written at the bottom right end?
+ANSWERS: ['52647 6102']

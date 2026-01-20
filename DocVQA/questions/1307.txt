@@ -1,0 +1,2 @@
+QUESTION: what is the title of the graphical representation?
+ANSWERS: ['total platform unit growth']

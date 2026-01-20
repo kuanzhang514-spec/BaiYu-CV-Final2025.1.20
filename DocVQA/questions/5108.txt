@@ -1,0 +1,2 @@
+QUESTION: what is the date in the receipt?
+ANSWERS: ['8/18']

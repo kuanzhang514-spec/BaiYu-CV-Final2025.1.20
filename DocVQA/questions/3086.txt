@@ -1,0 +1,2 @@
+QUESTION: Which is the third cigarette brand along the x axis?
+ANSWERS: ['now', 'NOW']

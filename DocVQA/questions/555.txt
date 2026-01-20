@@ -1,0 +1,2 @@
+QUESTION: According to the 'summary', what is the gross area (sq.ft.) ?
+ANSWERS: ['10,000 gross sq. ft.', '10,000']

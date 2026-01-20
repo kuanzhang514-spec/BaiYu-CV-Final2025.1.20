@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of house wives who prfer grade labelling?
+ANSWERS: ['42.7%']

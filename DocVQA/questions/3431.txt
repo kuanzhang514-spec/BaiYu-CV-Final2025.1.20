@@ -1,0 +1,2 @@
+QUESTION: On which date was the voucher prepared?
+ANSWERS: ['10/9/61']

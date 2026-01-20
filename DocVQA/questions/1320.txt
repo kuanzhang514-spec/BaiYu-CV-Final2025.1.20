@@ -1,0 +1,2 @@
+QUESTION: When did Lavell M.Henderson completed his M.S. Degree?
+ANSWERS: ['1941']

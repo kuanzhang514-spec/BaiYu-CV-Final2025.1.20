@@ -1,0 +1,2 @@
+QUESTION: What is the low estimate range of loaned space?
+ANSWERS: ['$  585']

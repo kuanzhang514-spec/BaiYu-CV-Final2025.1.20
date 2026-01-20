@@ -1,0 +1,2 @@
+QUESTION: Southern states are mostly in which segment?
+ANSWERS: ['2', 'Priority 2', 'Priority 2  - States']

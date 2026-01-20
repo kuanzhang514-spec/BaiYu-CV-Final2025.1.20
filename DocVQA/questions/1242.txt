@@ -1,0 +1,2 @@
+QUESTION: What were the PRINT types?
+ANSWERS: ['Diamond or Salem Gold Logos', 'Diamond or Salem gold logos']

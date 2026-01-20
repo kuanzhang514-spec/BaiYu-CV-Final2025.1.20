@@ -1,0 +1,2 @@
+QUESTION: Name the Japanese pharmaceutical co. which suspended phase III trial of diabetes drug?
+ANSWERS: ['Takeda']

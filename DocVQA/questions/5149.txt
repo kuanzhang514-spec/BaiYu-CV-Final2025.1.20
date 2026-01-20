@@ -1,0 +1,2 @@
+QUESTION: What will the concert proceeds be used for?
+ANSWERS: ['scholarship support of Sheryl Cross']

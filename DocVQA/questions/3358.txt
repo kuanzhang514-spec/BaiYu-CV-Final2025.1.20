@@ -1,0 +1,2 @@
+QUESTION: What Receipt is this?
+ANSWERS: ['MAIL DEPOSIT RECEIPT', 'Mail Deposit Receipt']

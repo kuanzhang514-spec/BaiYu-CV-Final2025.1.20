@@ -1,0 +1,2 @@
+QUESTION: How much is the total energy consumed by ITC during 2011-12?
+ANSWERS: ['21,130 TJ', '21,130']

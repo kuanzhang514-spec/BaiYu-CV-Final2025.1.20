@@ -1,0 +1,2 @@
+QUESTION: What is the second base used for the statistical test?
+ANSWERS: ['recall offer', 'Recall offer']

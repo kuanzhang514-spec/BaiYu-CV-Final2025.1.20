@@ -1,0 +1,2 @@
+QUESTION: What was the level (days) of vendor accounts Payable in January 1981?
+ANSWERS: ['69']

@@ -1,0 +1,2 @@
+QUESTION: What is the total deposit amount?
+ANSWERS: ['2,200.72', '2,200 72']

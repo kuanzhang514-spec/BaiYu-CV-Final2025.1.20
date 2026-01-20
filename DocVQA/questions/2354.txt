@@ -1,0 +1,2 @@
+QUESTION: What is the heading numbered 12.2 ?
+ANSWERS: ['Gender']

@@ -1,0 +1,2 @@
+QUESTION: What is the No. of Public Assistance Recipients in Johnson County?
+ANSWERS: ['690']

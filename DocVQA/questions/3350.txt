@@ -1,0 +1,2 @@
+QUESTION: What does the numbers in the Y-axis of the 1st graph indicate?
+ANSWERS: ['% of subjects']

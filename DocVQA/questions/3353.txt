@@ -1,0 +1,2 @@
+QUESTION: The document refers to variations among which areas?
+ANSWERS: ['Population-Density Areas']

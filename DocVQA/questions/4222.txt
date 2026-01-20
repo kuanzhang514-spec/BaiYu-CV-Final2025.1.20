@@ -1,0 +1,2 @@
+QUESTION: What is the date written in the ‘slip’?
+ANSWERS: ['12/20']

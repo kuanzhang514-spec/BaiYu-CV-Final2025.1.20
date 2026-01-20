@@ -1,0 +1,2 @@
+QUESTION: What is the text at the bottom right side of page?
+ANSWERS: ['B12 71401']

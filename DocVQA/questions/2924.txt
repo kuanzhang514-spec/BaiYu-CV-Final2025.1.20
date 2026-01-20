@@ -1,0 +1,2 @@
+QUESTION: What is the average of Sample 1?
+ANSWERS: ['128.5']

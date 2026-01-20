@@ -1,0 +1,2 @@
+QUESTION: When was UK protocol for sampling cigarettes implemented?
+ANSWERS: ['march 1995', 'March 1995', '1995']

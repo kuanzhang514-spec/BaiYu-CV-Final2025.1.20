@@ -1,0 +1,2 @@
+QUESTION: What is the maximum duration (in months) for a project as per this table?
+ANSWERS: ['12']

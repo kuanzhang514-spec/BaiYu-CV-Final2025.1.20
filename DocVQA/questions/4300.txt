@@ -1,0 +1,2 @@
+QUESTION: What is footnote 3?
+ANSWERS: ['Non-irradiated beef', 'Non-irradiated beef.']

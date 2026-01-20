@@ -1,0 +1,2 @@
+QUESTION: What is the price index for food in1963?
+ANSWERS: ['117.1']

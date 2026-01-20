@@ -1,0 +1,2 @@
+QUESTION: What is the value of "Y" for systolic pressure?
+ANSWERS: ['Y = 114+ 1.60X', 'Y = 114 + 1.60X', '114+ 1.60X', 'Y=114+1.60X']

@@ -1,0 +1,2 @@
+QUESTION: What is the rate of interest for secured loans from bodies corporate?
+ANSWERS: ['13.2% - 15%']

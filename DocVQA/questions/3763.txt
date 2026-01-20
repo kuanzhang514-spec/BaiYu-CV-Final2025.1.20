@@ -1,0 +1,2 @@
+QUESTION: Who is the chairman of ‘ITC Limited’?
+ANSWERS: ['Y. C. DEVESHWAR', 'Y C DEVESHWAR']

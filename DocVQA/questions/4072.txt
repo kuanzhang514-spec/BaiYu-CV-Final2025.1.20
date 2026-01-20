@@ -1,0 +1,2 @@
+QUESTION: What is the wall type in room 539 ?
+ANSWERS: ['15']

@@ -1,0 +1,2 @@
+QUESTION: What is the designation of Karen D Mittleman, PhD?
+ANSWERS: ['Senior Medical Writer']

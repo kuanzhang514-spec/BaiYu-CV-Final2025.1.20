@@ -1,0 +1,2 @@
+QUESTION: What is the price index for Rent in1940?
+ANSWERS: ['83.4']

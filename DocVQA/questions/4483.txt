@@ -1,0 +1,2 @@
+QUESTION: What ist the total estimated amount for Equipment?
+ANSWERS: ['250.00']

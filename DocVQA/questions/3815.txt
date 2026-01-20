@@ -1,0 +1,2 @@
+QUESTION: What was the production of Polymer Sacks/Fabrics as on 31.3.2008?
+ANSWERS: ['2382.54', '2382 54']

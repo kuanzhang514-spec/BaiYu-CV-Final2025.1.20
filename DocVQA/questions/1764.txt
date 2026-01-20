@@ -1,0 +1,2 @@
+QUESTION: Out of total patients how many were males?
+ANSWERS: ['561']

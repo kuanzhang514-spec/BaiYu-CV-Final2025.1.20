@@ -1,0 +1,2 @@
+QUESTION: What is the title of the publication?
+ANSWERS: ['beer and scurvy', 'Beer and Scurvy']

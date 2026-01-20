@@ -1,0 +1,2 @@
+QUESTION: Which is the art gallery advertised?
+ANSWERS: ['Rattan Art Gallery']

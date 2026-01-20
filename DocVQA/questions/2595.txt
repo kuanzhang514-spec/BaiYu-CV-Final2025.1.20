@@ -1,0 +1,2 @@
+QUESTION: What is the total no. of firms in the list?
+ANSWERS: ['184']

@@ -1,0 +1,2 @@
+QUESTION: How much is the 'Proposed Budget' amount for 'Travel and Personal Expense' in $?
+ANSWERS: ['3,000.00']

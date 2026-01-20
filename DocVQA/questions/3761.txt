@@ -1,0 +1,2 @@
+QUESTION: What is the ‘supplies’ for ‘2nd year’?
+ANSWERS: ['4,030', '$4,030']

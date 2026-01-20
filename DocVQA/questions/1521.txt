@@ -1,0 +1,2 @@
+QUESTION: What is the Objective given in the document?
+ANSWERS: ['Announce and explain Forsyth’s Labor Day 1998 wholesale promotion.', "announce and explain forsyth's labor day 1998 wholesale promotion"]

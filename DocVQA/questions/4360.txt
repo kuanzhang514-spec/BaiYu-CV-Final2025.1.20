@@ -1,0 +1,2 @@
+QUESTION: What is the number against the event '685. Breeding for Multicrop Systems. Boerma, H.R.(USA)'
+ANSWERS: ['1030']

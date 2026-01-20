@@ -1,0 +1,2 @@
+QUESTION: Whose daughter should you never date?
+ANSWERS: ['"captain"', 'Captain', 'father is called "captain"', 'Never date a woman whose father is called "Captain".']

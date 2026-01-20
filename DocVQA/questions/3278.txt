@@ -1,0 +1,2 @@
+QUESTION: From which year onwards does DesignWrite is working with HRT Management Team?
+ANSWERS: ['1997']

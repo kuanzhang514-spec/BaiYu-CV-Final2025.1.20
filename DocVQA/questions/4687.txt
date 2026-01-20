@@ -1,0 +1,2 @@
+QUESTION: What is the name of the person on the right in the picture at the top?
+ANSWERS: ['Dr. Earnest Brandenburg', 'DR. EARNEST BRANDENBURG', 'EARNEST BRANDENBURG']

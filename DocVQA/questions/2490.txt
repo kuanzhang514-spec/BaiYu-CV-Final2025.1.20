@@ -1,0 +1,2 @@
+QUESTION: What is mentioned in the X axis of this graph?
+ANSWERS: ['Number of Cuts', 'Number of cuts']

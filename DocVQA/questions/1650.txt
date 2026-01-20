@@ -1,0 +1,2 @@
+QUESTION: What is the date stamped on the letter?
+ANSWERS: ['apr 20 1981', 'APR 20 1981', 'apr 201981']

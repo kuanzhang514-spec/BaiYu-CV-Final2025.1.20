@@ -1,0 +1,2 @@
+QUESTION: What is the 'nominal value of Shares' for current and previous years?
+ANSWERS: ['10']

@@ -1,0 +1,2 @@
+QUESTION: Who is Sharon David?
+ANSWERS: ['Reservation Manager', 'Reservation manager', 'Buffalo inn', 'Motor hotel & restaurant']

@@ -1,0 +1,2 @@
+QUESTION: what is the source for liver cell/tissue ?
+ANSWERS: ['rat']

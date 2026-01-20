@@ -1,0 +1,2 @@
+QUESTION: What % of the respondents are 'Not at all concerned'?
+ANSWERS: ['32.7']

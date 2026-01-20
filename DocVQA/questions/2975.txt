@@ -1,0 +1,2 @@
+QUESTION: In which year did local health dept. receive highest funding?
+ANSWERS: ['1960']

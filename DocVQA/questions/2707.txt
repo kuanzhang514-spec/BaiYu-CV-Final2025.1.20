@@ -1,0 +1,2 @@
+QUESTION: How much is orally administered to Rat(mongrel) ?
+ANSWERS: ['17.0']

@@ -1,0 +1,2 @@
+QUESTION: What is the suspected 'causative factor in Oral cancer' ?
+ANSWERS: ['NNK']

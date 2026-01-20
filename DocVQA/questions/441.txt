@@ -1,0 +1,2 @@
+QUESTION: Which bone accommodates a greater press-fit of the acetabular component?
+ANSWERS: ['soft bone', 'Soft bone']

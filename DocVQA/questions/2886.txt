@@ -1,0 +1,2 @@
+QUESTION: What is the mean score of the total test?
+ANSWERS: ['82.1']

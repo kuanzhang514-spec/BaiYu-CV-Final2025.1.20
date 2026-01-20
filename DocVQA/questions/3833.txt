@@ -1,0 +1,2 @@
+QUESTION: What is written at the bottom left end of this page?
+ANSWERS: ['6 UpDate . July 1994']

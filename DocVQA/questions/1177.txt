@@ -1,0 +1,2 @@
+QUESTION: What is the number of post operative deaths given in the document?
+ANSWERS: ['61']

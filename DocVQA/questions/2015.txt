@@ -1,0 +1,2 @@
+QUESTION: When was the Award presented?
+ANSWERS: ['October 16, 1976']

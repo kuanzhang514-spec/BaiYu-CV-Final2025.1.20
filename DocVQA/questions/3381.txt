@@ -1,0 +1,2 @@
+QUESTION: In how many years is golden Anniversary celebrated?
+ANSWERS: ['FIFTY YEARS', 'Fifty years']

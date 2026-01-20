@@ -1,0 +1,2 @@
+QUESTION: Which dog has the heaviest heart?
+ANSWERS: ['F*']

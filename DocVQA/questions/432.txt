@@ -1,0 +1,2 @@
+QUESTION: From the 81, how many had IVUS?
+ANSWERS: ['63', 'N=63']

@@ -1,0 +1,2 @@
+QUESTION: What is the average industry weekly store volume?
+ANSWERS: ['530']

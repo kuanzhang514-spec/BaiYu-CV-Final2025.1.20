@@ -1,0 +1,2 @@
+QUESTION: Which company's letterhead is this?
+ANSWERS: ['W.R.KEATING & COMPANY', 'w. r. keating & company']

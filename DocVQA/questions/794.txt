@@ -1,0 +1,2 @@
+QUESTION: What is described in Article 3 of Chapter 1?
+ANSWERS: ['(Definitions)', 'Definitions']

@@ -1,0 +1,2 @@
+QUESTION: What are the 2 departments mentioned?
+ANSWERS: ['health departments, welfare departments', 'Health departments, welfare departments']

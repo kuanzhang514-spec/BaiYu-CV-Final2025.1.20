@@ -1,0 +1,2 @@
+QUESTION: What is the last ‘guidelines’ mentioned?
+ANSWERS: ['Label areas you could not observe']

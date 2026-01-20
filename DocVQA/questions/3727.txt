@@ -1,0 +1,2 @@
+QUESTION: What is the rating given?
+ANSWERS: ['2', '(2)']

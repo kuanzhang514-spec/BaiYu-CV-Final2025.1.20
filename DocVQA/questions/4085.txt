@@ -1,0 +1,2 @@
+QUESTION: What is the date of the report?
+ANSWERS: ['JULY 1980', 'July, 1980']

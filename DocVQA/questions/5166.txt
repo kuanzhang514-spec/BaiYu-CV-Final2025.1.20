@@ -1,0 +1,2 @@
+QUESTION: What is the quantity of 'Cotton yarn' consumed for year ending 31/03/2010 (kg)?
+ANSWERS: ['140']

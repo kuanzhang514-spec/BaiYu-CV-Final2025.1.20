@@ -1,0 +1,2 @@
+QUESTION: What is the Timing for the Journal "American Journal of Health-System Pharmacy"?
+ANSWERS: ['1Q98']

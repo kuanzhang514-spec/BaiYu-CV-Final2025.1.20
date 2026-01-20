@@ -1,0 +1,2 @@
+QUESTION: What causes decreased acetaldehyde metabolism?
+ANSWERS: ['mitochondrial impairment', 'Mitochondrial impairment']

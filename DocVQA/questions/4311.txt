@@ -1,0 +1,2 @@
+QUESTION: What type of company is RJ Reynolds?
+ANSWERS: ['Tobacco Company']

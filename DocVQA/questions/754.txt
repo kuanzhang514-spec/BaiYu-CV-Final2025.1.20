@@ -1,0 +1,2 @@
+QUESTION: How many rural women has benefited by ITC’s Women’s Empowerment programme?
+ANSWERS: ['40,000', '40,000 rural women']

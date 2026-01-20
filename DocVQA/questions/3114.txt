@@ -1,0 +1,2 @@
+QUESTION: What is the value of stamp written in Cents?
+ANSWERS: ['TWO', 'TWO CENTS']

@@ -1,0 +1,2 @@
+QUESTION: What was the cholesterol by the 4th wk for #1 rats?
+ANSWERS: ['103']

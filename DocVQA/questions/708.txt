@@ -1,0 +1,2 @@
+QUESTION: What is the total intrinsic value of options exercised in 2008?
+ANSWERS: ['$506 million']

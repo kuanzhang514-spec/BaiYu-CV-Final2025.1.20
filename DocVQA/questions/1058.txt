@@ -1,0 +1,2 @@
+QUESTION: What is excess  mortality rate for men who are  20% overweight?
+ANSWERS: ['25%']

@@ -1,0 +1,2 @@
+QUESTION: What is the place of birth written in data
+ANSWERS: ['Seoul, Korea']

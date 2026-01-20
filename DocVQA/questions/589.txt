@@ -1,0 +1,2 @@
+QUESTION: What is the budget for ‘Review article ’ in the scientific poster presentation?
+ANSWERS: ['$20,000']

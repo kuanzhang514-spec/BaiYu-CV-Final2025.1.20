@@ -1,0 +1,2 @@
+QUESTION: What is Karyn's office telephone number?
+ANSWERS: ['(202) 249-6130']

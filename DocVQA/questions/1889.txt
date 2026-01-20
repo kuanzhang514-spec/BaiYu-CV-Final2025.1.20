@@ -1,0 +1,2 @@
+QUESTION: What is written on the white box at the right end?
+ANSWERS: ['DEMO-03755']

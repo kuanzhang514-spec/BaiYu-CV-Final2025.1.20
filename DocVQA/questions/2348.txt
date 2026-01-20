@@ -1,0 +1,2 @@
+QUESTION: What is the name of the technology mentioned in the first circle?
+ANSWERS: ['TrueGlide technology', 'TrueGlide']

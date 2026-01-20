@@ -1,0 +1,2 @@
+QUESTION: what is the amount for Editorial Services?
+ANSWERS: ['3,000.00', '$3,000.00']

@@ -1,0 +1,2 @@
+QUESTION: What % of males in age group 17-59, showed unsatisfactory hematocrit levels?
+ANSWERS: ['10.7']

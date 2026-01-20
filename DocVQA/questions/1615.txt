@@ -1,0 +1,2 @@
+QUESTION: Who is the letter addressed to ?
+ANSWERS: ['Dr. Harold H. Sandstead']

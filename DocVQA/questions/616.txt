@@ -1,0 +1,2 @@
+QUESTION: What is plotted along the y axis ?
+ANSWERS: ['LOSS OF THIAMINE (%)', 'Loss of Thiamine (%)']

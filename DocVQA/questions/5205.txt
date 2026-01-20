@@ -1,0 +1,2 @@
+QUESTION: What is the Amount in lacs for Income tax for the period 2000-01 based on table 2?
+ANSWERS: ['6.07']

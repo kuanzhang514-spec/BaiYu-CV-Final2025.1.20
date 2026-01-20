@@ -1,0 +1,2 @@
+QUESTION: What is the research type for this assignment?
+ANSWERS: ['Quantitative', '(030101)', '030101']

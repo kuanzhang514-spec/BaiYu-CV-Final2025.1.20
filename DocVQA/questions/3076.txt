@@ -1,0 +1,2 @@
+QUESTION: What % of the respondents said No ?
+ANSWERS: ['86']

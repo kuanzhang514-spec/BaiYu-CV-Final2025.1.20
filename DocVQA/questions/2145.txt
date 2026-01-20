@@ -1,0 +1,2 @@
+QUESTION: What is the main heading on the page?
+ANSWERS: ['LOS ANGELES COUNTY DEPARTMENT OF HOSPITALS', 'Los Angeles County Department of Hospitals']

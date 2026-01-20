@@ -1,0 +1,2 @@
+QUESTION: What is the NET WT.?
+ANSWERS: ['10 pounds']

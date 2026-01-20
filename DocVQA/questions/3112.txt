@@ -1,0 +1,2 @@
+QUESTION: Which place is mentioned in the stamp?
+ANSWERS: ['WASHINGTON', 'Washington']

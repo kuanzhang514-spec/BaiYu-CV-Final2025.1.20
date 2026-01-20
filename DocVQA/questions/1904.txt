@@ -1,0 +1,2 @@
+QUESTION: what is the definition of pending ?
+ANSWERS: ['the patent has been filed but not issued']

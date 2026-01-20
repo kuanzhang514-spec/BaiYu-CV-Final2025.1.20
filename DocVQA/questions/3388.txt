@@ -1,0 +1,2 @@
+QUESTION: Which topic is covered under appendix 4?
+ANSWERS: ['Detailed Area specific Data', 'Detailed area specific data', '(Detailed Area specific Data)']

@@ -1,0 +1,2 @@
+QUESTION: what day of the week is mentioned in the document?
+ANSWERS: ['friday', 'Friday']

@@ -1,0 +1,2 @@
+QUESTION: What is the ‘crude rate ‘ during the year 1861 according to the table?
+ANSWERS: ['0.00022', 'Deaths per year per mid year population']

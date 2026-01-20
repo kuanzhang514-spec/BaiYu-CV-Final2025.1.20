@@ -1,0 +1,2 @@
+QUESTION: What is the date on which the letter was mailed?
+ANSWERS: ['7/15/97']

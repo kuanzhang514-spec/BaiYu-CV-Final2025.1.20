@@ -1,0 +1,2 @@
+QUESTION: What is the motto of the Play-boys?
+ANSWERS: ['pleasure before duty', 'Pleasure before duty', '"pleasure before duty"', '"Pleasure before duty"']

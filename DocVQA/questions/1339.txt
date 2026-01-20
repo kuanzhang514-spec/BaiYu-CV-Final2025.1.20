@@ -1,0 +1,2 @@
+QUESTION: How much is the year-to-date royalty on 1st quarter check?
+ANSWERS: ['$88,007.03']

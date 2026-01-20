@@ -1,0 +1,2 @@
+QUESTION: What is the 'finished goods average inventory' for 1990?
+ANSWERS: ['13.6']

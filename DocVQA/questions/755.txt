@@ -1,0 +1,2 @@
+QUESTION: What is the name of royalty product?
+ANSWERS: ['Mallory/Head system sales in the US', 'Mallory/Head System Sales in the US']

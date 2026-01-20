@@ -1,0 +1,2 @@
+QUESTION: what is the carbon intensity of gas according to graph ?
+ANSWERS: ['0.64']

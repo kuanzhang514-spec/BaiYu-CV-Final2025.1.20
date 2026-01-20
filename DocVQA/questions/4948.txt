@@ -1,0 +1,2 @@
+QUESTION: How much ‘amount due’ in the invoice?
+ANSWERS: ['$52,00cr.', '$52.00CR.']

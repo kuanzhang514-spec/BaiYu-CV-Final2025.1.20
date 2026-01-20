@@ -1,0 +1,2 @@
+QUESTION: In the plot, what is the value of "r"?
+ANSWERS: ['0.994']

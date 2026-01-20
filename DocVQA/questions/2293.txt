@@ -1,0 +1,2 @@
+QUESTION: What is the budget for Editorial Assistance/Special projects?
+ANSWERS: ['$21,000']

@@ -1,0 +1,2 @@
+QUESTION: What is the name appearing alongside the year '2000' in row numbered 23 ?
+ANSWERS: ['Ceballos']

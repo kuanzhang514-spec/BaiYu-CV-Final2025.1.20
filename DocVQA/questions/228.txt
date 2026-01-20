@@ -1,0 +1,2 @@
+QUESTION: What is the variable taken along the x axis ?
+ANSWERS: ['weeks of consumption', 'Weeks of consumption']

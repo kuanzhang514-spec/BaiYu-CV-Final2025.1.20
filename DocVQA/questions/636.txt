@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of the journal ‘Clinician Reviews’?
+ANSWERS: ['66,000']

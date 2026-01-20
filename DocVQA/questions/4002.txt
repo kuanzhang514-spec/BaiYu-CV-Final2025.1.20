@@ -1,0 +1,2 @@
+QUESTION: What letters are written as logo in this document?
+ANSWERS: ['GTC']

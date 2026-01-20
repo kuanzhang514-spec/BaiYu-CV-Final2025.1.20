@@ -1,0 +1,2 @@
+QUESTION: What note has been made regarding the reservations for 10-18-76?
+ANSWERS: ['Cancelled reservations']

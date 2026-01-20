@@ -1,0 +1,2 @@
+QUESTION: What is the title/name of this chart?
+ANSWERS: ['FIGURE 2']

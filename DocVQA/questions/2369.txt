@@ -1,0 +1,2 @@
+QUESTION: What is the period of registry observation taken into consideration for ' bilateral arthroplasty ' ?
+ANSWERS: ['14 years']

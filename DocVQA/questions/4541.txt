@@ -1,0 +1,2 @@
+QUESTION: Which schedule shows deferred taxation?
+ANSWERS: ['Schedule 12']

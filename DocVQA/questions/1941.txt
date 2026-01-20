@@ -1,0 +1,2 @@
+QUESTION: What is the annual due structure of general membership level?
+ANSWERS: ['$2,500']

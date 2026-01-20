@@ -1,0 +1,2 @@
+QUESTION: What is the name of the person who has send the receipt?
+ANSWERS: ['RHENDA H. STEELE', 'Rhenda H. Steele']

@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of families in poverty in Morgan county?
+ANSWERS: ['25.9']

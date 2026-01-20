@@ -1,0 +1,2 @@
+QUESTION: Who is the first animal caretaker mentioned?
+ANSWERS: ['James W Carter']

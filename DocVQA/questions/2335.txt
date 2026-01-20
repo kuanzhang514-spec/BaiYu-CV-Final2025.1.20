@@ -1,0 +1,2 @@
+QUESTION: What is the date stamped on the letter?
+ANSWERS: ["AUG-9'79"]

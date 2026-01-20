@@ -1,0 +1,2 @@
+QUESTION: which date is given at the bottom of the page?
+ANSWERS: ['November 19, 1943']

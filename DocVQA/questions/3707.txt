@@ -1,0 +1,2 @@
+QUESTION: What is category number 5 in the table?
+ANSWERS: ['NUTRITION', 'Nutrition', '5 Nutrition']

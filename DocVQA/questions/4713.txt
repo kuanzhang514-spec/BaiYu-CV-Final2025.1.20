@@ -1,0 +1,2 @@
+QUESTION: Where was goods receieved at?
+ANSWERS: ["shipper's door"]

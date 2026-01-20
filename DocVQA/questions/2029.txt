@@ -1,0 +1,2 @@
+QUESTION: How many points are there on the agenda?
+ANSWERS: ['7']

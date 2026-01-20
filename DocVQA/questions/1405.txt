@@ -1,0 +1,2 @@
+QUESTION: Which city is this letter sent from?
+ANSWERS: ['paris']

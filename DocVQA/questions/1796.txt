@@ -1,0 +1,2 @@
+QUESTION: What is the Duration (cycles) for Study Number Phase III "3001"?
+ANSWERS: ['13/26']

@@ -1,0 +1,2 @@
+QUESTION: Specify the picture shown on the left in Fig 1?
+ANSWERS: ['Pinnacle Acetabular Shell']

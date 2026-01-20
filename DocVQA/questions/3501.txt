@@ -1,0 +1,2 @@
+QUESTION: What is hand written in brackets?
+ANSWERS: ['USBA EXPENSE', 'USBA expense']

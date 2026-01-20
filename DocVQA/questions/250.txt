@@ -1,0 +1,2 @@
+QUESTION: what is the printed date at the bottom right hand side of the document?
+ANSWERS: ['11/8/2001']

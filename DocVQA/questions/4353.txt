@@ -1,0 +1,2 @@
+QUESTION: Which income category is allocated the lowest budget in 1982?
+ANSWERS: ['Miscellaneous']

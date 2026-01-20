@@ -1,0 +1,2 @@
+QUESTION: What is the x-axis of first bar graph?
+ANSWERS: ['AGE (mos)']

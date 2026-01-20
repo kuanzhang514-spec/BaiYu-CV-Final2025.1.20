@@ -1,0 +1,2 @@
+QUESTION: What is the date at the top right corner?
+ANSWERS: ['May 3, 1968']

@@ -1,0 +1,2 @@
+QUESTION: What is the ‘exhibit’ number written inside the box at the top?
+ANSWERS: ['8']

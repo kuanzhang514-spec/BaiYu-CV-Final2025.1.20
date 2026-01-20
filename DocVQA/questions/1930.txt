@@ -1,0 +1,2 @@
+QUESTION: What is point number “6” in the page?
+ANSWERS: ['Showing by SA dietitians in cities where Sugar Information program is functioning.', 'Showing by SA dietitians in cities where sugar information program is functioning']

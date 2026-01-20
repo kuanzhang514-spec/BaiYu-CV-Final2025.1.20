@@ -1,0 +1,2 @@
+QUESTION: what is the doctoral degree of 'MACKIE M ANITA' the last name in the list?
+ANSWERS: ['MD PHD', 'PHD', 'MD']

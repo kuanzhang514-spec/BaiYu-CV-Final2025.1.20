@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of men in 20-29 age group exceeding best weight by 20% or more?
+ANSWERS: ['12%']

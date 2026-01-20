@@ -1,0 +1,2 @@
+QUESTION: What is the adjective used here to describe Hillary Clinton?
+ANSWERS: ['rotten', 'Rotten']

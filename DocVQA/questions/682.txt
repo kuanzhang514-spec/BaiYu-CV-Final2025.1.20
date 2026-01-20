@@ -1,0 +1,2 @@
+QUESTION: What is the title of the given bar graph?
+ANSWERS: ['average age of product line', 'Average Age of Product Line']

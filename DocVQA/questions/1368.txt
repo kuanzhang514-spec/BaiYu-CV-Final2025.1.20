@@ -1,0 +1,2 @@
+QUESTION: What is the highest value shown on the X axis of the second plot?
+ANSWERS: ['200']

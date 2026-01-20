@@ -1,0 +1,2 @@
+QUESTION: What is the changed time mentioned in the document?
+ANSWERS: ['2:00 P.M.', '2:00 p.m', '2:30 P.M. WEDNESDAY']

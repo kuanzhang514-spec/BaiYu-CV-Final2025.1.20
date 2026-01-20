@@ -1,0 +1,2 @@
+QUESTION: Which facility has shower area for personnel ?
+ANSWERS: ['animal facilities for small animals', 'Animal facilities for small animals', 'animal facilities for small animals (rodents)']

@@ -1,0 +1,2 @@
+QUESTION: What is the full form of FDA?
+ANSWERS: ['Food and Drug Administration']

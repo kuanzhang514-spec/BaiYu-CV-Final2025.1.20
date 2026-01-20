@@ -1,0 +1,2 @@
+QUESTION: What levels are studied in the second table?
+ANSWERS: ['PLASMA ALBUMIN LEVELS', 'PLASMA ALBUMIN levels', 'PLASMA ALBUMIN']

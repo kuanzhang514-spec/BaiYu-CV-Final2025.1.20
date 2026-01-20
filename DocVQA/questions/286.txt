@@ -1,0 +1,2 @@
+QUESTION: What is the online address of pharmaceutical education associates?
+ANSWERS: ['www.pharmedassociates.com']

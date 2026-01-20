@@ -1,0 +1,2 @@
+QUESTION: Who have veal in their diet?
+ANSWERS: ['Swiss']

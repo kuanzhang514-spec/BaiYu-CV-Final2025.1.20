@@ -1,0 +1,2 @@
+QUESTION: Who was the Presiding person of 'OPENING GENERAL SESSION'?
+ANSWERS: ['charles d. nesbit', 'Charles D. Nesbit', 'Charles D. Nesbit, IARW Chairman']

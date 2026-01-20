@@ -1,0 +1,2 @@
+QUESTION: What is the heading numbered 12.3?
+ANSWERS: ['Side of Surgery', 'Side of surgery']

@@ -1,0 +1,2 @@
+QUESTION: How much amount was expended for 'Salaries' for second fiscal year?
+ANSWERS: ['52,169.83']

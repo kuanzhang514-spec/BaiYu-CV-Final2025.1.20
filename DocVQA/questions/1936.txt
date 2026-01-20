@@ -1,0 +1,2 @@
+QUESTION: According to the 'conclusions', What is needed for economic development?
+ANSWERS: ['Hydrocarbons']

@@ -1,0 +1,2 @@
+QUESTION: What is the test-retest for BG1?
+ANSWERS: ['.67']

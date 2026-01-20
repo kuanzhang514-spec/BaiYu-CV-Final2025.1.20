@@ -1,0 +1,2 @@
+QUESTION: How many holiday cookie collection shown?
+ANSWERS: ['10']

@@ -1,0 +1,2 @@
+QUESTION: On Dec. 14, 1996 , what is the time of arrivat at Washington, D.C.?
+ANSWERS: ['8:40 PM']

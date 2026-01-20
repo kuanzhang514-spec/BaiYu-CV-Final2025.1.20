@@ -1,0 +1,2 @@
+QUESTION: According to the bar graph what percent of people are ' very ' likely to use ultamet XL ?
+ANSWERS: ['55%', '55']

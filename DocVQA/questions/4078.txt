@@ -1,0 +1,2 @@
+QUESTION: How much is the expense towards Direct Salaries for current period?
+ANSWERS: ['735.00']

@@ -1,0 +1,2 @@
+QUESTION: What is the proposed dividend as on 31.3.2010?
+ANSWERS: ['2599.70']

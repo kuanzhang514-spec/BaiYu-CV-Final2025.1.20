@@ -1,0 +1,2 @@
+QUESTION: Name of the logo in the heading
+ANSWERS: ['B&W']

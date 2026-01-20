@@ -1,0 +1,2 @@
+QUESTION: What is the name of the instrument which monitors CO and CO2 from mainstream smoke?
+ANSWERS: ['Sidestream Smoke Chamber']

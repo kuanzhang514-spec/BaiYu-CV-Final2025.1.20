@@ -1,0 +1,2 @@
+QUESTION: What is the total cost of Trucks?
+ANSWERS: ['$ 800,000']

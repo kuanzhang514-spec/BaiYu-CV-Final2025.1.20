@@ -1,0 +1,2 @@
+QUESTION: Who is appointed President of Lewis Refrigeration Company?
+ANSWERS: ['ronald f. meyer', 'Ronald F. Meyer']

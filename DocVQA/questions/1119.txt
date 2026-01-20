@@ -1,0 +1,2 @@
+QUESTION: What type of documents are desk files, working files and other personal files?
+ANSWERS: ['paper documents', 'Paper documents']

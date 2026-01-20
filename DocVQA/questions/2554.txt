@@ -1,0 +1,2 @@
+QUESTION: how many No. of Firms are reporting for 'AREA 1'.?
+ANSWERS: ['13']

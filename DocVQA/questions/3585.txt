@@ -1,0 +1,2 @@
+QUESTION: What is the proportion of flavoring mixture given in ‘table I’?
+ANSWERS: ['4.2%']

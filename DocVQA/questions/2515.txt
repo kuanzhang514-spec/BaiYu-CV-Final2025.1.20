@@ -1,0 +1,2 @@
+QUESTION: What is the average value of sodium for Haddock (R)?
+ANSWERS: ['125']

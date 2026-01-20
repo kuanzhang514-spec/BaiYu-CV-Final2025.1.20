@@ -1,0 +1,2 @@
+QUESTION: What is the ‘description of sample’ in the form ?
+ANSWERS: ['Average Sample for Campaign 1965-66', 'Average sample for campaign 1965-66']

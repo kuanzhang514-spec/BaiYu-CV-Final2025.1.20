@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned in the form ?
+ANSWERS: ['September 28, 1988']

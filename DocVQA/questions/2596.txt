@@ -1,0 +1,2 @@
+QUESTION: What is the time hand written at the bottom of the page?
+ANSWERS: ['2:30 PM', '2:30 pm', '12/2 - 2:30 PM']

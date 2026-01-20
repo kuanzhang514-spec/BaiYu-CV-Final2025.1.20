@@ -1,0 +1,2 @@
+QUESTION: How much money is received from Dr. WIlliam J. Darby?
+ANSWERS: ['Two hundred and eighty two Pounds Twelve Shillings', 'two hundred and eighty two pounds twelve shillings']

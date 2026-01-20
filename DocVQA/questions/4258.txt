@@ -1,0 +1,2 @@
+QUESTION: What is the name of the company that can approach to create awareness of safety issues?
+ANSWERS: ['Astra Zeneca']

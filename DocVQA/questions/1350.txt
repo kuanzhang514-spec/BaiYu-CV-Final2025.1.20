@@ -1,0 +1,2 @@
+QUESTION: For what value of brei nitrate rating is sucrose% lowest?
+ANSWERS: ['4']

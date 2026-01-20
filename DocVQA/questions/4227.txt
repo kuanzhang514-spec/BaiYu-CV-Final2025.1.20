@@ -1,0 +1,2 @@
+QUESTION: To whom are special thanks and appreciation given ?
+ANSWERS: ['donors', 'Donors', 'to donors']

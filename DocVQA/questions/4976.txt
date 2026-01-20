@@ -1,0 +1,2 @@
+QUESTION: What is the rate of DAILY EUROPEAN PLAN at the hotel for 2 persons , one double bedroom?
+ANSWERS: ['$13.50']

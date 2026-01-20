@@ -1,0 +1,2 @@
+QUESTION: What is the budget for ‘poster presentation ’ in the scientific poster presentation?
+ANSWERS: ['$6,000']

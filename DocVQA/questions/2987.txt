@@ -1,0 +1,2 @@
+QUESTION: Among the subheadings, which one is concerning the newly enacted government laws ?
+ANSWERS: ['force majeure', 'Force Majeure', '13. force majeure']

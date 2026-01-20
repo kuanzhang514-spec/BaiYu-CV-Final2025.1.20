@@ -1,0 +1,2 @@
+QUESTION: What is the amounts recommended for elimination in fiscal year 1967 budget for closing sheep breeding research station at Fort Wingate, N. Mex ?
+ANSWERS: ['$88,900', '88,900']

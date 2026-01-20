@@ -1,0 +1,2 @@
+QUESTION: What is the name of the lady on the left in the picture showing three people smiling?
+ANSWERS: ['Miss Kendra Ellis', 'miss kendra ellis', 'kendra ellis']

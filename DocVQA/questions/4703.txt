@@ -1,0 +1,2 @@
+QUESTION: Did John have had any graduate level course in statistics?
+ANSWERS: ['yes']

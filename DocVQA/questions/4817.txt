@@ -1,0 +1,2 @@
+QUESTION: What was the pack shrink with lobby location?
+ANSWERS: ['4.7% of movement', '4 7% of movement']

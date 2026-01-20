@@ -1,0 +1,2 @@
+QUESTION: What is the ‘Median life span’ during the year 1901 according to the table?
+ANSWERS: ['54.9']

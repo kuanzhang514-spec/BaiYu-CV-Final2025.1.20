@@ -1,0 +1,2 @@
+QUESTION: How much is the estimated amount for ‘keypunch ’ in supplies and services?
+ANSWERS: ['3,000', '$3,000']

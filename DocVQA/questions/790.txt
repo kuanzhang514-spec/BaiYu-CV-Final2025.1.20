@@ -1,0 +1,2 @@
+QUESTION: What is the title of table 17?
+ANSWERS: ['relative body fat values for males and females in various sports.*', 'Relative body fat values for males and females in various sports', 'Relative body fat values for males and females in various sports.*', 'Relative body fat values for males and females in various sports.']

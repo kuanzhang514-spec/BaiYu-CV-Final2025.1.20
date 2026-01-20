@@ -1,0 +1,2 @@
+QUESTION: Who is the author for publication "Climacteric"?
+ANSWERS: ['Schneider']

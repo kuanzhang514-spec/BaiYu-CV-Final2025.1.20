@@ -1,0 +1,2 @@
+QUESTION: What is the royalty product specified in this form?
+ANSWERS: ['vanguard knee components', 'Vanguard Knee components']

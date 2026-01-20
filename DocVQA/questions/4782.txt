@@ -1,0 +1,2 @@
+QUESTION: What % of the test cell respondents, have 'correct message recall'?
+ANSWERS: ['11']

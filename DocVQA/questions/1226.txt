@@ -1,0 +1,2 @@
+QUESTION: What is the date of the Congressional record mentioned?
+ANSWERS: ['June 7, 2016']

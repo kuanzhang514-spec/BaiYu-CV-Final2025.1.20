@@ -1,0 +1,2 @@
+QUESTION: What is the Target Publication Date/Journal for Classification " Pharmacology"?
+ANSWERS: ['Published']

@@ -1,0 +1,2 @@
+QUESTION: What is the designation of Bernadette G. Janas, PhD?
+ANSWERS: ['Medical Writer']

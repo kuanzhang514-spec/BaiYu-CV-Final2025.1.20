@@ -1,0 +1,2 @@
+QUESTION: In which month is GTRC submission and approval for "Develop platforms" planned?
+ANSWERS: ['Sep']

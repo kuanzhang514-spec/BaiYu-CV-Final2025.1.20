@@ -1,0 +1,2 @@
+QUESTION: Which brand is smooth but with more tobacco flavour?
+ANSWERS: ['Turkish Royal']

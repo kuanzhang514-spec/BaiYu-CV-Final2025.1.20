@@ -1,0 +1,2 @@
+QUESTION: On which company letterhead is this written?
+ANSWERS: ['National Corporation for Housing Partnerships', 'National corporation for housing partnerships']

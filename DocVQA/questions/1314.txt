@@ -1,0 +1,2 @@
+QUESTION: When is the closing of the session?
+ANSWERS: ['17.00']

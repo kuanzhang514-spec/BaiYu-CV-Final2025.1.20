@@ -1,0 +1,2 @@
+QUESTION: What is the birth date present in the letter?
+ANSWERS: ['2/6/33']

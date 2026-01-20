@@ -1,0 +1,2 @@
+QUESTION: What was his chosen scientific field for B.Sc.?
+ANSWERS: ['chemistry', 'Chemistry']

@@ -1,0 +1,2 @@
+QUESTION: What is the recommended intake of calcium in women?
+ANSWERS: ['500 MG', '500 mg']

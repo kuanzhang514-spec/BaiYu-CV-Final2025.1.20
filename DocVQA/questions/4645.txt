@@ -1,0 +1,2 @@
+QUESTION: What is the name of the hotel?
+ANSWERS: ['Hotel St. Regis', 'Hotel St. Regis.']

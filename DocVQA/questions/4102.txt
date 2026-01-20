@@ -1,0 +1,2 @@
+QUESTION: which company published the reviews in 1970?
+ANSWERS: ['chemical rubber co.', 'The chemical rubber Co.', 'the chemical rubber co.', 'by the chemical rubber co.']

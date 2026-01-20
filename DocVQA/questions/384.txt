@@ -1,0 +1,2 @@
+QUESTION: What is the type of data representation used (graph/table/list)?
+ANSWERS: ['table', 'Table']

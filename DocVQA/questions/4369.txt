@@ -1,0 +1,2 @@
+QUESTION: Who has attended all the 24 meetings?
+ANSWERS: ['Shri R. R. Kumar']

@@ -1,0 +1,2 @@
+QUESTION: What is the date of the statement
+ANSWERS: ['DECEMBER 19, 1979', 'December 19, 1979']

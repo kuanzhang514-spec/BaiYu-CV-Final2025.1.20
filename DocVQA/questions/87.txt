@@ -1,0 +1,2 @@
+QUESTION: Who was the Associate director for research analysis and evaluation then?
+ANSWERS: ['Dr. Arley T. Bever']

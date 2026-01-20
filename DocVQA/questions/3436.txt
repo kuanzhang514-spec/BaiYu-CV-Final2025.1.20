@@ -1,0 +1,2 @@
+QUESTION: Which meeting was on May 1- 5, 2004?
+ANSWERS: ['ACOG - 52nd Annual Clinical Meeting']

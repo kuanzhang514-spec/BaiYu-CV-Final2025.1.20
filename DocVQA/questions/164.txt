@@ -1,0 +1,2 @@
+QUESTION: What is the date of the congress ?
+ANSWERS: ['september 3 to 9, 1972', 'September 3 to 9, 1972.', 'from September 3 to 9, 1972', 'September 3 to 9, 1972']

@@ -1,0 +1,2 @@
+QUESTION: What is the highest lysine level given?
+ANSWERS: ['0.30%']

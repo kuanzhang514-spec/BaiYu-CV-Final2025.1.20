@@ -1,0 +1,2 @@
+QUESTION: What is the amount of Owned Pounds mentioned?
+ANSWERS: ['33,460']

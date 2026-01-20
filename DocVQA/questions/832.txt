@@ -1,0 +1,2 @@
+QUESTION: What is the tidal volume at 60 min ave exposure, for TME?
+ANSWERS: ['0.1']

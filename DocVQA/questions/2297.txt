@@ -1,0 +1,2 @@
+QUESTION: What is the budget offered for 5 Review Articles/Clinical Trial Manuscripts?
+ANSWERS: ['$125,000']

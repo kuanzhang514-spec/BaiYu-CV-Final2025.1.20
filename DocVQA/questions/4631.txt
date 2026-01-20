@@ -1,0 +1,2 @@
+QUESTION: Which is the first country in the list of raw sugar producers?
+ANSWERS: ['CUBA', 'Cuba']

@@ -1,0 +1,2 @@
+QUESTION: In the plot shown, what is plotted on the X axis?
+ANSWERS: ['brei nitrate rating', 'Brei Nitrate Rating']

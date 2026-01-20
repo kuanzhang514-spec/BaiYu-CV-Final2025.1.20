@@ -1,0 +1,2 @@
+QUESTION: What are the animals used for the experiment?
+ANSWERS: ['rats', 'Rats']

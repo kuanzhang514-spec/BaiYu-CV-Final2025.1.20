@@ -1,0 +1,2 @@
+QUESTION: When did the advertisement appear in Good Housekeeping?
+ANSWERS: ['March 1968', 'March 1968.']

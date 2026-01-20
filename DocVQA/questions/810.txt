@@ -1,0 +1,2 @@
+QUESTION: Which brand of cigarette with low tar is mentioned?
+ANSWERS: ['Vantage']

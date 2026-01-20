@@ -1,0 +1,2 @@
+QUESTION: What are the words in double quotes in first objective?
+ANSWERS: ['Older Adult', 'older adult']

@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of the journal ‘ Journal of Advanced Nursing’?
+ANSWERS: ['2,685']

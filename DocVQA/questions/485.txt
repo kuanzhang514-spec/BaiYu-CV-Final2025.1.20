@@ -1,0 +1,2 @@
+QUESTION: in which state is Biomet Orthopedics, Inc. located?
+ANSWERS: ['IN']

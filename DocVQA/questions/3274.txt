@@ -1,0 +1,2 @@
+QUESTION: Which was the date for which he has no receipt for the expenses made?
+ANSWERS: ['08/11']

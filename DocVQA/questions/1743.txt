@@ -1,0 +1,2 @@
+QUESTION: Among dieters and weight watchers, how many persons used ‘6-10 times’ ?
+ANSWERS: ['128']

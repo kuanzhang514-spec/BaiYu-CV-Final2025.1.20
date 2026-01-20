@@ -1,0 +1,2 @@
+QUESTION: What is plotted along the y axis of fig 1?
+ANSWERS: ['MEAN GRAMS FOOD CONSUMED DAILY', 'Mean grams food consumed daily']

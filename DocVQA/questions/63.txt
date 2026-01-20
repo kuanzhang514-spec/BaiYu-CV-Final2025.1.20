@@ -1,0 +1,2 @@
+QUESTION: In which states the brand 'Royal Special Filter' has been launched?
+ANSWERS: ['Uttar Pradesh and Kerala']

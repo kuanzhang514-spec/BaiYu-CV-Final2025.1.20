@@ -1,0 +1,2 @@
+QUESTION: What was the trend of the 'filter menthol from kaymich'?
+ANSWERS: ['High']

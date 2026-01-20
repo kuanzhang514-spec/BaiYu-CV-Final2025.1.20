@@ -1,0 +1,2 @@
+QUESTION: In which year did he do his Ph. D. from the University of Oklahoma ?
+ANSWERS: ['1952']

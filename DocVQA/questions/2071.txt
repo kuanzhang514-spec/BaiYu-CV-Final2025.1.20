@@ -1,0 +1,2 @@
+QUESTION: What is the value in the first column of the row that shows 'dont have ASR XL ' in the corresponding column ?
+ANSWERS: ['22']

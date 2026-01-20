@@ -1,0 +1,2 @@
+QUESTION: What is the title of Figure 11?
+ANSWERS: ['Weight bearing materials used in revisions']

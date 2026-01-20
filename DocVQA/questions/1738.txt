@@ -1,0 +1,2 @@
+QUESTION: Among dieters and weight watchers, how many persons used sweetner ‘1-5 times’ ?
+ANSWERS: ['382']

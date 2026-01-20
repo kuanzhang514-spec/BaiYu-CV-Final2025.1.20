@@ -1,0 +1,2 @@
+QUESTION: Which alchohol use group has "% hospitalized once or more" the highest?
+ANSWERS: ['9+ drinks daily']

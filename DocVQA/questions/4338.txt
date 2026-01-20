@@ -1,0 +1,2 @@
+QUESTION: What is the Check to be dated ?
+ANSWERS: ['04/15/95']

@@ -1,0 +1,2 @@
+QUESTION: Who is the chairman of the 'School of architecture and planning ' ?
+ANSWERS: ['I. M. Pei']

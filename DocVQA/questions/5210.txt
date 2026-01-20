@@ -1,0 +1,2 @@
+QUESTION: What is the title of figure 1?
+ANSWERS: ['FOOD CONSUMED', 'Food consumed', 'effect of diet on food consumed in cold- and warm- acclimatized rats']

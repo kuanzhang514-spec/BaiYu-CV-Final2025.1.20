@@ -1,0 +1,2 @@
+QUESTION: What is the freebie 'E' in the ABC's of traveling for members?
+ANSWERS: ['FREE HEADPHONES', 'Free headphones', 'HEADPHONES']

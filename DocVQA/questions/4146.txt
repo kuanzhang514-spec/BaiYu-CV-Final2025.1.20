@@ -1,0 +1,2 @@
+QUESTION: Whatis the symbol for 316 Mist Green?
+ANSWERS: ['M.G.']

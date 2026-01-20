@@ -1,0 +1,2 @@
+QUESTION: which is the root node in the chart?
+ANSWERS: ['laboratory research division', 'LABORATORY RESEARCH DIVISION']

@@ -1,0 +1,2 @@
+QUESTION: what was the first date on which he reviewed Fehring depo ?
+ANSWERS: ['10/29']

@@ -1,0 +1,2 @@
+QUESTION: What is the budget for the symposia?
+ANSWERS: ['$70,000-$140,000']

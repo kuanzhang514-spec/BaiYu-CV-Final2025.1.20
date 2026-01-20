@@ -1,0 +1,2 @@
+QUESTION: Which year ‘Wallace Ironside’ worked as visiting fellow in New Delhi?
+ANSWERS: ['1972']

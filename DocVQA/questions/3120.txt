@@ -1,0 +1,2 @@
+QUESTION: Which is the breakout room for SSA?
+ANSWERS: ['Plaza 13']

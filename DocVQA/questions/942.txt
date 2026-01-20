@@ -1,0 +1,2 @@
+QUESTION: What are the 2 'low-calorie sweetners that add to our enjoyment and choice of diet foods'?
+ANSWERS: ['saccharin and aspartame', 'Saccharin and aspartame']

@@ -1,0 +1,2 @@
+QUESTION: what eating habit does '4/ ' indicate in the footnote at the bottom of the page?
+ANSWERS: ['rice-eaters', 'Rice-eaters']

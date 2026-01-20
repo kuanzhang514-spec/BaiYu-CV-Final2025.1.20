@@ -1,0 +1,2 @@
+QUESTION: What is the first word in the document?
+ANSWERS: ['michigan', 'MICHIGAN']

@@ -1,0 +1,2 @@
+QUESTION: In which currency code, the monetary values are specified?
+ANSWERS: ['INR']

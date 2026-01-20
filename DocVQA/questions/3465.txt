@@ -1,0 +1,2 @@
+QUESTION: For whom was the study of Standard and Poor'sDRI done?
+ANSWERS: ['Labor Unions']

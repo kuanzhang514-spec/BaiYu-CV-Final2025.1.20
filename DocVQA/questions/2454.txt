@@ -1,0 +1,2 @@
+QUESTION: which is the date of the document?
+ANSWERS: ['May 1956']

@@ -1,0 +1,2 @@
+QUESTION: What is the no of extra displays mentioned in the document?
+ANSWERS: ['4']

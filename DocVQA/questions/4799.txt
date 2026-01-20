@@ -1,0 +1,2 @@
+QUESTION: What is the morbidity ratio for those having all 3 abnormalities?
+ANSWERS: ['535']

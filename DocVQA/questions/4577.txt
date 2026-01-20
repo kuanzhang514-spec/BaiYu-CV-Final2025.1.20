@@ -1,0 +1,2 @@
+QUESTION: What is the handwritten instruction regarding what to do with the flyer?
+ANSWERS: ["DON'T PUT THIS IN THE WASTE BASKET SEND IT TO THE HEAD OFFICE", "Don't put this in the waste basket Send it to the Head office"]

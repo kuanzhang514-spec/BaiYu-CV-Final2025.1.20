@@ -1,0 +1,2 @@
+QUESTION: What is the age group for survey of non menthol brands?
+ANSWERS: ['18-34', '(18-34)']

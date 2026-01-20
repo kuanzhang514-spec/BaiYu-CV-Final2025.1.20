@@ -1,0 +1,2 @@
+QUESTION: Which campus is this?
+ANSWERS: ['COLUMBIA CAMPUS', 'Columbia campus']

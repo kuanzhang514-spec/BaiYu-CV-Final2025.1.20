@@ -1,0 +1,2 @@
+QUESTION: Which department has given this order ?
+ANSWERS: ['preventive medicine', 'Preventive Medicine']

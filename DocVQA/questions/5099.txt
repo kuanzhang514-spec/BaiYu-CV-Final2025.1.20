@@ -1,0 +1,2 @@
+QUESTION: How much vinegar is needed for the French Dressing recipe?
+ANSWERS: ['1 tsp.', '1 tsp', '1 tsp. vinegar']

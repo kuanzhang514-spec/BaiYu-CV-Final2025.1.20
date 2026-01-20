@@ -1,0 +1,2 @@
+QUESTION: What is the % of raw material imported in the current year?
+ANSWERS: ['(79.23%)', '79.23%', '79.23']

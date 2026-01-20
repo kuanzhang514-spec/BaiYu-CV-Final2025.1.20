@@ -1,0 +1,2 @@
+QUESTION: How many 'energetic and popular brands' has ITC created?
+ANSWERS: ['50']

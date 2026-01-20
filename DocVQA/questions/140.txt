@@ -1,0 +1,2 @@
+QUESTION: What is 'SKU'?
+ANSWERS: ['stock keeping units', 'Stock keeping units']

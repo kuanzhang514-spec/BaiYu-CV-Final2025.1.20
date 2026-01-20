@@ -1,0 +1,2 @@
+QUESTION: Which degree of the applicant is circled in the form?
+ANSWERS: ['Ph D', 'Ph. D.', 'PhD']

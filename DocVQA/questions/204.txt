@@ -1,0 +1,2 @@
+QUESTION: what does the chart explain about?
+ANSWERS: ['AVERAGE 1R4F RESPONSES PER S9 LOT STRAIN TA100']

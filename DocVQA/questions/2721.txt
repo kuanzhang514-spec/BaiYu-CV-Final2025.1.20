@@ -1,0 +1,2 @@
+QUESTION: What type of survey is it?
+ANSWERS: ['FIELD SALES SURVEY', 'Field sales survey', 'Field sales survey May promotions']

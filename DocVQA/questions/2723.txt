@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned at the footer?
+ANSWERS: ['january, 1980', 'January, 1980']

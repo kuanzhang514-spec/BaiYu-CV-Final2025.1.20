@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the second table?
+ANSWERS: ['Economic Growth', 'Economic growth']

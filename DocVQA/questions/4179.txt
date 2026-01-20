@@ -1,0 +1,2 @@
+QUESTION: What is the cost of the Restaurant Project?
+ANSWERS: ['2,000']

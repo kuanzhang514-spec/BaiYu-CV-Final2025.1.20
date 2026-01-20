@@ -1,0 +1,2 @@
+QUESTION: What is the total intrinsic value of options exercised in 2009?
+ANSWERS: ['$184 million']

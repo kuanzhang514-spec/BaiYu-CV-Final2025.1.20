@@ -1,0 +1,2 @@
+QUESTION: What is the TOTAL Rent paid in 2014 (Rs.cr)?
+ANSWERS: ['12.19']

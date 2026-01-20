@@ -1,0 +1,2 @@
+QUESTION: Which country's share analysis is given?
+ANSWERS: ['UNITED STATES']

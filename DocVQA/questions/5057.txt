@@ -1,0 +1,2 @@
+QUESTION: What is S. E.?
+ANSWERS: ['standard error', 'Standard error']

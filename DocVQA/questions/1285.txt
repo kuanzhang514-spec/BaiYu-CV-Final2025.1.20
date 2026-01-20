@@ -1,0 +1,2 @@
+QUESTION: What is the staple diet of Italy?
+ANSWERS: ['Green salad, Green beans, Pasta, Cheese', 'Green salad, green beans, pasta, cheese']

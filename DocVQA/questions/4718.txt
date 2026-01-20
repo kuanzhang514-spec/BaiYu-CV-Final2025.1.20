@@ -1,0 +1,2 @@
+QUESTION: What does AMA stand for?
+ANSWERS: ['American Medical Association', 'American medical Association']

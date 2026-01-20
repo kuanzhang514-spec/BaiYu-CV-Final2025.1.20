@@ -1,0 +1,2 @@
+QUESTION: What is the title of the third Article?
+ANSWERS: ['300-us bone mineral density- final data analysis', '300-US Bone mineral density- Final data analysis']

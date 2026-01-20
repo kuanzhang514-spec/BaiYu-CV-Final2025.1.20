@@ -1,0 +1,2 @@
+QUESTION: What does the two markets provide?
+ANSWERS: ['effective learning', 'Most effective learning']

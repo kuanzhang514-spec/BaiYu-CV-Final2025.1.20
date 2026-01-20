@@ -1,0 +1,2 @@
+QUESTION: who is the senior vice president ?
+ANSWERS: ['Victor L. Johnson', '*Victor L. Johnson']

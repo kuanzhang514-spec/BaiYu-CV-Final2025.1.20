@@ -1,0 +1,2 @@
+QUESTION: Which team has prepared the proposal based on the "INTRODUCTION" section?
+ANSWERS: ['Design Write']

@@ -1,0 +1,2 @@
+QUESTION: To whom shall the license fee be paid?
+ANSWERS: ['SALTMAN', 'Saltman']

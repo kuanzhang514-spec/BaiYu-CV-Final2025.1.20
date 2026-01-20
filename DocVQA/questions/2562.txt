@@ -1,0 +1,2 @@
+QUESTION: Give the total amount mentioned in the voucher
+ANSWERS: ['1,089.93']

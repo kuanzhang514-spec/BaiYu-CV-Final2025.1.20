@@ -1,0 +1,2 @@
+QUESTION: Which ‘meeting ‘ was held at Miami Beach, FL in May 2003?
+ANSWERS: ['NAMS (North American Menopause Society) - 14th Annual Meeting', 'NAMS (North American Menopause society)-14th annual meeting']

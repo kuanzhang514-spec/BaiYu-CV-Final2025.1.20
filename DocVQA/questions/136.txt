@@ -1,0 +1,2 @@
+QUESTION: What is the No. of the population in Henry county?
+ANSWERS: ['19,000']

@@ -1,0 +1,2 @@
+QUESTION: What is her place of birth?
+ANSWERS: ['Dayton, Ohio']

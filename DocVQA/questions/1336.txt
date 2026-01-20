@@ -1,0 +1,2 @@
+QUESTION: How much is the royalty payment?
+ANSWERS: ['$94,421.26']

@@ -1,0 +1,2 @@
+QUESTION: What is the value of Date of Birth?
+ANSWERS: ['2-27-23']

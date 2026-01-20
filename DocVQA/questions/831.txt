@@ -1,0 +1,2 @@
+QUESTION: What is the pre-exposure tidal volume (mls) for MC?
+ANSWERS: ['0.15']

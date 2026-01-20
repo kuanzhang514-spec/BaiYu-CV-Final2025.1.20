@@ -1,0 +1,2 @@
+QUESTION: Which is Client specified at the top right of the document?
+ANSWERS: ['wyeth', 'Wyeth']

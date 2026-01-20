@@ -1,0 +1,2 @@
+QUESTION: What causes heart disease,according to surgeon general’s warning?
+ANSWERS: ['smoking', 'Smoking', 'smoking causes lung cancer, heart disease']

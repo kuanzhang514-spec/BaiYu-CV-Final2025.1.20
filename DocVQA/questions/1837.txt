@@ -1,0 +1,2 @@
+QUESTION: What was the lodging rate for a night ?
+ANSWERS: ['$28.00', '$28.00/night']

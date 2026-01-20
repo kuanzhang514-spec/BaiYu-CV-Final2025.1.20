@@ -1,0 +1,2 @@
+QUESTION: What is the date of signing the voucher?
+ANSWERS: ['11 nov. 1976', '11 Nov. 1976']

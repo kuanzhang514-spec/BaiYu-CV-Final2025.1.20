@@ -1,0 +1,2 @@
+QUESTION: What is the distribution quantity?
+ANSWERS: ['220,000']

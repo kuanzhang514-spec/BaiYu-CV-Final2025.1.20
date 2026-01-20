@@ -1,0 +1,2 @@
+QUESTION: What does the symbol * indicate?
+ANSWERS: ['LESS THAN 0.5%', 'Less than 0.5%']

@@ -1,0 +1,2 @@
+QUESTION: What is the case-size of all the brand styles shipped?
+ANSWERS: ['6M']

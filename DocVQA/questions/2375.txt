@@ -1,0 +1,2 @@
+QUESTION: Who wrote journal on the subject "Carbohydrates, diabetes and blood lipids" ?
+ANSWERS: ['Bierman, E.L. and Nelson, R.']

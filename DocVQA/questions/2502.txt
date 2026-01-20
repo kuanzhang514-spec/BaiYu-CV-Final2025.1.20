@@ -1,0 +1,2 @@
+QUESTION: How much is the GRAND TOTAL for 'Budget 1942-1943'?
+ANSWERS: ['$ 42,000.00', '42,000.00']

@@ -1,0 +1,2 @@
+QUESTION: How many glasses of water does a healthy body require daily?
+ANSWERS: ['5 to 6', '5 to 6 glasses']

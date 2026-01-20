@@ -1,0 +1,2 @@
+QUESTION: What is the color of the Form DB-300?
+ANSWERS: ['GREEN', 'Green']

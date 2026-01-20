@@ -1,0 +1,2 @@
+QUESTION: What is the ‘heading’?
+ANSWERS: ['dental caries project', 'Dental caries project', 'Expenditures and projections']

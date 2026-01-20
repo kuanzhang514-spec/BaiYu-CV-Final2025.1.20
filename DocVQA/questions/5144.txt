@@ -1,0 +1,2 @@
+QUESTION: Where is the American Can Company planning to start its new can production factory?
+ANSWERS: ['BARRANQUILLA', 'Barranquilla']

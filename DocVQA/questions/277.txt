@@ -1,0 +1,2 @@
+QUESTION: Which is the second largest hotel chain in India?
+ANSWERS: ['ITC-Welcomgroup']

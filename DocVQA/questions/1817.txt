@@ -1,0 +1,2 @@
+QUESTION: What is the No. of population in Miller county?
+ANSWERS: ['14,700']

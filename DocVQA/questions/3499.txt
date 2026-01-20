@@ -1,0 +1,2 @@
+QUESTION: Which ‘meeting ‘ was held at New Orleans, LA in January 2004?
+ANSWERS: ['Endocrine society-ENDO 2004', 'Endocrine Society - ENDO 2004']

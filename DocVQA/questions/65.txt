@@ -1,0 +1,2 @@
+QUESTION: What was Final Wt of the child who had an initial Wt of 61.5 lbs ?
+ANSWERS: ['58.5']

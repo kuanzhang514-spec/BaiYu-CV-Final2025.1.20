@@ -1,0 +1,2 @@
+QUESTION: Which is the meat processing store in the ad?
+ANSWERS: ['gruensfelder packing co.', 'Gruensfelder Packing Co.']

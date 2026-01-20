@@ -1,0 +1,2 @@
+QUESTION: What is the department?
+ANSWERS: ['Research and Development (Brands)', 'Research and development (brands)']

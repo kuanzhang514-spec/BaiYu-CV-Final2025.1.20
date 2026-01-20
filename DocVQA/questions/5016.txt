@@ -1,0 +1,2 @@
+QUESTION: Who has printed it?
+ANSWERS: ["the american heart association's communications division", "American Heart Association's Communications Division"]

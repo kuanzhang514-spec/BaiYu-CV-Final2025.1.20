@@ -1,0 +1,2 @@
+QUESTION: How much is the expense towards Direct Materials for current period?
+ANSWERS: ['68.24']

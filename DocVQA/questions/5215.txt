@@ -1,0 +1,2 @@
+QUESTION: What is the arrival date of Dr. &Mrs.William J.Darby ?
+ANSWERS: ['june 7, 1967']

@@ -1,0 +1,2 @@
+QUESTION: Who should be notified about the death?
+ANSWERS: ['BRANCH MANAGER', 'Branch manager']

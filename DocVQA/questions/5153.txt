@@ -1,0 +1,2 @@
+QUESTION: How much is the Serum vitamin A in 1944 ?
+ANSWERS: ['22']

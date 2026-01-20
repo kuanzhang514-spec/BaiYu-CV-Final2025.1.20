@@ -1,0 +1,2 @@
+QUESTION: What is the date of this memo?
+ANSWERS: ['11/18/82']

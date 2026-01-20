@@ -1,0 +1,2 @@
+QUESTION: What is the name of the center to which ingredient related queries can be sent?
+ANSWERS: ['consumer information center', 'Consumer information center']

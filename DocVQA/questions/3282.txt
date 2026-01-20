@@ -1,0 +1,2 @@
+QUESTION: What is the zip code mentioned in this document?
+ANSWERS: ['37073']

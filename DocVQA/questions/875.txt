@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the table?
+ANSWERS: ['VFM smoker profile', 'VFM Smoker Profile']

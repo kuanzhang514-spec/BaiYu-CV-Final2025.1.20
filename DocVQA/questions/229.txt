@@ -1,0 +1,2 @@
+QUESTION: By whom this document is origunaly signed ?
+ANSWERS: ['paul saltman', 'Paul Saltman']

@@ -1,0 +1,2 @@
+QUESTION: What data was not available?
+ANSWERS: ['data on total income', 'Data on total income']

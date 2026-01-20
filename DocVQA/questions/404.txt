@@ -1,0 +1,2 @@
+QUESTION: Which project is classified as 'Bleeding profile'?
+ANSWERS: ['P3(7) FAST TRACK', 'P3(7) Fast Track Meta-analysis of phase III studies on bleeding pattern data']

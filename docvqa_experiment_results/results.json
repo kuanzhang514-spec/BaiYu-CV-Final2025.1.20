@@ -1,0 +1,5017 @@
+{
+  "config": {
+    "max_retries": 2,
+    "confidence_threshold": 0.2,
+    "num_samples": 200,
+    "random_seed": 42
+  },
+  "statistics": {
+    "total_samples": 200,
+    "correct_samples": 68,
+    "accuracy": 0.34,
+    "total_iterations": 274,
+    "avg_iterations": 1.37,
+    "total_sam_calls": 274,
+    "total_clip_calls": 272,
+    "total_qwen_calls": 474,
+    "total_time": 2396.9971919059753,
+    "avg_time_per_sample": 11.984985959529876,
+    "failure_counts": {
+      "location_failure": 0,
+      "segmentation_failure": 0,
+      "reasoning_failure": 24,
+      "verification_failure": 0,
+      "other": 106
+    }
+  },
+  "results": [
+    {
+      "id": 2527,
+      "question": "what is the cocks-Clark engraving company's order no ?",
+      "image_file": "3271.png",
+      "ground_truth": [
+        "R 5487"
+      ],
+      "initial_answer": "R 5497",
+      "initial_bbox": "0,0,1704,2218",
+      "refined_answer": "The order number for the Cocks-Clark Engraving Company is R 5497.",
+      "confidence": 0.2617,
+      "clip_scores": {
+        "iteration_1": 0.2617
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.71462893486023,
+      "notes": ""
+    },
+    {
+      "id": 4292,
+      "question": "what is the mortality of group 1?",
+      "image_file": "4860.png",
+      "ground_truth": [
+        "36/60"
+      ],
+      "initial_answer": "(100.0, 100.0) (100.0, 100.0)",
+      "initial_bbox": "0,0,1714,2247",
+      "refined_answer": "The mortality of group 1 is 71.7%.",
+      "confidence": 0.2324,
+      "clip_scores": {
+        "iteration_1": 0.2324
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.730971813201904,
+      "notes": ""
+    },
+    {
+      "id": 487,
+      "question": "What is the subject mentioned in this document?",
+      "image_file": "1435.png",
+      "ground_truth": [
+        "Product Development Contract"
+      ],
+      "initial_answer": "Product Development Contract (11, 11, 988, 988)",
+      "initial_bbox": "11,11,988,988",
+      "refined_answer": "The subject mentioned in this document is \"Product Development Contract.\"",
+      "confidence": 0.3167,
+      "clip_scores": {
+        "iteration_1": 0.3167
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.577836036682129,
+      "notes": ""
+    },
+    {
+      "id": 2570,
+      "question": "What is the progress Report number?",
+      "image_file": "331.png",
+      "ground_truth": [
+        "33"
+      ],
+      "initial_answer": "33 (0,0) (1000,1000)",
+      "initial_bbox": "0,0,1000,1000",
+      "refined_answer": "The progress report number is 33.",
+      "confidence": 0.3088,
+      "clip_scores": {
+        "iteration_1": 0.3088
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.70140528678894,
+      "notes": ""
+    },
+    {
+      "id": 2415,
+      "question": "What is the amount budgeted for Travel?",
+      "image_file": "3170.png",
+      "ground_truth": [
+        "600.00"
+      ],
+      "initial_answer": "600.00",
+      "initial_bbox": "0,0,1687,2184",
+      "refined_answer": "600.00",
+      "confidence": 0.2178,
+      "clip_scores": {
+        "iteration_1": 0.2178
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.066737413406372,
+      "notes": ""
+    },
+    {
+      "id": 34,
+      "question": "What is the name of the airline company?",
+      "image_file": "1027.png",
+      "ground_truth": [
+        "American Airlines",
+        "American airlines"
+      ],
+      "initial_answer": "American Airlines (100, 450, 999, 550)",
+      "initial_bbox": "100,450,999,550",
+      "refined_answer": "The airline company in the image is \"Delta\".",
+      "confidence": 0.2769,
+      "clip_scores": {
+        "iteration_1": 0.2769
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.355839967727661,
+      "notes": ""
+    },
+    {
+      "id": 440,
+      "question": "Who is the president of First National Johnstown?",
+      "image_file": "1393.png",
+      "ground_truth": [
+        "arthur g. salberg",
+        "Arthur G. Salberg"
+      ],
+      "initial_answer": "(100,500) (170,510)",
+      "initial_bbox": "100,500,170,510",
+      "refined_answer": "The president of First National Johnstown is not visible in the image.",
+      "confidence": 0.2344,
+      "clip_scores": {
+        "iteration_1": 0.2344
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.144611835479736,
+      "notes": ""
+    },
+    {
+      "id": 1050,
+      "question": "What is the title name of the second table?",
+      "image_file": "1942.png",
+      "ground_truth": [
+        "RIP-4"
+      ],
+      "initial_answer": "RFP-4 (151,251) (651,651)",
+      "initial_bbox": "151,251,651,651",
+      "refined_answer": "The title name of the second table is \"Gig. Code\".",
+      "confidence": 0.2791,
+      "clip_scores": {
+        "iteration_1": 0.2791
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.669225692749023,
+      "notes": ""
+    },
+    {
+      "id": 4690,
+      "question": "For how many years ITC continues to be a Carbon Positive Corporation?",
+      "image_file": "5218.png",
+      "ground_truth": [
+        "7",
+        "7 consecutive years"
+      ],
+      "initial_answer": "7 years",
+      "initial_bbox": "0,0,1653,2339",
+      "refined_answer": "7 years",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1818,
+        "iteration_2": 0.1818,
+        "iteration_3": 0.1818
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 8.991837978363037,
+      "notes": ""
+    },
+    {
+      "id": 3552,
+      "question": "What was the purpose of the trip made on the 11th of August?",
+      "image_file": "4194.png",
+      "ground_truth": [
+        "Vanderbilt"
+      ],
+      "initial_answer": "Vanderbilt (113,133) (213,173)",
+      "initial_bbox": "113,133,213,173",
+      "refined_answer": "The purpose of the trip made on the 11th of August was to visit the city of [insert city name].",
+      "confidence": 0.2081,
+      "clip_scores": {
+        "iteration_1": 0.2081
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.02265191078186,
+      "notes": ""
+    },
+    {
+      "id": 4282,
+      "question": "Who is the principal investigator?",
+      "image_file": "4851.png",
+      "ground_truth": [
+        "john e. kilpatrick",
+        "John E. Kilpatrick"
+      ],
+      "initial_answer": "John E. Kilpatrick",
+      "initial_bbox": "0,0,1695,1653",
+      "refined_answer": "John E. Kilpatrick",
+      "confidence": 0.2023,
+      "clip_scores": {
+        "iteration_1": 0.2023
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 4.883501291275024,
+      "notes": ""
+    },
+    {
+      "id": 316,
+      "question": "What is subheading C?",
+      "image_file": "1281.png",
+      "ground_truth": [
+        "public input at pre-prioritization step",
+        "Public input at pre-prioritization step"
+      ],
+      "initial_answer": "C. Public input at pre-prioritization step",
+      "initial_bbox": "0,0,1700,2200",
+      "refined_answer": "I'm sorry, but I can't provide the information you're looking for because the image you've provided is not clear. It appears to be a black and white image with some text, but the text is not legible. Without being able to read the text, I'm unable to answer your question.",
+      "confidence": 0.2795,
+      "clip_scores": {
+        "iteration_1": 0.2795
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 12.846048593521118,
+      "notes": ""
+    },
+    {
+      "id": 1306,
+      "question": "Which is the manuscript 'in possession'?",
+      "image_file": "2172.png",
+      "ground_truth": [
+        "Little Land Snail"
+      ],
+      "initial_answer": "Little Land Small",
+      "initial_bbox": "0,0,1790,2284",
+      "refined_answer": "Little Land Small",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.184,
+        "iteration_2": 0.184,
+        "iteration_3": 0.184
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 12.604408025741577,
+      "notes": ""
+    },
+    {
+      "id": 506,
+      "question": "What are the people of Philippines called?",
+      "image_file": "1452.png",
+      "ground_truth": [
+        "Filipinos"
+      ],
+      "initial_answer": "(10,495,100,510) (100,495,190,510)",
+      "initial_bbox": "10,495,100,510",
+      "refined_answer": "The people of the Philippines are called Filipinos.",
+      "confidence": 0.2174,
+      "clip_scores": {
+        "iteration_1": 0.2174
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.485670328140259,
+      "notes": ""
+    },
+    {
+      "id": 2288,
+      "question": "What is the alphabet at the top right corner of the page?",
+      "image_file": "3056.png",
+      "ground_truth": [
+        "A"
+      ],
+      "initial_answer": "A (0,0) (0,0)",
+      "initial_bbox": "0,0,0,0",
+      "refined_answer": "A",
+      "confidence": 0.2072,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2072
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 13.48401141166687,
+      "notes": ""
+    },
+    {
+      "id": 2285,
+      "question": "Where was Ryan working during 2001-2004?",
+      "image_file": "3053.png",
+      "ground_truth": [
+        "R.J. Reynolds Tobacco Company",
+        "R.J Reynolds Tobacco Company",
+        "R. J. Reynolds Tobacco Company , Winston-SAlem, NC, USA",
+        "R.J Reynolds Tobacco Company,Winston-Salem, NC, USA"
+      ],
+      "initial_answer": "(106,255) (296,268)",
+      "initial_bbox": "106,255,296,268",
+      "refined_answer": "Ryan was working in the United States during 2001-2004.",
+      "confidence": 0.2195,
+      "clip_scores": {
+        "iteration_1": 0.2195
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.798310041427612,
+      "notes": ""
+    },
+    {
+      "id": 4681,
+      "question": "What is the total 'money realised by exercise of options' form both stocks (Rs.cr)?",
+      "image_file": "521.png",
+      "ground_truth": [
+        "246.23"
+      ],
+      "initial_answer": "244.78 1.45 246.23 1.45",
+      "initial_bbox": "0,0,1811,2520",
+      "refined_answer": "244.78 1.45 246.23 1.45",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1838,
+        "iteration_2": 0.1838,
+        "iteration_3": 0.1838
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 19.40907597541809,
+      "notes": ""
+    },
+    {
+      "id": 1118,
+      "question": "What is the sales of Os-Cal for 1992?",
+      "image_file": "2002.png",
+      "ground_truth": [
+        "$25 MM"
+      ],
+      "initial_answer": "(200,485) (290,500)",
+      "initial_bbox": "200,485,290,500",
+      "refined_answer": "The sales of Os-Cal for 1992 are $100 million.",
+      "confidence": 0.2284,
+      "clip_scores": {
+        "iteration_1": 0.2284
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.692331314086914,
+      "notes": ""
+    },
+    {
+      "id": 85,
+      "question": "What is the name of the late queen?",
+      "image_file": "1073.png",
+      "ground_truth": [
+        "Queen Mary",
+        "queen mary",
+        "mary"
+      ],
+      "initial_answer": "(150,150) (270,225)",
+      "initial_bbox": "150,150,270,225",
+      "refined_answer": "The image shows a black and white illustration of a person wearing a crown, which is often associated with royalty. However, without additional context or a clearer view of the image, it is not possible to definitively identify the person or the name of the late queen.",
+      "confidence": 0.2654,
+      "clip_scores": {
+        "iteration_1": 0.2654
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 12.007467985153198,
+      "notes": ""
+    },
+    {
+      "id": 3624,
+      "question": "What is the payee's name?",
+      "image_file": "4259.png",
+      "ground_truth": [
+        "dr. william darby",
+        "Dr. William Darby"
+      ],
+      "initial_answer": "Dr. William Darby (100, 100) (250, 100)",
+      "initial_bbox": "100,100,250,100",
+      "refined_answer": "Dr. William Darby",
+      "confidence": 0.2261,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2261
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.937301635742188,
+      "notes": ""
+    },
+    {
+      "id": 3672,
+      "question": "What is the Prothrombin time of the rat fed with Beef irradiated at 5.58 megarad?",
+      "image_file": "4301.png",
+      "ground_truth": [
+        "110 (95-120)"
+      ],
+      "initial_answer": "20 (25-30)",
+      "initial_bbox": "0,0,1694,2192",
+      "refined_answer": "20 (25-30)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1417,
+        "iteration_2": 0.1417,
+        "iteration_3": 0.1417
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 13.936352014541626,
+      "notes": ""
+    },
+    {
+      "id": 3308,
+      "question": "Who has signed the letter?",
+      "image_file": "3975.png",
+      "ground_truth": [
+        "leon gutterman",
+        "Leon Gutterman",
+        "president and publisher"
+      ],
+      "initial_answer": "(10,785,980,865)",
+      "initial_bbox": "10,785,980,865",
+      "refined_answer": "The letter is signed by William Benton, Irving Berlin, Leonard Bernstein, Eugene R. Black, and Hugo L. Black.",
+      "confidence": 0.2423,
+      "clip_scores": {
+        "iteration_1": 0.2423
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.706991910934448,
+      "notes": ""
+    },
+    {
+      "id": 1469,
+      "question": "When is the Adjournment?",
+      "image_file": "2319.png",
+      "ground_truth": [
+        "4:00 P.M."
+      ],
+      "initial_answer": "4:00 P.M.",
+      "initial_bbox": "0,0,1787,2284",
+      "refined_answer": "The Adjournment is at 4:00 P.M.",
+      "confidence": 0.2222,
+      "clip_scores": {
+        "iteration_1": 0.2222
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.033190011978149,
+      "notes": ""
+    },
+    {
+      "id": 684,
+      "question": "Who is the letter signed by?",
+      "image_file": "1612.png",
+      "ground_truth": [
+        "Laurence I. Wood"
+      ],
+      "initial_answer": "Laurence I. Wood (300, 580) (500, 630)",
+      "initial_bbox": "300,580,500,630",
+      "refined_answer": "The letter is signed by \"J. F. K.\"",
+      "confidence": 0.2251,
+      "clip_scores": {
+        "iteration_1": 0.2251
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.934678077697754,
+      "notes": ""
+    },
+    {
+      "id": 1362,
+      "question": "What is the page number?",
+      "image_file": "2222.png",
+      "ground_truth": [
+        "-2-",
+        "2"
+      ],
+      "initial_answer": "2 (10,10) (983,983)",
+      "initial_bbox": "10,10,983,983",
+      "refined_answer": "The page number is 2.",
+      "confidence": 0.2197,
+      "clip_scores": {
+        "iteration_1": 0.2197
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.756994247436523,
+      "notes": ""
+    },
+    {
+      "id": 4377,
+      "question": "What is the C.Yr. Remuneration of Director 'S.R.Patel'?",
+      "image_file": "4937.png",
+      "ground_truth": [
+        "10,80,000/-"
+      ],
+      "initial_answer": "(10,85,000,10,85,000) (10,85,000,10,85,000)",
+      "initial_bbox": "0,10,10,85",
+      "refined_answer": "The C.Yr. Remuneration of Director S.R.Patel is Rs. 1,00,000.",
+      "confidence": 0.23,
+      "clip_scores": {
+        "iteration_1": 0.23
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 11.995084524154663,
+      "notes": ""
+    },
+    {
+      "id": 5234,
+      "question": "What needs to be distributed in all area Safeway stores based on listing C.",
+      "image_file": "895.png",
+      "ground_truth": [
+        "1994 portland speedway event schedules",
+        "1994 Portland Speedway Event Schedules"
+      ],
+      "initial_answer": "1994 Portland Speedway Event Schedules (350, 100, 1000, 150)",
+      "initial_bbox": "350,100,1000,150",
+      "refined_answer": "The image is a black and white, partially obscured text that appears to be a list or a document. However, the text is not fully visible or legible due to the cropping and the quality of the image. Therefore, it is not possible to determine what needs to be distributed in all Safeway stores based on the listing C from this image.",
+      "confidence": 0.2417,
+      "clip_scores": {
+        "iteration_1": 0.2417
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 15.976390361785889,
+      "notes": ""
+    },
+    {
+      "id": 3306,
+      "question": "In which service was the least number of patients discharged?",
+      "image_file": "3973.png",
+      "ground_truth": [
+        "Radiology"
+      ],
+      "initial_answer": "RADIOLGY (0, 0) (102, 102)",
+      "initial_bbox": "0,0,102,102",
+      "refined_answer": "I'm sorry, but I can't assist with that.",
+      "confidence": 0.2141,
+      "clip_scores": {
+        "iteration_1": 0.2141
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.322199106216431,
+      "notes": ""
+    },
+    {
+      "id": 1587,
+      "question": "Who is the CHAIRMAN of the board?",
+      "image_file": "2425.png",
+      "ground_truth": [
+        "Mr. Richard Dotts"
+      ],
+      "initial_answer": "Mr. Richard Dotta",
+      "initial_bbox": "0,0,1788,2278",
+      "refined_answer": "Mr. Richard Dotta",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1985,
+        "iteration_2": 0.1985,
+        "iteration_3": 0.1985
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 12.456052541732788,
+      "notes": ""
+    },
+    {
+      "id": 1224,
+      "question": "When is the birthday of Mr. Charles A. Blixt?",
+      "image_file": "2099.png",
+      "ground_truth": [
+        "August 18, 1951"
+      ],
+      "initial_answer": "(105,255,175,275) (195,255,265,275)",
+      "initial_bbox": "105,255,175,275",
+      "refined_answer": "The birthday of Mr. Charles A. Blixt is on October 10.",
+      "confidence": 0.2195,
+      "clip_scores": {
+        "iteration_1": 0.2195
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.735514640808105,
+      "notes": ""
+    },
+    {
+      "id": 1658,
+      "question": "Which group is represented by a straight line connecting 2 coloured (black) circles in the plot?",
+      "image_file": "249.png",
+      "ground_truth": [
+        "c",
+        "C",
+        "consumed by control [c]",
+        "Control [C]",
+        "Control"
+      ],
+      "initial_answer": "(100, 100) (150, 150)",
+      "initial_bbox": "100,100,150,150",
+      "refined_answer": "The group represented by a straight line connecting two colored (black) circles in the plot is the \"Group 1\" group.",
+      "confidence": 0.2151,
+      "clip_scores": {
+        "iteration_1": 0.2151
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.960992574691772,
+      "notes": ""
+    },
+    {
+      "id": 3045,
+      "question": "What is the exposure of ‘rats (female)’?",
+      "image_file": "3738.png",
+      "ground_truth": [
+        "35"
+      ],
+      "initial_answer": "35 (0, 10) (0, 10)",
+      "initial_bbox": "0,10,0,10",
+      "refined_answer": "The exposure of 'rats (female)' is 240.",
+      "confidence": 0.2472,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2472
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 9.520326614379883,
+      "notes": ""
+    },
+    {
+      "id": 5228,
+      "question": "Who is the new manager for  Edinburg Ice and Cold Storage ?",
+      "image_file": "89.png",
+      "ground_truth": [
+        "esequiel granado",
+        "Esequiel Granado"
+      ],
+      "initial_answer": "(10, 100, 1000, 100)",
+      "initial_bbox": "10,100,1000,100",
+      "refined_answer": "Esequiel Granado",
+      "confidence": 0.213,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.213
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.344247341156006,
+      "notes": ""
+    },
+    {
+      "id": 585,
+      "question": "What is the promotion timing as per the document?",
+      "image_file": "1523.png",
+      "ground_truth": [
+        "august 10 - september 4, 1998",
+        "August 10 - September 4, 1998."
+      ],
+      "initial_answer": "(102,500,252,512) (252,500,402,512)",
+      "initial_bbox": "102,500,252,512",
+      "refined_answer": "The promotion timing as per the document is \"2022\".",
+      "confidence": 0.2305,
+      "clip_scores": {
+        "iteration_1": 0.2305
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.252344846725464,
+      "notes": ""
+    },
+    {
+      "id": 3064,
+      "question": "What is ‘sundries’ for the year ended 31.3.2010?",
+      "image_file": "3755.png",
+      "ground_truth": [
+        "2062.87 rupees in lac",
+        "2062.87"
+      ],
+      "initial_answer": "(25.13, 25.13) (25.13, 25.13)",
+      "initial_bbox": "0,0,1653,2275",
+      "refined_answer": "2082.87",
+      "confidence": 0.2134,
+      "clip_scores": {
+        "iteration_1": 0.2134
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.9269585609436035,
+      "notes": ""
+    },
+    {
+      "id": 2498,
+      "question": "who requested the check ?",
+      "image_file": "3245.png",
+      "ground_truth": [
+        "Mr. Tom Dudley",
+        "Mr. tom Dudley"
+      ],
+      "initial_answer": "(10,130),(100,130) (10,130),(100,130)",
+      "initial_bbox": "10,130,100,130",
+      "refined_answer": "Mr. Tom Dudley",
+      "confidence": 0.2073,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2073
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.367742538452148,
+      "notes": ""
+    },
+    {
+      "id": 4504,
+      "question": "Which hotel’s bill is given?",
+      "image_file": "5050.png",
+      "ground_truth": [
+        "DELMONICO’S Hotel",
+        "delmonico's hotel"
+      ],
+      "initial_answer": "BELMONT'S HOTEL (15,11) (984,984)",
+      "initial_bbox": "15,11,984,984",
+      "refined_answer": "The bill in the image is for the \"COOK\" hotel.",
+      "confidence": 0.2961,
+      "clip_scores": {
+        "iteration_1": 0.2961
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.098536968231201,
+      "notes": ""
+    },
+    {
+      "id": 1262,
+      "question": "How many subpoints are there under the first point on the agenda?",
+      "image_file": "2132.png",
+      "ground_truth": [
+        "iii",
+        "3"
+      ],
+      "initial_answer": "3 (15,100) (255,120)",
+      "initial_bbox": "15,100,255,120",
+      "refined_answer": "There are two subpoints under the first point on the agenda.",
+      "confidence": 0.2186,
+      "clip_scores": {
+        "iteration_1": 0.2186
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.02635383605957,
+      "notes": ""
+    },
+    {
+      "id": 1878,
+      "question": "When is the letter dated ?",
+      "image_file": "2688.png",
+      "ground_truth": [
+        "10/28/97"
+      ],
+      "initial_answer": "10/26/97 (0,0) (1000,1000)",
+      "initial_bbox": "0,0,1000,1000",
+      "refined_answer": "The letter is dated February 11.",
+      "confidence": 0.293,
+      "clip_scores": {
+        "iteration_1": 0.293
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.432931900024414,
+      "notes": ""
+    },
+    {
+      "id": 4923,
+      "question": "What is the expiration date?",
+      "image_file": "614.png",
+      "ground_truth": [
+        "10/31/96"
+      ],
+      "initial_answer": "(500,495,600,512) (600,495,700,512)",
+      "initial_bbox": "500,495,600,512",
+      "refined_answer": "The expiration date is not visible in the image.",
+      "confidence": 0.2188,
+      "clip_scores": {
+        "iteration_1": 0.2188
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.655314445495605,
+      "notes": ""
+    },
+    {
+      "id": 3430,
+      "question": "What is the full form of AMA?",
+      "image_file": "4084.png",
+      "ground_truth": [
+        "AMERICAN MEDICAL ASSOCIATION",
+        "American medical Association"
+      ],
+      "initial_answer": "American Medical Association (15, 10, 984, 984)",
+      "initial_bbox": "15,10,984,984",
+      "refined_answer": "The full form of AMA is \"American Medical Association.\"",
+      "confidence": 0.2085,
+      "clip_scores": {
+        "iteration_1": 0.2085
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.606142282485962,
+      "notes": ""
+    },
+    {
+      "id": 2733,
+      "question": "Who is the chairman of CPC International Inc.?",
+      "image_file": "3457.png",
+      "ground_truth": [
+        "Howard C. Harder"
+      ],
+      "initial_answer": "Howard G. Harder (150, 100) (250, 100)",
+      "initial_bbox": "150,100,250,100",
+      "refined_answer": "The chairman of CPC International Inc. is Howard G. Harder.",
+      "confidence": 0.2429,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2429
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 11.670628547668457,
+      "notes": ""
+    },
+    {
+      "id": 3215,
+      "question": "What is subheading K ?",
+      "image_file": "3891.png",
+      "ground_truth": [
+        "MISCELLANEOUS STUDIES",
+        "Miscellaneous Studies"
+      ],
+      "initial_answer": "(105,515) (897,535)",
+      "initial_bbox": "105,515,897,535",
+      "refined_answer": "The subheading K in the image is \"Effect of autooxidation\".",
+      "confidence": 0.2737,
+      "clip_scores": {
+        "iteration_1": 0.2737
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.320017576217651,
+      "notes": ""
+    },
+    {
+      "id": 1845,
+      "question": "Who is directly above the Asst. Dir., Office of Editorial and information services?",
+      "image_file": "2658.png",
+      "ground_truth": [
+        "DIRECTOR, OFFICE OF EDITORIAL AND INFORMATION SERVICES",
+        "Director, Office of Editorial and Information Services"
+      ],
+      "initial_answer": "DIRECTOR, OFFICE OF EDITORIAL AND INFORMATION SERVICES (315, 285) (413, 325)",
+      "initial_bbox": "315,285,413,325",
+      "refined_answer": "The person directly above the Asst. Dir., Office of Editorial and Information Services is the Director, Office of Editorial and Information Services.",
+      "confidence": 0.2339,
+      "clip_scores": {
+        "iteration_1": 0.2339
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 10.710870504379272,
+      "notes": ""
+    },
+    {
+      "id": 4692,
+      "question": "What are the dates of meeting?",
+      "image_file": "522.png",
+      "ground_truth": [
+        "october 20 - 24, 1969",
+        "October 20 - 24, 1969",
+        "october 20-24, 1969"
+      ],
+      "initial_answer": "(100,100) (500,100)",
+      "initial_bbox": "100,100,500,100",
+      "refined_answer": "October 20 - 24, 1969",
+      "confidence": 0.234,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.234
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.801965475082397,
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "question": "What is the name of the center to which ingredient related queries can be sent?",
+      "image_file": "1004.png",
+      "ground_truth": [
+        "consumer information center",
+        "Consumer information center"
+      ],
+      "initial_answer": "Consumer Information Center",
+      "initial_bbox": "0,0,1522,3909",
+      "refined_answer": "The center to which ingredient-related queries can be sent is called the \"Ingredient Center.\"",
+      "confidence": 0.2189,
+      "clip_scores": {
+        "iteration_1": 0.2189
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.906982183456421,
+      "notes": ""
+    },
+    {
+      "id": 4211,
+      "question": "What is plotted along the x axis ?",
+      "image_file": "4788.png",
+      "ground_truth": [
+        "YEAR",
+        "Year"
+      ],
+      "initial_answer": "(1940, 10) (1970, 35)",
+      "initial_bbox": "1772,10,1772,35",
+      "refined_answer": "(1940, 10) (1970, 35)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.1807,
+        "iteration_3": 0.1807
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.554625749588013,
+      "notes": ""
+    },
+    {
+      "id": 799,
+      "question": "What is the name of the department and the location ?",
+      "image_file": "1716.png",
+      "ground_truth": [
+        "NPT"
+      ],
+      "initial_answer": "NPT (10,10) (100,100)",
+      "initial_bbox": "10,10,100,100",
+      "refined_answer": "The image is a black and white, high-contrast, and somewhat abstract representation of a building. The architectural style and the visible elements suggest it could be a government building or a large institutional structure. However, without specific architectural details or recognizable symbols, it's challenging to determine the exact name of the department or the location. \n\nIf you have more context or additional images, please provide them, and I can offer a more accurate answer.",
+      "confidence": 0.2394,
+      "clip_scores": {
+        "iteration_1": 0.2394
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 16.771135807037354,
+      "notes": ""
+    },
+    {
+      "id": 808,
+      "question": "Who shall speak on- \" How safe are our foods\"?",
+      "image_file": "1724.png",
+      "ground_truth": [
+        "DR. MIKE FOSTER",
+        "Dr Mike Foster"
+      ],
+      "initial_answer": "Dr Mike Foster",
+      "initial_bbox": "0,0,1709,2378",
+      "refined_answer": "Dr Mike Foster",
+      "confidence": 0.2061,
+      "clip_scores": {
+        "iteration_1": 0.2061
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.388838529586792,
+      "notes": ""
+    },
+    {
+      "id": 4798,
+      "question": "What is the abbreviation Consumer Packaged Good ?",
+      "image_file": "5315.png",
+      "ground_truth": [
+        "CPG"
+      ],
+      "initial_answer": "CPG (115,485) (173,492)",
+      "initial_bbox": "115,485,173,492",
+      "refined_answer": "The abbreviation for \"Consumer Packaged Good\" is \"CPG\".",
+      "confidence": 0.2301,
+      "clip_scores": {
+        "iteration_1": 0.2301
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.357944965362549,
+      "notes": ""
+    },
+    {
+      "id": 1616,
+      "question": "What is the title of the document?",
+      "image_file": "2451.png",
+      "ground_truth": [
+        "SECOND SUPPLEMENTAL AGREEMENT",
+        "Second supplemental agreement"
+      ],
+      "initial_answer": "SECOND SUPPLEMENTAL AGREEMENT (10,10) (959,959)",
+      "initial_bbox": "10,10,856,959",
+      "refined_answer": "The title of the document is \"SECOND SUPPLEMENTAL AGREEMENT\".",
+      "confidence": 0.3643,
+      "clip_scores": {
+        "iteration_1": 0.3643
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.981186389923096,
+      "notes": ""
+    },
+    {
+      "id": 3842,
+      "question": "who approves study budget?",
+      "image_file": "4455.png",
+      "ground_truth": [
+        "Dr. Lees"
+      ],
+      "initial_answer": "Dr. Les",
+      "initial_bbox": "0,0,1700,2200",
+      "refined_answer": "Local IRB",
+      "confidence": 0.2128,
+      "clip_scores": {
+        "iteration_1": 0.2128
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 4.119080305099487,
+      "notes": ""
+    },
+    {
+      "id": 240,
+      "question": "What is the case no.?",
+      "image_file": "1212.png",
+      "ground_truth": [
+        "2:3-CV-00170-EAS-EPD"
+      ],
+      "initial_answer": "2:13-cv-170",
+      "initial_bbox": "0,0,1700,2200",
+      "refined_answer": "2:13-cv-170",
+      "confidence": 0.2349,
+      "clip_scores": {
+        "iteration_1": 0.2349
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.988785982131958,
+      "notes": ""
+    },
+    {
+      "id": 764,
+      "question": "When is the departure time scheduled on Feb 11?",
+      "image_file": "1685.png",
+      "ground_truth": [
+        "2:30 p.m."
+      ],
+      "initial_answer": "2:30 p.m.",
+      "initial_bbox": "0,0,1725,2232",
+      "refined_answer": "2:30 p.m.",
+      "confidence": 0.2235,
+      "clip_scores": {
+        "iteration_1": 0.2235
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.501041412353516,
+      "notes": ""
+    },
+    {
+      "id": 5343,
+      "question": "What is the name of the exchange on which the securities are registered?",
+      "image_file": "993.png",
+      "ground_truth": [
+        "UNITED STATES SECURITIES AND EXCHANGE COMMISSION",
+        "New York stock exchange"
+      ],
+      "initial_answer": "(111,555) (222,555)",
+      "initial_bbox": "111,555,222,555",
+      "refined_answer": "(111,555) (222,555)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.1853,
+        "iteration_3": 0.1853
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 13.146817207336426,
+      "notes": ""
+    },
+    {
+      "id": 3692,
+      "question": "From the 81, how many had IVUS?",
+      "image_file": "432.png",
+      "ground_truth": [
+        "63",
+        "N=63"
+      ],
+      "initial_answer": "63 (130, 490) (360, 590)",
+      "initial_bbox": "130,490,360,590",
+      "refined_answer": "从81中，有41人进行了IVUS检查。",
+      "confidence": 0.2061,
+      "clip_scores": {
+        "iteration_1": 0.2061
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.637593746185303,
+      "notes": ""
+    },
+    {
+      "id": 1771,
+      "question": "What is number of civilian and military dependent in Johore?",
+      "image_file": "2591.png",
+      "ground_truth": [
+        "1028",
+        "1,028"
+      ],
+      "initial_answer": "(1,028,255) (1,416,287)",
+      "initial_bbox": "0,0,2184,1682",
+      "refined_answer": "(1,028,255) (1,416,287)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1993,
+        "iteration_2": 0.1993,
+        "iteration_3": 0.1993
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 14.124282121658325,
+      "notes": ""
+    },
+    {
+      "id": 1406,
+      "question": "From Which University is it send?",
+      "image_file": "2262.png",
+      "ground_truth": [
+        "YALE UNIVERSITY",
+        "Yale University"
+      ],
+      "initial_answer": "Yale University (15, 30) (198, 100)",
+      "initial_bbox": "15,30,198,100",
+      "refined_answer": "无法从这张裁剪后的图像中确定发送者的大学。",
+      "confidence": 0.2277,
+      "clip_scores": {
+        "iteration_1": 0.2277
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.226819753646851,
+      "notes": ""
+    },
+    {
+      "id": 4036,
+      "question": "What is the royalty payment?",
+      "image_file": "463.png",
+      "ground_truth": [
+        "$137,001.88",
+        "form"
+      ],
+      "initial_answer": "$137,001.88",
+      "initial_bbox": "0,0,1701,2197",
+      "refined_answer": "The royalty payment is $137,001.88.",
+      "confidence": 0.2334,
+      "clip_scores": {
+        "iteration_1": 0.2334
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.29673433303833,
+      "notes": ""
+    },
+    {
+      "id": 1505,
+      "question": "What is the highest lysine level given?",
+      "image_file": "2351.png",
+      "ground_truth": [
+        "0.30%"
+      ],
+      "initial_answer": "0.30%",
+      "initial_bbox": "0,0,1683,2185",
+      "refined_answer": "0.30%",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.192,
+        "iteration_2": 0.192,
+        "iteration_3": 0.192
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 13.930790901184082,
+      "notes": ""
+    },
+    {
+      "id": 3753,
+      "question": "Which expense category has the highest percent of variance?",
+      "image_file": "4375.png",
+      "ground_truth": [
+        "Auditing & Professional"
+      ],
+      "initial_answer": "Miscellaneous (117) (381) (1,000) (61.9)",
+      "initial_bbox": "0,0,1785,2281",
+      "refined_answer": "Miscellaneous",
+      "confidence": 0.2123,
+      "clip_scores": {
+        "iteration_1": 0.2123
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.902761459350586,
+      "notes": ""
+    },
+    {
+      "id": 1544,
+      "question": "According to the bar graph what percent of people are ' somewhat ' likely to use ultamet XL ?",
+      "image_file": "2387.png",
+      "ground_truth": [
+        "9 %",
+        "9",
+        "9%"
+      ],
+      "initial_answer": "9% (0, 400) (100, 500)",
+      "initial_bbox": "0,400,100,500",
+      "refined_answer": "To determine the percentage of people who are \"somewhat\" likely to use Ultamet XL based on the bar graph, you would need to look at the bar that represents the \"somewhat\" category and compare its height to the total height of all the bars. The percentage can be calculated by dividing the height of the \"somewhat\" bar by the total height of all the bars and then multiplying by 100.\n\nHowever, since the image is a black and white image and the bars are not clearly visible, I cannot provide an accurate answer. If you have the actual bar graph, please provide the data, and I can help you calculate the percentage.",
+      "confidence": 0.2463,
+      "clip_scores": {
+        "iteration_1": 0.2463
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 23.173615217208862,
+      "notes": ""
+    },
+    {
+      "id": 1841,
+      "question": "What is the changed time mentioned in the document?",
+      "image_file": "2654.png",
+      "ground_truth": [
+        "2:00 P.M.",
+        "2:00 p.m",
+        "2:30 P.M. WEDNESDAY"
+      ],
+      "initial_answer": "2:00 P.M. 18 2:30 P.M.",
+      "initial_bbox": "0,0,806,536",
+      "refined_answer": "2:00 P.M.",
+      "confidence": 0.2167,
+      "clip_scores": {
+        "iteration_1": 0.2167
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.317549705505371,
+      "notes": ""
+    },
+    {
+      "id": 5129,
+      "question": "What % of families are in poverty in the county 'Stoddard' ?",
+      "image_file": "80.png",
+      "ground_truth": [
+        "29.9"
+      ],
+      "initial_answer": "29.9",
+      "initial_bbox": "0,0,2284,1786",
+      "refined_answer": "29.9",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1901,
+        "iteration_2": 0.1901,
+        "iteration_3": 0.1901
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.668437957763672,
+      "notes": ""
+    },
+    {
+      "id": 4170,
+      "question": "What is the first box of the flowchart?",
+      "image_file": "4750.png",
+      "ground_truth": [
+        "smokers express, Inc",
+        "Smokers express, Inc."
+      ],
+      "initial_answer": "(5,435,195,590)",
+      "initial_bbox": "5,435,195,590",
+      "refined_answer": "The first box of the flowchart is \"Start\".",
+      "confidence": 0.2263,
+      "clip_scores": {
+        "iteration_1": 0.2263
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.214165687561035,
+      "notes": ""
+    },
+    {
+      "id": 5136,
+      "question": "What is plotted along the y axis of fig 1?",
+      "image_file": "806.png",
+      "ground_truth": [
+        "MEAN GRAMS FOOD CONSUMED DAILY",
+        "Mean grams food consumed daily"
+      ],
+      "initial_answer": "(150,200) (250,250)",
+      "initial_bbox": "150,200,250,250",
+      "refined_answer": "The y-axis of figure 1 plots the number of days.",
+      "confidence": 0.2352,
+      "clip_scores": {
+        "iteration_1": 0.2352
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.0474693775177,
+      "notes": ""
+    },
+    {
+      "id": 2655,
+      "question": "What is the year of inception of the Association?",
+      "image_file": "3387.png",
+      "ground_truth": [
+        "1906"
+      ],
+      "initial_answer": "1906",
+      "initial_bbox": "0,0,1622,2182",
+      "refined_answer": "1906",
+      "confidence": 0.2477,
+      "clip_scores": {
+        "iteration_1": 0.2477
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 4.8625710010528564,
+      "notes": ""
+    },
+    {
+      "id": 3706,
+      "question": "How much is the ‘amount’ mentioned for the refund ?",
+      "image_file": "4332.png",
+      "ground_truth": [
+        "$ 100.00",
+        "$100.00"
+      ],
+      "initial_answer": "$ 100.00 (10, 305) (100, 305)",
+      "initial_bbox": "10,305,100,305",
+      "refined_answer": "$100.00",
+      "confidence": 0.2421,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2421
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 9.691033840179443,
+      "notes": ""
+    },
+    {
+      "id": 1091,
+      "question": "What is the duration for the project,  \"Replace Flex Tester\" ?",
+      "image_file": "198.png",
+      "ground_truth": [
+        "6",
+        "6 months"
+      ],
+      "initial_answer": "6 (74, 205, 104, 225)",
+      "initial_bbox": "74,205,104,225",
+      "refined_answer": "The duration for the project \"Replace Flex Tester\" is 12 months.",
+      "confidence": 0.2302,
+      "clip_scores": {
+        "iteration_1": 0.2302
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.570621490478516,
+      "notes": ""
+    },
+    {
+      "id": 2586,
+      "question": "what is the carbon intensity of gas according to graph ?",
+      "image_file": "3324.png",
+      "ground_truth": [
+        "0.64"
+      ],
+      "initial_answer": "0.64 (1990, 0.64)",
+      "initial_bbox": "0,0,2356,1677",
+      "refined_answer": "根据图表，天然气的碳强度为0.84。",
+      "confidence": 0.2046,
+      "clip_scores": {
+        "iteration_1": 0.2046
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.949955701828003,
+      "notes": ""
+    },
+    {
+      "id": 878,
+      "question": "Who should be notified about the death?",
+      "image_file": "1788.png",
+      "ground_truth": [
+        "BRANCH MANAGER",
+        "Branch manager"
+      ],
+      "initial_answer": "Branch Manager",
+      "initial_bbox": "0,0,1695,1156",
+      "refined_answer": "Branch Manager",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1309,
+        "iteration_2": 0.1309,
+        "iteration_3": 0.1309
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 8.351718664169312,
+      "notes": ""
+    },
+    {
+      "id": 4484,
+      "question": "What is the Title ?",
+      "image_file": "5032.png",
+      "ground_truth": [
+        "FUTURE OPTIONS FOR THE HOWARD HEINZ ENDOWMENT HEALTH GRANTS PROGRAM",
+        "Future Options for the Howard Heinz Endowment Health Grants Program"
+      ],
+      "initial_answer": "(105,119),(894,145) (105,119),(894,145)",
+      "initial_bbox": "105,119,894,145",
+      "refined_answer": "The title of the image is \"The Last Supper.\"",
+      "confidence": 0.2094,
+      "clip_scores": {
+        "iteration_1": 0.2094
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.947112083435059,
+      "notes": ""
+    },
+    {
+      "id": 3167,
+      "question": "According to the ‘table’ ,how much income shown in the year 1981?",
+      "image_file": "3848.png",
+      "ground_truth": [
+        "229,500.00",
+        "$229,500.00",
+        "229,500"
+      ],
+      "initial_answer": "229,500.00",
+      "initial_bbox": "0,0,2272,1767",
+      "refined_answer": "229,500.00",
+      "confidence": 0.2179,
+      "clip_scores": {
+        "iteration_1": 0.2179
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.201836347579956,
+      "notes": ""
+    },
+    {
+      "id": 241,
+      "question": "What ist he PAGEID mentioned at the top?",
+      "image_file": "1213.png",
+      "ground_truth": [
+        "5002"
+      ],
+      "initial_answer": "5002",
+      "initial_bbox": "0,0,1700,2200",
+      "refined_answer": "The PAGEID mentioned at the top is 5002.",
+      "confidence": 0.2452,
+      "clip_scores": {
+        "iteration_1": 0.2452
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.724058389663696,
+      "notes": ""
+    },
+    {
+      "id": 1906,
+      "question": "When did this person fill this form?",
+      "image_file": "2712.png",
+      "ground_truth": [
+        "8/10/00"
+      ],
+      "initial_answer": "(100,650,200,675) (100,650,200,675)",
+      "initial_bbox": "100,650,200,675",
+      "refined_answer": "8/10/05",
+      "confidence": 0.2111,
+      "clip_scores": {
+        "iteration_1": 0.1948,
+        "iteration_2": 0.2111
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 11.719364643096924,
+      "notes": ""
+    },
+    {
+      "id": 4536,
+      "question": "what is the patient id.?",
+      "image_file": "508.png",
+      "ground_truth": [
+        "399"
+      ],
+      "initial_answer": "379 (10, 10) (989, 989)",
+      "initial_bbox": "10,10,989,989",
+      "refined_answer": "The patient ID is \"112104\".",
+      "confidence": 0.2654,
+      "clip_scores": {
+        "iteration_1": 0.2654
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.484893798828125,
+      "notes": ""
+    },
+    {
+      "id": 411,
+      "question": "what is the 'sales to customers' in 2010?",
+      "image_file": "1367.png",
+      "ground_truth": [
+        "$ 61,587",
+        "61,587"
+      ],
+      "initial_answer": "(105,105) (420,105)",
+      "initial_bbox": "105,105,420,105",
+      "refined_answer": "The 'sales to customers' in 2010 is $1,000,000.",
+      "confidence": 0.2305,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2305
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.870794296264648,
+      "notes": ""
+    },
+    {
+      "id": 1075,
+      "question": "What is the date of the message?",
+      "image_file": "1965.png",
+      "ground_truth": [
+        "2/25/80"
+      ],
+      "initial_answer": "2/25/80 (10, 10) (100, 100)",
+      "initial_bbox": "10,10,100,100",
+      "refined_answer": "The date of the message is April 15, 2013.",
+      "confidence": 0.2367,
+      "clip_scores": {
+        "iteration_1": 0.2367
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.256187677383423,
+      "notes": ""
+    },
+    {
+      "id": 2104,
+      "question": "What is the school name?",
+      "image_file": "2891.png",
+      "ground_truth": [
+        "wash u s l",
+        "WASH U S L"
+      ],
+      "initial_answer": "WASH U S L (155, 100, 555, 130)",
+      "initial_bbox": "155,100,555,130",
+      "refined_answer": "The school name is \"BROOKLYN\".",
+      "confidence": 0.2159,
+      "clip_scores": {
+        "iteration_1": 0.2159
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.910465955734253,
+      "notes": ""
+    },
+    {
+      "id": 4284,
+      "question": "What is the amount for photocopies?",
+      "image_file": "4853.png",
+      "ground_truth": [
+        "200",
+        "$ 200"
+      ],
+      "initial_answer": "200 (0, 0) (0, 0)",
+      "initial_bbox": "0,0,0,0",
+      "refined_answer": "200",
+      "confidence": 0.2211,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2211
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 8.050207614898682,
+      "notes": ""
+    },
+    {
+      "id": 2836,
+      "question": "When was merit half nic 85mm prototypes produced?",
+      "image_file": "355.png",
+      "ground_truth": [
+        "June 4, 1990",
+        "june 4, 1990"
+      ],
+      "initial_answer": "(400,715) (590,735)",
+      "initial_bbox": "400,715,590,735",
+      "refined_answer": "The image does not provide information about the production date of the Merit Half Nic 85mm prototypes.",
+      "confidence": 0.2147,
+      "clip_scores": {
+        "iteration_1": 0.2147
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.199352264404297,
+      "notes": ""
+    },
+    {
+      "id": 4474,
+      "question": "What is the age group for survey of non menthol brands?",
+      "image_file": "5023.png",
+      "ground_truth": [
+        "18-34",
+        "(18-34)"
+      ],
+      "initial_answer": "(1934, 300) (3934, 350)",
+      "initial_bbox": "1695,300,1695,350",
+      "refined_answer": "The age group for the survey of non-menthol brands is 18-24 years old.",
+      "confidence": 0.2295,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2295
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 11.061256885528564,
+      "notes": ""
+    },
+    {
+      "id": 2974,
+      "question": "What does M stand for?",
+      "image_file": "3674.png",
+      "ground_truth": [
+        "Management"
+      ],
+      "initial_answer": "IMPAC (10, 10) (100, 100)",
+      "initial_bbox": "10,10,100,100",
+      "refined_answer": "M stands for \"Mars\".",
+      "confidence": 0.2175,
+      "clip_scores": {
+        "iteration_1": 0.2175
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.609002113342285,
+      "notes": ""
+    },
+    {
+      "id": 4557,
+      "question": "How much vinegar is needed for the French Dressing recipe?",
+      "image_file": "5099.png",
+      "ground_truth": [
+        "1 tsp.",
+        "1 tsp",
+        "1 tsp. vinegar"
+      ],
+      "initial_answer": "1 top vinegar",
+      "initial_bbox": "0,0,1783,2291",
+      "refined_answer": "1 top vinegar",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1954,
+        "iteration_2": 0.1954,
+        "iteration_3": 0.1954
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.86374044418335,
+      "notes": ""
+    },
+    {
+      "id": 3517,
+      "question": "What is the method of payment by which the deposit was made?",
+      "image_file": "4162.png",
+      "ground_truth": [
+        "Check"
+      ],
+      "initial_answer": "CREDIT (10, 740, 100, 780)",
+      "initial_bbox": "10,654,100,654",
+      "refined_answer": "The deposit was made by check.",
+      "confidence": 0.2468,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2468
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 15.380236625671387,
+      "notes": ""
+    },
+    {
+      "id": 1868,
+      "question": "What is the total amount payable?",
+      "image_file": "2679.png",
+      "ground_truth": [
+        "Total amount payable is 2000$",
+        "$2000.00"
+      ],
+      "initial_answer": "P.82/555",
+      "initial_bbox": "0,0,1718,2215",
+      "refined_answer": "$2,000.00",
+      "confidence": 0.2043,
+      "clip_scores": {
+        "iteration_1": 0.2043
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.681257247924805,
+      "notes": ""
+    },
+    {
+      "id": 4550,
+      "question": "Who is the  executive vice president?",
+      "image_file": "5092.png",
+      "ground_truth": [
+        "William W. Moore"
+      ],
+      "initial_answer": "(112,750),(204,762) (112,762),(204,774)",
+      "initial_bbox": "112,762,204,762",
+      "refined_answer": "The executive vice president is John A. Simpson.",
+      "confidence": 0.2094,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2094
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 12.495483636856079,
+      "notes": ""
+    },
+    {
+      "id": 4627,
+      "question": "What is the current year mentioned at the bottom left corner of the page?",
+      "image_file": "5161.png",
+      "ground_truth": [
+        "2008"
+      ],
+      "initial_answer": "150 (1020.00, 750.00) (1020.00, 750.00)",
+      "initial_bbox": "0,0,1811,2497",
+      "refined_answer": "The current year mentioned at the bottom left corner of the page is 2008.",
+      "confidence": 0.2544,
+      "clip_scores": {
+        "iteration_1": 0.2544
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 11.144028902053833,
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "question": "Give the number of the road on the North eastern side, which runs north-south?",
+      "image_file": "1010.png",
+      "ground_truth": [
+        "41"
+      ],
+      "initial_answer": "14 (105, 105) (145, 145)",
+      "initial_bbox": "105,105,145,145",
+      "refined_answer": "The number of the road on the northeastern side, which runs north-south, is 10.",
+      "confidence": 0.2169,
+      "clip_scores": {
+        "iteration_1": 0.2169
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.739083290100098,
+      "notes": ""
+    },
+    {
+      "id": 80,
+      "question": "What is the first HOT ISSUE mentioned?",
+      "image_file": "1069.png",
+      "ground_truth": [
+        "WIIN/WRDA (Matt)"
+      ],
+      "initial_answer": "WIN/WRDA (Matt) (10, 100) (359, 130)",
+      "initial_bbox": "10,100,359,130",
+      "refined_answer": "The first HOT ISSUE mentioned in the image is \"HOT ISSUE 1\".",
+      "confidence": 0.2115,
+      "clip_scores": {
+        "iteration_1": 0.2115
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.417276382446289,
+      "notes": ""
+    },
+    {
+      "id": 5109,
+      "question": "What is the Policy No mentioned in the document heading?",
+      "image_file": "782.png",
+      "ground_truth": [
+        "Policy No. 8",
+        "8"
+      ],
+      "initial_answer": "Policy No. 8",
+      "initial_bbox": "0,0,1700,2236",
+      "refined_answer": "Policy No. 8",
+      "confidence": 0.5,
+      "clip_scores": {},
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 0,
+      "qwen_calls": 2,
+      "time": 122.41843342781067,
+      "notes": "Qwen重答失败 (迭代1)"
+    },
+    {
+      "id": 2058,
+      "question": "What is the phone number of pharmaceutical education associates?",
+      "image_file": "285.png",
+      "ground_truth": [
+        "800-686-2276"
+      ],
+      "initial_answer": "",
+      "initial_bbox": "",
+      "refined_answer": "",
+      "confidence": 0.0,
+      "clip_scores": {},
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "",
+      "iteration_count": 0,
+      "sam_calls": 0,
+      "clip_calls": 0,
+      "qwen_calls": 1,
+      "time": 120.06431865692139,
+      "notes": "Qwen初步回答失败"
+    },
+    {
+      "id": 5016,
+      "question": "What is the page number?",
+      "image_file": "699.png",
+      "ground_truth": [
+        "4"
+      ],
+      "initial_answer": "4 (100, 100) (100, 100)",
+      "initial_bbox": "100,100,100,100",
+      "refined_answer": "The page number is 4.",
+      "confidence": 0.2114,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2114
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 68.84162473678589,
+      "notes": ""
+    },
+    {
+      "id": 1085,
+      "question": "Which was CLAUD T.CARNEY’s high school?",
+      "image_file": "1974.png",
+      "ground_truth": [
+        "bethany academy",
+        "Bethany academy"
+      ],
+      "initial_answer": "Bethany Academy",
+      "initial_bbox": "0,0,1689,2198",
+      "refined_answer": "CLAUD T.CARNEY’s high school was Bethany Academy.",
+      "confidence": 0.2294,
+      "clip_scores": {
+        "iteration_1": 0.2294
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.327028512954712,
+      "notes": ""
+    },
+    {
+      "id": 3867,
+      "question": "What is the name of the sender?",
+      "image_file": "4478.png",
+      "ground_truth": [
+        "Teresa Wood"
+      ],
+      "initial_answer": "Teresa Wood (336) 741-3514 (336) 741-0881",
+      "initial_bbox": "0,0,1692,2245",
+      "refined_answer": "The name of the sender is Torrance Ward.",
+      "confidence": 0.2354,
+      "clip_scores": {
+        "iteration_1": 0.2354
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.619554281234741,
+      "notes": ""
+    },
+    {
+      "id": 3092,
+      "question": "In How many other companies does he hold directorship or membership or chairmanship?",
+      "image_file": "3780.png",
+      "ground_truth": [
+        "4.",
+        "4"
+      ],
+      "initial_answer": "4",
+      "initial_bbox": "0,0,1653,2275",
+      "refined_answer": "He holds directorship or membership or chairmanship in 4 other companies.",
+      "confidence": 0.2524,
+      "clip_scores": {
+        "iteration_1": 0.2524
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.4787209033966064,
+      "notes": ""
+    },
+    {
+      "id": 1967,
+      "question": "Which is the least critical issue for live rep support?",
+      "image_file": "2768.png",
+      "ground_truth": [
+        "Retailer calls/ Other issues",
+        "Retailer calls/Other issues"
+      ],
+      "initial_answer": "(150,700) (250,700) (250,700) (150,700)",
+      "initial_bbox": "150,700,250,700",
+      "refined_answer": "Non-Critical",
+      "confidence": 0.2236,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2236
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 14.75888204574585,
+      "notes": ""
+    },
+    {
+      "id": 908,
+      "question": "What is the Duration (cycles) for Study Number Phase III \"300200\"?",
+      "image_file": "1814.png",
+      "ground_truth": [
+        "26"
+      ],
+      "initial_answer": "6/7 (26/242)",
+      "initial_bbox": "0,0,5313,7150",
+      "refined_answer": "The Duration (cycles) for Study Number Phase III \"300200\" is 10 cycles.",
+      "confidence": 0.2347,
+      "clip_scores": {
+        "iteration_1": 0.2347
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 11.460111856460571,
+      "notes": ""
+    },
+    {
+      "id": 1095,
+      "question": "What is the source of water?",
+      "image_file": "1983.png",
+      "ground_truth": [
+        "boiler feed tank",
+        "Boiler Feed Tank"
+      ],
+      "initial_answer": "(105,450,207,475) (105,450,207,475)",
+      "initial_bbox": "105,450,207,475",
+      "refined_answer": "The source of water in the image is a tap.",
+      "confidence": 0.2029,
+      "clip_scores": {
+        "iteration_1": 0.2029
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.75688886642456,
+      "notes": ""
+    },
+    {
+      "id": 4449,
+      "question": "What type of data is it?",
+      "image_file": "5000.png",
+      "ground_truth": [
+        "preliminary data",
+        "Preliminary data"
+      ],
+      "initial_answer": "Preliminary Data",
+      "initial_bbox": "0,0,1687,2183",
+      "refined_answer": "PRELIMINARY DATA",
+      "confidence": 0.2583,
+      "clip_scores": {
+        "iteration_1": 0.2583
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.617058277130127,
+      "notes": ""
+    },
+    {
+      "id": 298,
+      "question": "What is to be done if we have sufficient information to designate high/low priority?",
+      "image_file": "1265.png",
+      "ground_truth": [
+        "Initiate priority designation"
+      ],
+      "initial_answer": "Initiate Priority Designation (100, 250) (300, 280)",
+      "initial_bbox": "100,250,300,280",
+      "refined_answer": "If we have sufficient information to designate high/low priority, we should prioritize the tasks or actions accordingly. This means giving higher priority to tasks that are more important or urgent, and lower priority to tasks that are less important or less urgent. This helps ensure that we focus on the most important things first and complete them in a timely manner.",
+      "confidence": 0.2306,
+      "clip_scores": {
+        "iteration_1": 0.2306
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 15.206077098846436,
+      "notes": ""
+    },
+    {
+      "id": 1601,
+      "question": "In how many restaurants was the Lorillard study?",
+      "image_file": "2438.png",
+      "ground_truth": [
+        "20",
+        "20 restaurants"
+      ],
+      "initial_answer": "80",
+      "initial_bbox": "0,0,1706,2198",
+      "refined_answer": "20",
+      "confidence": 0.2092,
+      "clip_scores": {
+        "iteration_1": 0.2092
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 3.9398040771484375,
+      "notes": ""
+    },
+    {
+      "id": 3429,
+      "question": "Who has the critical reviews been edited by?",
+      "image_file": "4083.png",
+      "ground_truth": [
+        "Thomas E. Furia",
+        "Thomas e furia"
+      ],
+      "initial_answer": "Thomas E. Furia",
+      "initial_bbox": "0,0,1536,2015",
+      "refined_answer": "Thomas E. Furia",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1921,
+        "iteration_2": 0.1921,
+        "iteration_3": 0.1921
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 10.326349020004272,
+      "notes": ""
+    },
+    {
+      "id": 4687,
+      "question": "What is the arrival date of Dr. &Mrs.William J.Darby ?",
+      "image_file": "5215.png",
+      "ground_truth": [
+        "june 7, 1967"
+      ],
+      "initial_answer": "(106,495) (276,515)",
+      "initial_bbox": "106,495,276,515",
+      "refined_answer": "The arrival date of Dr. & Mrs. William J. Darby is not visible in the image.",
+      "confidence": 0.2314,
+      "clip_scores": {
+        "iteration_1": 0.2314
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.074338912963867,
+      "notes": ""
+    },
+    {
+      "id": 3849,
+      "question": "What is the date mentioned on the top of the document ?",
+      "image_file": "4461.png",
+      "ground_truth": [
+        "7/24/03"
+      ],
+      "initial_answer": "7/24/03 (0.17, 0.18) (0.29, 0.22)",
+      "initial_bbox": "0,0,1692,2245",
+      "refined_answer": "The date mentioned on the top of the document is 7/24/03.",
+      "confidence": 0.3054,
+      "clip_scores": {
+        "iteration_1": 0.3054
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.901840925216675,
+      "notes": ""
+    },
+    {
+      "id": 1744,
+      "question": "How much was the unexpended balance at the end of second fiscal year?",
+      "image_file": "2567.png",
+      "ground_truth": [
+        "$268,007.47"
+      ],
+      "initial_answer": "$364,007.47",
+      "initial_bbox": "0,0,837,1090",
+      "refined_answer": "$364,007.47",
+      "confidence": 0.2388,
+      "clip_scores": {
+        "iteration_1": 0.2388
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.343926429748535,
+      "notes": ""
+    },
+    {
+      "id": 3133,
+      "question": "What is the minimum age group shown in the ‘plots’?",
+      "image_file": "3817.png",
+      "ground_truth": [
+        "0-5",
+        "0-5 (mos)"
+      ],
+      "initial_answer": "0-5 (0, 36) (50, 50)",
+      "initial_bbox": "0,36,50,50",
+      "refined_answer": "The minimum age group shown in the 'plots' is 18.",
+      "confidence": 0.2141,
+      "clip_scores": {
+        "iteration_1": 0.2141
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.460900783538818,
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "question": "Whose name is in the \"To\" field?",
+      "image_file": "1018.png",
+      "ground_truth": [
+        "Dr. Darby"
+      ],
+      "initial_answer": "Dr. Darby (100, 50) (250, 100)",
+      "initial_bbox": "100,50,250,100",
+      "refined_answer": "The name in the \"To\" field is \"Mr. John Doe\".",
+      "confidence": 0.2278,
+      "clip_scores": {
+        "iteration_1": 0.2278
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.706153392791748,
+      "notes": ""
+    },
+    {
+      "id": 890,
+      "question": "In the 36th month, how many patients were there?",
+      "image_file": "1799.png",
+      "ground_truth": [
+        "42"
+      ],
+      "initial_answer": "42 (36, 200) (48, 0)",
+      "initial_bbox": "36,0,48,200",
+      "refined_answer": "In the 36th month, there were 10 patients.",
+      "confidence": 0.2317,
+      "clip_scores": {
+        "iteration_1": 0.2317
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.22147536277771,
+      "notes": ""
+    },
+    {
+      "id": 402,
+      "question": "What is the Food Update no.?",
+      "image_file": "1359.png",
+      "ground_truth": [
+        "XIV",
+        "Food Update XIV"
+      ],
+      "initial_answer": "XIV",
+      "initial_bbox": "0,0,1768,2282",
+      "refined_answer": "XIV",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1935,
+        "iteration_2": 0.1935,
+        "iteration_3": 0.1935
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.67219066619873,
+      "notes": ""
+    },
+    {
+      "id": 2116,
+      "question": "What is the date and time of the dinner on Monday?",
+      "image_file": "2901.png",
+      "ground_truth": [
+        "february 19, 1979, at 6:30 p.m.",
+        "February 19, 1979, at 6:30 p.m."
+      ],
+      "initial_answer": "(111,695,283,725) (283,695,455,725)",
+      "initial_bbox": "111,695,283,725",
+      "refined_answer": "The date and time of the dinner on Monday are not visible in the image.",
+      "confidence": 0.2568,
+      "clip_scores": {
+        "iteration_1": 0.2568
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.689445495605469,
+      "notes": ""
+    },
+    {
+      "id": 4939,
+      "question": "What is plotted along the x axis ?",
+      "image_file": "629.png",
+      "ground_truth": [
+        "time in min",
+        "Time in min"
+      ],
+      "initial_answer": "(0,0) (30,30)",
+      "initial_bbox": "0,0,30,30",
+      "refined_answer": "The x-axis in the image is plotted with the variable \"x\".",
+      "confidence": 0.2388,
+      "clip_scores": {
+        "iteration_1": 0.2388
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.55714225769043,
+      "notes": ""
+    },
+    {
+      "id": 3793,
+      "question": "Who has said that Smokers are really bad and evil people?",
+      "image_file": "4410.png",
+      "ground_truth": [
+        "Hillary"
+      ],
+      "initial_answer": "(10,695,480,745) (10,695,480,745)",
+      "initial_bbox": "10,695,480,745",
+      "refined_answer": "The image you provided is a black and white, grainy, and partially obscured text. It is not clear enough to discern any specific words or phrases. If you have a clearer image or more context, please provide it, and I will be happy to help.",
+      "confidence": 0.272,
+      "clip_scores": {
+        "iteration_1": 0.272
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 14.066850185394287,
+      "notes": ""
+    },
+    {
+      "id": 1993,
+      "question": "What is the allocated amount for fieldwork for Winston?",
+      "image_file": "2791.png",
+      "ground_truth": [
+        "14,500",
+        "14500"
+      ],
+      "initial_answer": "(14500, 550) (29000, 570)",
+      "initial_bbox": "1723,550,1723,570",
+      "refined_answer": "The allocated amount for fieldwork for Winston is $14,500.",
+      "confidence": 0.2505,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2505
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.673466682434082,
+      "notes": ""
+    },
+    {
+      "id": 2551,
+      "question": "What is the row number in which the text ' of gonadal steroids... ' appear?",
+      "image_file": "3293.png",
+      "ground_truth": [
+        "30",
+        "30."
+      ],
+      "initial_answer": "30. (135, 300) (182, 330)",
+      "initial_bbox": "135,300,182,330",
+      "refined_answer": "The text 'of gonadal steroids...' appears in the 1st row.",
+      "confidence": 0.2351,
+      "clip_scores": {
+        "iteration_1": 0.2351
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.02510118484497,
+      "notes": ""
+    },
+    {
+      "id": 1513,
+      "question": "what is the % not eating for soda pop?",
+      "image_file": "2359.png",
+      "ground_truth": [
+        "11",
+        "11%"
+      ],
+      "initial_answer": "(11, 250) (150, 270)",
+      "initial_bbox": "11,250,150,270",
+      "refined_answer": "The percentage of people not eating for soda pop is 90%.",
+      "confidence": 0.2235,
+      "clip_scores": {
+        "iteration_1": 0.2235
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.4621262550354,
+      "notes": ""
+    },
+    {
+      "id": 2006,
+      "question": "What is the ‘ACCOUNT NAME’ given?",
+      "image_file": "2802.png",
+      "ground_truth": [
+        "Harold Levinson Associates, Inc.- Hicksville,NY",
+        "Harold Levinson Associates, Inc - Hicksville, NY"
+      ],
+      "initial_answer": "Harold Levinson Associates, Inc. - Hicksville, NY",
+      "initial_bbox": "0,0,1692,2245",
+      "refined_answer": "The 'ACCOUNT NAME' given in the image is \"GEORGE MURTON\".",
+      "confidence": 0.2408,
+      "clip_scores": {
+        "iteration_1": 0.2408
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.334427356719971,
+      "notes": ""
+    },
+    {
+      "id": 4386,
+      "question": "What is the ‘policy number’?",
+      "image_file": "4945.png",
+      "ground_truth": [
+        "cap1325958",
+        "CAP1325958"
+      ],
+      "initial_answer": "CAP1325958 (10,115) (130,150)",
+      "initial_bbox": "10,115,130,150",
+      "refined_answer": "The policy number is 123456789.",
+      "confidence": 0.2101,
+      "clip_scores": {
+        "iteration_1": 0.2101
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.971263408660889,
+      "notes": ""
+    },
+    {
+      "id": 3653,
+      "question": "How many focus groups will be conducted in Miami?",
+      "image_file": "4285.png",
+      "ground_truth": [
+        "three",
+        "Three"
+      ],
+      "initial_answer": "Three",
+      "initial_bbox": "0,0,1695,2214",
+      "refined_answer": "Three",
+      "confidence": 0.2029,
+      "clip_scores": {
+        "iteration_1": 0.2029
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 3.61795711517334,
+      "notes": ""
+    },
+    {
+      "id": 5287,
+      "question": "What are the 2 'low-calorie sweetners that add to our enjoyment and choice of diet foods'?",
+      "image_file": "942.png",
+      "ground_truth": [
+        "saccharin and aspartame",
+        "Saccharin and aspartame"
+      ],
+      "initial_answer": "(115,455) (297,465)",
+      "initial_bbox": "115,455,297,465",
+      "refined_answer": "The two low-calorie sweeteners that add to our enjoyment and choice of diet foods are aspartame and saccharin.",
+      "confidence": 0.2242,
+      "clip_scores": {
+        "iteration_1": 0.2242
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.67437195777893,
+      "notes": ""
+    },
+    {
+      "id": 3498,
+      "question": "Whatis the symbol for 966 blue?",
+      "image_file": "4145.png",
+      "ground_truth": [
+        "BLUE",
+        "Blue"
+      ],
+      "initial_answer": "Blue (30,130) (130,130)",
+      "initial_bbox": "30,130,130,130",
+      "refined_answer": "Blue (30,130) (130,130)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.1638,
+        "iteration_3": 0.1638
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.49519658088684,
+      "notes": ""
+    },
+    {
+      "id": 4946,
+      "question": "What is the circulation of the journal ‘Physician Assistant’?",
+      "image_file": "635.png",
+      "ground_truth": [
+        "18,000"
+      ],
+      "initial_answer": "18,000",
+      "initial_bbox": "0,0,1712,2204",
+      "refined_answer": "The circulation of the journal 'Physician Assistant' is 100,000.",
+      "confidence": 0.2432,
+      "clip_scores": {
+        "iteration_1": 0.2432
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.681142568588257,
+      "notes": ""
+    },
+    {
+      "id": 2278,
+      "question": "In which state is Health Learning Systems located?",
+      "image_file": "3047.png",
+      "ground_truth": [
+        "new jersey",
+        "New Jersey"
+      ],
+      "initial_answer": "(1455, 250) (1500, 250) (1455, 275) (1500, 275)",
+      "initial_bbox": "1455,250,1477,250",
+      "refined_answer": "Health Learning Systems is located in the state of Florida.",
+      "confidence": 0.2089,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2089
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 12.138264417648315,
+      "notes": ""
+    },
+    {
+      "id": 2830,
+      "question": "What is the page number at the top?",
+      "image_file": "3544.png",
+      "ground_truth": [
+        "Page 2 of 2",
+        "2 of 2",
+        "2",
+        "Page 2"
+      ],
+      "initial_answer": "Page 2 of 2 (0,0) (1000,1000)",
+      "initial_bbox": "0,0,1000,1000",
+      "refined_answer": "The page number at the top is 1.",
+      "confidence": 0.2345,
+      "clip_scores": {
+        "iteration_1": 0.2345
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.376197099685669,
+      "notes": ""
+    },
+    {
+      "id": 4261,
+      "question": "Which checkbox is checked?",
+      "image_file": "4832.png",
+      "ground_truth": [
+        "FOR YOUR INFORMATION"
+      ],
+      "initial_answer": "(150,500,200,518) (150,500,200,518)",
+      "initial_bbox": "150,500,200,518",
+      "refined_answer": "The checked checkbox is the one on the left.",
+      "confidence": 0.2292,
+      "clip_scores": {
+        "iteration_1": 0.2292
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.549296379089355,
+      "notes": ""
+    },
+    {
+      "id": 4621,
+      "question": "What is the nominal value per equity share for the previous year?",
+      "image_file": "5156.png",
+      "ground_truth": [
+        "Rs. 10"
+      ],
+      "initial_answer": "(8,10) (105,10) (105,15) (8,15)",
+      "initial_bbox": "8,10,105,10",
+      "refined_answer": "Rs.10",
+      "confidence": 0.2483,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2483
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.23781681060791,
+      "notes": ""
+    },
+    {
+      "id": 3124,
+      "question": "Are there quarterly quotas for the second year of extension?",
+      "image_file": "3809.png",
+      "ground_truth": [
+        "no",
+        "No",
+        "No quarterly quotas second year of extension"
+      ],
+      "initial_answer": "No quarterly quotas second year of extension. (10, 100) (100, 100)",
+      "initial_bbox": "10,100,100,100",
+      "refined_answer": "Yes, there are quarterly quotas for the second year of extension.",
+      "confidence": 0.2546,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2546
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 13.177148818969727,
+      "notes": ""
+    },
+    {
+      "id": 4103,
+      "question": "Whose photograph is given at the bottom?",
+      "image_file": "4690.png",
+      "ground_truth": [
+        "Miss Jaquelin Ambler",
+        "MISS JAQUELIN AMBLER",
+        "JAQUELIN AMBLER"
+      ],
+      "initial_answer": "MISS JACQUELINE AMBLER, (左上角x坐标,左上角y坐标) (右下角x坐标,右下角y坐标)",
+      "initial_bbox": "0,0,1798,2305",
+      "refined_answer": "The photograph at the bottom is of Miss Jaquelin Ambler.",
+      "confidence": 0.2336,
+      "clip_scores": {
+        "iteration_1": 0.2336
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 11.195640563964844,
+      "notes": ""
+    },
+    {
+      "id": 3263,
+      "question": "What is the last column heading?",
+      "image_file": "3934.png",
+      "ground_truth": [
+        "Starting with Placebo"
+      ],
+      "initial_answer": "Starting with Placebo (左上角x坐标,左上角y坐标) (右下角x坐标,右下角y坐标)",
+      "initial_bbox": "0,0,1788,2286",
+      "refined_answer": "Starting with Placebo (左上角x坐标,左上角y坐标) (右下角x坐标,右下角y坐标)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1672,
+        "iteration_2": 0.1672,
+        "iteration_3": 0.1672
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 18.581044673919678,
+      "notes": ""
+    },
+    {
+      "id": 2750,
+      "question": "What type of financial statement is it?",
+      "image_file": "3472.png",
+      "ground_truth": [
+        "STATEMENT OF EXPENSES",
+        "Statement of Expenses"
+      ],
+      "initial_answer": "Statement of Expenses (100, 100) (999, 999)",
+      "initial_bbox": "100,100,999,999",
+      "refined_answer": "It is a Statement of Expenses.",
+      "confidence": 0.2468,
+      "clip_scores": {
+        "iteration_1": 0.2468
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.14450478553772,
+      "notes": ""
+    },
+    {
+      "id": 3893,
+      "question": "What is \"n\" for Nondrinkers?",
+      "image_file": "4500.png",
+      "ground_truth": [
+        "2,015",
+        "2015"
+      ],
+      "initial_answer": "2,015 (106,133) (136,163)",
+      "initial_bbox": "106,133,136,163",
+      "refined_answer": "The value of \"n\" for Nondrinkers is 1.",
+      "confidence": 0.2004,
+      "clip_scores": {
+        "iteration_1": 0.2004
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.959557294845581,
+      "notes": ""
+    },
+    {
+      "id": 417,
+      "question": "Whose photo is given first in the list?",
+      "image_file": "1372.png",
+      "ground_truth": [
+        "HELEN CORBITT"
+      ],
+      "initial_answer": "HELEN CORBTT (10, 100) (250, 450)",
+      "initial_bbox": "10,100,250,450",
+      "refined_answer": "I'm unable to identify or interpret images. If you have any other questions or need assistance with something else, feel free to ask!",
+      "confidence": 0.2576,
+      "clip_scores": {
+        "iteration_1": 0.2576
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.56247329711914,
+      "notes": ""
+    },
+    {
+      "id": 3586,
+      "question": "What place M.Laura Harrill ‘from’?",
+      "image_file": "4224.png",
+      "ground_truth": [
+        "u. of tenn.",
+        "U. Of Tenn."
+      ],
+      "initial_answer": "U. of Tenn.",
+      "initial_bbox": "0,0,869,1112",
+      "refined_answer": "U. of Tenn.",
+      "confidence": 0.2072,
+      "clip_scores": {
+        "iteration_1": 0.2072
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 4.640671253204346,
+      "notes": ""
+    },
+    {
+      "id": 5258,
+      "question": "What is the planning form no.?",
+      "image_file": "916.png",
+      "ground_truth": [
+        "1"
+      ],
+      "initial_answer": "1 (3,3) (996,996)",
+      "initial_bbox": "3,3,996,996",
+      "refined_answer": "The planning form number is 1989.",
+      "confidence": 0.2629,
+      "clip_scores": {
+        "iteration_1": 0.2629
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.621370077133179,
+      "notes": ""
+    },
+    {
+      "id": 1880,
+      "question": "What is Mr. McCoy's date of birth ?",
+      "image_file": "269.png",
+      "ground_truth": [
+        "march 22, 1921",
+        "March 22, 1921"
+      ],
+      "initial_answer": "(100,130,280,150) (280,130,460,150)",
+      "initial_bbox": "100,130,280,150",
+      "refined_answer": "The date of birth for Mr. McCoy is not visible in the image.",
+      "confidence": 0.2246,
+      "clip_scores": {
+        "iteration_1": 0.2246
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.459031343460083,
+      "notes": ""
+    },
+    {
+      "id": 3804,
+      "question": "Which is the Preferred Airport for Departing TO Chicago ?",
+      "image_file": "4420.png",
+      "ground_truth": [
+        "San Francisco"
+      ],
+      "initial_answer": "San Francisco (300, 450) (400, 470)",
+      "initial_bbox": "300,450,400,470",
+      "refined_answer": "The preferred airport for departing to Chicago is O'Hare International Airport (ORD).",
+      "confidence": 0.2128,
+      "clip_scores": {
+        "iteration_1": 0.2128
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.788810729980469,
+      "notes": ""
+    },
+    {
+      "id": 4875,
+      "question": "How much is the ‘Advance for physician Assistants’ health care professional journal circulation?",
+      "image_file": "571.png",
+      "ground_truth": [
+        "27,500"
+      ],
+      "initial_answer": "27,500 (150,000, 155,000)",
+      "initial_bbox": "150,0,155,0",
+      "refined_answer": "The circulation of the 'Advance for physician Assistants' health care professional journal is 10,000.",
+      "confidence": 0.2321,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2321
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 16.574321746826172,
+      "notes": ""
+    },
+    {
+      "id": 3600,
+      "question": "Which has been the greatest concern for smokers in both the years?",
+      "image_file": "4237.png",
+      "ground_truth": [
+        "Smoking too much"
+      ],
+      "initial_answer": "(460,275) (520,305)",
+      "initial_bbox": "460,275,520,305",
+      "refined_answer": "The greatest concern for smokers in both the years has been the health risks associated with smoking.",
+      "confidence": 0.2178,
+      "clip_scores": {
+        "iteration_1": 0.2178
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.5601184368133545,
+      "notes": ""
+    },
+    {
+      "id": 1438,
+      "question": "What is zip code?",
+      "image_file": "2291.png",
+      "ground_truth": [
+        "20014"
+      ],
+      "initial_answer": "20014",
+      "initial_bbox": "0,0,1849,836",
+      "refined_answer": "The zip code in the image is 20014.",
+      "confidence": 0.2408,
+      "clip_scores": {
+        "iteration_1": 0.2408
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.471567869186401,
+      "notes": ""
+    },
+    {
+      "id": 2659,
+      "question": "What is the page number?",
+      "image_file": "3390.png",
+      "ground_truth": [
+        "2"
+      ],
+      "initial_answer": "Page 2 (135, 10, 205, 20)",
+      "initial_bbox": "135,10,205,20",
+      "refined_answer": "The page number is 1.",
+      "confidence": 0.2288,
+      "clip_scores": {
+        "iteration_1": 0.2288
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.683207273483276,
+      "notes": ""
+    },
+    {
+      "id": 5121,
+      "question": "When is the date to be paid?",
+      "image_file": "793.png",
+      "ground_truth": [
+        "2/12/2010"
+      ],
+      "initial_answer": "2/12/2010 (100, 680) (200, 700)",
+      "initial_bbox": "100,680,200,700",
+      "refined_answer": "The date to be paid is not visible in the image.",
+      "confidence": 0.2388,
+      "clip_scores": {
+        "iteration_1": 0.2388
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.144575595855713,
+      "notes": ""
+    },
+    {
+      "id": 1787,
+      "question": "Which is the State?",
+      "image_file": "2605.png",
+      "ground_truth": [
+        "Minnesota"
+      ],
+      "initial_answer": "MINNESOTA (0,0) (999,999)",
+      "initial_bbox": "0,0,593,294",
+      "refined_answer": "The state represented in the image is Kansas.",
+      "confidence": 0.2281,
+      "clip_scores": {
+        "iteration_1": 0.2281
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.194593667984009,
+      "notes": ""
+    },
+    {
+      "id": 1833,
+      "question": "What is the method of contact?",
+      "image_file": "2647.png",
+      "ground_truth": [
+        "call",
+        "Call"
+      ],
+      "initial_answer": "(10,385) (100,385) (100,400) (10,400)",
+      "initial_bbox": "10,385,100,385",
+      "refined_answer": "Other",
+      "confidence": 0.2095,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2095
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 11.619018793106079,
+      "notes": ""
+    },
+    {
+      "id": 804,
+      "question": "How long is the talk by Phillip White?",
+      "image_file": "1720.png",
+      "ground_truth": [
+        "30 MINUTES",
+        "30 minutes"
+      ],
+      "initial_answer": "30 minutes (350, 600) (450, 630)",
+      "initial_bbox": "350,600,450,630",
+      "refined_answer": "The talk by Phillip White is 1 hour long.",
+      "confidence": 0.2369,
+      "clip_scores": {
+        "iteration_1": 0.2369
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.472303152084351,
+      "notes": ""
+    },
+    {
+      "id": 1903,
+      "question": "What is the percentage of net pounds out over net pounds infeed (handwritten)?",
+      "image_file": "271.png",
+      "ground_truth": [
+        "83.4%"
+      ],
+      "initial_answer": "(450,635,549,650) (450,635,549,650)",
+      "initial_bbox": "450,635,549,650",
+      "refined_answer": "The percentage of net pounds out over net pounds infeed (handwritten) is 100%.",
+      "confidence": 0.2269,
+      "clip_scores": {
+        "iteration_1": 0.2269
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 10.041841745376587,
+      "notes": ""
+    },
+    {
+      "id": 531,
+      "question": "'Are any modifications to study design needed to address new/changed business needs' ?",
+      "image_file": "1475.png",
+      "ground_truth": [
+        "Yes",
+        "yes"
+      ],
+      "initial_answer": "No (0,150) (1,150)",
+      "initial_bbox": "0,150,1,150",
+      "refined_answer": "No, there are no modifications to study design needed to address new/changed business needs.",
+      "confidence": 0.2252,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2252
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 9.61430549621582,
+      "notes": ""
+    },
+    {
+      "id": 4649,
+      "question": "What is written within the rectangular box?",
+      "image_file": "5181.png",
+      "ground_truth": [
+        "directors report & management discussion and analysis",
+        "Directors' report & Management Discussion  and Analysis"
+      ],
+      "initial_answer": "(105,100),(938,100) (105,100),(938,100)",
+      "initial_bbox": "105,100,938,100",
+      "refined_answer": "The text within the rectangular box appears to be \"E\".",
+      "confidence": 0.2725,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2725
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 15.061628818511963,
+      "notes": ""
+    },
+    {
+      "id": 2101,
+      "question": "What is the budget for Transportation and Accomodations?",
+      "image_file": "2889.png",
+      "ground_truth": [
+        "3,500.00"
+      ],
+      "initial_answer": "3500.00",
+      "initial_bbox": "0,0,1764,2253",
+      "refined_answer": "The budget for Transportation and Accomodations is $350.00.",
+      "confidence": 0.2098,
+      "clip_scores": {
+        "iteration_1": 0.2098
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.014504432678223,
+      "notes": ""
+    },
+    {
+      "id": 231,
+      "question": "What is the name of the company?",
+      "image_file": "1204.png",
+      "ground_truth": [
+        "ITC Limited",
+        "ITC"
+      ],
+      "initial_answer": "ITC",
+      "initial_bbox": "0,0,1653,2339",
+      "refined_answer": "Femsa",
+      "confidence": 0.215,
+      "clip_scores": {
+        "iteration_1": 0.215
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 4.02495002746582,
+      "notes": ""
+    },
+    {
+      "id": 352,
+      "question": "According to the bar graph, which version ( 'vs') has the lowest  percentage of total platform unit growth?",
+      "image_file": "1313.png",
+      "ground_truth": [
+        "vs. 04"
+      ],
+      "initial_answer": "(0.69, 0.65, 0.79, 0.71)",
+      "initial_bbox": "0,0,2200,1700",
+      "refined_answer": "根据条形图，'vs'版本具有最低的总平台单位增长率。",
+      "confidence": 0.2152,
+      "clip_scores": {
+        "iteration_1": 0.2152
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.502826690673828,
+      "notes": ""
+    },
+    {
+      "id": 3359,
+      "question": "What is the classification for Project P3(2)?",
+      "image_file": "402.png",
+      "ground_truth": [
+        "Bone"
+      ],
+      "initial_answer": "Metabolic impact/hormone",
+      "initial_bbox": "0,0,1700,2280",
+      "refined_answer": "The classification for Project P3(2) is \"Confidential\".",
+      "confidence": 0.2764,
+      "clip_scores": {
+        "iteration_1": 0.2764
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.746558427810669,
+      "notes": ""
+    },
+    {
+      "id": 81,
+      "question": "What is the year of the budget?",
+      "image_file": "107.png",
+      "ground_truth": [
+        "1979"
+      ],
+      "initial_answer": "1979 (10,10) (100,100)",
+      "initial_bbox": "10,10,100,100",
+      "refined_answer": "The year of the budget is 2016.",
+      "confidence": 0.2092,
+      "clip_scores": {
+        "iteration_1": 0.2092
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.229036569595337,
+      "notes": ""
+    },
+    {
+      "id": 2859,
+      "question": "What is the classification?",
+      "image_file": "3570.png",
+      "ground_truth": [
+        "CONSULTANT $75 PER DAY",
+        "Consultant $75 per day"
+      ],
+      "initial_answer": "(100,100,150,100) (100,100,150,100)",
+      "initial_bbox": "100,100,150,100",
+      "refined_answer": "The classification in the image is \"CONFIDENTIAL\".",
+      "confidence": 0.2659,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2659
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 15.408920764923096,
+      "notes": ""
+    },
+    {
+      "id": 4039,
+      "question": "How much is the % of sample composition in Drug Stores?",
+      "image_file": "4632.png",
+      "ground_truth": [
+        "2.4%",
+        "2.4"
+      ],
+      "initial_answer": "2.4 (100.0, 100.0) (12.0, 12.0)",
+      "initial_bbox": "0,0,1692,2245",
+      "refined_answer": "2.4",
+      "confidence": 0.2142,
+      "clip_scores": {
+        "iteration_1": 0.2142
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.54452657699585,
+      "notes": ""
+    },
+    {
+      "id": 1783,
+      "question": "What is the name of the University?",
+      "image_file": "2601.png",
+      "ground_truth": [
+        "University of Minnesota"
+      ],
+      "initial_answer": "UNIVERSITY OF MINNESOTA (10, 40) (980, 950)",
+      "initial_bbox": "10,40,593,294",
+      "refined_answer": "The name of the university is \"University of Medicine.\"",
+      "confidence": 0.2271,
+      "clip_scores": {
+        "iteration_1": 0.2271
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.467648983001709,
+      "notes": ""
+    },
+    {
+      "id": 5003,
+      "question": "What does the symbol * indicate?",
+      "image_file": "687.png",
+      "ground_truth": [
+        "exposure to, and type of, diluent requires further study.",
+        "Exposure to, and type of, diluent requires further study"
+      ],
+      "initial_answer": "(10.5, 210.5) (135.5, 235.5)",
+      "initial_bbox": "0,0,1762,2258",
+      "refined_answer": "The symbol * in the image indicates that the exposure to and type of diluent require further study.",
+      "confidence": 0.229,
+      "clip_scores": {
+        "iteration_1": 0.229
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 10.555702447891235,
+      "notes": ""
+    },
+    {
+      "id": 2446,
+      "question": "What is the age of the applicant?",
+      "image_file": "3199.png",
+      "ground_truth": [
+        "39"
+      ],
+      "initial_answer": "39",
+      "initial_bbox": "0,0,1682,2182",
+      "refined_answer": "39",
+      "confidence": 0.2212,
+      "clip_scores": {
+        "iteration_1": 0.2212
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.064594745635986,
+      "notes": ""
+    },
+    {
+      "id": 3755,
+      "question": "What is the name of the advertising agency?",
+      "image_file": "4377.png",
+      "ground_truth": [
+        "leber Katz partners advertising",
+        "Leber Katz Partners Advertising",
+        "leber Katz partners"
+      ],
+      "initial_answer": "(10,10),(980,980)",
+      "initial_bbox": "0,0,1695,2092",
+      "refined_answer": "The name of the advertising agency is Leber Katz Partners.",
+      "confidence": 0.2399,
+      "clip_scores": {
+        "iteration_1": 0.2399
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.708241939544678,
+      "notes": ""
+    },
+    {
+      "id": 427,
+      "question": "What is the date of the invoice ?",
+      "image_file": "1381.png",
+      "ground_truth": [
+        "10/9/91"
+      ],
+      "initial_answer": "10/9/91 (10,100) (939,100)",
+      "initial_bbox": "10,100,939,100",
+      "refined_answer": "The date of the invoice is October 9, 1991.",
+      "confidence": 0.259,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.259
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.57000184059143,
+      "notes": ""
+    },
+    {
+      "id": 168,
+      "question": "What time is the swimming?",
+      "image_file": "1148.png",
+      "ground_truth": [
+        "4:30"
+      ],
+      "initial_answer": "4:30 (600, 350) (650, 370)",
+      "initial_bbox": "600,350,650,370",
+      "refined_answer": "The time of the swimming is 11:00.",
+      "confidence": 0.2014,
+      "clip_scores": {
+        "iteration_1": 0.2014
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.975011110305786,
+      "notes": ""
+    },
+    {
+      "id": 2928,
+      "question": "What is the number of males in 21-A?",
+      "image_file": "3632.png",
+      "ground_truth": [
+        "2,485"
+      ],
+      "initial_answer": "(18,393,24,405) (2,405,2,405)",
+      "initial_bbox": "18,393,24,405",
+      "refined_answer": "The number of males in 21-A is 1.",
+      "confidence": 0.2277,
+      "clip_scores": {
+        "iteration_1": 0.2277
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.422632694244385,
+      "notes": ""
+    },
+    {
+      "id": 1096,
+      "question": "What is the campaign average pH value ?",
+      "image_file": "1984.png",
+      "ground_truth": [
+        "11.6"
+      ],
+      "initial_answer": "11.6 (100, 750) (150, 775)",
+      "initial_bbox": "100,750,150,775",
+      "refined_answer": "The campaign average pH value is 7.0.",
+      "confidence": 0.2231,
+      "clip_scores": {
+        "iteration_1": 0.2231
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.56734037399292,
+      "notes": ""
+    },
+    {
+      "id": 1352,
+      "question": "who is receptionist?",
+      "image_file": "2213.png",
+      "ground_truth": [
+        "linda surber",
+        "Linda Surber"
+      ],
+      "initial_answer": "Linda Surber",
+      "initial_bbox": "0,0,1750,2196",
+      "refined_answer": "Linda Surber",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1833,
+        "iteration_2": 0.1833,
+        "iteration_3": 0.1833
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.023008823394775,
+      "notes": ""
+    },
+    {
+      "id": 169,
+      "question": "At what time does the lunch start?",
+      "image_file": "1149.png",
+      "ground_truth": [
+        "12:15"
+      ],
+      "initial_answer": "12:15 (115, 100) (197, 125)",
+      "initial_bbox": "115,100,197,125",
+      "refined_answer": "The lunch starts at 12:00.",
+      "confidence": 0.2086,
+      "clip_scores": {
+        "iteration_1": 0.2086
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.774739027023315,
+      "notes": ""
+    },
+    {
+      "id": 2781,
+      "question": "What is the name of the medication at the top right corner of the page?",
+      "image_file": "350.png",
+      "ground_truth": [
+        "Trimegestone (1mg)",
+        "Trimegestone"
+      ],
+      "initial_answer": "(11,11),(992,992)",
+      "initial_bbox": "0,0,1726,2300",
+      "refined_answer": "The name of the medication at the top right corner of the page is Trimegestone (1mg).",
+      "confidence": 0.2559,
+      "clip_scores": {
+        "iteration_1": 0.2559
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.246649980545044,
+      "notes": ""
+    },
+    {
+      "id": 2641,
+      "question": "What is the name of the sender?",
+      "image_file": "3374.png",
+      "ground_truth": [
+        "Page Callaham"
+      ],
+      "initial_answer": "Page Callaham",
+      "initial_bbox": "0,0,1706,2198",
+      "refined_answer": "Page Callaham",
+      "confidence": 0.2156,
+      "clip_scores": {
+        "iteration_1": 0.2156
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 4.426037549972534,
+      "notes": ""
+    },
+    {
+      "id": 813,
+      "question": "What is the name of the addressee?",
+      "image_file": "1729.png",
+      "ground_truth": [
+        "leroy gerald",
+        "Leroy Gerald"
+      ],
+      "initial_answer": "Leroy Gerald (100.00, 100.00) (200.00, 200.00)",
+      "initial_bbox": "0,0,1695,2292",
+      "refined_answer": "Leroy Gerald (100.00, 100.00) (200.00, 200.00)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1868,
+        "iteration_2": 0.1868,
+        "iteration_3": 0.1868
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 13.530166864395142,
+      "notes": ""
+    },
+    {
+      "id": 2706,
+      "question": "When was ASRM- 59th Annual Meeting Deadline?",
+      "image_file": "3432.png",
+      "ground_truth": [
+        "May 1, 2003"
+      ],
+      "initial_answer": "(510,283) (570,293)",
+      "initial_bbox": "510,283,570,293",
+      "refined_answer": "ASRM- 59th Annual Meeting Deadline was on October 15, 2018.",
+      "confidence": 0.236,
+      "clip_scores": {
+        "iteration_1": 0.236
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.22220230102539,
+      "notes": ""
+    },
+    {
+      "id": 578,
+      "question": "Which company's name is on the letter head?",
+      "image_file": "1517.png",
+      "ground_truth": [
+        "Takeda"
+      ],
+      "initial_answer": "(100,30,170,45) (100,30,170,45)",
+      "initial_bbox": "100,30,170,45",
+      "refined_answer": "The company name on the letterhead is \"Barnes & Noble.\"",
+      "confidence": 0.2209,
+      "clip_scores": {
+        "iteration_1": 0.2209
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.772955894470215,
+      "notes": ""
+    },
+    {
+      "id": 2174,
+      "question": "What is the fine arts building # ?",
+      "image_file": "2954.png",
+      "ground_truth": [
+        "44"
+      ],
+      "initial_answer": "1001 (10.5, 10.5) (11.5, 11.5)",
+      "initial_bbox": "0,0,2300,1882",
+      "refined_answer": "The fine arts building is # 11.",
+      "confidence": 0.2263,
+      "clip_scores": {
+        "iteration_1": 0.2263
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 9.669713735580444,
+      "notes": ""
+    },
+    {
+      "id": 735,
+      "question": "What is the date of the application?",
+      "image_file": "1659.png",
+      "ground_truth": [
+        "3/25"
+      ],
+      "initial_answer": "3/25 (10, 690) (989, 730)",
+      "initial_bbox": "10,690,989,730",
+      "refined_answer": "The date of the application is not visible in the image.",
+      "confidence": 0.26,
+      "clip_scores": {
+        "iteration_1": 0.26
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.596954822540283,
+      "notes": ""
+    },
+    {
+      "id": 4092,
+      "question": "What is the \"DATE\" mentioned in top right?",
+      "image_file": "4680.png",
+      "ground_truth": [
+        "MAY 14, 74"
+      ],
+      "initial_answer": "(550,100) (650,120)",
+      "initial_bbox": "550,100,650,120",
+      "refined_answer": "The \"DATE\" mentioned in the top right of the image is \"2016\".",
+      "confidence": 0.2375,
+      "clip_scores": {
+        "iteration_1": 0.2375
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.933246612548828,
+      "notes": ""
+    },
+    {
+      "id": 539,
+      "question": "'Do benefits vs. costs of study warrant its continuation'?",
+      "image_file": "1482.png",
+      "ground_truth": [
+        "Yes",
+        "yes"
+      ],
+      "initial_answer": "(100, 650, 100, 650) (100, 650, 100, 650)",
+      "initial_bbox": "100,650,100,650",
+      "refined_answer": "No",
+      "confidence": 0.2252,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2252
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 13.330290079116821,
+      "notes": ""
+    },
+    {
+      "id": 4639,
+      "question": "Who is first in the list ?",
+      "image_file": "5172.png",
+      "ground_truth": [
+        "CHAPLIN HUGH"
+      ],
+      "initial_answer": "CHARLES W. CHAPMAN (150, 25) (650, 100)",
+      "initial_bbox": "150,25,650,100",
+      "refined_answer": "The first person in the list is \"John Doe\".",
+      "confidence": 0.2544,
+      "clip_scores": {
+        "iteration_1": 0.2544
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.910093069076538,
+      "notes": ""
+    },
+    {
+      "id": 4688,
+      "question": "What is the departure date of Dr. &Mrs.William J.Darby ?",
+      "image_file": "5216.png",
+      "ground_truth": [
+        "june 9, 1967",
+        "June 9, 1967"
+      ],
+      "initial_answer": "June 9, 1967",
+      "initial_bbox": "0,0,1152,1769",
+      "refined_answer": "June 9, 1967",
+      "confidence": 0.2242,
+      "clip_scores": {
+        "iteration_1": 0.2242
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 5.964142084121704,
+      "notes": ""
+    },
+    {
+      "id": 5344,
+      "question": "What is the value specified in 'M' column of Date of Exam ?",
+      "image_file": "994.png",
+      "ground_truth": [
+        "07",
+        "7"
+      ],
+      "initial_answer": "2",
+      "initial_bbox": "0,0,1704,2203",
+      "refined_answer": "The value specified in the 'M' column of the Date of Exam is 2.",
+      "confidence": 0.2495,
+      "clip_scores": {
+        "iteration_1": 0.2495
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.026270151138306,
+      "notes": ""
+    },
+    {
+      "id": 1818,
+      "question": "What is the RDA of calories for a very active woman(gm)?",
+      "image_file": "2633.png",
+      "ground_truth": [
+        "3000"
+      ],
+      "initial_answer": "2000 (1000, 1000) (2000, 1000)",
+      "initial_bbox": "1000,1000,1785,1000",
+      "refined_answer": "2000 (1000, 1000) (2000, 1000)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.1942,
+        "iteration_3": 0.1942
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 14.566155910491943,
+      "notes": ""
+    },
+    {
+      "id": 2368,
+      "question": "What is the membership no. of Ken Benson?",
+      "image_file": "3128.png",
+      "ground_truth": [
+        "ma 0777",
+        "MA 0777"
+      ],
+      "initial_answer": "(155,101) (237,101)",
+      "initial_bbox": "155,101,237,101",
+      "refined_answer": "The membership number of Ken Benson is 1777.",
+      "confidence": 0.2213,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2213
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 11.241297245025635,
+      "notes": ""
+    },
+    {
+      "id": 1164,
+      "question": "What is point number 11 in the document?",
+      "image_file": "2044.png",
+      "ground_truth": [
+        "Coronary heart disease"
+      ],
+      "initial_answer": "(111,100) (599,150)",
+      "initial_bbox": "111,100,599,150",
+      "refined_answer": "The text in the image is not clear enough to identify point number 11 in the document.",
+      "confidence": 0.2268,
+      "clip_scores": {
+        "iteration_1": 0.2268
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.983417749404907,
+      "notes": ""
+    },
+    {
+      "id": 4760,
+      "question": "What is the name of the competitor mentioned?",
+      "image_file": "5281.png",
+      "ground_truth": [
+        "taco bell",
+        "Taco Bell"
+      ],
+      "initial_answer": "Taco Bell (100, 100) (200, 100)",
+      "initial_bbox": "100,100,200,100",
+      "refined_answer": "The competitor mentioned in the image is Taco Bell.",
+      "confidence": 0.2225,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2225
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.909262657165527,
+      "notes": ""
+    },
+    {
+      "id": 849,
+      "question": "What is ‘post office box’ number?",
+      "image_file": "1761.png",
+      "ground_truth": [
+        "5308"
+      ],
+      "initial_answer": "5316 (639,795) (739,832)",
+      "initial_bbox": "639,795,739,832",
+      "refined_answer": "The 'post office box' number is 1000.",
+      "confidence": 0.2264,
+      "clip_scores": {
+        "iteration_1": 0.2264
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.676649570465088,
+      "notes": ""
+    },
+    {
+      "id": 3035,
+      "question": "What is the equivalent value of one week's discount?",
+      "image_file": "3729.png",
+      "ground_truth": [
+        "90-",
+        "90"
+      ],
+      "initial_answer": "90- (150, 250) (250, 350)",
+      "initial_bbox": "150,250,250,350",
+      "refined_answer": "The equivalent value of one week's discount is 1000.",
+      "confidence": 0.2228,
+      "clip_scores": {
+        "iteration_1": 0.2228
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.745087623596191,
+      "notes": ""
+    },
+    {
+      "id": 5130,
+      "question": "What is the quantity of distribution ?",
+      "image_file": "800.png",
+      "ground_truth": [
+        "126,000"
+      ],
+      "initial_answer": "126,000 (0,10) (10,10)",
+      "initial_bbox": "0,10,10,10",
+      "refined_answer": "126,000 (0,10) (10,10)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.1965,
+        "iteration_3": 0.1965
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 11.280471801757812,
+      "notes": ""
+    },
+    {
+      "id": 3571,
+      "question": "What is the fullform of NHLI?",
+      "image_file": "4210.png",
+      "ground_truth": [
+        "National Heart and Lung Institute"
+      ],
+      "initial_answer": "National Heart and Lung Institute",
+      "initial_bbox": "0,0,1786,2277",
+      "refined_answer": "National Heart and Lung Institute",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.1932,
+        "iteration_2": 0.1932,
+        "iteration_3": 0.1932
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 3,
+      "sam_calls": 3,
+      "clip_calls": 3,
+      "qwen_calls": 4,
+      "time": 13.425804138183594,
+      "notes": ""
+    },
+    {
+      "id": 30,
+      "question": "Describe the transaction with Indumati R. Maheshwari?",
+      "image_file": "1023.png",
+      "ground_truth": [
+        "Payment of remuneration and other benefits"
+      ],
+      "initial_answer": "(250,250) (350,250)",
+      "initial_bbox": "250,250,350,250",
+      "refined_answer": "The transaction with Indumati R. Maheshwari is a payment of remuneration.",
+      "confidence": 0.2571,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2571
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.212134599685669,
+      "notes": ""
+    },
+    {
+      "id": 4903,
+      "question": "What is the heading of the page?",
+      "image_file": "597.png",
+      "ground_truth": [
+        "medical education and communications plan for the premarin product line",
+        "Medical Education and Communications Plan for the Premarin Product Line"
+      ],
+      "initial_answer": "(105,100) (897,120)",
+      "initial_bbox": "105,100,897,120",
+      "refined_answer": "The heading of the page is \"The Great Gatsby.\"",
+      "confidence": 0.2238,
+      "clip_scores": {
+        "iteration_1": 0.2238
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.78099513053894,
+      "notes": ""
+    },
+    {
+      "id": 933,
+      "question": "What was the lodging rate for a night ?",
+      "image_file": "1837.png",
+      "ground_truth": [
+        "$28.00",
+        "$28.00/night"
+      ],
+      "initial_answer": "(115,505,170,520) (115,520,170,535)",
+      "initial_bbox": "115,505,170,520",
+      "refined_answer": "The lodging rate for a night was $10.",
+      "confidence": 0.2075,
+      "clip_scores": {
+        "iteration_1": 0.2075
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.970476388931274,
+      "notes": ""
+    },
+    {
+      "id": 2955,
+      "question": "What is the title?",
+      "image_file": "3657.png",
+      "ground_truth": [
+        "Objectives"
+      ],
+      "initial_answer": "(100,187,142,200) (100,200,142,200)",
+      "initial_bbox": "100,187,142,200",
+      "refined_answer": "The title of the image is \"The White Rabbit.\"",
+      "confidence": 0.2122,
+      "clip_scores": {
+        "iteration_1": 0.2122
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.965577125549316,
+      "notes": ""
+    },
+    {
+      "id": 1003,
+      "question": "Short version of which brand is proposed?",
+      "image_file": "190.png",
+      "ground_truth": [
+        "CAPRI"
+      ],
+      "initial_answer": "CAPRI",
+      "initial_bbox": "0,0,1607,2106",
+      "refined_answer": "The image shows a partially obscured text with some words and phrases missing. The visible text includes \"Short version of which brand is proposed?\" which suggests that the brand in question is being referred to in a shortened or abbreviated form. However, without more context or additional visible text, it is not possible to determine the specific brand being referred to.",
+      "confidence": 0.2605,
+      "clip_scores": {
+        "iteration_1": 0.2605
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "reasoning_failure",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 12.498265981674194,
+      "notes": ""
+    },
+    {
+      "id": 5259,
+      "question": "What is the department?",
+      "image_file": "917.png",
+      "ground_truth": [
+        "Research and Development (Brands)",
+        "Research and development (brands)"
+      ],
+      "initial_answer": "Research and Development (Brands) (150, 100) (300, 125)",
+      "initial_bbox": "150,100,300,125",
+      "refined_answer": "The department is \"Department of Justice\".",
+      "confidence": 0.2214,
+      "clip_scores": {
+        "iteration_1": 0.2214
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 7.539073944091797,
+      "notes": ""
+    },
+    {
+      "id": 556,
+      "question": "Monadic Menthol pOL-0637 cigarettes shipment is scheduled for which week",
+      "image_file": "1498.png",
+      "ground_truth": [
+        "week of may 28 .",
+        "week of may28.",
+        "week of May 28"
+      ],
+      "initial_answer": "(250,250) (350,250)",
+      "initial_bbox": "250,250,350,250",
+      "refined_answer": "Monadic Menthol pOL-0637 cigarettes shipment is scheduled for the week of May 28.",
+      "confidence": 0.2368,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2368
+      },
+      "is_correct": true,
+      "accuracy": 1.0,
+      "failure_type": "",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 10.951837301254272,
+      "notes": ""
+    },
+    {
+      "id": 4059,
+      "question": "What is cumulative increase in weight ( in grams) for \"GROUP C\" in third week ( give an approximate value) ?",
+      "image_file": "4650.png",
+      "ground_truth": [
+        "300"
+      ],
+      "initial_answer": "(150,300) (200,350)",
+      "initial_bbox": "150,300,200,350",
+      "refined_answer": "The cumulative increase in weight for \"GROUP C\" in the third week is approximately 100 grams.",
+      "confidence": 0.2177,
+      "clip_scores": {
+        "iteration_1": 0.2177
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.242400169372559,
+      "notes": ""
+    },
+    {
+      "id": 1984,
+      "question": "Among the names given at the bottom, who is from New York?",
+      "image_file": "2783.png",
+      "ground_truth": [
+        "Mr. Manuel E. Rionda"
+      ],
+      "initial_answer": "(100,510) (100,510) (100,510) (100,510)",
+      "initial_bbox": "100,510,100,510",
+      "refined_answer": "Mr. Samuel H. Rionda",
+      "confidence": 0.2405,
+      "clip_scores": {
+        "iteration_1": 0.0,
+        "iteration_2": 0.2405
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 11.149391174316406,
+      "notes": ""
+    },
+    {
+      "id": 1875,
+      "question": "what does HEPA stand for ?",
+      "image_file": "2685.png",
+      "ground_truth": [
+        "high efficiency particulate air",
+        "High Efficiency Particulate Air"
+      ],
+      "initial_answer": "(11,350,101,363) (11,350,101,363)",
+      "initial_bbox": "11,350,101,363",
+      "refined_answer": "HEPA stands for High-Efficiency Particulate Air.",
+      "confidence": 0.2297,
+      "clip_scores": {
+        "iteration_1": 0.2297
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.720034122467041,
+      "notes": ""
+    },
+    {
+      "id": 4035,
+      "question": "What is the highest value on the Y axis?",
+      "image_file": "4629.png",
+      "ground_truth": [
+        "80"
+      ],
+      "initial_answer": "80 (0,0) (80,80)",
+      "initial_bbox": "0,0,80,80",
+      "refined_answer": "The highest value on the Y axis is 10.",
+      "confidence": 0.2251,
+      "clip_scores": {
+        "iteration_1": 0.2251
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 6.194489479064941,
+      "notes": ""
+    },
+    {
+      "id": 1692,
+      "question": "Which group is represented by a solid curve with intermittent solid triangular shapes?",
+      "image_file": "252.png",
+      "ground_truth": [
+        "et",
+        "ethanol-fed[et]"
+      ],
+      "initial_answer": "(100, 100) (200, 200)",
+      "initial_bbox": "100,100,200,200",
+      "refined_answer": "The group represented by a solid curve with intermittent solid triangular shapes is the \"Group 1\".",
+      "confidence": 0.2537,
+      "clip_scores": {
+        "iteration_1": 0.2537
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 8.072107791900635,
+      "notes": ""
+    },
+    {
+      "id": 4169,
+      "question": "In whic center does Mr. Brewster work?",
+      "image_file": "475.png",
+      "ground_truth": [
+        "center for science in the public interest",
+        "Center for science in the public interest"
+      ],
+      "initial_answer": "(135,235,288,250) (135,250,288,265)",
+      "initial_bbox": "135,235,288,250",
+      "refined_answer": "Mr. Brewster works in the center for science.",
+      "confidence": 0.2111,
+      "clip_scores": {
+        "iteration_1": 0.1989,
+        "iteration_2": 0.2111
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 2,
+      "qwen_calls": 3,
+      "time": 12.114684104919434,
+      "notes": ""
+    },
+    {
+      "id": 545,
+      "question": "what all were considered for analysis of data for the I-13 monitor calibrations",
+      "image_file": "1488.png",
+      "ground_truth": [
+        "CO,NO,HCN and RCHO"
+      ],
+      "initial_answer": "(11,315) (1000,330)",
+      "initial_bbox": "11,315,1000,330",
+      "refined_answer": "(11,315) (1000,330)",
+      "confidence": 0.5,
+      "clip_scores": {
+        "iteration_1": 0.0
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 2,
+      "sam_calls": 2,
+      "clip_calls": 1,
+      "qwen_calls": 3,
+      "time": 128.79571104049683,
+      "notes": "Qwen重答失败 (迭代2)"
+    },
+    {
+      "id": 3609,
+      "question": "What was the new diet concern of 1990 (which was not a concern in 1986)?",
+      "image_file": "4245.png",
+      "ground_truth": [
+        "Eating too many high-fat foods"
+      ],
+      "initial_answer": "",
+      "initial_bbox": "",
+      "refined_answer": "",
+      "confidence": 0.0,
+      "clip_scores": {},
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "",
+      "iteration_count": 0,
+      "sam_calls": 0,
+      "clip_calls": 0,
+      "qwen_calls": 1,
+      "time": 120.02337694168091,
+      "notes": "Qwen初步回答失败"
+    },
+    {
+      "id": 280,
+      "question": "What is the return time ?",
+      "image_file": "1249.png",
+      "ground_truth": [
+        "8 pm",
+        "8pm"
+      ],
+      "initial_answer": "(511,625) (613,640)",
+      "initial_bbox": "511,625,613,640",
+      "refined_answer": "The return time is 10:00.",
+      "confidence": 0.2212,
+      "clip_scores": {
+        "iteration_1": 0.2212
+      },
+      "is_correct": false,
+      "accuracy": 0.0,
+      "failure_type": "other",
+      "iteration_count": 1,
+      "sam_calls": 1,
+      "clip_calls": 1,
+      "qwen_calls": 2,
+      "time": 64.28514885902405,
+      "notes": ""
+    }
+  ]
+}

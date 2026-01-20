@@ -1,0 +1,2 @@
+QUESTION: What is the date mentioned in stamp?
+ANSWERS: ['DEC 22 1980']

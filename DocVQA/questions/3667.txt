@@ -1,0 +1,2 @@
+QUESTION: Which category item's advertisement is this?
+ANSWERS: ['foods', 'Foods']

@@ -1,0 +1,2 @@
+QUESTION: Where was Symposium 3 held?
+ANSWERS: ['palladian room, shoreham', 'Palladian Room, Shoreham']

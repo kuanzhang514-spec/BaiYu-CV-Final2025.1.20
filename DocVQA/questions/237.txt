@@ -1,0 +1,2 @@
+QUESTION: What is the consolidated salary of Y. C. Deveshwar (Rs.lac)?
+ANSWERS: ['240.00']

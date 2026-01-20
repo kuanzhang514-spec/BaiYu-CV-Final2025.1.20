@@ -1,0 +1,2 @@
+QUESTION: What is the brand name of ITC's Atta?
+ANSWERS: ['Aashirvaad']

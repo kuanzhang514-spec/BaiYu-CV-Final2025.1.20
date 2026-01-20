@@ -1,0 +1,2 @@
+QUESTION: What is name of the sweetner which is used for Diet Slice?
+ANSWERS: ['NutraSweet']

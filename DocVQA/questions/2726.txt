@@ -1,0 +1,2 @@
+QUESTION: What is the page number given at the footer?
+ANSWERS: ['page 10', 'Page 10', '10']

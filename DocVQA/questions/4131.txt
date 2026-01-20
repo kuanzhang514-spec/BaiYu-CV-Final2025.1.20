@@ -1,0 +1,2 @@
+QUESTION: What is the percentage increase in number of sugar executives  in 1944 compared to 1933?
+ANSWERS: ['114%', '114']

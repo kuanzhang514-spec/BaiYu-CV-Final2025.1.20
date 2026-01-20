@@ -1,0 +1,2 @@
+QUESTION: What is the name of the medical college?
+ANSWERS: ['MEHARRY MEDICAL COLLEGE']

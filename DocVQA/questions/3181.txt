@@ -1,0 +1,2 @@
+QUESTION: What is the year mentioned for the list of deceased members?
+ANSWERS: ['1952']

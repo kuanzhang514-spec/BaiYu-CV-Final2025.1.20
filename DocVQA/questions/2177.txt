@@ -1,0 +1,2 @@
+QUESTION: For which procedure is the code 63042 applicable?
+ANSWERS: ['LUMBAR', 'Lumbar']

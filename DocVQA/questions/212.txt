@@ -1,0 +1,2 @@
+QUESTION: What is the "index"  of single brand users in the franchise?
+ANSWERS: ['69', '(69)']

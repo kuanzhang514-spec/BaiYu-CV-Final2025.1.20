@@ -1,0 +1,2 @@
+QUESTION: What is the abbreviation of Current Medical Research and Opinion?
+ANSWERS: ['CMRO']

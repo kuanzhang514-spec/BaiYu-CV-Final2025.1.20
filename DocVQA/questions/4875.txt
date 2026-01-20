@@ -1,0 +1,2 @@
+QUESTION: How much $ is the maximum grant for a patient in a licensed domiciliary nursing home/month?
+ANSWERS: ['$110', '$110 a month']

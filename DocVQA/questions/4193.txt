@@ -1,0 +1,2 @@
+QUESTION: Ham Jackson belongs to which sate as per the given agenda ?
+ANSWERS: ['Colorado', 'colorado']

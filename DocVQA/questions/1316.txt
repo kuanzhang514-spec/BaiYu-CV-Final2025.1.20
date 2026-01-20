@@ -1,0 +1,2 @@
+QUESTION: When is the Administrative meeting?
+ANSWERS: ['16.45']

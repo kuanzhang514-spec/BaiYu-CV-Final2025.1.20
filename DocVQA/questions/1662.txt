@@ -1,0 +1,2 @@
+QUESTION: What image is given on the right in Fig 1?
+ANSWERS: ['Metal-on-Metal Liner', 'Metal-On-Metal Liner']

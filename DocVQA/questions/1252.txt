@@ -1,0 +1,2 @@
+QUESTION: how much is the meals fee ?
+ANSWERS: ['5.50', '$ 5.50']

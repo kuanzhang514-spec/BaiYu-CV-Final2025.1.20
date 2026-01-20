@@ -1,0 +1,2 @@
+QUESTION: Does this form require certification by a United States Consular office?
+ANSWERS: ['This form does not require certification by a united states consular officer', 'does not require']

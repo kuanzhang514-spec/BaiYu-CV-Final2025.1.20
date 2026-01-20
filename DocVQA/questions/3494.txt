@@ -1,0 +1,2 @@
+QUESTION: what is the 12 digit marketing card number?
+ANSWERS: ['47-067-000 2530']

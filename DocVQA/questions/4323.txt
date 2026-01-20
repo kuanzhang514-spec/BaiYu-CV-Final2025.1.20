@@ -1,0 +1,2 @@
+QUESTION: What is the date given in the ‘voucher’?
+ANSWERS: ['february 8, 1974']

@@ -1,0 +1,2 @@
+QUESTION: What is QHS?
+ANSWERS: ['TAKEN EVERY NIGHT', 'Taken every night']

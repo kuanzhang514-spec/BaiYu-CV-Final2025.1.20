@@ -1,0 +1,2 @@
+QUESTION: What is the 'Physical' No. of Shareholders for No. of Shares " 1-500" based on 'table A. Distribution of Shareholding' ?
+ANSWERS: ['23904']

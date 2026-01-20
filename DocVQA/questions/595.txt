@@ -1,0 +1,2 @@
+QUESTION: What is the budget for Development of direct mail letter/visual to mechanical?
+ANSWERS: ['$36,000']

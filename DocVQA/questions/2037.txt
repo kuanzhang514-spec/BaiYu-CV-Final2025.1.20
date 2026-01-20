@@ -1,0 +1,2 @@
+QUESTION: What is the answer ‘A’ for ‘Q:30:’?
+ANSWERS: ["For competitive reasons, we can't discuss that", 'For competitive reasons, we can’t discuss that.']

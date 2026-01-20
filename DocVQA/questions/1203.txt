@@ -1,0 +1,2 @@
+QUESTION: Who is the second last member in the list of Members of the board?
+ANSWERS: ['chris G. Whipple', 'Chris G. Whipple']

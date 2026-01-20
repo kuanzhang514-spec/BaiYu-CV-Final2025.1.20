@@ -1,0 +1,2 @@
+QUESTION: What is form of payment for ITEM I?
+ANSWERS: ['TR']

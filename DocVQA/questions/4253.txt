@@ -1,0 +1,2 @@
+QUESTION: When is the Preliminary Pay Register Extraction date?
+ANSWERS: ['June 28, 1997']

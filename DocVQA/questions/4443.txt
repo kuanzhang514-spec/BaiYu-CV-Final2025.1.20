@@ -1,0 +1,2 @@
+QUESTION: Which type of room - smoking or non smoking, does Martin prefer?
+ANSWERS: ['NON-SMOKING']

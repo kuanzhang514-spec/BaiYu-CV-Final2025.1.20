@@ -1,0 +1,2 @@
+QUESTION: How much is the amount for the item ‘foreign charges’?
+ANSWERS: ['56.75', '$56.75']

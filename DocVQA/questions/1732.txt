@@ -1,0 +1,2 @@
+QUESTION: What is ‘table 2’ ?
+ANSWERS: ['frequency distribution of sweetner usage', 'Frequency distribution of sweetner usage']

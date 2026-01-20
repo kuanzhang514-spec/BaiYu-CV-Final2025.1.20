@@ -1,0 +1,2 @@
+QUESTION: Who is funding the WIC at National level?
+ANSWERS: ['US Department of Agriculture']

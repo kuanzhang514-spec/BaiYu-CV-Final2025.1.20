@@ -1,0 +1,2 @@
+QUESTION: Who signed this letter?
+ANSWERS: ['Dr. Gio Batta Gori']

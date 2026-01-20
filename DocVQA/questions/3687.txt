@@ -1,0 +1,2 @@
+QUESTION: How long will the 'Tox Plan' session take?
+ANSWERS: ['20 min', '20 Min.']

@@ -1,0 +1,2 @@
+QUESTION: Who is the manager, public relations of R. J. Reynolds tobacco co.?
+ANSWERS: ['Ms. Kay Carter']

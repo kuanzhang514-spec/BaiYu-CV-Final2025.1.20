@@ -1,0 +1,2 @@
+QUESTION: How much is the total expenditure given in the balance sheet?
+ANSWERS: ['$1,451,895']

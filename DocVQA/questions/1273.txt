@@ -1,0 +1,2 @@
+QUESTION: In tort cases what is the limit of liability?
+ANSWERS: ['"reasonable foreseeablity"']

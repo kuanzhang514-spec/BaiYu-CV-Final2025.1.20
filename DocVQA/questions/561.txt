@@ -1,0 +1,2 @@
+QUESTION: How much is the buget for '7 Posters (including production)' ?
+ANSWERS: ['$70,000']

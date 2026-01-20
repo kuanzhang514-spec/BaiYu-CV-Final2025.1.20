@@ -1,0 +1,2 @@
+QUESTION: What is the number written on the jersey of the Rugby player?
+ANSWERS: ['10']

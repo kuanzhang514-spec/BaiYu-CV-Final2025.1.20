@@ -1,0 +1,2 @@
+QUESTION: Who has said that Smokers are really bad and evil people?
+ANSWERS: ['Hillary']

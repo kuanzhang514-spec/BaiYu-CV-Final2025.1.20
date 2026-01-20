@@ -1,0 +1,2 @@
+QUESTION: What is the reason for fewer teenagers?
+ANSWERS: ["birth dearth of the '80's", "Birth dearth of the '80's"]

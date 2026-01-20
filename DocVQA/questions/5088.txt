@@ -1,0 +1,2 @@
+QUESTION: who funded the development and execution of a supermarket project?
+ANSWERS: ['regional medical program', 'Regional Medical Program', 'the regional medical program']

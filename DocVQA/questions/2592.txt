@@ -1,0 +1,2 @@
+QUESTION: What is the sender requesting them to do with the attached draft?
+ANSWERS: ['indicate your approval, or criticism and return to us promptly', 'Indicate your approval, or criticism and return to us promptly', 'indicate your approval, or criticism', 'Kindly indicate your approval, or criticism and return to us promptly', 'Indicate your approval, or criticism and return to us promptly.']

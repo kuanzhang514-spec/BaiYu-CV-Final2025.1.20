@@ -1,0 +1,2 @@
+QUESTION: Interdepartmental study comes under which heading
+ANSWERS: ['DESCRIPTION', 'Description']

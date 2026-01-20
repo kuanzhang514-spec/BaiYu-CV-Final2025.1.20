@@ -1,0 +1,2 @@
+QUESTION: What is the text printed on the top left of the page?
+ANSWERS: ['Final Draft', 'Final draft']

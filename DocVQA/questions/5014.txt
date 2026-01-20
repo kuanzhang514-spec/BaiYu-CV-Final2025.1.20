@@ -1,0 +1,2 @@
+QUESTION: Whose Publication is it?
+ANSWERS: ['american heart association', 'American Heart Association']

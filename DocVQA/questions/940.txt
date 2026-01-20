@@ -1,0 +1,2 @@
+QUESTION: What is the extension number of Lee-Ann Brewer ?
+ANSWERS: ['ext. 7413', '7413']

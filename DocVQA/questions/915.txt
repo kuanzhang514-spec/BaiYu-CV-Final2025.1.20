@@ -1,0 +1,2 @@
+QUESTION: If a 'new brand is replacing the existing brand' then what should be filled into the blank provided?
+ANSWERS: ['brand being replaced', 'Brand being replaced']

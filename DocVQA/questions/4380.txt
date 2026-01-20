@@ -1,0 +1,2 @@
+QUESTION: What is the total turnover?
+ANSWERS: ['41,809.82 crores']

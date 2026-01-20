@@ -1,0 +1,2 @@
+QUESTION: Whether company has subsidiary companies in period '01/04/2012 to 31/03/2013' based on table 2?
+ANSWERS: ['no', 'No']

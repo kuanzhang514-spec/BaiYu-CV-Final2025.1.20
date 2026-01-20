@@ -1,0 +1,2 @@
+QUESTION: What is the Fax number of ‘Brookstown Inn’?
+ANSWERS: ['336-773-0147']

@@ -1,0 +1,2 @@
+QUESTION: who is the director of department of Allied medical professions and services ?
+ANSWERS: ['ralph c. kuhli, M.P.H.', 'Ralph C. Kuhli , M.P.H.', 'ralph c. kuhli']

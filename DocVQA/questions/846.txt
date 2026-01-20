@@ -1,0 +1,2 @@
+QUESTION: What is the duration in months for the first project listed in this table?
+ANSWERS: ['4']

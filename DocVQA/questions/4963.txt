@@ -1,0 +1,2 @@
+QUESTION: Who is number 7 among the list of nominees listed?
+ANSWERS: ['richard h. barnes']

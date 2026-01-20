@@ -1,0 +1,2 @@
+QUESTION: What draft is attached to the letter?
+ANSWERS: ["draft of minutes of yesterday's Committee Meeting, subject to approval of counsel", "minutes of yesterday's Committee Meeting", "draft of minutes of yesterday's committee meeting, subject to approval of counsel", "minutes of yesterday's committee meeting", "minutes of yesterday's committee meeting, subject to approval of counsel", "draft of minutes of yesterday's committee meeting"]

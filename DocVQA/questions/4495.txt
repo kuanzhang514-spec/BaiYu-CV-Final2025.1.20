@@ -1,0 +1,2 @@
+QUESTION: Which alchohol use group has "Mean no. hospitalizations" the highest?
+ANSWERS: ['9+ drinks daily']

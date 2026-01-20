@@ -1,0 +1,2 @@
+QUESTION: What is "n" for Nondrinkers?
+ANSWERS: ['2,015', '2015']

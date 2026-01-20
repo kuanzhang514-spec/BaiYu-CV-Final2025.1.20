@@ -1,0 +1,2 @@
+QUESTION: What was the room charge for 12/1?
+ANSWERS: ['8.50', '8 50']

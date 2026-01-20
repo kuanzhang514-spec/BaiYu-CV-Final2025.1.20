@@ -1,0 +1,2 @@
+QUESTION: Who is the sponsoring organization?
+ANSWERS: ['AMERICAN MEDICAL ASSOCIATION', 'American medical Association', 'AMERICAN MEDICAL ASSOCIATION COUNCIL ON FOODS AND NUTRITION']

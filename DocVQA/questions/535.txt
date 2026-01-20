@@ -1,0 +1,2 @@
+QUESTION: What is the text on the top right corner of the page?
+ANSWERS: ['achieving clarity, renewing confidence', 'Achieving Clarity, Renewing Confidence']

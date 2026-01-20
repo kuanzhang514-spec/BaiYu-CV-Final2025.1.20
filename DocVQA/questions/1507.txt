@@ -1,0 +1,2 @@
+QUESTION: What is the 'Total Payment' ?
+ANSWERS: ['$30,600.00']

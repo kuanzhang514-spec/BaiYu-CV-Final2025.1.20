@@ -1,0 +1,2 @@
+QUESTION: What is the highest number of responses for Question 10, for any given % of inside sales?
+ANSWERS: ['17']

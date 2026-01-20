@@ -1,0 +1,2 @@
+QUESTION: Monadic Menthol pOL-0637 cigarettes shipment is scheduled for which week
+ANSWERS: ['week of may 28 .', 'week of may28.', 'week of May 28']

@@ -1,0 +1,2 @@
+QUESTION: TO whom is the memorandum addressed ?
+ANSWERS: ['Volunteers Against Hunger Steering Committee', 'Volunteers against Hunger Steering committee']

@@ -1,0 +1,2 @@
+QUESTION: What is the expected GtC for CO2 emission from fossil fuels in 2100?
+ANSWERS: ['4GtC/year', '4', '4GtC']

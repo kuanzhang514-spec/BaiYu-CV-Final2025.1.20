@@ -1,0 +1,2 @@
+QUESTION: What are the 'follow up costs' for the year 2007 ?
+ANSWERS: ['$170,000', '170,000']

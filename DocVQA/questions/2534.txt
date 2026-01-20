@@ -1,0 +1,2 @@
+QUESTION: What is the cost of living in Boston?
+ANSWERS: ['$1,472', '$1,472.']

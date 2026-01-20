@@ -1,0 +1,2 @@
+QUESTION: what is the time period?
+ANSWERS: ['98', '1/03/98 thru 06/12/98']

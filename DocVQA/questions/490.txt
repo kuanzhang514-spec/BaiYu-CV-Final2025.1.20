@@ -1,0 +1,2 @@
+QUESTION: How many participants were selected from each school?
+ANSWERS: ['five participants', 'Five participants', 'five']

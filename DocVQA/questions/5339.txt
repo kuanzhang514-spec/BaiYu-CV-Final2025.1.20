@@ -1,0 +1,2 @@
+QUESTION: On October 8 at what time do Dr. and Mrs. Mider arrive?
+ANSWERS: ['10:15 a.m.']

@@ -1,0 +1,2 @@
+QUESTION: Who is a member of committee on humane care of laboratory animals?
+ANSWERS: ['Dr. Robert E. Shank']

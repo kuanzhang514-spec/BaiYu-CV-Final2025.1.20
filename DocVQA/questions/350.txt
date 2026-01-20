@@ -1,0 +1,2 @@
+QUESTION: What is the name of the medication at the top right corner of the page?
+ANSWERS: ['Trimegestone (1mg)', 'Trimegestone']

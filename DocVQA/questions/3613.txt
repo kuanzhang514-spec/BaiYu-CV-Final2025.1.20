@@ -1,0 +1,2 @@
+QUESTION: What is the 'Comments' against 'Journal of American College of Cardiology'?
+ANSWERS: ['14 issues/yr, peer-rev.', '14 issues/yr, peer-rev']

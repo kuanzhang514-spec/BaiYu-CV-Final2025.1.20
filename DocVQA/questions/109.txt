@@ -1,0 +1,2 @@
+QUESTION: In which month was the budget 'revised' ?
+ANSWERS: ['july', 'July', 'july, 1979']

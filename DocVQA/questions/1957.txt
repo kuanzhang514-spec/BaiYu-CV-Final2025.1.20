@@ -1,0 +1,2 @@
+QUESTION: What does the symbol * indicate?
+ANSWERS: ['Added for nutritional fortification', 'Added for Nutritional fortification']

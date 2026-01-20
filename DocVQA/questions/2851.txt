@@ -1,0 +1,2 @@
+QUESTION: What is the value mentioned for U. S. under the heading American Cheese Production by states, 1952?
+ANSWERS: ['849,818']

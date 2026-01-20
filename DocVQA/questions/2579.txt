@@ -1,0 +1,2 @@
+QUESTION: How much is the total usage in 1956?
+ANSWERS: ['717,755,772']

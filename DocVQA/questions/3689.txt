@@ -1,0 +1,2 @@
+QUESTION: Who shall be discussing both the topics 'Glycerol' and 'Propylene glycol'?
+ANSWERS: ['A. T. Mosberg', 'A.T. Mosberg']

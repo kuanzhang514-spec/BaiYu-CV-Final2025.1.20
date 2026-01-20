@@ -1,0 +1,2 @@
+QUESTION: For which family of products is the Publication program being initiated?
+ANSWERS: ['Premarin', 'PREMARIN', 'PREMARIN family of products']

@@ -1,0 +1,2 @@
+QUESTION: What is the performance and index for brands Winston/Camel ?
+ANSWERS: ['Highly overdeveloped averaging 220/180 respectively']

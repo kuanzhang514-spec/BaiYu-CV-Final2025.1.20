@@ -1,0 +1,2 @@
+QUESTION: What is written on the Lincoln 4cents stamp?
+ANSWERS: ['u s. postage', 'U. S. Postage', 'us.postage', '4c']

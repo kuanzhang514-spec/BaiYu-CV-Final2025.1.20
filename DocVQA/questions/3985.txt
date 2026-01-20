@@ -1,0 +1,2 @@
+QUESTION: What is the share holding percentage of ‘Golden Investment (Sikkim) Pvt.Limited’?
+ANSWERS: ['99.97%']

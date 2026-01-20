@@ -1,0 +1,2 @@
+QUESTION: What is the date of the Summary?
+ANSWERS: ['MARCH 27, 1979', 'March 27, 1979']

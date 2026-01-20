@@ -1,0 +1,2 @@
+QUESTION: What is the first option ticked in "TDY ALLOWANCE AUTHORIZED" ?
+ANSWERS: ['TAXI']

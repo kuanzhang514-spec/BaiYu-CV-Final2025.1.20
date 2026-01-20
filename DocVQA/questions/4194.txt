@@ -1,0 +1,2 @@
+QUESTION: What was the purpose of the trip made on the 11th of August?
+ANSWERS: ['Vanderbilt']

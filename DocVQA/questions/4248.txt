@@ -1,0 +1,2 @@
+QUESTION: What type of documentation is this?
+ANSWERS: ['TEMP0RARY PAYMENT DETAIL REPORT']

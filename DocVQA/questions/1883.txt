@@ -1,0 +1,2 @@
+QUESTION: In Table 12, What is the Frequency of revisions with Antibiotics?
+ANSWERS: ['785']

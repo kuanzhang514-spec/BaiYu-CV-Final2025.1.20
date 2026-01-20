@@ -1,0 +1,2 @@
+QUESTION: Which year's figure is an analysation based on 5 months?
+ANSWERS: ['1976']

@@ -1,0 +1,2 @@
+QUESTION: In the scale of the graph, what does  'o' represent?
+ANSWERS: ['HEATING IN NITROGEN', 'Heating in Nitrogen']

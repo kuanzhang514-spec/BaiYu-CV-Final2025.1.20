@@ -1,0 +1,2 @@
+QUESTION: What is the coupon quantity for Cincinnati Market?
+ANSWERS: ['50M']

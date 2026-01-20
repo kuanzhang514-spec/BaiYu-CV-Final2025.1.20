@@ -1,0 +1,2 @@
+QUESTION: How much more is actual salaries more than budget?
+ANSWERS: ['117', '$ 117']

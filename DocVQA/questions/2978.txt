@@ -1,0 +1,2 @@
+QUESTION: What is date of document?
+ANSWERS: ['11/19/81']

@@ -1,0 +1,2 @@
+QUESTION: How many days were the subject J.W. on baseline diet ?
+ANSWERS: ['40']

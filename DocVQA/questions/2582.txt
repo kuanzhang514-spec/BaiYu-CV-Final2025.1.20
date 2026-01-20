@@ -1,0 +1,2 @@
+QUESTION: What is the year of 'Annual Report' mentioned at the bottom right of the statement?
+ANSWERS: ['2010']

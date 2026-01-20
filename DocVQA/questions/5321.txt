@@ -1,0 +1,2 @@
+QUESTION: What is the heading of the document ?
+ANSWERS: ['smokers express airlines fact sheet', 'Smokers Express Airlines Fact Sheet']

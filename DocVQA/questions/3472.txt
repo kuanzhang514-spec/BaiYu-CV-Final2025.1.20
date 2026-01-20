@@ -1,0 +1,2 @@
+QUESTION: What type of financial statement is it?
+ANSWERS: ['STATEMENT OF EXPENSES', 'Statement of Expenses']

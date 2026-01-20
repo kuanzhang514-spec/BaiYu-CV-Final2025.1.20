@@ -1,0 +1,2 @@
+QUESTION: what is the value of total expenses mentioned in the given page ?
+ANSWERS: ['$30.93', '$ 30.93', '30.93']

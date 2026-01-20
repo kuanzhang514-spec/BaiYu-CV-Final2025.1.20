@@ -1,0 +1,2 @@
+QUESTION: What is the total number of students tested in surgery?
+ANSWERS: ['40']

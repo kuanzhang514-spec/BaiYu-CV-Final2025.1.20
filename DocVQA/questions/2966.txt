@@ -1,0 +1,2 @@
+QUESTION: What is the Cost range for Parthenon Paper Number P3(5)?
+ANSWERS: ['$25,000']

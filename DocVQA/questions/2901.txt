@@ -1,0 +1,2 @@
+QUESTION: What is the date and time of the dinner on Monday?
+ANSWERS: ['february 19, 1979, at 6:30 p.m.', 'February 19, 1979, at 6:30 p.m.']

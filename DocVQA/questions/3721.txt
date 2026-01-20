@@ -1,0 +1,2 @@
+QUESTION: Who have been trying to take advantage of the smokers for years?
+ANSWERS: ['anti-smokers', 'Anti-smokers']

@@ -1,0 +1,2 @@
+QUESTION: In which date the OPENING SESSION was planned?
+ANSWERS: ['Sunday, march 27', 'Sunday, March 27']

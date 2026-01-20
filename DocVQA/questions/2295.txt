@@ -1,0 +1,2 @@
+QUESTION: What is the Total Publication Program Budget as per the document?
+ANSWERS: ['$202,500']

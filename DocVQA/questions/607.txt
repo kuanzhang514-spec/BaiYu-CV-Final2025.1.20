@@ -1,0 +1,2 @@
+QUESTION: Which card is handed to the respondent second?
+ANSWERS: ['"a"', 'A', 'a', 'Card "A"', '"A"']

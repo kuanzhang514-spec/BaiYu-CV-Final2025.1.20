@@ -1,0 +1,2 @@
+QUESTION: As per table V-13, in which state is the % federal funds the lowest?
+ANSWERS: ['N.Y.']

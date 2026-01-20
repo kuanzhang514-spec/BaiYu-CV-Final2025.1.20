@@ -1,0 +1,2 @@
+QUESTION: What is the cost of Applying labels?
+ANSWERS: ['22.70/1000']

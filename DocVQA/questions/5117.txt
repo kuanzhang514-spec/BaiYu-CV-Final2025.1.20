@@ -1,0 +1,2 @@
+QUESTION: has Shri R.R. Kumar attende AGM held on 24.09.2004?
+ANSWERS: ['Yes', 'yes']

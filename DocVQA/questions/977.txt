@@ -1,0 +1,2 @@
+QUESTION: What is his weight?
+ANSWERS: ['59 kg (130 lb.)']

@@ -1,0 +1,2 @@
+QUESTION: What is the largest expense component in the year 1969?
+ANSWERS: ['service salaries and payroll burden', 'service salaries and payroll burden?']

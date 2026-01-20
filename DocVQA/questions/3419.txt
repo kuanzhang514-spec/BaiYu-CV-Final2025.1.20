@@ -1,0 +1,2 @@
+QUESTION: What is the currency?
+ANSWERS: ['AUSTRALIAN $', 'Australian $']

@@ -1,0 +1,2 @@
+QUESTION: Where did he do M.D?
+ANSWERS: ['Washington university', 'Washington University']

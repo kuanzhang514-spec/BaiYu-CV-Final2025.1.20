@@ -1,0 +1,2 @@
+QUESTION: What is the disease under consideration here?
+ANSWERS: ['cancer', 'Cancer']

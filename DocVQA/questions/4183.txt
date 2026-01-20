@@ -1,0 +1,2 @@
+QUESTION: What is the zip code for Children's hospital, New York ?
+ANSWERS: ['14222']

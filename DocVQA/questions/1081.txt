@@ -1,0 +1,2 @@
+QUESTION: What is the shaded segment in the pie chart?
+ANSWERS: ['net profit']

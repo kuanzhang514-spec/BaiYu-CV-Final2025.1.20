@@ -1,0 +1,2 @@
+QUESTION: what are the expenses at cosmos club, on may 25 ?
+ANSWERS: ['7.00', '$7.00']

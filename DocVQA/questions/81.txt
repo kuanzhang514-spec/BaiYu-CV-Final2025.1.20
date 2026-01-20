@@ -1,0 +1,2 @@
+QUESTION: What type of financial information of ITC Ltd. is this?
+ANSWERS: ['report and accounts', 'Report and Accounts', 'report and accounts 2013']

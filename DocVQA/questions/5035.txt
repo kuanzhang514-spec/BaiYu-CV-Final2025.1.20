@@ -1,0 +1,2 @@
+QUESTION: To whom is the letter ?
+ANSWERS: ['Dr. Robert E. Shank']

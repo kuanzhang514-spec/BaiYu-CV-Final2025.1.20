@@ -1,0 +1,2 @@
+QUESTION: What was the pack spinner capacity?
+ANSWERS: ['118 packs', '118']

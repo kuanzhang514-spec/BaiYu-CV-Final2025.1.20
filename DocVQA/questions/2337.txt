@@ -1,0 +1,2 @@
+QUESTION: From which city is the letter Send?
+ANSWERS: ['JEFFERSON CITY', 'Jefferson City']

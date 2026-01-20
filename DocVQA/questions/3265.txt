@@ -1,0 +1,2 @@
+QUESTION: What is the date of the claim?
+ANSWERS: ['AUGUST 16, 2001', 'August 16, 2001']

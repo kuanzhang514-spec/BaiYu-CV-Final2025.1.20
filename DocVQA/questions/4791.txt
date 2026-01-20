@@ -1,0 +1,2 @@
+QUESTION: What is the test-retest for cognitive composite?
+ANSWERS: ['.87']

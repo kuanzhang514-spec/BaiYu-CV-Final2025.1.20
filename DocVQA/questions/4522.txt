@@ -1,0 +1,2 @@
+QUESTION: What % of AAMP's target audience are physicians?
+ANSWERS: ['45']

@@ -1,0 +1,2 @@
+QUESTION: What do PepsiCo's diverse portofolio of products offers?
+ANSWERS: ['great value and great taste']

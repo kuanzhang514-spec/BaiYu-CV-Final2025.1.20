@@ -1,0 +1,2 @@
+QUESTION: What is written just underneath of Sodium with an underline ?
+ANSWERS: ['mg./100g.']

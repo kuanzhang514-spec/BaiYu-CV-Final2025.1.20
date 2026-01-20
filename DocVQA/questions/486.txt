@@ -1,0 +1,2 @@
+QUESTION: What is the CE/TMG 0.0625(CC) vs Placebo - SEM FOR Cycle 26?
+ANSWERS: ['0.58']

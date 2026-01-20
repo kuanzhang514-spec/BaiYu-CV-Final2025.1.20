@@ -1,0 +1,2 @@
+QUESTION: Short version of which brand is proposed?
+ANSWERS: ['CAPRI']

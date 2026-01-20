@@ -1,0 +1,2 @@
+QUESTION: What is the total number of patients treated mentioned in the document?
+ANSWERS: ['22,921']

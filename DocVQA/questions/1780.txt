@@ -1,0 +1,2 @@
+QUESTION: What is the title change of ‘American journal of digestive diseases’ ?
+ANSWERS: ['Digestive diseases and sciences']

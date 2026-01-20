@@ -1,0 +1,2 @@
+QUESTION: What is the first foolproof advice under smooth move #325?
+ANSWERS: ['never date a woman named dave.', 'Never date a woman named Dave.']

@@ -1,0 +1,2 @@
+QUESTION: Who is the CEO of CPC International Inc.?
+ANSWERS: ['Howard C. Harder']

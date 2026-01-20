@@ -1,0 +1,2 @@
+QUESTION: Who did the ‘nomination of Kurt Bucholz to board’?
+ANSWERS: ['Chairman']

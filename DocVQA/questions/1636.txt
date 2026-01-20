@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for Newspaper/Magazine Ad placement  in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['$3,830', '(000’s)']

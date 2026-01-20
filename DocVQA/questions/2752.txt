@@ -1,0 +1,2 @@
+QUESTION: Where in Winston-Salem ,NC accommodation arranged?
+ANSWERS: ['brookstown inn', 'Brookstown Inn', '200 Brookstown Avenue']

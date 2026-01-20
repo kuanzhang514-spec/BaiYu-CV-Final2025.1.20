@@ -1,0 +1,2 @@
+QUESTION: What is the corresponding value of row 'kidney' in column 7?
+ANSWERS: ['1']

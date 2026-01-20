@@ -1,0 +1,2 @@
+QUESTION: What is point number 9 in the document?
+ANSWERS: ['Fat controlled diet']

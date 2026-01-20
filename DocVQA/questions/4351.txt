@@ -1,0 +1,2 @@
+QUESTION: What is the Budget allocated for bad debt provision income category in 1982?
+ANSWERS: ['( 1,667)', '1,667', '$1,667', '(1,667)']

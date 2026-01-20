@@ -1,0 +1,2 @@
+QUESTION: How much is the ‘American Journal of Nursing’ health care professional journal circulation?
+ANSWERS: ['314,000']

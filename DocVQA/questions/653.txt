@@ -1,0 +1,2 @@
+QUESTION: To whom the ‘memorandum ’ is written ?
+ANSWERS: ['fmi workshop speakers', 'FMI Workshop Speakers']

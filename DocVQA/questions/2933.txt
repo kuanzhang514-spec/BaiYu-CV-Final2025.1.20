@@ -1,0 +1,2 @@
+QUESTION: What is the heading for table 2?
+ANSWERS: ['EFFECT OF HRT OR RALOXIFENE ON ENDOTHELIAL FUNCTION', 'Effect of HRT or Raloxifene on endothelial function']

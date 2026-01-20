@@ -1,0 +1,2 @@
+QUESTION: Which country's postage stamp is it?
+ANSWERS: ['USA']

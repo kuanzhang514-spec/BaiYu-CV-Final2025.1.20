@@ -1,0 +1,2 @@
+QUESTION: What is subheading A?
+ANSWERS: ['DEFINITION OF DEATH', 'Definition of death']

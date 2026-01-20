@@ -1,0 +1,2 @@
+QUESTION: What is the topic of the first session?
+ANSWERS: ['"Effects on health of alcohol consumption"']

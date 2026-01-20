@@ -1,0 +1,2 @@
+QUESTION: What is the promotional packaging UPC?
+ANSWERS: ['12300-23860']

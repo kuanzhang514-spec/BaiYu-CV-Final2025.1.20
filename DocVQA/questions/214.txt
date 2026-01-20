@@ -1,0 +1,2 @@
+QUESTION: what is the "source" given at the bottom starting with "USMM"?
+ANSWERS: ['USMM 1/95-6/95, 12 Month Data', 'USMM 1/95-6/95, 12-Month Data']

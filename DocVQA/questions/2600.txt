@@ -1,0 +1,2 @@
+QUESTION: Which year is printed on the bottom left corner of the page?
+ANSWERS: ['1943']

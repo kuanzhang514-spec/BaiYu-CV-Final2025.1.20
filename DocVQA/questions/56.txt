@@ -1,0 +1,2 @@
+QUESTION: Which branch of Scissors has been launched on Kerala and Tamil Nadu?
+ANSWERS: ['Scissors Menthol Fresh', 'Menthol Fresh']

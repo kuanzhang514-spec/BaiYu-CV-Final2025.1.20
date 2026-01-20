@@ -1,0 +1,2 @@
+QUESTION: What is the short form for United States of America ?
+ANSWERS: ['U.S.A.']

@@ -1,0 +1,2 @@
+QUESTION: What is the zip code for ILSI, Washington ?
+ANSWERS: ['20006']

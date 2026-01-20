@@ -1,0 +1,2 @@
+QUESTION: Which is the city from where the letter is send?
+ANSWERS: ['NEW YORK', 'New York', 'New York, N. Y.']

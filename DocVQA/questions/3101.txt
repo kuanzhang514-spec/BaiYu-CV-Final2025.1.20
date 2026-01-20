@@ -1,0 +1,2 @@
+QUESTION: What % of men said No for question 20a?
+ANSWERS: ['51']

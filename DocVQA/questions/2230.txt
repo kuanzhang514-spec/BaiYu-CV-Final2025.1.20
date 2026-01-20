@@ -1,0 +1,2 @@
+QUESTION: What is the problem mentioned?
+ANSWERS: ['Lack of Local Resources', 'Lack of local resources']

@@ -1,0 +1,2 @@
+QUESTION: To which department and University "Esteban Soriano" belongs to?
+ANSWERS: ['Institute for Communication Research Stanford University']

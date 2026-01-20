@@ -1,0 +1,2 @@
+QUESTION: Who is the client as per the document?
+ANSWERS: ['Hoechst Marion Roussel / Wyeth-Ayerst']

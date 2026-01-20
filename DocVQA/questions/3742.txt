@@ -1,0 +1,2 @@
+QUESTION: What is the ‘heading’?
+ANSWERS: ['[200700] Notes -  Additional disclosures on balance sheet', '[200700] notes- Additional disclosures on balance sheet']

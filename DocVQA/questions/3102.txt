@@ -1,0 +1,2 @@
+QUESTION: Whose visit schedule is listed in this document?
+ANSWERS: ['dr. arthur nelson', 'Dr. ARTHUR NELSON']

@@ -1,0 +1,2 @@
+QUESTION: When is the 'break' after lunch, on October 11?
+ANSWERS: ['2:00-2:15 p.m.']

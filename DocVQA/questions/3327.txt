@@ -1,0 +1,2 @@
+QUESTION: Who is the investigator/author for the publication ' circulation' ?
+ANSWERS: ['ROSANO', 'Rosano']

@@ -1,0 +1,2 @@
+QUESTION: What promotes 'true fluid film lubrication' ?
+ANSWERS: ['OPTIMIZED DIAMETRICAL CLEARANCE', 'Optimized diametrical clearance', 'Optimized diametrical clearance promotes true fluid film lubrication']

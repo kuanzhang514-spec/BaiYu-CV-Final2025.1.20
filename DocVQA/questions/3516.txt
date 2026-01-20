@@ -1,0 +1,2 @@
+QUESTION: What is the amount paid?
+ANSWERS: ['$58.75', '$ 58.75']

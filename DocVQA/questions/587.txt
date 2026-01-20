@@ -1,0 +1,2 @@
+QUESTION: What is the budget for ‘journal supplement ’ in the scientific poster presentation?
+ANSWERS: ['$175,000']

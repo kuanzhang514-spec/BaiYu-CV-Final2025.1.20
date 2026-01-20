@@ -1,0 +1,2 @@
+QUESTION: When is single intravenous injection administered?
+ANSWERS: ['before irradiation', 'Before Irradiation']

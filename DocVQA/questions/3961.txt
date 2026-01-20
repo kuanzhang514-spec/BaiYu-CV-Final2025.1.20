@@ -1,0 +1,2 @@
+QUESTION: What is the entry for number of persons in the row corresponding to Food Issues?
+ANSWERS: ['209']

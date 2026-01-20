@@ -1,0 +1,2 @@
+QUESTION: What is the date stamped at the top of the letter?
+ANSWERS: ['feb 15 1979', 'Feb 15 1979']

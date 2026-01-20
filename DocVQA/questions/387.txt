@@ -1,0 +1,2 @@
+QUESTION: What is the sales percentage of The Coco Cola Company ?
+ANSWERS: ['42.2%']

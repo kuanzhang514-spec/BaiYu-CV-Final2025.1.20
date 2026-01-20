@@ -1,0 +1,2 @@
+QUESTION: Where is the 'drinking water' from?
+ANSWERS: ['Deep well', 'Drinking water from deep well']

@@ -1,0 +1,2 @@
+QUESTION: What is the check amount?
+ANSWERS: ['$ 80.00', '$80.00']

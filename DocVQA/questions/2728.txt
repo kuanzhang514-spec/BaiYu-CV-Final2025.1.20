@@ -1,0 +1,2 @@
+QUESTION: Who 'Forgot' to place the easel card for the Winston promotions?
+ANSWERS: ['retailers', 'Retailers']

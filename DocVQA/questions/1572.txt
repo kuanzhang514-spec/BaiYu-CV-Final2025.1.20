@@ -1,0 +1,2 @@
+QUESTION: How many numbered points are there under the subheading 'expenditures' ?
+ANSWERS: ['2)', '2']

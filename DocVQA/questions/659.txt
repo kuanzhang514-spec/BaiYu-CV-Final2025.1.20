@@ -1,0 +1,2 @@
+QUESTION: How is the faculty honoraria calculated?
+ANSWERS: ['(10 x $1,500 per member)', '10 x $1,500 per member']

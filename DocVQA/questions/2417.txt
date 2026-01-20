@@ -1,0 +1,2 @@
+QUESTION: What is written in column I, row 21  of the Excel sheet?
+ANSWERS: ['WTD AVE. 34', 'Wtd ave. 34']

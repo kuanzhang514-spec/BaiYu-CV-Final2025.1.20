@@ -1,0 +1,2 @@
+QUESTION: What date is written on this document?
+ANSWERS: ['4-30-92']

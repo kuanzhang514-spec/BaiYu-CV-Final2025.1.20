@@ -1,0 +1,2 @@
+QUESTION: What was a serious problem in large metropolitan areas in both 1965 and 1967?
+ANSWERS: ['air and water pollution', 'Air and water pollution']

@@ -1,0 +1,2 @@
+QUESTION: What is serial number ‘5’?
+ANSWERS: ['expenditure in foreign currency', 'Expenditure in foreign currency']

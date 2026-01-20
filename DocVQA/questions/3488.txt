@@ -1,0 +1,2 @@
+QUESTION: Who wrote this letter?
+ANSWERS: ['Robert E. Shank , M. D.', 'Robert E. Shank, M. D.']

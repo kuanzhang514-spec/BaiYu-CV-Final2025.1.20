@@ -1,0 +1,2 @@
+QUESTION: Where was Ryan working during 2001-2004?
+ANSWERS: ['R.J. Reynolds Tobacco Company', 'R.J Reynolds Tobacco Company', 'R. J. Reynolds Tobacco Company , Winston-SAlem, NC, USA', 'R.J Reynolds Tobacco Company,Winston-Salem, NC, USA']

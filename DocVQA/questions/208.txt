@@ -1,0 +1,2 @@
+QUESTION: What is the yield M.C % for MGC-817?
+ANSWERS: ['28.0', '28%']

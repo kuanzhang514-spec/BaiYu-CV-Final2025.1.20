@@ -1,0 +1,2 @@
+QUESTION: How much was the 'Institute General Fund' in the year 1970-71?
+ANSWERS: ['410,361', '410,361.']

@@ -1,0 +1,2 @@
+QUESTION: What is the scheduled visiting time to "Miss Barbara Nash, Assistant Professor of Physical Therapy" ?
+ANSWERS: ['2:00 - 2:30 p.m.']

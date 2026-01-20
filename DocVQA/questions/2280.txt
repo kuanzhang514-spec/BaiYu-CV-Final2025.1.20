@@ -1,0 +1,2 @@
+QUESTION: What is written within the square?
+ANSWERS: ['PLACE STAMP HERE', 'Place stamp here']

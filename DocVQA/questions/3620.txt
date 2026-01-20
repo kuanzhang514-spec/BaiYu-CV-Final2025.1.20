@@ -1,0 +1,2 @@
+QUESTION: What is the X axis of the ‘plot’?
+ANSWERS: ['time (days)', 'Time (days)']

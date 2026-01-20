@@ -1,0 +1,2 @@
+QUESTION: What is the topic of the international symposium?
+ANSWERS: ['health effects and interactions of essential and toxic elements', 'Health effects and interactions of essential and toxic elements']

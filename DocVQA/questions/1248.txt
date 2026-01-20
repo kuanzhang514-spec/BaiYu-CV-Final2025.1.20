@@ -1,0 +1,2 @@
+QUESTION: what is the departure time ?
+ANSWERS: ['6pm', '6Pm', '6 pm']

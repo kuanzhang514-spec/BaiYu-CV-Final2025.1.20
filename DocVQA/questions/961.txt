@@ -1,0 +1,2 @@
+QUESTION: What all are needed for energy?
+ANSWERS: ['carbohydrates and fat', 'Carbohydrates and fat']

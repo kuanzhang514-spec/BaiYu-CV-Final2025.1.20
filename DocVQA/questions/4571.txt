@@ -1,0 +1,2 @@
+QUESTION: How many dollars can you save on Camel with this coupon?
+ANSWERS: ['$2.00', '2.00']

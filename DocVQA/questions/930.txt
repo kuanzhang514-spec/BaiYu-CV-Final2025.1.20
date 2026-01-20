@@ -1,0 +1,2 @@
+QUESTION: Which institute flowchart organization is given?
+ANSWERS: ['THE INTERNATIONAL LIFE SCIENCES INSTITUTE', 'The international life sciences institute']

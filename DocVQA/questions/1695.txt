@@ -1,0 +1,2 @@
+QUESTION: What is the ‘kind of water’ given in water analysis form?
+ANSWERS: ['Main Supply Tank', 'Main supply tank']

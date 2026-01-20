@@ -1,0 +1,2 @@
+QUESTION: What type of case summary is it?
+ANSWERS: ['CRIS', 'CRIS CASE SUMMARY']

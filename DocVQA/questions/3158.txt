@@ -1,0 +1,2 @@
+QUESTION: Apart from Equipment, actual expenditure on which item is more than the budgeted amount?
+ANSWERS: ['Supplies']

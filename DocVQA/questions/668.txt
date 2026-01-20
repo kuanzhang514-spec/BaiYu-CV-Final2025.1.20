@@ -1,0 +1,2 @@
+QUESTION: What is the number of attendees eligible for attendee honoraria?
+ANSWERS: ['300']

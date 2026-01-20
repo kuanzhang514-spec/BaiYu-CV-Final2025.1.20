@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of the journal ‘Physician Assistant’?
+ANSWERS: ['18,000']

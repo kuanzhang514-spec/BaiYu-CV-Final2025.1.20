@@ -1,0 +1,2 @@
+QUESTION: What is the code written at the bottom right end?
+ANSWERS: ['WINNR201-014002']

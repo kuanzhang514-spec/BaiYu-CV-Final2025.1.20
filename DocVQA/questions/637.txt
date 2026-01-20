@@ -1,0 +1,2 @@
+QUESTION: What is the circulation of the journal ‘RN’?
+ANSWERS: ['275,000']

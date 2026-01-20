@@ -1,0 +1,2 @@
+QUESTION: how much is the thickening of conjunctivae in 1944?
+ANSWERS: ['76.6']

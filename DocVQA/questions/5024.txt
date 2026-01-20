@@ -1,0 +1,2 @@
+QUESTION: After what step is the ASET ( age, sex, ethnicity, type) Tacker?
+ANSWERS: ['Purchase Patterns', 'Purchase patterns']

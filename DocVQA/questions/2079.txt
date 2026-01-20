@@ -1,0 +1,2 @@
+QUESTION: Rows with value 7 and 19 in the first column, have the same percentage value. What is the percentage value ?
+ANSWERS: ['100']

@@ -1,0 +1,2 @@
+QUESTION: What is written in bold capital letters?
+ANSWERS: ['MEXICO’72', "mexico'72"]

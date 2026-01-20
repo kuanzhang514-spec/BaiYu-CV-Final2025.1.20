@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for Transportation/set-up/etc  in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['650', '$650', '(000’s)']

@@ -1,0 +1,2 @@
+QUESTION: who is cook?
+ANSWERS: ['ruby nell gay', 'Ruby Nell Gay']

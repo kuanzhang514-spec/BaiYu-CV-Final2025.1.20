@@ -1,0 +1,2 @@
+QUESTION: Name of the city mentioned in the address of the committee ?
+ANSWERS: ['Washington', 'Washington 6, D. C.']

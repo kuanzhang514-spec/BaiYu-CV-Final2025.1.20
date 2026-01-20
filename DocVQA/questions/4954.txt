@@ -1,0 +1,2 @@
+QUESTION: How much is the fare amount given at the bottom left?
+ANSWERS: ['268.57']

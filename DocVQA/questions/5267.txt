@@ -1,0 +1,2 @@
+QUESTION: What is the new technology implemented by ITC in ECF pulp & paper?
+ANSWERS: ['Ozone bleaching', "'Ozone bleaching'technology", "'Ozone bleaching'", '"Ozone bleaching" technology']

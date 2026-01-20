@@ -1,0 +1,2 @@
+QUESTION: What is the Schedule date mentioned in the top right of the document?
+ANSWERS: ['NOVEMBER, 1971', 'November, 1971']

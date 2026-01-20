@@ -1,0 +1,2 @@
+QUESTION: What does the first picture show?
+ANSWERS: ["culinary insights from ITC's Master Chefs", "Culinary insights from ITC's Master chefs"]

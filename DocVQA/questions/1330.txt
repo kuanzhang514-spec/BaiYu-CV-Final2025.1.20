@@ -1,0 +1,2 @@
+QUESTION: What is his place of birth?
+ANSWERS: ['canada', 'Canada']

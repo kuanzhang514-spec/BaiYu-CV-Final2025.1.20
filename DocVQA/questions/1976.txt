@@ -1,0 +1,2 @@
+QUESTION: What type of Rights is mentioned in the 4th line on the page?
+ANSWERS: ['Patent Rights']

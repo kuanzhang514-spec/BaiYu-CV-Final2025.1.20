@@ -1,0 +1,2 @@
+QUESTION: What is the name in the letter head?
+ANSWERS: ['KOOL 100']

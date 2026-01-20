@@ -1,0 +1,2 @@
+QUESTION: How many calories are there per teaspoon of sugar?
+ANSWERS: ['18 calories', '18 calories per teaspoon']

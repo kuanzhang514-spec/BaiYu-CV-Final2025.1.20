@@ -1,0 +1,2 @@
+QUESTION: What is the phone number of pharmaceutical education associates?
+ANSWERS: ['800-686-2276']

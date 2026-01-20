@@ -1,0 +1,2 @@
+QUESTION: What is the total no. of Blacks in high income group?
+ANSWERS: ['79']

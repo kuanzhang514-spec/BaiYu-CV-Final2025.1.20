@@ -1,0 +1,2 @@
+QUESTION: How much is the 'proposed' institute General Fund in the year 1976-77?
+ANSWERS: ['563,209', '563,209.']

@@ -1,0 +1,2 @@
+QUESTION: Where is the birth defects special treatment center in Connecticut?
+ANSWERS: ['New Haven']

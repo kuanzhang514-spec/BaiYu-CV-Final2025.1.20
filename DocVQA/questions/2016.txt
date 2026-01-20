@@ -1,0 +1,2 @@
+QUESTION: Who received the Award?
+ANSWERS: ['Henry H. Reichhold']

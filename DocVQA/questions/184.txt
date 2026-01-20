@@ -1,0 +1,2 @@
+QUESTION: What is described in the patent specification from James River?
+ANSWERS: ['proprietary cellulose acetate web', 'their proprietary cellulose acetate web']

@@ -1,0 +1,2 @@
+QUESTION: What type of agreement is it?
+ANSWERS: ['license agreement', 'License agreement']

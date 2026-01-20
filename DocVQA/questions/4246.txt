@@ -1,0 +1,2 @@
+QUESTION: When is the fax dated?
+ANSWERS: ['May 29, 1997']

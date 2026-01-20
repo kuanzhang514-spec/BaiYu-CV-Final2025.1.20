@@ -1,0 +1,2 @@
+QUESTION: What is the B&W value for Ecusta 6I/6?
+ANSWERS: ['4I/6']

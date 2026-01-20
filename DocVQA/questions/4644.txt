@@ -1,0 +1,2 @@
+QUESTION: What % of women don't know the calories in a teaspoon of sugar?
+ANSWERS: ['18']

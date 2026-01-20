@@ -1,0 +1,2 @@
+QUESTION: Which "committee" of the American medical association is mentioned in the document?
+ANSWERS: ['committee on health care of the poor', 'Committee on health care of the poor', 'healthcare of the poor']

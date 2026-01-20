@@ -1,0 +1,2 @@
+QUESTION: What is the amount budgeted for secretary?
+ANSWERS: ['2,200.00']

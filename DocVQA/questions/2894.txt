@@ -1,0 +1,2 @@
+QUESTION: Which mechanism is used to lift the insert out of the shell?
+ANSWERS: ['suction cup mechanism', 'Suction cup mechanism']

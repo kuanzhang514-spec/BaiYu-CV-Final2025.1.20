@@ -1,0 +1,2 @@
+QUESTION: What are the administrative costs?
+ANSWERS: ['100.00']

@@ -1,0 +1,2 @@
+QUESTION: Is the registrant a well known seasoned issuer?
+ANSWERS: ['YES', 'Yes']

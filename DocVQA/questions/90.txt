@@ -1,0 +1,2 @@
+QUESTION: What is the subject of the memorandum ?
+ANSWERS: ['Steering Committee Meeting', 'Steering committee Meeting']

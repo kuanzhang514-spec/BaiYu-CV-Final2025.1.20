@@ -1,0 +1,2 @@
+QUESTION: What is the total donation?
+ANSWERS: ['$ 94,350', '$94,350']

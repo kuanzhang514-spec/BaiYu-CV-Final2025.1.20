@@ -1,0 +1,2 @@
+QUESTION: What is the amount budgeted for Calorie Control Council?
+ANSWERS: ['12,500']

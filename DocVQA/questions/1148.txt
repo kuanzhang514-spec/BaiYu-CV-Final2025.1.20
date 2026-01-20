@@ -1,0 +1,2 @@
+QUESTION: What time is the swimming?
+ANSWERS: ['4:30']

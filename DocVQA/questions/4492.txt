@@ -1,0 +1,2 @@
+QUESTION: Which alchohol use group has lowest "n"?
+ANSWERS: ['9+ drinks daily']

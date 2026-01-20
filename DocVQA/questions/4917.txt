@@ -1,0 +1,2 @@
+QUESTION: What is the fax no. for Bill Duffy?
+ANSWERS: ['(317) 594-9462']

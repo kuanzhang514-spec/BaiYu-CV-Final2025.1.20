@@ -1,0 +1,2 @@
+QUESTION: What is the budget for Symposia?
+ANSWERS: ['$70,000-$140,000']

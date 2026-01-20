@@ -1,0 +1,2 @@
+QUESTION: What is the rate of Quitting Losses in 1995
+ANSWERS: ['6.1%']

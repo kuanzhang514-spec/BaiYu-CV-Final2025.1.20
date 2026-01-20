@@ -1,0 +1,2 @@
+QUESTION: How many were given IVUS?
+ANSWERS: ['63']

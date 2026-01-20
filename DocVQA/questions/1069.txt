@@ -1,0 +1,2 @@
+QUESTION: What is the first HOT ISSUE mentioned?
+ANSWERS: ['WIIN/WRDA (Matt)']

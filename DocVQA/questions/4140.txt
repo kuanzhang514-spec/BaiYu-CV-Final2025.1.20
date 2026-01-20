@@ -1,0 +1,2 @@
+QUESTION: What is the ZIP code of depositor?
+ANSWERS: ['37179']

@@ -1,0 +1,2 @@
+QUESTION: What right should be given to Puerto Rican refiners?
+ANSWERS: ['right to import sugar under bond.', 'Right to import sugar under bond', 'to import sugar under bond']

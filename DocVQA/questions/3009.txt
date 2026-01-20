@@ -1,0 +1,2 @@
+QUESTION: What is the Regimen C "n" value for Days 3.1-4?
+ANSWERS: ['26']

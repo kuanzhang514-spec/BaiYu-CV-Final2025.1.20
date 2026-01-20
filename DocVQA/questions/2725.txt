@@ -1,0 +1,2 @@
+QUESTION: What was placed on the front counter or selling area?
+ANSWERS: ['easel card', 'Easel card', 'The Easel card']

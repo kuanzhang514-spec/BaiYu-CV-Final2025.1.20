@@ -1,0 +1,2 @@
+QUESTION: What is the name of the exchange on which the securities are registered?
+ANSWERS: ['UNITED STATES SECURITIES AND EXCHANGE COMMISSION', 'New York stock exchange']

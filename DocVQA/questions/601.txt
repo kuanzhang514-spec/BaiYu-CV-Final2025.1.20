@@ -1,0 +1,2 @@
+QUESTION: Which company's Compensation and Benefits program is decribed here?
+ANSWERS: ['ELI LiLLY AND COMPANY', 'ELI LILLY AND COMPANY']

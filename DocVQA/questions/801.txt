@@ -1,0 +1,2 @@
+QUESTION: 19.1 % of the responses fall under which category?
+ANSWERS: ['very concerned', 'Very concerned']

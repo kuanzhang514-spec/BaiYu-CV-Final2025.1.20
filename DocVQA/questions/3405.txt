@@ -1,0 +1,2 @@
+QUESTION: What is the title of the paper submitted by ‘Arnaud’?
+ANSWERS: ['PTH AND ESTROGEN IN OSTEOPOROSIS TREATMENT', 'PTH and estrogen in osteoporosis treatment']

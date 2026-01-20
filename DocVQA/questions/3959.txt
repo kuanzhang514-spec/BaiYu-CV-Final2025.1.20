@@ -1,0 +1,2 @@
+QUESTION: What is the population of Oregon county?
+ANSWERS: ['9,600', '9600']

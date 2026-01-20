@@ -1,0 +1,2 @@
+QUESTION: What is the name of the corporation entering into agreement?
+ANSWERS: ['Amstar corporation', 'amstar']

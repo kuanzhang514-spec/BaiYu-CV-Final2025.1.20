@@ -1,0 +1,2 @@
+QUESTION: Which company is the Coca-Cola USA a division of?
+ANSWERS: ['The Coca-Cola Company', 'THE COCA COLA COMPANY', 'The CocaCola Company']

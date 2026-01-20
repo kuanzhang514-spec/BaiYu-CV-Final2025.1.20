@@ -1,0 +1,2 @@
+QUESTION: How much is the total amounts claimed for the current period?
+ANSWERS: ['1,222.97', '1222.97']

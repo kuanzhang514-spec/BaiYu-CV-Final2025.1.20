@@ -1,0 +1,2 @@
+QUESTION: Who is the secretary of ‘ITC Limited’?
+ANSWERS: ['B. B. CHATTERJEE', 'B B CHATTERJEE']

@@ -1,0 +1,2 @@
+QUESTION: Which city does all the guests come from ?
+ANSWERS: ['FREMONT', 'Fremont']

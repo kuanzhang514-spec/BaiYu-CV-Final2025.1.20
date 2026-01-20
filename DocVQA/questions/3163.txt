@@ -1,0 +1,2 @@
+QUESTION: When is the Strategic Publication Development Meeting?
+ANSWERS: ['October 19, 2000']

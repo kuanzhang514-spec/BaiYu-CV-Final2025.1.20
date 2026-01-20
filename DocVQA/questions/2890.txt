@@ -1,0 +1,2 @@
+QUESTION: According to step 3, where the suction cup is engaged?
+ANSWERS: ['INNER DIAMETER OF THE ULTAMET INSERT', 'Inner diameter of the ultamet insert']

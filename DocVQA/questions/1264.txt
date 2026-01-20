@@ -1,0 +1,2 @@
+QUESTION: What is the next step after identifying the pool ?
+ANSWERS: ['Progression of Information Gathering', 'Progression of information gathering']

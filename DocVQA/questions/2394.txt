@@ -1,0 +1,2 @@
+QUESTION: What is the title of the plot?
+ANSWERS: ['PERCENT CALORIES FROM FAT', 'Percent Calories from Fat']

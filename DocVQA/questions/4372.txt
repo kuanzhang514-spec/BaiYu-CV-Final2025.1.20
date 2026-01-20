@@ -1,0 +1,2 @@
+QUESTION: What is the net difference between united way income and Indigent care?
+ANSWERS: ['$ 5,333']

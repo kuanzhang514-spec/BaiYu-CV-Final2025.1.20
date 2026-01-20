@@ -1,0 +1,2 @@
+QUESTION: What is the Surgeon General's warning?
+ANSWERS: ['SMOKING CAUSES LUNG CANCER, HEART DISEASE, EMPHYSEMA, AND MAY COMPLICATE PREGNANCY', 'Smoking causes Lung cancer, Heart disease, emphysema, And may complicate pregnancy.']

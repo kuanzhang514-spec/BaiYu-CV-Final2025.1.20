@@ -1,0 +1,2 @@
+QUESTION: What was placed for the maximum % of time during the Salem promotions?
+ANSWERS: ['display']

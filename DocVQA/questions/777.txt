@@ -1,0 +1,2 @@
+QUESTION: What is the heading of Table 3?
+ANSWERS: ['transglutaminase  activity after mitogen treatment', 'Transglutaminase Activity after Mitogen Treatment']

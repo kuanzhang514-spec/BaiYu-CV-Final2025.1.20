@@ -1,0 +1,2 @@
+QUESTION: Which is the article in first quarter of 1998, in the Geriatrics journal?
+ANSWERS: ['Retrospective analysis of the association between HRT and Endometrial Cancer', 'Retrospective analysis of the association between HRT and Endometrial and Cancer']

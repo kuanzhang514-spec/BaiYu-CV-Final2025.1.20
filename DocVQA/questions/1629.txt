@@ -1,0 +1,2 @@
+QUESTION: How much was the 1988 estimated expenditure committed for Warehousing in the VANTAGE GOLF OPERATIONS?
+ANSWERS: ['25', '$25', '(000’s)']

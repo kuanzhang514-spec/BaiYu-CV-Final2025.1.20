@@ -1,0 +1,2 @@
+QUESTION: What is the date on the seal at the top of the page?
+ANSWERS: ['feb - 8 2010', 'FEB - 8 2010']

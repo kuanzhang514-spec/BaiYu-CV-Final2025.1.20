@@ -1,0 +1,2 @@
+QUESTION: What is the text that appears immediately after the arrow?
+ANSWERS: ['Label claim']

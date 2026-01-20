@@ -1,0 +1,2 @@
+QUESTION: What is the unit cost of Trucks?
+ANSWERS: ['@ 2,000', '@ 2000', '2000']

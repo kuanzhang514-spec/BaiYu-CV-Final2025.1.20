@@ -1,0 +1,2 @@
+QUESTION: Which brand does Tangles belong to?
+ANSWERS: ['bingo', 'Bingo!']

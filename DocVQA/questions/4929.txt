@@ -1,0 +1,2 @@
+QUESTION: What is the P.Yr. Remuneration of Director 'A.C. Patel' ?
+ANSWERS: ['9,60,000/-']

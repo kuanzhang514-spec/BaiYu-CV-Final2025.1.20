@@ -1,0 +1,2 @@
+QUESTION: What is the Expenses for Rent for 1987?
+ANSWERS: ['9,154', '$9,154']

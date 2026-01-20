@@ -1,0 +1,2 @@
+QUESTION: What does M stand for?
+ANSWERS: ['Management']

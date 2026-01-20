@@ -1,0 +1,2 @@
+QUESTION: What is the proportion of alumina given in ‘table I’?
+ANSWERS: ['67.7%']

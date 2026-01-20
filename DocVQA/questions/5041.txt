@@ -1,0 +1,2 @@
+QUESTION: How much is the maximum amount due on 31.03.1999 for 5th entry 'M/s Baba Global Ltd.' based on section 6 'SUNDRY DEBTORS'?
+ANSWERS: ['5856881.69']

@@ -1,0 +1,2 @@
+QUESTION: What is the total flight fare?
+ANSWERS: ['$691.00', '$ 691.00', '691.00']

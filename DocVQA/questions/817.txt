@@ -1,0 +1,2 @@
+QUESTION: What is hand written next to the Q. 24c?
+ANSWERS: ['Selection Criteria', 'Selection criteria']

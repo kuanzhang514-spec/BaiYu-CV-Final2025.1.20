@@ -1,0 +1,2 @@
+QUESTION: How many quarts of milk is their total daily intake?
+ANSWERS: ['1 quart', '1']

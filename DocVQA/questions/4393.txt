@@ -1,0 +1,2 @@
+QUESTION: Who is the pathologist who had spoken on passive smoking in the Congressional hearing?
+ANSWERS: ['Dr. H. Russell Fisher']

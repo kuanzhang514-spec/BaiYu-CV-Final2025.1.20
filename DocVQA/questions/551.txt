@@ -1,0 +1,2 @@
+QUESTION: Was the first treatment effective?
+ANSWERS: ['yes', 'Yes']

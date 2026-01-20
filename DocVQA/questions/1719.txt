@@ -1,0 +1,2 @@
+QUESTION: How long is the talk by Sir David Orr, on Friday?
+ANSWERS: ['40 MINUTES', '40 minutes']

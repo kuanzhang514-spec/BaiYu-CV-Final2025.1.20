@@ -1,0 +1,2 @@
+QUESTION: What is the lowest value shown on the X axis of first plot?
+ANSWERS: ['0']

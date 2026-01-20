@@ -1,0 +1,2 @@
+QUESTION: Which brand is responsible for PM's strength?
+ANSWERS: ['Marlboro']

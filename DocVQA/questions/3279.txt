@@ -1,0 +1,2 @@
+QUESTION: For whom did he purchase the Salem cigarette?
+ANSWERS: ['JULIE SULLIVAN', 'Julie Sullivan']

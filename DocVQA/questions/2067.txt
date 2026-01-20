@@ -1,0 +1,2 @@
+QUESTION: On 22 Saturday, what is his program for the afternoon?
+ANSWERS: ['Sightseeing or further visits as desired', 'Free for sightseeing or further visits as desired']

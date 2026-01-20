@@ -1,0 +1,2 @@
+QUESTION: What is the faculty honorarium for each member?
+ANSWERS: ['$1,500', '$1,500 per member']

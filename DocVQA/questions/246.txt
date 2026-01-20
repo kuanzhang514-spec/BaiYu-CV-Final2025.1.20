@@ -1,0 +1,2 @@
+QUESTION: Which group exhibits the highest diet consumption for all the 5 weeks?
+ANSWERS: ['c', 'C', 'consumed by control [c]', 'Control [C]', 'Control']

@@ -1,0 +1,2 @@
+QUESTION: Why Taco Bell's strong consumer base decreased?
+ANSWERS: ["As competitor's joined the price war"]

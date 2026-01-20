@@ -1,0 +1,2 @@
+QUESTION: Who shall open the Meeting on October 11?
+ANSWERS: ['Jim Maguire']

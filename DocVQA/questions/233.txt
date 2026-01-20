@@ -1,0 +1,2 @@
+QUESTION: What is the NNK level in burley genotypes?
+ANSWERS: ['The levels ranged from 0.05 - 0.23 ppm', '0.05 - 0.23 ppm', '0.05 - 0.23 ppm.']

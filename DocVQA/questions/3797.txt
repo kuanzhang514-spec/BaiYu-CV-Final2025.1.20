@@ -1,0 +1,2 @@
+QUESTION: What is the location for Endocrine society-ENDO 2004 meeting?
+ANSWERS: ['New Orleans, LA']

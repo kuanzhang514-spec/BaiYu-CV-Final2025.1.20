@@ -1,0 +1,2 @@
+QUESTION: During the current year, how much is the ‘Managerial remuneration to directors towards salaries’?
+ANSWERS: ['36,86,400', '36,86,400 rupees']

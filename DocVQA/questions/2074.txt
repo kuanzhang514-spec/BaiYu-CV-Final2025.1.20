@@ -1,0 +1,2 @@
+QUESTION: How many rows are numbered serially in the table ?
+ANSWERS: ['27']

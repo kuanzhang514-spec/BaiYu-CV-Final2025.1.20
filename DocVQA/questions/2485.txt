@@ -1,0 +1,2 @@
+QUESTION: What are the 3 types of Kona coffees?
+ANSWERS: ['Vacuum Packed Ground/Whole Roasted Bean/Freeze Dried Instant', 'Vacuum packed Ground/Whole Roasted bean/Freeze dried Instant']

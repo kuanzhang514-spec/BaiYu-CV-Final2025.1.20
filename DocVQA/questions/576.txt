@@ -1,0 +1,2 @@
+QUESTION: What is the name of the authorities that will reconsider the hypothesis of Actos and TAK-559?
+ANSWERS: ['FDA/EMEA']

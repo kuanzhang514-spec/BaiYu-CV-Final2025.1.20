@@ -1,0 +1,2 @@
+QUESTION: What does 2 stand for?
+ANSWERS: ['Middle 60% of scores']

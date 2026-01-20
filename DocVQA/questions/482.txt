@@ -1,0 +1,2 @@
+QUESTION: Who wrote the letter?
+ANSWERS: ['G. L. K. Hunter']

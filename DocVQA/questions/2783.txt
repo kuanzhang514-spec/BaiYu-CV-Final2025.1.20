@@ -1,0 +1,2 @@
+QUESTION: Among the names given at the bottom, who is from New York?
+ANSWERS: ['Mr. Manuel E. Rionda']

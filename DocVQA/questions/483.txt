@@ -1,0 +1,2 @@
+QUESTION: Who is cc'ed in the letter?
+ANSWERS: ['Dr. D. S. Bhatia']

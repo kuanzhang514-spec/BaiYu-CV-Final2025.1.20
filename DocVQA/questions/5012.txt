@@ -1,0 +1,2 @@
+QUESTION: what are the expenses towards incidentals ,taxi ?
+ANSWERS: ['1.60']

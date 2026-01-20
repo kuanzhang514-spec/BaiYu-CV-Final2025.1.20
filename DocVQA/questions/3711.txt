@@ -1,0 +1,2 @@
+QUESTION: How much Fleming got for ‘category number 5,Nutrition ’?
+ANSWERS: ['2']

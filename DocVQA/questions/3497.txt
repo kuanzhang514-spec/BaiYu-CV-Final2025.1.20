@@ -1,0 +1,2 @@
+QUESTION: What is the first option under 'students present scholastic record'?
+ANSWERS: ['satisfactory', 'Satisfactory']

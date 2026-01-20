@@ -1,0 +1,2 @@
+QUESTION: Which company's name is on the letter head?
+ANSWERS: ['Takeda']

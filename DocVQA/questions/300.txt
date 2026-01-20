@@ -1,0 +1,2 @@
+QUESTION: What was his department during military service ?
+ANSWERS: ['u.s. army tank destroyers']

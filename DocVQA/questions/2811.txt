@@ -1,0 +1,2 @@
+QUESTION: Which material ‘specifications’ is given?
+ANSWERS: ['GLYCERINE/GLYCOL', 'Glycerine/glycol']

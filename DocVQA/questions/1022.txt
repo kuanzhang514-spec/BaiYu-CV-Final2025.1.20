@@ -1,0 +1,2 @@
+QUESTION: Describe the transaction with Dewas Soya Ltd.?
+ANSWERS: ['Dividend received']

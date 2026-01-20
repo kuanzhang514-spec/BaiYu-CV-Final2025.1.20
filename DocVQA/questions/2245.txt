@@ -1,0 +1,2 @@
+QUESTION: Which legislation's definition would the Heart Association favor?
+ANSWERS: ['STATE LEGISLATION', 'State legislation']

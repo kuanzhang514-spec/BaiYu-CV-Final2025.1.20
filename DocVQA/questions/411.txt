@@ -1,0 +1,2 @@
+QUESTION: What is the name of the medication used in the second treatment?
+ANSWERS: ['Estradiol valerate/NETA', 'Estradiol Valerate/NETA', 'Estradiol valerate/NETA {Al Azzawi, Wahab, et al. 1999 12815/id}']

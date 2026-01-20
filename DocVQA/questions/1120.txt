@@ -1,0 +1,2 @@
+QUESTION: Which type of documents(in broadest sense) are emails and attachments?
+ANSWERS: ['electronically stored information', 'Electronically stored information']

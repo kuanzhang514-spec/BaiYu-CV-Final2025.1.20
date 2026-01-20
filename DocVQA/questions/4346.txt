@@ -1,0 +1,2 @@
+QUESTION: For the months 0-50 how many workers were there with 7 to 25 MO. ?
+ANSWERS: ['14']

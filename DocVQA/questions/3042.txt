@@ -1,0 +1,2 @@
+QUESTION: What is the Effective Date?
+ANSWERS: ['3-28-2001']

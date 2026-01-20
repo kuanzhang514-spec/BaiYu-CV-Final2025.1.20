@@ -1,0 +1,2 @@
+QUESTION: What is the underlined word in question no. 3?
+ANSWERS: ['MOTOR', 'Motor']

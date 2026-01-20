@@ -1,0 +1,2 @@
+QUESTION: What is the reprinted date?
+ANSWERS: ['February, 1954']

@@ -1,0 +1,2 @@
+QUESTION: What type of data is it?
+ANSWERS: ['preliminary data', 'Preliminary data']

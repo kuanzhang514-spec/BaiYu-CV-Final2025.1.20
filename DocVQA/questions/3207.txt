@@ -1,0 +1,2 @@
+QUESTION: What is the ‘salary’ of B. Levine,Ph.D.?
+ANSWERS: ['15,803', '$15,803']

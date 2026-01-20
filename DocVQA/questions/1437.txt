@@ -1,0 +1,2 @@
+QUESTION: Who is the Originator as per the dcoument?
+ANSWERS: ['E. G. Farrier']

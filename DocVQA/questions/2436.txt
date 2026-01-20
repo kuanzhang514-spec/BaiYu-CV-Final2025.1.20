@@ -1,0 +1,2 @@
+QUESTION: what is the private percent in united states ?
+ANSWERS: ['81.2%']

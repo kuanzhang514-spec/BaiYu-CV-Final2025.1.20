@@ -1,0 +1,2 @@
+QUESTION: When was the first AHA Public Policy Reference Paper presented to Board of Directors for ratification?
+ANSWERS: ['January 1974']

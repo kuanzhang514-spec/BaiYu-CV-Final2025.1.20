@@ -1,0 +1,2 @@
+QUESTION: What is the TOTAL QUOTATION amount of "Weekly Activity Report" in $?
+ANSWERS: ['270.00']

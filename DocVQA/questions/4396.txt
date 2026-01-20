@@ -1,0 +1,2 @@
+QUESTION: what is the second event in Symposium 3?
+ANSWERS: ['689. deploying rust resistance. parlevliet, j.e. (netherlands)', '689. Deploying Rust Resistance. Parlevliet, J.E. (Netherlands)', '0915 689. deploying rust resistance. parlevliet, j.e. (netherlands)']

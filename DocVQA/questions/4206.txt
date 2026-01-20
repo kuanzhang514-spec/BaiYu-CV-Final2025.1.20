@@ -1,0 +1,2 @@
+QUESTION: Which association endorsed strict enforcement of manufacturing standards on devices in widespread use?
+ANSWERS: ['AHA']

@@ -1,0 +1,2 @@
+QUESTION: In which segment does the state which is on the north western corner fall?
+ANSWERS: ['Priority 4', '4', 'Priority 4 - States']

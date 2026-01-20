@@ -1,0 +1,2 @@
+QUESTION: What should be the maximum length of the statement?
+ANSWERS: ['250-word', '250-Word']

@@ -1,0 +1,2 @@
+QUESTION: What is Mr. McCoy's date of birth ?
+ANSWERS: ['march 22, 1921', 'March 22, 1921']

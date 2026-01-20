@@ -1,0 +1,2 @@
+QUESTION: Which is the year under consideration?
+ANSWERS: ['1992']

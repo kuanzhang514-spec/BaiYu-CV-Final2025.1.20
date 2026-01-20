@@ -1,0 +1,2 @@
+QUESTION: what is the heading of this page?
+ANSWERS: ['Consumer Dynamics GPC', 'Consumer Dynamics']

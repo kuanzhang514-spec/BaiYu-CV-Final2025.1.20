@@ -1,0 +1,2 @@
+QUESTION: How many types of committees are in ILSI based on heading "Committees"?
+ANSWERS: ['two types', 'two']

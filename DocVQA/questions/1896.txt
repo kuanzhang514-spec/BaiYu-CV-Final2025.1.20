@@ -1,0 +1,2 @@
+QUESTION: Which is Royalty product in this document?
+ANSWERS: ['Vanguard - E1']

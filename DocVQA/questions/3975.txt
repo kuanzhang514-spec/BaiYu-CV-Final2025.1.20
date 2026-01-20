@@ -1,0 +1,2 @@
+QUESTION: Who has signed the letter?
+ANSWERS: ['leon gutterman', 'Leon Gutterman', 'president and publisher']

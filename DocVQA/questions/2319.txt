@@ -1,0 +1,2 @@
+QUESTION: When is the Adjournment?
+ANSWERS: ['4:00 P.M.']

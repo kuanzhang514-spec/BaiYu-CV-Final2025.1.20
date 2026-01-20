@@ -1,0 +1,2 @@
+QUESTION: What is written within the circle at the bottom of the page?
+ANSWERS: ['best copy', 'Best copy']

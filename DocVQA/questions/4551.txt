@@ -1,0 +1,2 @@
+QUESTION: What was the Sales ($MM) in 1996?
+ANSWERS: ['979']

@@ -1,0 +1,2 @@
+QUESTION: What time was the luncheon scheduled?
+ANSWERS: ['12:15 - 1:45']

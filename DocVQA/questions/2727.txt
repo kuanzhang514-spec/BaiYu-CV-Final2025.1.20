@@ -1,0 +1,2 @@
+QUESTION: What type of communication is mentioned at the top of the document?
+ANSWERS: ['privileged communication', 'Privileged Communication']

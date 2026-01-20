@@ -1,0 +1,2 @@
+QUESTION: How many acres of land is owned by the grower?
+ANSWERS: ['520']

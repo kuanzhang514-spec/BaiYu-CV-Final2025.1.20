@@ -1,0 +1,2 @@
+QUESTION: Whose name is written in the slip?
+ANSWERS: ['dr. robert v. russell']

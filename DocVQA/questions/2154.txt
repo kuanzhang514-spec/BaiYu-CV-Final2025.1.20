@@ -1,0 +1,2 @@
+QUESTION: What type of card is this film/barcode positive only used for printing?
+ANSWERS: ['Postcards', 'Postcards only']

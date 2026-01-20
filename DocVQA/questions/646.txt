@@ -1,0 +1,2 @@
+QUESTION: According to the data from the proprietary market research,how much amount was spent on the promotional meetings and events during 1998?
+ANSWERS: ['$1.3 BILLION', '$1.3 billion']

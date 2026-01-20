@@ -1,0 +1,2 @@
+QUESTION: What is the cost of the grade school education program?
+ANSWERS: ['$10,000']

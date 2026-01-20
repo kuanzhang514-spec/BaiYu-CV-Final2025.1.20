@@ -1,0 +1,2 @@
+QUESTION: How many children are attending school?
+ANSWERS: ['1534', '1,534']

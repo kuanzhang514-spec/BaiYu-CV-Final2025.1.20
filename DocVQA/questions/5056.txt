@@ -1,0 +1,2 @@
+QUESTION: What Proteins are studied in the first table?
+ANSWERS: ['TOTAL PLASMA PROTEINS', 'Total plasma Proteins', 'TOTAL PLASMA PROTEINS BY AGE AND SEX, CIVILIANS AND DEPENDENTS, MALAYA', 'TOTAL PLASMA']

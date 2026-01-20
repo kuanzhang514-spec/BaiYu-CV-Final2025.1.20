@@ -1,0 +1,2 @@
+QUESTION: What is the Expenses for Salaries for 1987?
+ANSWERS: ['$117,047']

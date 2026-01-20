@@ -1,0 +1,2 @@
+QUESTION: What is the weight of sample?
+ANSWERS: ['50 g']

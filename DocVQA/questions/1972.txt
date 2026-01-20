@@ -1,0 +1,2 @@
+QUESTION: Which was CLAUD T.CARNEY’s grammar school?
+ANSWERS: ['hill city, kansas', 'Hill city, Kansas']

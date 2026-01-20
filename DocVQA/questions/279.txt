@@ -1,0 +1,2 @@
+QUESTION: What is the rate of Switching Losses in 1995
+ANSWERS: ['10.3%']

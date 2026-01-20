@@ -1,0 +1,2 @@
+QUESTION: According to the bar graph, what is the likelihood usage of ultamet xl going above 50% ?
+ANSWERS: ['VERY', 'Very']

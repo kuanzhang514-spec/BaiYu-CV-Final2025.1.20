@@ -1,0 +1,2 @@
+QUESTION: According to the bar graph, which version ( 'vs') has the lowest  percentage of total platform unit growth?
+ANSWERS: ['vs. 04']

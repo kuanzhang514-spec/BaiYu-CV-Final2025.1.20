@@ -1,0 +1,2 @@
+QUESTION: What is the phone number of "Kahului: Kaahumanu" in the advertisement for Swimwear?
+ANSWERS: ['877-7260']

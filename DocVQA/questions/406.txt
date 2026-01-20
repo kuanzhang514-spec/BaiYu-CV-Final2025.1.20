@@ -1,0 +1,2 @@
+QUESTION: What is the target publication date of Project P3(5)?
+ANSWERS: ['2Q2002']

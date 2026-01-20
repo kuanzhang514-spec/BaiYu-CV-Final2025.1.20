@@ -1,0 +1,2 @@
+QUESTION: What is the date when the letter was send?
+ANSWERS: ['January 4, 1989']

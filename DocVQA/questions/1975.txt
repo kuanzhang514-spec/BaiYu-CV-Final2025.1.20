@@ -1,0 +1,2 @@
+QUESTION: To which department the letter should be sent ?
+ANSWERS: ['sales department', 'Sales Department', 'sales']

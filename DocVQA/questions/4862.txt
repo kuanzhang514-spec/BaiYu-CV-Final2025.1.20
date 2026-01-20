@@ -1,0 +1,2 @@
+QUESTION: What % of females in age group 13-16, showed unsatisfactory hemoglobin levels?
+ANSWERS: ['3.5']

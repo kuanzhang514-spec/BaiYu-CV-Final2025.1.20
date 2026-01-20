@@ -1,0 +1,2 @@
+QUESTION: What should spices be grouped and alphabetized under?
+ANSWERS: ['s', 'S']

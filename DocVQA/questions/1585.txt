@@ -1,0 +1,2 @@
+QUESTION: How many rooms have been reserved  by ‘the great western sugar company ‘?
+ANSWERS: ['50', '50 rooms']

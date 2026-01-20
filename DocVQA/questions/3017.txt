@@ -1,0 +1,2 @@
+QUESTION: What is the Regimen D "n" value for Days 3.1-4?
+ANSWERS: ['36']

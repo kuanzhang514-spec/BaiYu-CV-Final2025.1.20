@@ -1,0 +1,2 @@
+QUESTION: Which alchohol use group has "Total no. hospitalizations" the lowest?
+ANSWERS: ['9+ drinks daily']

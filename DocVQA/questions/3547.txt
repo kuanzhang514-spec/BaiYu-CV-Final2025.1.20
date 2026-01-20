@@ -1,0 +1,2 @@
+QUESTION: Which is the article in first quarter of 1998, in  "Seminars in Oncology" journal?
+ANSWERS: ['Relative vs. Absolute Risk in Breast Cancer']

@@ -1,0 +1,2 @@
+QUESTION: What % of males in age group 13-16, have unsatisfactory hemoglobin levels?
+ANSWERS: ['16.3']

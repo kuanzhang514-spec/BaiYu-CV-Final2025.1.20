@@ -1,0 +1,2 @@
+QUESTION: what is the 'sales to customers' in 2010?
+ANSWERS: ['$ 61,587', '61,587']

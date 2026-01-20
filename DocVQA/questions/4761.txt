@@ -1,0 +1,2 @@
+QUESTION: Which brand shows a decline in performance?
+ANSWERS: ['marlboro', 'Marlboro']

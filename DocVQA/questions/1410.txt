@@ -1,0 +1,2 @@
+QUESTION: Which date's agenda is this?
+ANSWERS: ['november 24, 1969']

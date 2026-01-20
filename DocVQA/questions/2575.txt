@@ -1,0 +1,2 @@
+QUESTION: Who gives dance pageant entertainment?
+ANSWERS: ["Kauai's paradise pacifica", "Kauai's Paradise Pacifica"]

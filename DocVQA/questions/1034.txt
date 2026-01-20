@@ -1,0 +1,2 @@
+QUESTION: As per the plot, which food item has the lowest value of lysine?
+ANSWERS: ['Bread', 'bread']

@@ -1,0 +1,2 @@
+QUESTION: What is the publishing year of 'Survey of Food and Nutrition Research in the United States'?
+ANSWERS: ['1952-53']

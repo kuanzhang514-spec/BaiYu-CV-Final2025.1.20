@@ -1,0 +1,2 @@
+QUESTION: Who is playing the title role in Verdi's Otello?
+ANSWERS: ['Jon Vickers']

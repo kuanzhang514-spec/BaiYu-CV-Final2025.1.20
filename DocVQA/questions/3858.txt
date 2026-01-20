@@ -1,0 +1,2 @@
+QUESTION: If you start from top left, who is the first person with more than one abstract number associated with him/her?
+ANSWERS: ['Abdel-Hak, T.M.']

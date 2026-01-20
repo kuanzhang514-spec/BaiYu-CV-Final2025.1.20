@@ -1,0 +1,2 @@
+QUESTION: Which hotel’s bill is given?
+ANSWERS: ['DELMONICO’S Hotel', "delmonico's hotel"]

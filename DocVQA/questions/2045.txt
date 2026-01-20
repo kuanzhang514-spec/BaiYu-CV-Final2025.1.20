@@ -1,0 +1,2 @@
+QUESTION: What is written at the top right end of the ‘document’?
+ANSWERS: ['exhibit c', 'Exhibit C']

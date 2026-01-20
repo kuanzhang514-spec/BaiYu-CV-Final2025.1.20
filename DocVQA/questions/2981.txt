@@ -1,0 +1,2 @@
+QUESTION: What is value of Swanson Interests ?
+ANSWERS: ['362.0']

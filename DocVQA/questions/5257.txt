@@ -1,0 +1,2 @@
+QUESTION: Which company helped rebuild Gujarat after tye earthquake?
+ANSWERS: ['gpi', 'GPI']

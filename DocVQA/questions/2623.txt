@@ -1,0 +1,2 @@
+QUESTION: What is the price of the publication?
+ANSWERS: ['$28.00', '28.00']

@@ -1,0 +1,2 @@
+QUESTION: How much is the dollar value?
+ANSWERS: ['485.72']

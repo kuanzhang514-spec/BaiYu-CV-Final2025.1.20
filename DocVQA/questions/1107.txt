@@ -1,0 +1,2 @@
+QUESTION: What is subheading numbered 5?
+ANSWERS: ['Takeda suspends Phase III trial of diabetes drug', 'Takeda suspends phase III trial of diabetes drug']

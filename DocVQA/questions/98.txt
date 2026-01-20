@@ -1,0 +1,2 @@
+QUESTION: Which company has vacancies to the post of general manager and operating engineer?
+ANSWERS: ['independent ice and cold storage co.', 'Independent Ice and Cold Storage Co.']

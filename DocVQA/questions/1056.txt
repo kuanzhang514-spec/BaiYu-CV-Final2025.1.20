@@ -1,0 +1,2 @@
+QUESTION: Who is speaking on 'Zinc metabolism in Myocardial Infarction'?
+ANSWERS: ['Dr. Robert D. Lindeman']

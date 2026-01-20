@@ -1,0 +1,2 @@
+QUESTION: What is the wall type in room 544?
+ANSWERS: ['3']

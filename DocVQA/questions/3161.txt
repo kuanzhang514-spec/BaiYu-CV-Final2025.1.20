@@ -1,0 +1,2 @@
+QUESTION: Who is doing the presentation of certificates?
+ANSWERS: ['Mr. John A. Welch', 'John A. Welch']

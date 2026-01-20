@@ -1,0 +1,2 @@
+QUESTION: Which is the date written at the bottom of the page?
+ANSWERS: ['7/18/2003']

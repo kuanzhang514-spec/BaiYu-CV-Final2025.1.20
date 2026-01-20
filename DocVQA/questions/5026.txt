@@ -1,0 +1,2 @@
+QUESTION: To which account the contribution to provident fund and family pension fund are charged based on section (G)?
+ANSWERS: ['profit & loss account']

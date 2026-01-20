@@ -1,0 +1,2 @@
+QUESTION: What does CEI stands for?
+ANSWERS: ['COMPETITIVE ENTERPRISE INSTITUTE', 'Competitive Enterprise Institute']

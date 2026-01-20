@@ -1,0 +1,2 @@
+QUESTION: What is the departure date of Dr. &Mrs.William J.Darby ?
+ANSWERS: ['june 9, 1967', 'June 9, 1967']

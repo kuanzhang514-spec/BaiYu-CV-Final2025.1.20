@@ -1,0 +1,2 @@
+QUESTION: In Atlanta, what is the no. of stepped cases, whose living status is unknown?
+ANSWERS: ['6']

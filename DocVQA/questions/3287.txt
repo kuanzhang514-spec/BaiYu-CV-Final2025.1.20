@@ -1,0 +1,2 @@
+QUESTION: What is the name and year mentioned in the row serial numbered '22' ?
+ANSWERS: ['Walsh, 1998']

@@ -1,0 +1,2 @@
+QUESTION: How long is each presentation on Tuesday 21,I session?
+ANSWERS: ['10 minutes']

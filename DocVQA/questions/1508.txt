@@ -1,0 +1,2 @@
+QUESTION: what is the total number of 'hours of work' ?
+ANSWERS: ['36', '36 hours', '36 hours of work']

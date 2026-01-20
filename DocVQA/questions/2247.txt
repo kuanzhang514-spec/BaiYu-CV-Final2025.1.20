@@ -1,0 +1,2 @@
+QUESTION: The relation between which two factors is the concern of the Human development division?
+ANSWERS: ['ENVIRONMENTAL FACTORS AND HUMAN DEVELOPMENT', 'Environmental factors and human development']

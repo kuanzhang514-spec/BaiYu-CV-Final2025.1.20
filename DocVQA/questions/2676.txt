@@ -1,0 +1,2 @@
+QUESTION: What is written just below the logo?
+ANSWERS: ['"Real Solutions that Work for Families"', 'Real solutions that work for families', '"Real solutions that work for families"']

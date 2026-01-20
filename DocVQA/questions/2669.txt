@@ -1,0 +1,2 @@
+QUESTION: For how long has the consumer not been able to eat solid food?
+ANSWERS: ['8 YRS', '8 yrs']

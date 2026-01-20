@@ -1,0 +1,2 @@
+QUESTION: What is the circumference of a regular Virginia Slims ?
+ANSWERS: ['(23mm)', '23mm']

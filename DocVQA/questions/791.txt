@@ -1,0 +1,2 @@
+QUESTION: What is the name of royalty product?
+ANSWERS: ['vanguard knee components', 'Vanguard Knee components']

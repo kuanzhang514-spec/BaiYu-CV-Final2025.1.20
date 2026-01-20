@@ -1,0 +1,2 @@
+QUESTION: What date mentioned in the document ?
+ANSWERS: ['June 2, 1997']

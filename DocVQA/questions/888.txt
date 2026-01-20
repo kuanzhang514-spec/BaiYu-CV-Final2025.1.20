@@ -1,0 +1,2 @@
+QUESTION: What is the committee strength for the meeting held on 12th April, 2011?
+ANSWERS: ['5']

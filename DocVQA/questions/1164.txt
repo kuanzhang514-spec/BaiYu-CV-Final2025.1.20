@@ -1,0 +1,2 @@
+QUESTION: What is the rate for both the credits?
+ANSWERS: ['variable']

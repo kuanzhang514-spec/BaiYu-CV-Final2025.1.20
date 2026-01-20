@@ -1,0 +1,2 @@
+QUESTION: What is the Surgeon General's warning?
+ANSWERS: ['cigarette smoke contains carbon monoxide.', 'Cigarette smoke contains Carbon monoxide']

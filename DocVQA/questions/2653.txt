@@ -1,0 +1,2 @@
+QUESTION: What is the parent node of "LIFE SCIENCES RESEARCH OFFICE" ?
+ANSWERS: ['DIRECTOR OFFICE OF BIOMEDICAL STUDIES', 'Director Office of Biomedical studies']

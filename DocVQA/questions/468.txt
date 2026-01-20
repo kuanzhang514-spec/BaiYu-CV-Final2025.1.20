@@ -1,0 +1,2 @@
+QUESTION: What is the time mentioned in the fax?
+ANSWERS: ['8:45 EST']

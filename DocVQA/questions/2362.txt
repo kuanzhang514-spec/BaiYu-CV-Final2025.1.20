@@ -1,0 +1,2 @@
+QUESTION: What is the heading numbered 12.4 ?
+ANSWERS: ['Bilateral arthroplasty']

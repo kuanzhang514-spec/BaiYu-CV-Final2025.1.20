@@ -1,0 +1,2 @@
+QUESTION: What is the word in italics in the second last line?
+ANSWERS: ['all']

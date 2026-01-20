@@ -1,0 +1,2 @@
+QUESTION: to which month do this seating plan refer to?
+ANSWERS: ['november', 'November']

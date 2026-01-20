@@ -1,0 +1,2 @@
+QUESTION: What is the department?
+ANSWERS: ['Department of health, education and welfare', 'Department of Health, Education, and welfare', 'health, education and welfare']

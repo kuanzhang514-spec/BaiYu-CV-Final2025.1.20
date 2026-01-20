@@ -1,0 +1,2 @@
+QUESTION: What is cumulative increase in weight ( in grams) for "GROUP C" in third week ( give an approximate value) ?
+ANSWERS: ['300']

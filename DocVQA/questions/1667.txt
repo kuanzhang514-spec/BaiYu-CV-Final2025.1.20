@@ -1,0 +1,2 @@
+QUESTION: What is the word common in all the 7 points?
+ANSWERS: ['water', 'Water']

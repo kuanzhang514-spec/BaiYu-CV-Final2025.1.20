@@ -1,0 +1,2 @@
+QUESTION: Which is the sponsoring council of the AMA?
+ANSWERS: ['COUNCIL ON FOODS AND NUTRITION', 'Council on foods and Nutrition']

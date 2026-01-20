@@ -1,0 +1,2 @@
+QUESTION: Who is the letter addressed to ?
+ANSWERS: ['SHANK, ROBERT E.', 'Shank, Robert E.', 'SHANK, ROBERT E. MD']

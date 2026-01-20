@@ -1,0 +1,2 @@
+QUESTION: Which country's document is this based on the "Printed" details at the footer?
+ANSWERS: ['U.S.A.']

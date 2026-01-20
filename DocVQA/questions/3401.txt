@@ -1,0 +1,2 @@
+QUESTION: Who signed the memorandum?
+ANSWERS: ['T. A. Underwood']

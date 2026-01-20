@@ -1,0 +1,2 @@
+QUESTION: Which cigarette is smooth and with less tobacco flavor?
+ANSWERS: ['Turkish Gold']

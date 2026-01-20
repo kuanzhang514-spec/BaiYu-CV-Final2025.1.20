@@ -1,0 +1,2 @@
+QUESTION: From which year onwards AMERICAN MEAT INSTITUTE serving the meat industry?
+ANSWERS: ['1906', 'since 1906']

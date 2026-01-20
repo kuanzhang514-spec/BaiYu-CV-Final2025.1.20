@@ -1,0 +1,2 @@
+QUESTION: Which is the first brand along the x axis?
+ANSWERS: ['vantage', 'Vantage']

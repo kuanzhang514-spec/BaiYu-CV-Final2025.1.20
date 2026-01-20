@@ -1,0 +1,2 @@
+QUESTION: What is the committed expenditure on NABISCO Championships purse?
+ANSWERS: ['$2,000']

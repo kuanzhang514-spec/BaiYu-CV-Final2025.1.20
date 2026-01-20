@@ -1,0 +1,2 @@
+QUESTION: What does ECF denote?
+ANSWERS: ['Elemental Chlorine Free', 'Elemental Chlorine free']

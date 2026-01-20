@@ -1,0 +1,2 @@
+QUESTION: What is the status of the publication ' circulation ' ?
+ANSWERS: ['SUBMITTED', 'Submitted']

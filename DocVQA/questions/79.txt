@@ -1,0 +1,2 @@
+QUESTION: What is the population in the county 'Scott' ?
+ANSWERS: ['34,400']

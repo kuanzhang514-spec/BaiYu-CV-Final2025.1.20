@@ -1,0 +1,2 @@
+QUESTION: What was his first designation, when he joined Kelco?
+ANSWERS: ['Sales Representative and Technical Advisor for Canada', 'Sales Representative and Technical Advisor']

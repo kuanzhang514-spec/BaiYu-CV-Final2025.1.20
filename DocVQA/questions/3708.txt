@@ -1,0 +1,2 @@
+QUESTION: How much Densen got for ‘category number 1,biometrics’?
+ANSWERS: ['10']

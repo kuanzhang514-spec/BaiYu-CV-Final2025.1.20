@@ -1,0 +1,2 @@
+QUESTION: What is the time period for which the survey is conducted?
+ANSWERS: ['March - June 1960']

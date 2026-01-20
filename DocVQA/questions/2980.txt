@@ -1,0 +1,2 @@
+QUESTION: How many mg  of equilin is found in 0.625 mg tablet ?
+ANSWERS: ['0.168']

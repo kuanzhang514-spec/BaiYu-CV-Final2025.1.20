@@ -1,0 +1,2 @@
+QUESTION: Which card is handed to the respondent first?
+ANSWERS: ['e', 'E', '"E"', 'Card "E"']

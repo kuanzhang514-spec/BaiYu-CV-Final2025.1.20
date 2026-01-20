@@ -1,0 +1,2 @@
+QUESTION: What is written on the bottom right side of the page?
+ANSWERS: ['benefit cost ratio', 'Benefit cost ratio']

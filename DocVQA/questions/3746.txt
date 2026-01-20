@@ -1,0 +1,2 @@
+QUESTION: What is the exposure of ‘hamsters  (female)’?
+ANSWERS: ['35']

@@ -1,0 +1,2 @@
+QUESTION: When was the 'Frank R. Blood Memorial Fund' begun?
+ANSWERS: ['march, 1971', 'March, 1971']

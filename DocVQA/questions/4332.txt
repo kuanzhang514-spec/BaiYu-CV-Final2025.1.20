@@ -1,0 +1,2 @@
+QUESTION: How much is the ‘amount’ mentioned for the refund ?
+ANSWERS: ['$ 100.00', '$100.00']

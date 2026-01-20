@@ -1,0 +1,2 @@
+QUESTION: What is the state code for Missouri?
+ANSWERS: ['Mo', 'MO', 'Mo.']

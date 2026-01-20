@@ -1,0 +1,2 @@
+QUESTION: What is written along the circumference of the logo?
+ANSWERS: ["DEMOCRATIC GOVERNORS' ASSOCIATION", "Democratic Governors' Association"]

@@ -1,0 +1,2 @@
+QUESTION: What is the title of second plot?
+ANSWERS: ['Current vs time, control 6,grooved', 'CURRENT VS TIME']

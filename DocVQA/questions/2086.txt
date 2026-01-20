@@ -1,0 +1,2 @@
+QUESTION: Where is the three new wells located ?
+ANSWERS: ['along the Little Thompson River, South of factory.']

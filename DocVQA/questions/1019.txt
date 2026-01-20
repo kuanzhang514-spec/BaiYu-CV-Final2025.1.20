@@ -1,0 +1,2 @@
+QUESTION: What is written in the "Phone" field?
+ANSWERS: ['412-624-2600', '412 - 624 - 2600']

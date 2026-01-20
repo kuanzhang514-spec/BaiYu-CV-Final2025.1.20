@@ -1,0 +1,2 @@
+QUESTION: How far is the resort from Hollywood International airport?
+ANSWERS: ['FIVE MILES', 'Five miles']

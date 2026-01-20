@@ -1,0 +1,2 @@
+QUESTION: Which is the leading county  in  value of dairy products?
+ANSWERS: ['LOS ANGELES, CALIF', 'Los Angeles, Calif.']

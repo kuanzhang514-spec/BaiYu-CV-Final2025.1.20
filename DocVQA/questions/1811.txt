@@ -1,0 +1,2 @@
+QUESTION: What attribute is indicated in the Y-axis of 2nd  graph?
+ANSWERS: ['Current']

@@ -1,0 +1,2 @@
+QUESTION: What is the 'Related Party Transactions Summary' numbered 13?
+ANSWERS: ['Donation']

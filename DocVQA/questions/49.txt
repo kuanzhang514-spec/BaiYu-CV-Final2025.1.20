@@ -1,0 +1,2 @@
+QUESTION: What is the 'credo' of ITC Hotels?
+ANSWERS: ['Responsible Luxury', '"Responsible Luxury"']

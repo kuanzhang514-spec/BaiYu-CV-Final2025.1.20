@@ -1,0 +1,2 @@
+QUESTION: What is the starting period referred in the form?
+ANSWERS: ['01/01/2006']

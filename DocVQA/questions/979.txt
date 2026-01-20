@@ -1,0 +1,2 @@
+QUESTION: What is his height?
+ANSWERS: ['165 cm (5\'6")']

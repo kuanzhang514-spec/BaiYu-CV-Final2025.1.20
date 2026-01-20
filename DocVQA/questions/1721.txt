@@ -1,0 +1,2 @@
+QUESTION: What ‘time’ written on the slip?
+ANSWERS: ['12:50', '12.50']

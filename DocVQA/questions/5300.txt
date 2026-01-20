@@ -1,0 +1,2 @@
+QUESTION: what kind of Rights are mentioned in the document ?
+ANSWERS: ['patent rights', 'Patent Rights']

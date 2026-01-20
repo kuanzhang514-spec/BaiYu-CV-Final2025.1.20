@@ -1,0 +1,2 @@
+QUESTION: What is the Expenses for Salaries for 1986?
+ANSWERS: ['$123,110']

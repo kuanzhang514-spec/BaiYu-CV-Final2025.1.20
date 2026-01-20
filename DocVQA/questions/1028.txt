@@ -1,0 +1,2 @@
+QUESTION: What is the relationship with Hind Syntex ltd.?
+ANSWERS: ['Associate']

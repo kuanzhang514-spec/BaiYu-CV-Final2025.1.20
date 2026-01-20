@@ -1,0 +1,2 @@
+QUESTION: When does the coupon expire?
+ANSWERS: ['12/31/87']

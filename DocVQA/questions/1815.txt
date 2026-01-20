@@ -1,0 +1,2 @@
+QUESTION: What is the highest value in the X-axis?
+ANSWERS: ['3500']

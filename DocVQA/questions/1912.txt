@@ -1,0 +1,2 @@
+QUESTION: How much is 'Year-to-Date Sales'?
+ANSWERS: ['$13,519,151', '13,519,151']

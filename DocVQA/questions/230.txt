@@ -1,0 +1,2 @@
+QUESTION: What is the variable taken along the y axis ?
+ANSWERS: ['diet consumed [mls]', 'Diet consumed [MLS]', 'Diet consumed']

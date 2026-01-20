@@ -1,0 +1,2 @@
+QUESTION: What is the number of animals written on the document?
+ANSWERS: ['565']

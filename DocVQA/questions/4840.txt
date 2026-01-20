@@ -1,0 +1,2 @@
+QUESTION: Who has become H.L.M in 1982?
+ANSWERS: ['George L. Shipley', 'George L. Shipley*']

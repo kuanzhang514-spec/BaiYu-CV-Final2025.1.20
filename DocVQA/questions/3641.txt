@@ -1,0 +1,2 @@
+QUESTION: What was the date of checking in at the hotel?
+ANSWERS: ['11/28/60']

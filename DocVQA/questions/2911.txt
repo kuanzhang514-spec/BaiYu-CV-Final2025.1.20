@@ -1,0 +1,2 @@
+QUESTION: What is the Timing for the Journal "Pharmacy Times"?
+ANSWERS: ['4Q97']

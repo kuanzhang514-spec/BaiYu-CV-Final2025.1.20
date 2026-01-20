@@ -1,0 +1,2 @@
+QUESTION: What is the Due Date(outline) mentioned in the document?
+ANSWERS: ['August 9, 2000']

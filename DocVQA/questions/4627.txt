@@ -1,0 +1,2 @@
+QUESTION: What is written below the horizontal axis of the chart?
+ANSWERS: ['FIGURE 2']

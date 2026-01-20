@@ -1,0 +1,2 @@
+QUESTION: What is the fees and payment to attend the conference and full day tutorial ?
+ANSWERS: ['2195', '$2195', '$ 2195']

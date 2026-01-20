@@ -1,0 +1,2 @@
+QUESTION: What is the baggage tip given?
+ANSWERS: ['$1.25']

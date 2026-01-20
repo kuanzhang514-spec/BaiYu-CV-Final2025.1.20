@@ -1,0 +1,2 @@
+QUESTION: What is the 'conformance to specifications' for G-7-1?
+ANSWERS: ['99.00%']

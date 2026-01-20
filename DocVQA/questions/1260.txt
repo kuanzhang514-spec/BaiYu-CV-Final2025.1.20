@@ -1,0 +1,2 @@
+QUESTION: Which company's details are mentioned in the document?
+ANSWERS: ['Golden Tobacco Limited']

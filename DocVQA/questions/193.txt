@@ -1,0 +1,2 @@
+QUESTION: How much is the amount from 'Trusts' in $?
+ANSWERS: ['$ 7,265,516', '7,265,516']

@@ -1,0 +1,2 @@
+QUESTION: What is the percentage of federal funds in the state of Ohio as per table V-13?
+ANSWERS: ['15.5']

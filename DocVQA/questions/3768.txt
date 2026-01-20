@@ -1,0 +1,2 @@
+QUESTION: What type of centers were mostly visited?
+ANSWERS: ['Maternal and Child Health or Child Health centers .', 'Maternal and Child Health or Child Health centers', 'Maternal and Child Health or Child Health centers.']

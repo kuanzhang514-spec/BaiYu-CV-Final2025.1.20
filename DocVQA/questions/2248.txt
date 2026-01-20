@@ -1,0 +1,2 @@
+QUESTION: What does the note say?
+ANSWERS: ['PLEASE NOTE & ADVICE ME', 'Please note & advice me']

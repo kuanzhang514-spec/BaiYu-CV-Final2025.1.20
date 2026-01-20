@@ -1,0 +1,2 @@
+QUESTION: what is the sales in 2005?
+ANSWERS: ['415,582']

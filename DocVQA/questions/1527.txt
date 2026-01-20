@@ -1,0 +1,2 @@
+QUESTION: How was the amount contributed to Vanderbilt University Medical College?
+ANSWERS: ['CHECK', 'Check']

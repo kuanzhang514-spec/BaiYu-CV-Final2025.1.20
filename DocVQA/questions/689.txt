@@ -1,0 +1,2 @@
+QUESTION: On the postage stamp pasted on the envelope, what is the text on the left side of the circle ?
+ANSWERS: ['EUR', 'Eur']

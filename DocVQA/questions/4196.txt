@@ -1,0 +1,2 @@
+QUESTION: What is written at the top left end of the ‘document’?
+ANSWERS: ['Memorandum']

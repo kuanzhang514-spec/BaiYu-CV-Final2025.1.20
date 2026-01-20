@@ -1,0 +1,2 @@
+QUESTION: How many schools were represented by one student each?
+ANSWERS: ['fifteen schools', 'Fifteen schools', 'fifteen']

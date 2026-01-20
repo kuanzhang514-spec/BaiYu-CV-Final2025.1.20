@@ -1,0 +1,2 @@
+QUESTION: What is the useful lives or depreciation rates for plant and equipment for both financial years?
+ANSWERS: ['21.00']

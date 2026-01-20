@@ -1,0 +1,2 @@
+QUESTION: What is the page number printed at the bottom of the page?
+ANSWERS: ['1', 'page 1']

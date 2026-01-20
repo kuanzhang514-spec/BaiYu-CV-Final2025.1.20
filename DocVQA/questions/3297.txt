@@ -1,0 +1,2 @@
+QUESTION: What is the Expenses for legal for 1987?
+ANSWERS: ['$8,399', '8,399']

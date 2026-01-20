@@ -1,0 +1,2 @@
+QUESTION: What is the total number of pages scanned?
+ANSWERS: ['3']

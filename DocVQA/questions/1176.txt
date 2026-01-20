@@ -1,0 +1,2 @@
+QUESTION: What is written above 'ACTOS' ?
+ANSWERS: ['Always QD Power']

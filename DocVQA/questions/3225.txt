@@ -1,0 +1,2 @@
+QUESTION: What type of business document is this?
+ANSWERS: ['PURCHASE ORDER', 'Purchase Order']

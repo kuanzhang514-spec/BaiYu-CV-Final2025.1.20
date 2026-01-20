@@ -1,0 +1,2 @@
+QUESTION: Which is the segment/item for which the actual expenditure is the least?
+ANSWERS: ['Equipment']

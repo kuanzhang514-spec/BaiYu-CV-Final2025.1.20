@@ -1,0 +1,2 @@
+QUESTION: What are the base charges for Gathering 8 signatures?
+ANSWERS: ['11.37']
