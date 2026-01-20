@@ -1,0 +1,2 @@
+readme
+TextVQA DocVQA数据集的图片文件我又没上传，太大了，可以去huggingface下载
