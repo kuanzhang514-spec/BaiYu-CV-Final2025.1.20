@@ -12,7 +12,7 @@ TextVQA DocVQA数据集的图片文件我又没上传，太大了，可以去hug
 
 <img width="208" height="97" alt="image" src="https://github.com/user-attachments/assets/a998862e-d11b-48c5-bb0d-972ed7b70784" />
 
-所有的运行结果文件夹都应该有一个sam_segments 目录保存图片的证据图，我也没上传，太大了，获取可以联系1677251652@qq.com
+所有的运行结果文件夹都应该有一个sam_segments 目录保存图片的证据图，我也没上传，太大了，参考获取可以联系1677251652@qq.com
 
 <img width="1655" height="974" alt="image" src="https://github.com/user-attachments/assets/bb68bfc1-d5c4-49e4-aab3-a02de8afc8cf" />
 
