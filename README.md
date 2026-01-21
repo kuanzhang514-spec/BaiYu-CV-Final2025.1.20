@@ -1,13 +1,12 @@
 readme
-### 实验环境基于实验室服务器
+### 1.实验环境基于实验室服务器
 所有文件里的IP地址都被我隐藏了
 解耦服务端与请求端，服务端部署Qwen CLIP SAM模型并封装成restful接口，本地请求端只需要请求接口就能使用模型功能
 python 效率不好，后续可以使用java/go重写，并模型部署成微服务形式
 
-**图片样例在“样本样例”目录，包括了原图与证据图（SAM经Qwen回答坐标分割后的图像）**
+### **2.图片样例在“样本样例”目录，包括了原图与证据图（SAM经Qwen回答坐标分割后的图像）**
 
-
-### 没上传的图片文件说明：
+### 3.没上传的图片文件说明：
 TextVQA DocVQA数据集的图片文件我又没上传，太大了，可以去huggingface下载
 
 <img width="343" height="95" alt="image" src="https://github.com/user-attachments/assets/d9f005d7-a6a9-44ba-afc3-c666f9c719b1" />
