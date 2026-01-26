@@ -208,7 +208,7 @@ INFO:     192.168.10.102:51205 - "POST /clip/score HTTP/1.1" 200 OK
 
 ```bas
 (qwen3_local) C:\Users\kuanzhang\Desktop\courseB\fuwuqisanhaoji>python test_clip_win.py
-📡 正在连接服务器: 192.168.10.115...
+📡 正在连接服务器: 这是我的服务器IP地址，这里我隐藏了...
 
 🏆 最佳匹配: a photo of apple
   - a photo of cat: 相似度=0.1936
