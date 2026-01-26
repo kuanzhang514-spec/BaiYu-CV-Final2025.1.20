@@ -14,8 +14,8 @@ readme
 5.对比实验：无CLIP验证的闭环系统：main_experimentOfMyVQA4.py  \
 6.又重新设计了加速策略,使用多线程加速策略：main_experimentOfMyVQA55.py\
 6.又重新设计了加速策略,多级缓存加速策略：main_experimentOfMyVQA555.py \
-1. TextVQA 数据集实验 200个样本：main_experimentOfTextVQA.py \
-1. DocVQA 数据集实验随机 200个样本：main_experimentOfDocVQA.py 
+1.TextVQA 数据集实验 200个样本：main_experimentOfTextVQA.py \
+1.DocVQA 数据集实验随机 200个样本：main_experimentOfDocVQA.py 
 
 **测试文件：** \
 demo测试一下闭环方案行不行：main_vqa_loop.py     demo1.py   \
