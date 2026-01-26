@@ -11,7 +11,7 @@ readme
 1.基础闭环系统：main_experimentOfMyVQA.py \
 2.自适应阈值VQA闭环系统：main_experimentOfMyVQA11.py \
 4.基线系统（Qwen2-VL Only）：main_experimentOfMyVQA3.py \
-5.对比实验：无CLIP验证的闭环系统：main_experimentOfMyVQA4.py  \
+5.无CLIP验证的闭环系统：main_experimentOfMyVQA4.py  \
 6.又重新设计了加速策略,使用多线程加速策略：main_experimentOfMyVQA55.py\
 6.又重新设计了加速策略,多级缓存加速策略：main_experimentOfMyVQA555.py \
 1.TextVQA 数据集实验 200个样本：main_experimentOfTextVQA.py \
