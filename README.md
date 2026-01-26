@@ -1,7 +1,7 @@
 readme
 ### 1.实验环境基于实验室服务器,搭建配置模型的文档是服务器部署.md系列文档
-所有文件里的IP地址都被我隐藏了，
-解耦服务端与请求端，服务端部署Qwen CLIP SAM模型分别给封装成restful接口，本地请求端只需要请求接口就能使用模型功能，
+所有文件里的IP地址都被我隐藏了，模型分别部署到了互相独立的python环境中，
+考虑到解耦服务端与请求端，服务端部署Qwen CLIP SAM模型分别给封装成restful接口，本地请求端只需要请求接口就能使用模型功能，
 纯python接口效率不好，后续可以使用java/go重写接口并模型部署成微服务形式提高并发
 
 ### **2.图片样例在“样本样例”目录，包括了原图与证据图（SAM经Qwen回答坐标分割后的图像）**
@@ -25,7 +25,7 @@ demo测试一下闭环方案行不行：main_vqa_loop.py     demo1.py   \
 单独SAM方案二测试（我自己的）：client_sam copy.py 
 
 ### 4.没上传的图片文件说明：
-TextVQA DocVQA数据集的图片文件我又没上传，太大了，可以去huggingface下载
+TextVQA DocVQA数据集的图片文件没上传，太大了，可以去huggingface下载
 
 <img width="343" height="95" alt="image" src="https://github.com/user-attachments/assets/d9f005d7-a6a9-44ba-afc3-c666f9c719b1" />
 
